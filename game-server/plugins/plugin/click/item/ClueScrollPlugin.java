@@ -64,7 +64,7 @@ public class ClueScrollPlugin extends PluginContext {
 
             for (String announcement : ITEMS_ANNOUNCED) {
                 if (name.contains(announcement)) {
-                    World.sendMessage("<icon=12><col=5739B3> Harmony: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has received " + Utility.getAOrAn(name) + " <col=5739B3>" + name + " </col>from <col=5739B3>" + item.getName().toLowerCase() + "</col>.");
+                    World.sendMessage("<icon=12><col=5739B3> Tarnish: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has received " + Utility.getAOrAn(name) + " <col=5739B3>" + name + " </col>from <col=5739B3>" + item.getName().toLowerCase() + "</col>.");
                     DiscordPlugin.sendSimpleMessage(player.getName() + " has just received " + Utility.getAOrAn(name) + " " + name + " from " + item.getName().toLowerCase() + "!");
                 }
             }

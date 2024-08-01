@@ -193,7 +193,7 @@ public final class PlayerDeath extends MobDeath<Player> {
                 mob.right = PlayerRight.IRONMAN;
                 mob.updateFlags.add(UpdateFlag.APPEARANCE);
                 mob.send(new SendMessage("You have lost your hardcore iron man status since you died!"));
-                World.sendMessage("<icon=1> <col=FF0000>Harmony: <col=" + mob.right.getColor() + ">" + mob.getName() + "</col>'s hardcore iron man account was lost!");
+                World.sendMessage("<icon=1> <col=FF0000>Tarnish: <col=" + mob.right.getColor() + ">" + mob.getName() + "</col>'s hardcore iron man account was lost!");
             }
         }
 

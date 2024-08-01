@@ -162,7 +162,7 @@ public final class Starter implements Runnable {
             }
         }
 
-        logger.info("Harmony is running (client version " + Config.CLIENT_VERSION + ")");
+        logger.info("Tarnish is running (client version " + Config.CLIENT_VERSION + ")");
         logger.info(String.format("Game Engine=%s", Config.PARALLEL_GAME_ENGINE ? "Parallel" : "Sequential"));
         processSequentialStatupTasks();
         processParallelStatupTasks();

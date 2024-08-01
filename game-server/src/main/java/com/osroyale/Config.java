@@ -24,10 +24,10 @@ import java.util.Arrays;
 public final class Config {
 
     /** The latest announcement thread link. */
-    public static final String LATEST_ANNOUNCEMENT_THREAD = "https://harmonyrsps.com/";
+    public static final String LATEST_ANNOUNCEMENT_THREAD = "https://tarnishps.com/";
 
     /** The latest update thread link. */
-    public static final String LATEST_UPDATE_THREAD = "https://harmonyrsps.com/";
+    public static final String LATEST_UPDATE_THREAD = "https://tarnishps.com/";
 
     /** The welcome marquee. */
     public static final String[] WELCOME_MARQUEE = {
@@ -46,7 +46,7 @@ public final class Config {
     /** The welcome announcement. */
     public static final String[] WELCOME_ANNOUNCEMENT = {
             "Welcome!",
-            "Harmony is currently in it's",
+            "Tarnish is currently in it's",
             "early stages. We are only",
             "100 players until official",
             "launch!"
@@ -223,7 +223,7 @@ public final class Config {
 
     /** Messages that are sent periodically to all players. */
     public static final String[] MESSAGES = {
-            "Our website is located at: http://www.harmonyrsps.com/",
+            "Our website is located at: http://www.tarnishps.com/",
             "Feel free to join the (help) clan channel",
             "Add more security to your account by setting a bank pin.",
             "Have any ideas on how we could improve our gameplay? Post on forums!",

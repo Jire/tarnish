@@ -86,7 +86,7 @@ public final class World {
 
     /** Saves all the game data. */
     public static void save() {
-        System.out.println("Saving Harmony...");
+        System.out.println("Saving Tarnish...");
         get().players.forEach(PlayerSerializer::save);
         logger.info("All players were successfully saved.");
        /* GlobalRecords.save();

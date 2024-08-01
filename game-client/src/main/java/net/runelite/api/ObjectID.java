@@ -19513,7 +19513,7 @@ public final class ObjectID
 	public static final int SALVE_GRAVEYARD_PORTAL = 37586;
 	public static final int FENKENSTRAINS_CASTLE_PORTAL = 37587;
 	public static final int WEST_ARDOUGNE_PORTAL = 37588;
-	public static final int HARMONY_ISLAND_PORTAL = 37589;
+	public static final int TARNISH_ISLAND_PORTAL = 37589;
 	public static final int CEMETERY_PORTAL = 37590;
 	public static final int BARROWS_PORTAL = 37591;
 	public static final int APE_ATOLL_DUNGEON_PORTAL = 37592;
@@ -19525,7 +19525,7 @@ public final class ObjectID
 	public static final int SALVE_GRAVEYARD_PORTAL_37598 = 37598;
 	public static final int FENKENSTRAINS_CASTLE_PORTAL_37599 = 37599;
 	public static final int WEST_ARDOUGNE_PORTAL_37600 = 37600;
-	public static final int HARMONY_ISLAND_PORTAL_37601 = 37601;
+	public static final int TARNISH_ISLAND_PORTAL_37601 = 37601;
 	public static final int CEMETERY_PORTAL_37602 = 37602;
 	public static final int BARROWS_PORTAL_37603 = 37603;
 	public static final int APE_ATOLL_DUNGEON_PORTAL_37604 = 37604;
@@ -19537,7 +19537,7 @@ public final class ObjectID
 	public static final int SALVE_GRAVEYARD_PORTAL_37610 = 37610;
 	public static final int FENKENSTRAINS_CASTLE_PORTAL_37611 = 37611;
 	public static final int WEST_ARDOUGNE_PORTAL_37612 = 37612;
-	public static final int HARMONY_ISLAND_PORTAL_37613 = 37613;
+	public static final int TARNISH_ISLAND_PORTAL_37613 = 37613;
 	public static final int CEMETERY_PORTAL_37614 = 37614;
 	public static final int BARROWS_PORTAL_37615 = 37615;
 	public static final int APE_ATOLL_DUNGEON_PORTAL_37616 = 37616;

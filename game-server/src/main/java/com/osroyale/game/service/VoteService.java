@@ -59,7 +59,7 @@ public final class VoteService {
             } else {
                 AchievementHandler.activate(player, AchievementKey.VOTE);
                 player.dialogueFactory.sendStatement("Thank-you for your support, " + player.getName() + "!").execute();
-                World.sendMessage("<col=CF2192>Harmony: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has just voted! They have voted a total of <col=CF2192>" +  player.totalVotes + " </col>times.");
+                World.sendMessage("<col=CF2192>Tarnish: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has just voted! They have voted a total of <col=CF2192>" +  player.totalVotes + " </col>times.");
             }
         } catch (SQLException ex) {
             logger.error(String.format("Error claiming vote for player=%s", player.getName()), ex);

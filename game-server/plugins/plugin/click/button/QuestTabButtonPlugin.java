@@ -22,7 +22,7 @@ public class QuestTabButtonPlugin extends PluginContext {
                 return true;
 
             case -29404:
-                player.send(new SendURL("www.harmonyrsps.com"));
+                player.send(new SendURL("www.tarnishps.com"));
                 return true;
 
             case 29411:

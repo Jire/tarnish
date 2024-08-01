@@ -919,7 +919,7 @@ public enum Environment
 		.setGroundFog(0, -500, 0.5f)
 		.setUnderwater(true)
 	),
-	HARMONY_ISLAND_UNDERWATER_TUNNEL(Area.HARMONY_ISLAND_UNDERWATER_TUNNEL, new Properties()
+	TARNISH_ISLAND_UNDERWATER_TUNNEL(Area.TARNISH_ISLAND_UNDERWATER_TUNNEL, new Properties()
 		.setFogColor("#133156")
 		.setFogDepth(80)
 		.setAmbientStrength(2.0f)

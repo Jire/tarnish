@@ -508,7 +508,7 @@ public class PluginContext implements PlayerEventListener {
     protected boolean onClick(final Player player, final int button) {
         switch (button) {
             case 29404:
-                player.send(new SendURL("http://www.harmonyrsps.com/"));
+                player.send(new SendURL("http://www.tarnishps.com/"));
                 return true;
             case 29408:
             InterfaceWriter.write(new AchievementWriter(player));

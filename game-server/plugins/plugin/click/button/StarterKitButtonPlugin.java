@@ -81,8 +81,8 @@ public class StarterKitButtonPlugin extends PluginContext {
             player.needsStarter = false;
             player.right = kit.getRight();
             player.playerAssistant.setSidebar(false);
-            player.message("<col=3559a5>Harmony: </col>You will now be playing as " + Utility.getAOrAn(name) + " <col=3559a5>" + name + "</col> player.");
-            player.message("<col=3559a5>Harmony: </col>If you have any questions please visit our forums or contact a staff member.");
+            player.message("<col=3559a5>Tarnish: </col>You will now be playing as " + Utility.getAOrAn(name) + " <col=3559a5>" + name + "</col> player.");
+            player.message("<col=3559a5>Tarnish: </col>If you have any questions please visit our forums or contact a staff member.");
             player.locking.unlock();
             player.runEnergy = 100;
             CombatSpecial.restore(player, 100);
@@ -90,7 +90,7 @@ public class StarterKitButtonPlugin extends PluginContext {
             player.interfaceManager.close();
 
             PlayerSerializer.save(player);
-            ClanChannelHandler.connect(player, "harmony");
+            ClanChannelHandler.connect(player, "tarnish");
             World.sendMessage("<col=FF0000>" + player.getName() + " is a new player and has just joined!");
         }
     }

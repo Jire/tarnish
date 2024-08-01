@@ -23,7 +23,7 @@ public class DiscordPlugin {
         System.out.println("Initing Discord...");
         discord = JDABuilder.createDefault(Constants.TOKEN).build();
         discord.addEventListener(new BotListener());
-        discord.getPresence().setActivity(Activity.playing("Harmony"));
+        discord.getPresence().setActivity(Activity.playing("Tarnish"));
     }
 
     public static JDA getJDA() {
@@ -77,9 +77,9 @@ public class DiscordPlugin {
         }
 
         Objects.requireNonNull(discord.getTextChannelById(Constants.EVENTS_CHANNEL)).sendMessage((CharSequence) new EmbedBuilder()
-                .setAuthor(reciever, "https://harmonyrsps.com", "https://harmonyrsps.com/files/discord/"+icon+".png")
+                .setAuthor(reciever, "https://tarnishps.com", "https://tarnishps.com/files/discord/"+icon+".png")
                 .setDescription(message)
-                .setThumbnail("https://harmonyrsps.com/files/discord/"+skillID+".png")
+                .setThumbnail("https://tarnishps.com/files/discord/"+skillID+".png")
                 .build()).queue();
     }
 
@@ -108,7 +108,7 @@ public class DiscordPlugin {
             e.printStackTrace();
         }
         Objects.requireNonNull(discord.getTextChannelById(Constants.UPDATE_CHANNEL)).sendMessage((CharSequence) new EmbedBuilder()
-                .setAuthor(reciever, "https://harmonyrsps.com", "https://harmonyrsps.com/assets/images/avatar.png")
+                .setAuthor(reciever, "https://tarnishps.com", "https://tarnishps.com/assets/images/avatar.png")
                 .setDescription(fileLine)
                 .setThumbnail("https://oldschool.runescape.wiki/images/thumb/Ring_of_wealth_scroll_detail.png/1200px-Ring_of_wealth_scroll_detail.png?b1944")
                 .setTitle("Update Log - " + formatedDateTime)

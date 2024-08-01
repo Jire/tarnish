@@ -12,7 +12,7 @@ public class SkillingPointPlugin extends PluginContext {
     protected boolean firstClickNpc(Player player, NpcClickEvent event) {
         if (event.getNpc().id == 6533) {
             DialogueFactory factory = player.dialogueFactory;
-            factory.sendNpcChat(6533, "Why, hello #name!", "I am the official Harmony skilling NPC.", "How may I help you today?");
+            factory.sendNpcChat(6533, "Why, hello #name!", "I am the official Tarnish skilling NPC.", "How may I help you today?");
 
             factory.sendOption("How do I get skilling points?", () -> {
                 factory.sendNpcChat(6533,

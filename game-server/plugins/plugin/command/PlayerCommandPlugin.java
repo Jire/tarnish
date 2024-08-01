@@ -134,7 +134,7 @@ public class PlayerCommandPlugin extends CommandExtension {
                 } else {
                     LogPrinter.printReferralLog(player);
                     player.inventory.add(995, 10000000);
-                    player.send(new SendMessage("You have claimed your referral! Welcome to Harmony!"));
+                    player.send(new SendMessage("You have claimed your referral! Welcome to Tarnish!"));
                     LogPrinter.printToplist(player, toplist.toString());
                 }
             }
@@ -148,7 +148,7 @@ public class PlayerCommandPlugin extends CommandExtension {
                 } else {
                     LogPrinter.printReferralLog(player);
                     player.inventory.add(995, 10000000);
-                    player.send(new SendMessage("You have claimed your referral! Welcome to Harmony!"));
+                    player.send(new SendMessage("You have claimed your referral! Welcome to Tarnish!"));
                    // LogPrinter.printToplist(player, String.valueOf(name));
                 }
             }
@@ -157,7 +157,7 @@ public class PlayerCommandPlugin extends CommandExtension {
         commands.add(new Command("vote") {
             @Override
             public void execute(Player player, CommandParser parser) {
-                player.send(new SendURL("https://harmonyrsps.everythingrs.com/services/store"));
+                player.send(new SendURL("https://tarnishps.everythingrs.com/services/store"));
                 player.message("Type ::voted to claim your reward!");
             }
         });
@@ -177,7 +177,7 @@ public class PlayerCommandPlugin extends CommandExtension {
         commands.add(new Command("hiscores") {
             @Override
             public void execute(Player player, CommandParser parser) {
-                player.send(new SendURL("https://harmonyrsps.everythingrs.com/services/hiscores"));
+                player.send(new SendURL("https://tarnishps.everythingrs.com/services/hiscores"));
                 player.message("");
             }
         });
@@ -185,7 +185,7 @@ public class PlayerCommandPlugin extends CommandExtension {
         commands.add(new Command("donate", "store", "webstore") {
             @Override
             public void execute(Player player, CommandParser parser) {
-                player.send(new SendURL("https://harmonyrsps.everythingrs.com/services/store"));
+                player.send(new SendURL("https://tarnishps.everythingrs.com/services/store"));
                 player.message("Type ::donated or ::claim to claim your reward!");
             }
         });
@@ -259,7 +259,7 @@ public class PlayerCommandPlugin extends CommandExtension {
 
                 player.send(new SendString("", 37113));
                 player.send(new SendString("", 37107));
-                player.send(new SendString("Harmony Online Staff", 37103));
+                player.send(new SendString("Tarnish Online Staff", 37103));
                 player.send(new SendScrollbar(37110, length * 20));
 
                 for (int index = 0, string = 37111; index < length; index++, string++) {
@@ -305,7 +305,7 @@ public class PlayerCommandPlugin extends CommandExtension {
                              int length = staffs.size() < 25 ? 25 : staffs.size();
                              player.send(new SendString("", 37113));
                              player.send(new SendString("", 37107));
-                             player.send(new SendString("Harmony Online Players", 37103));
+                             player.send(new SendString("Tarnish Online Players", 37103));
                              player.send(new SendScrollbar(37110, length * 20));
                              for (int index = 0, string = 37111; index < length; index++, string++) {
                                  if (index < staffs.size()) {

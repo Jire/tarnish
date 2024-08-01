@@ -56,7 +56,7 @@ public class PresetButtonPlugin extends PluginContext {
                 return true;
             case -8498:
                 player.send(new SendMessage("Please wait as the preset gear guide loads..."));
-                player.send(new SendURL("http://www.harmonyrsps.com/index.php?/topic/8-preloading-gear-guide/"));
+                player.send(new SendURL("http://www.tarnishps.com/index.php?/topic/8-preloading-gear-guide/"));
                 return true;
         }
         return false;

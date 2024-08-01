@@ -6,7 +6,7 @@ package com.osroyale.content.triviabot;
  * @author Daniel
  */
 public enum TriviaBotData {
-    _1("Who is the owner of Harmony?", "Garrett"),
+    _1("Who is the owner of Tarnish?", "Garrett"),
     _2("Name one game developer.", "settings", "jack", "nighel", "alycia"),
     _3("What is the maximum combat level?", "126"),
     _4("What is the highest tier of donator?", "king donator", "king"),
@@ -22,7 +22,7 @@ public enum TriviaBotData {
     _17("What is the required Attack level needed to wield the Abyssal whip?", "70", "seventy"),
     _18("What is the required Strength level needed to wield the Tzhaar-ket-om?", "60", "sixty"),
     _19("What is the required Ranged level needed to wield Red chinchompas?", "55", "fifty-five"),
-    _22("How many waves are there in the Fight Caves activity on Harmony?", "15"),
+    _22("How many waves are there in the Fight Caves activity on Tarnish?", "15"),
     _23("How many charges can an amulet of glory hold?", "6", "six"),
     _24("What herb is required to make a Prayer potion?", "ranarr"),
     _25("What cmb lvl is required to join the veteran boat for the PC?", "100"),

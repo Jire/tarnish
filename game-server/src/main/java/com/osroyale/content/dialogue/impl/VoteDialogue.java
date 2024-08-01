@@ -28,9 +28,9 @@ public class VoteDialogue extends Dialogue {
         }, "Exchange vote token", () -> {
             World.schedule(1, () -> player.send(new SendInputAmount("How many vote tokens would you like to exchange?", 10, input -> exchange(factory, Integer.parseInt(input)))));
         }, "Show me your voting store!", () -> {
-            Store.STORES.get("Harmony Vote Store").open(player);
+            Store.STORES.get("Tarnish Vote Store").open(player);
         }, "I would like to vote to support this great server!", () -> {
-            player.send(new SendURL("https://harmonyrsps.everythingrs.com/services/vote"));
+            player.send(new SendURL("https://tarnishps.everythingrs.com/services/vote"));
             factory.sendNpcChat(7481, "Thank you for voting!");
         }, "Nevermind, I don't want to do anything for this server.", () -> {
             factory.clear();

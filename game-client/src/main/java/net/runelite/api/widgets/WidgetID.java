@@ -1274,7 +1274,7 @@ public final class WidgetID
 		static final int SALVE_GRAVEYARD_TELEPORT = 154;
 		static final int FENKENSTRAINS_CASTLE_TELEPORT = 155;
 		static final int WEST_ARDOUGNE_TELEPORT = 156;
-		static final int HARMONY_ISLAND_TELEPORT = 157;
+		static final int TARNISH_ISLAND_TELEPORT = 157;
 		static final int CEMETERY_TELEPORT = 158;
 		static final int RESURRECT_CROPS = 159;
 		static final int BARROWS_TELEPORT = 160;

@@ -25,7 +25,7 @@ public class StoreConstant {
             "Slayer Store",
             "Ironman General Store",
             "Ironman Donator Store",
-            "Harmony Vote Store",
+            "Tarnish Vote Store",
             "The Tzhaar Tokkul Store",
             "The Pest Control Store",
             "Miscellaneous Supplies",

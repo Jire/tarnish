@@ -1,5 +1,5 @@
 [server]
-server_name = "Harmony"
+server_name = "Tarnish"
 server_port = 43594
 server_debug = false
 server_cycle_debug = false

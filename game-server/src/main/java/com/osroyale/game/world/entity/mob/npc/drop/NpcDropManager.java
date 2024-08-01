@@ -118,7 +118,7 @@ public final class NpcDropManager {
             if (killer.settings.dropNotification && item.getValue() > 1_000_000) {
                 String name = item.getName();
                 killer.send(new SendMessage("<col=BA383E>Exotic Drop Notification: </col>" + name + " (" + Utility.formatDigits(item.getValue()) + " coins)"));
-                World.sendMessage("<col=BA383E>Harmony: <col=" + killer.right.getColor() + ">" + killer.getName() + " </col>has just received " + Utility.getAOrAn(name) + " <col=BA383E>" + name + " </col>from <col=BA383E>" + npc.getName() + "</col>!");
+                World.sendMessage("<col=BA383E>Tarnish: <col=" + killer.right.getColor() + ">" + killer.getName() + " </col>has just received " + Utility.getAOrAn(name) + " <col=BA383E>" + name + " </col>from <col=BA383E>" + npc.getName() + "</col>!");
                 DiscordPlugin.sendSimpleMessage(killer.getName() + " has just received " + Utility.getAOrAn(name) + " " + name + " from " + npc.getName() + "!");
                 if (killer.settings.screenshotKill) {
                     killer.getPlayer().send(new SendScreenshot());
@@ -288,7 +288,7 @@ public final class NpcDropManager {
         if (player.settings.dropNotification && item.getValue() > 1_000_000) {
             String name = item.getName();
             player.send(new SendMessage("<col=BA383E>Exotic Drop Notification: </col>" + name + " (" + Utility.formatDigits(item.getValue()) + " coins)"));
-            World.sendMessage("<col=BA383E>Harmony: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has just received " + Utility.getAOrAn(name) + " <col=BA383E>" + name + " </col>from <col=BA383E>" + npc.getName() + "</col>!");
+            World.sendMessage("<col=BA383E>Tarnish: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has just received " + Utility.getAOrAn(name) + " <col=BA383E>" + name + " </col>from <col=BA383E>" + npc.getName() + "</col>!");
             DiscordPlugin.sendSimpleMessage("Exotic drop: " + player.getName() + " has just received " + Utility.getAOrAn(name) + " " + name + " from " + npc.getName() + "!");
             AchievementHandler.activate(player, AchievementKey.RARE_DROPS);
             if (player.settings.screenshotKill) {

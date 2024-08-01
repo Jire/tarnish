@@ -24,6 +24,16 @@
  */
 package net.runelite.client.ui;
 
+import lombok.extern.slf4j.Slf4j;
+import net.runelite.client.RuneLite;
+import net.runelite.client.RuneLiteProperties;
+import net.runelite.client.util.ImageUtil;
+import net.runelite.client.util.LinkBrowser;
+import net.runelite.client.util.VerificationException;
+import org.pushingpixels.substance.internal.SubstanceSynapse;
+
+import javax.swing.*;
+import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
@@ -32,23 +42,6 @@ import java.net.ConnectException;
 import java.net.UnknownHostException;
 import java.security.GeneralSecurityException;
 import java.util.concurrent.atomic.AtomicBoolean;
-import javax.swing.BorderFactory;
-import javax.swing.BoxLayout;
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JDialog;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JTextArea;
-import javax.swing.UIManager;
-import javax.swing.border.EmptyBorder;
-import lombok.extern.slf4j.Slf4j;
-import net.runelite.client.RuneLite;
-import net.runelite.client.RuneLiteProperties;
-import net.runelite.client.util.ImageUtil;
-import net.runelite.client.util.LinkBrowser;
-import net.runelite.client.util.VerificationException;
-import org.pushingpixels.substance.internal.SubstanceSynapse;
 
 @Slf4j
 public class FatalErrorDialog extends JDialog
@@ -67,7 +60,7 @@ public class FatalErrorDialog extends JDialog
 
 		try
 		{
-			BufferedImage logo = ImageUtil.loadImageResource(FatalErrorDialog.class, "runelite_transparent.png");
+			BufferedImage logo = ImageUtil.loadImageResource(FatalErrorDialog.class, "icon.png");
 			setIconImage(logo);
 
 			JLabel runelite = new JLabel();

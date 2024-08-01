@@ -1120,7 +1120,7 @@ public class ObjectFirstClickPlugin extends PluginContext {
 
             case 24452:
                 if (!PlayerRight.isModerator(player)) {
-                    player.dialogueFactory.sendStatement("Only privileged staff members of Harmony can access this!").execute();
+                    player.dialogueFactory.sendStatement("Only privileged staff members of Tarnish can access this!").execute();
                     return true;
                 }
 

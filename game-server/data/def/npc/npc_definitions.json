@@ -4132,7 +4132,7 @@
   },
   {
     "id": 306,
-    "name": "Harmony Guide",
+    "name": "Tarnish Guide",
     "combat-level": 1,
     "stand": 813,
     "walk": 1205
@@ -71299,7 +71299,7 @@
   },
   {
     "id": 6533,
-    "name": "Harmony Skillermen",
+    "name": "Tarnish Skillermen",
     "combat-level": 1,
     "stand": 808,
     "walk": 819
@@ -80415,7 +80415,7 @@
   },
   {
     "id": 7481,
-    "name": "Harmony Vote Agent",
+    "name": "Tarnish Vote Agent",
     "combat-level": 1,
     "stand": 808,
     "walk": 819

@@ -52,7 +52,7 @@ public final class Configuration {
     /**
      * The name of the client.
      */
-    public final static String NAME = "Harmony";
+    public final static String NAME = "Tarnish";
 
     /**
      * The cache file name.

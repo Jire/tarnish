@@ -73,7 +73,7 @@ public class Console {
 		if (openConsole) {
 			Rasterizer2D.fillRectangle(0, 0, width, 334, 0x406AA1, 185);
 			Rasterizer2D.drawPixels(1, 334 - 21, 0, 0xffffff, width);
-			String title = Utility.formatName(Client.instance.myUsername) + "@Harmony:";
+			String title = Utility.formatName(Client.instance.myUsername) + "@Tarnish:";
 			Client.instance.newBoldFont.drawBasicString(title + " ", 5, 334 - 6, 0xACB0B5, 0);
 			Client.instance.newBoldFont.drawBasicString("<col=ffffff>" + consoleInput + (Client.tick % 20 < 10 ? "|" : ""), Client.instance.newBoldFont.getTextWidth(title) + 8, 334 - 5, 0xffffff, 0);
 			for (int index = 0, messageY = 308; index < 17; index++, messageY -= 18) {

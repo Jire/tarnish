@@ -1223,7 +1223,7 @@ public final class SpriteID
 	/* Unmapped 1258 */
 	public static final int SPELL_FENKENSTRAINS_CASTLE_TELEPORT = 1259;
 	public static final int SPELL_WEST_ARDOUGNE_TELEPORT = 1260;
-	public static final int SPELL_HARMONY_ISLAND_TELEPORT = 1261;
+	public static final int SPELL_TARNISH_ISLAND_TELEPORT = 1261;
 	public static final int SPELL_BARROWS_TELEPORT = 1262;
 	public static final int SPELL_APE_ATOLL_TELEPORT = 1263;
 	public static final int SPELL_CEMETERY_TELEPORT = 1264;

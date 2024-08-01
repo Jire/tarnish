@@ -29,7 +29,7 @@ public class ModeratorCommandPlugin extends CommandExtension {
                 int length = staffs.size() < 25 ? 25 : staffs.size();
                 player.send(new SendString("", 37113));
                 player.send(new SendString("", 37107));
-                player.send(new SendString("Harmony Online Players", 37103));
+                player.send(new SendString("Tarnish Online Players", 37103));
                 player.send(new SendScrollbar(37110, length * 20));
                 for (int index = 0, string = 37111; index < length; index++, string++) {
                     if (index < staffs.size()) {

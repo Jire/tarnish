@@ -19628,7 +19628,7 @@ public class Items {
     public static final int NULL_7311 = 19622;
     public static final int WEST_ARDOUGNE_TELEPORT = 19623;
     public static final int NULL_7312 = 19624;
-    public static final int HARMONY_ISLAND_TELEPORT = 19625;
+    public static final int TARNISH_ISLAND_TELEPORT = 19625;
     public static final int NULL_7313 = 19626;
     public static final int CEMETERY_TELEPORT = 19627;
     public static final int NULL_7314 = 19628;

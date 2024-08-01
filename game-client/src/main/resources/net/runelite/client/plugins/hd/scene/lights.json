@@ -22313,7 +22313,7 @@
     ]
   },
   {
-    "description": "POH_PORTAL_HARMONY_ISLAND",
+    "description": "POH_PORTAL_TARNISH_ISLAND",
     "height": 120,
     "alignment": "CENTER",
     "radius": 400,
@@ -22327,9 +22327,9 @@
     "duration": 4100,
     "range": 20,
     "objectIds": [
-      "HARMONY_ISLAND_PORTAL_37601",
-      "HARMONY_ISLAND_PORTAL",
-      "HARMONY_ISLAND_PORTAL_37613"
+      "TARNISH_ISLAND_PORTAL_37601",
+      "TARNISH_ISLAND_PORTAL",
+      "TARNISH_ISLAND_PORTAL_37613"
     ]
   },
   {

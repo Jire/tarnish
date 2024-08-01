@@ -42,7 +42,7 @@ public class FountainOfRunePlugin extends PluginContext {
 
                 if (eternal) {
                     player.message("<col=FF0000>You found an amulet of eternal glory!");
-                    World.sendMessage("<col=BA383E>Harmony: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has just found an <col=BA383E>amulet of eternal glory </col>from the <col=BA383E>fountain of rune</col>!");
+                    World.sendMessage("<col=BA383E>Tarnish: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has just found an <col=BA383E>amulet of eternal glory </col>from the <col=BA383E>fountain of rune</col>!");
                     DiscordPlugin.sendSimpleMessage(player.getName() + " has just found an amulet of eternal glory from the fountain of rune!");
                 }
 

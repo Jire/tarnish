@@ -50,7 +50,7 @@ public class StarterKit {
     /** Holds the starter kit data. */
     public enum KitData {
         NORMAL(PlayerRight.PLAYER, new String[]{
-                "Play Harmony as a casual player.",
+                "Play Tarnish as a casual player.",
                 "This game mode has no restrictions at all.",
                 "You will be given a pre-made bank containing welfare equipment."
         }, null,

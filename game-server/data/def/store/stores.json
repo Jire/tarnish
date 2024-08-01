@@ -2145,7 +2145,7 @@
     ]
   },
   {
-    "name": "Harmony Vote Store",
+    "name": "Tarnish Vote Store",
     "currency": "VOTE_POINTS",
     "restock": true,
     "sellType": "NONE",

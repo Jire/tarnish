@@ -8665,7 +8665,7 @@ public final class ItemID
 	public static final int SALVE_GRAVEYARD_TELEPORT = 19619;
 	public static final int FENKENSTRAINS_CASTLE_TELEPORT = 19621;
 	public static final int WEST_ARDOUGNE_TELEPORT = 19623;
-	public static final int HARMONY_ISLAND_TELEPORT = 19625;
+	public static final int TARNISH_ISLAND_TELEPORT = 19625;
 	public static final int CEMETERY_TELEPORT = 19627;
 	public static final int BARROWS_TELEPORT = 19629;
 	public static final int APE_ATOLL_TELEPORT = 19631;
@@ -11211,7 +11211,7 @@ public final class ItemID
 	public static final int CAT_EARS = 24525;
 	public static final int HELL_CAT_EARS = 24527;
 	public static final int LAMP_OF_THE_GATHERER = 24528;
-	public static final int HARMONY = 24529;
+	public static final int TARNISH = 24529;
 	public static final int RUNNER_HAT_BROKEN = 24531;
 	public static final int RUNNER_HAT_L = 24533;
 	public static final int MITHRIL_SEEDS_24534 = 24534;

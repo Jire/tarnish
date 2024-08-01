@@ -32,7 +32,7 @@ public class Donation {
         setSpent(getSpent() + bond.moneySpent);
         setCredits(getCredits() + bond.credits);
         player.message("<col=FF0000>You have claimed your donator bond. You now have " + Utility.formatDigits(getCredits()) + " donator credits!");
-        World.sendMessage("<col=CF2192>Harmony: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has opened <col=CF2192>" + Utility.formatEnum(bond.name()) + "");
+        World.sendMessage("<col=CF2192>Tarnish: <col=" + player.right.getColor() + ">" + player.getName() + " </col>has opened <col=CF2192>" + Utility.formatEnum(bond.name()) + "");
         updateRank(false);
     }
 

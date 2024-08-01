@@ -112,7 +112,7 @@ public abstract class GameEngine extends Applet implements Runnable, WindowListe
         } catch (Throwable ex) {
             ex.printStackTrace();
         }
-        this.backgroundImage = ImageUtil.loadImageResource(ClientUI.class, "/tarnish_bg.png");
+        this.backgroundImage = ImageUtil.loadImageResource(ClientUI.class, "/background.png");
 
         eventQueue = queue;
 

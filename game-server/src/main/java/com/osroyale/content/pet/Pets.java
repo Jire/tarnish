@@ -118,7 +118,7 @@ public class Pets {
 
         if (!drop) {
             player.message("<col=FF0000>You have a funny feeling like you're being followed.");
-            World.sendMessage("<icon=11> <col=FF0000>Harmony: <col=" + player.right.getColor() + ">" + player.getName() + "</col> has just received a pet " + pet.getName() + "!");
+            World.sendMessage("<icon=11> <col=FF0000>Tarnish: <col=" + player.right.getColor() + ">" + player.getName() + "</col> has just received a pet " + pet.getName() + "!");
             AchievementHandler.activate(player, AchievementKey.OBTAIN_PET);
         }
         return true;

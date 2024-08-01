@@ -246,7 +246,7 @@ public class OwnerCommandPlugin extends CommandExtension {
             @Override
             public void execute(Player player, CommandParser parser) {
                 Config.DOUBLE_EXPERIENCE = !Config.DOUBLE_EXPERIENCE;
-                World.sendMessage("<col=CF2192>Harmony: </col>Double experience is now " + (Config.DOUBLE_EXPERIENCE ? "activated" : "de-activated") + ".");
+                World.sendMessage("<col=CF2192>Tarnish: </col>Double experience is now " + (Config.DOUBLE_EXPERIENCE ? "activated" : "de-activated") + ".");
             }
         });
 

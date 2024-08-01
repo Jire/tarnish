@@ -20,7 +20,7 @@ public class DepositBoxPlugin extends PluginContext {
 
         System.out.println(gameObject.getDefinition().getName());
         player.interfaceManager.setMain(4465);
-        player.send(new SendString("The Bank of Harmony - Deposit Box", 7421));
+        player.send(new SendString("The Bank of Tarnish - Deposit Box", 7421));
         player.send(new SendInventoryInterface(4465, 197));
         player.send(new SendItemOnInterface(7423, player.inventory.toArray()));
 

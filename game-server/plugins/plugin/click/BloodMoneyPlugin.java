@@ -52,7 +52,7 @@ public class BloodMoneyPlugin extends PluginContext {
     @Override
     protected boolean thirdClickObject(Player player, ObjectClickEvent event) {
         if (event.getObject().getId() == 27290) {
-            player.send(new SendURL("https://www.harmonyrsps.com/community/index.php?/topic/792-blood-money-chest-guide/"));
+            player.send(new SendURL("https://www.tarnishps.com/community/index.php?/topic/792-blood-money-chest-guide/"));
             return true;
         }
 

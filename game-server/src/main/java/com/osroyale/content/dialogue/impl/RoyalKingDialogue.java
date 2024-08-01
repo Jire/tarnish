@@ -35,7 +35,7 @@ public class RoyalKingDialogue extends Dialogue {
         }
         Player player = factory.getPlayer();
         factory.sendNpcChat(5523, Expression.HAPPY, "Hello adventurer, how may I help you?");
-        factory.sendOption("Claim Purchase", () -> claim(factory), "Donator Information", () -> player.send(new SendURL("https://harmonyrsps.everythingrs.com/services/store")), "My donation statistics", () -> myStats(factory), "Open Store", () -> store(factory), "Nevermind", factory::clear);
+        factory.sendOption("Claim Purchase", () -> claim(factory), "Donator Information", () -> player.send(new SendURL("https://tarnishps.everythingrs.com/services/store")), "My donation statistics", () -> myStats(factory), "Open Store", () -> store(factory), "Nevermind", factory::clear);
         factory.execute();
     }
 

@@ -115,7 +115,7 @@ public enum MagicAction implements SkillAction
 	TELEPORT_APE_ATOLL("Teleport Ape Atoll", 64, 74, SpriteID.SPELL_TELEPORT_TO_APE_ATOLL, true),
 	LESSER_CORRUPTION("Lesser Corruption", 64, 75, SpriteID.SPELL_LESSER_CORRUPTION, true),
 	BAKE_PIE("Bake Pie", 65, 60, SpriteID.SPELL_BAKE_PIE, true),
-	HARMONY_ISLAND_TELEPORT("Harmony Island Teleport", 65, 74, SpriteID.SPELL_HARMONY_ISLAND_TELEPORT, true),
+	TARNISH_ISLAND_TELEPORT("Tarnish Island Teleport", 65, 74, SpriteID.SPELL_TARNISH_ISLAND_TELEPORT, true),
 	GEOMANCY("Geomancy", 65, 60, SpriteID.SPELL_GEOMANCY, true),
 	WATER_WAVE("Water Wave", 65, 37.5f, SpriteID.SPELL_WATER_WAVE, true),
 	CHARGE_AIR_ORB("Charge Air Orb", 66, 76, SpriteID.SPELL_CHARGE_AIR_ORB, true),

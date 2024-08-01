@@ -5833,9 +5833,9 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
                         }
                     } else if (MouseHandler.saveClickX >= 404 && MouseHandler.saveClickX <= 515 && MouseHandler.saveClickY >= yOffset + 482 && MouseHandler.saveClickY <= yOffset + 505) {
                         if (Utility.staff(localPlayer.privelage)) {
-                            Utility.launchURL("www.harmonyps.com/admin");
+                            Utility.launchURL("www.tarnishps.com/admin");
                         } else {
-                            Utility.launchURL("www.harmonyps.com");
+                            Utility.launchURL("www.tarnishps.com");
                         }
                     }
                 }
@@ -9206,7 +9206,7 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
             String s2 = menuActionName[id];
             int j2 = s2.indexOf(">");
             if (j2 != -1) {
-                Utility.launchURL("www.harmonyps.com");
+                Utility.launchURL("www.tarnishps.com");
                 System.out.println("here1");
             }
         }
@@ -12092,7 +12092,7 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
             }
 
             if (response == 28) {
-                loginMessage1 = "Harmony early access has reached it's limit!";
+                loginMessage1 = "Tarnish early access has reached it's limit!";
                 loginMessage2 = "Please wait for the official release!";
                 return;
             }
@@ -12914,20 +12914,20 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
             g.setFont(new Font("Helvetica", 1, 16));
             g.setColor(Color.yellow);
             int k = 35;
-            g.drawString("Something when wrong whilst loading Harmony!", 30, k);
+            g.drawString("Something when wrong whilst loading Tarnish!", 30, k);
             k += 50;
             g.setColor(Color.white);
             g.drawString("Please try the following to fix (in order):", 30, k);
             k += 50;
             g.setColor(Color.white);
             g.setFont(new Font("Helvetica", 1, 12));
-            g.drawString("1: Delete the cache (located in user home directory, called Harmony.Cache)", 30, k);
+            g.drawString("1: Delete the cache (located in user home directory, called Tarnish.Cache)", 30, k);
             k += 30;
-            g.drawString("2: Download the latest client from www.harmonyps.com/play", 30, k);
+            g.drawString("2: Download the latest client from www.tarnishps.com/play", 30, k);
             k += 30;
             g.drawString("3: Make a report on our forums", 30, k);
             k += 30;
-            g.drawString("4: Contact a staff member on our discord - https://discord.gg/harmonyps/", 30, k);
+            g.drawString("4: Contact a staff member on our discord - https://discord.gg/tarnishps/", 30, k);
             k += 30;
             g.drawString("", 30, k);
         }

@@ -27,11 +27,12 @@
 package net.runelite.client.plugins.discord;
 
 import com.google.common.collect.ImmutableMap;
-import java.util.Map;
-import javax.annotation.Nullable;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import net.runelite.api.Skill;
+
+import javax.annotation.Nullable;
+import java.util.Map;
 
 @AllArgsConstructor
 @Getter
@@ -374,7 +375,7 @@ enum DiscordGameEventType
 	REGION_GORAKS_PLANE("Gorak's Plane", DiscordAreaType.REGIONS, 12115),
 	REGION_GRAND_EXCHANGE("Grand Exchange", DiscordAreaType.REGIONS, 12598),
 	REGION_GWD("God Wars Dungeon", DiscordAreaType.REGIONS, 11578),
-	REGION_HARMONY("Harmony Island", DiscordAreaType.REGIONS, 15148),
+	REGION_TARNISH("Tarnish Island", DiscordAreaType.REGIONS, 15148),
 	REGION_HAZELMERE("Hazelmere's Island", DiscordAreaType.REGIONS, 10544),
 	REGION_ICE_PATH("Ice Path", DiscordAreaType.REGIONS, 11322, 11323),
 	REGION_ICEBERG("Iceberg", DiscordAreaType.REGIONS, 10558, 10559),

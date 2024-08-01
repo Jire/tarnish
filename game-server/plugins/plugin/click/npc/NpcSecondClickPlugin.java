@@ -35,7 +35,7 @@ public class NpcSecondClickPlugin extends PluginContext {
                 player.tradingPost.openOverviewInterface();
                 break;
             case 7481:
-                Store.STORES.get("Harmony Vote Store").open(player);
+                Store.STORES.get("Tarnish Vote Store").open(player);
                 break;
 
             case 1603:

@@ -75,7 +75,7 @@ public final class NpcDefinition {
                 entityDef.actions[0] = "Open";
                 break;
             case 7481:
-                entityDef.name = "Harmony Vote Agent";
+                entityDef.name = "Tarnish Vote Agent";
                 entityDef.actions = new String[5];
                 entityDef.actions[0] = "Talk-to";
                 entityDef.actions[2] = "Trade";
@@ -130,7 +130,7 @@ public final class NpcDefinition {
                 entityDef.name = "Lobster & Swordfish";
                 break;
             case 6533:
-                entityDef.name = "Harmony Skillermen";
+                entityDef.name = "Tarnish Skillermen";
                 break;
             case 1520:
                 entityDef.name = "Shark";
@@ -292,7 +292,7 @@ public final class NpcDefinition {
                 break;
 
             case 306:
-                entityDef.name = "Harmony Guide";
+                entityDef.name = "Tarnish Guide";
                 break;
             case 5366:
                 entityDef.name = "Skilling Shop";
@@ -377,7 +377,7 @@ public final class NpcDefinition {
                 break;
             case 6481:
                 entityDef.name = "Mac";
-                entityDef.description = "Only the most knowledgeable players of Harmony are worthy of such a cape.".getBytes();
+                entityDef.description = "Only the most knowledgeable players of Tarnish are worthy of such a cape.".getBytes();
                 entityDef.combatLevel = 126;
                 entityDef.walkingAnimation = 819;
                 //entityDef.standingAnimation = 808;
