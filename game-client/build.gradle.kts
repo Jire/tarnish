@@ -105,13 +105,21 @@ java {
 }
 
 tasks {
+    withType<JavaCompile>().configureEach {
+        options.apply {
+            isWarnings = false
+            isDeprecation = false
+            encoding = "UTF-8"
+        }
+    }
+
     shadowJar {
         archiveBaseName.set("Tarnish")
         archiveClassifier.set("")
         archiveVersion.set("")
-
         isZip64 = true
     }
+
     named<Zip>("distZip").configure {
         enabled = false
     }
@@ -132,10 +140,5 @@ tasks {
     }
     named("shadowDistZip").configure {
         enabled = false
-    }
-    withType<JavaCompile>().configureEach {
-        options.isWarnings = false
-        options.isDeprecation = false
-        options.encoding = "UTF-8"
     }
 }
