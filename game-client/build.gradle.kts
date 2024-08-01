@@ -81,7 +81,6 @@ dependencies {
     implementation(files("libs/SwiftFUP-client-1.9.1.jar"))
     implementation(files("libs/allatori-annotations.jar"))
     implementation("it.unimi.dsi:fastutil:8.5.12")
-    implementation("club.minnced:java-discord-rpc:2.0.2")
     implementation("com.displee:rs-cache-library:6.9")
 
     val netty = "4.1.96.Final"

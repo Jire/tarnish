@@ -8,7 +8,6 @@ dependencyResolutionManagement {
         gradlePluginPortal()
 		maven("https://repo.runelite.net")
         maven("https://jitpack.io")
-		jcenter()
     }
 
     pluginManagement.plugins.apply {
