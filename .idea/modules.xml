@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/game-client/tarnish.game-client.iml" filepath="$PROJECT_DIR$/.idea/modules/game-client/tarnish.game-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/game-client/tarnish.game-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/game-client/tarnish.game-client.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/game-server/tarnish.game-server.iml" filepath="$PROJECT_DIR$/.idea/modules/game-server/tarnish.game-server.iml" />
     </modules>
   </component>
