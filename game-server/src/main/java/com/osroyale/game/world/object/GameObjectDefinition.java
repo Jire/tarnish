@@ -8,7 +8,7 @@ package com.osroyale.game.world.object;
 public class GameObjectDefinition {
 
 	/** The maximum number of object definitions */
-	public static final int MAX_DEFINITIONS = 47501;
+	public static final int MAX_DEFINITIONS = 50046;
 
 	/** The definitions array. */
 	public static final GameObjectDefinition[] definitions = new GameObjectDefinition[MAX_DEFINITIONS];
