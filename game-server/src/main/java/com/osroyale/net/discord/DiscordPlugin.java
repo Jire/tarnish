@@ -17,9 +17,16 @@ import java.util.Objects;
  * Discord.java | 8:06:53 AM
  */
 public class DiscordPlugin {
+
+    public static final boolean ENABLED = false;
+
     private static JDA discord = null;
 
     public static void startUp() {
+        if (!ENABLED) {
+            return;
+        }
+
         System.out.println("Initing Discord...");
         discord = JDABuilder.createDefault(Constants.TOKEN).build();
         discord.addEventListener(new BotListener());
