@@ -51,11 +51,15 @@ dependencies {
     implementation("net.openhft:affinity:3.23.3")
 }
 
-sourceSets["main"].java {
-    srcDir("plugins")
+sourceSets.named("main") {
+    java {
+        srcDir("plugins")
+    }
 }
 
 tasks.withType<JavaCompile>().configureEach {
-    options.encoding = "UTF-8"
-    options.compilerArgs = mutableListOf("--enable-preview")
+    options.apply {
+        encoding = "UTF-8"
+        compilerArgs.add("--enable-preview")
+    }
 }
