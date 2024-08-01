@@ -44,10 +44,6 @@ public final class StreamLoader {
 		return i;
 	}
 
-	public static void main(String[] args) {
-		System.out.println("bro \"" + getFileID(Configuration.SPRITE_FILE_NAME + ".dat"));
-	}
-
 	public byte[] getFile(String s) {
 		byte abyte0[] = null; // was a parameter
 		int fileID = getFileID(s);

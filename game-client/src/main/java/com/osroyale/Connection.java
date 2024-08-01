@@ -4,8 +4,6 @@ package com.osroyale;
 import static com.osroyale.Configuration.*;
 
 /**
- * Holds all the connections.
- *
  * @author Daniel
  * @author Jire
  */
@@ -14,13 +12,20 @@ public enum Connection {
     /**
      * The economy (main) world.
      */
-
-    ECONOMY("ECO", LIVE_GAME_ADDRESS, LIVE_GAME_PORT, LIVE_CACHE_ADDRESS, LIVE_CACHE_PORT),
+    ECONOMY("ECO",
+            LIVE_GAME_ADDRESS, LIVE_GAME_PORT,
+            LIVE_CACHE_ADDRESS, LIVE_CACHE_PORT
+    ),
 
     /**
      * The development world - used by developers.
      */
-    DEVELOPMENT("DEV", "localhost", 43594, LIVE_CACHE_ADDRESS, LIVE_CACHE_PORT);
+    DEV("DEV",
+            DEV_GAME_ADDRESS, DEV_GAME_PORT,
+            DEV_CACHE_ADDRESS, DEV_CACHE_PORT
+    ),
+
+    ;
 
     /**
      * The connection name.
@@ -34,21 +39,23 @@ public enum Connection {
 
     private final int gamePort;
 
-    private final String updateAddress;
-    private final int updatePort;
+    private final String cacheAddress;
+    private final int cachePort;
 
 
     /**
      * Constructs a new <code>Connection</code>.
      */
-    Connection(String displayName, String gameAddress, int gamePort, String updateAddress, int updatePort) {
+    Connection(final String displayName,
+               final String gameAddress, final int gamePort,
+               final String cacheAddress, final int cachePort) {
         this.displayName = displayName;
 
         this.gameAddress = gameAddress;
         this.gamePort = gamePort;
 
-        this.updateAddress = updateAddress;
-        this.updatePort = updatePort;
+        this.cacheAddress = cacheAddress;
+        this.cachePort = cachePort;
     }
 
     public String getDisplayName() {
@@ -63,12 +70,12 @@ public enum Connection {
         return gamePort;
     }
 
-    public String getUpdateAddress() {
-        return updateAddress;
+    public String getCacheAddress() {
+        return cacheAddress;
     }
 
-    public int getUpdatePort() {
-        return updatePort;
+    public int getCachePort() {
+        return cachePort;
     }
 
 }

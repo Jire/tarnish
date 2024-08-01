@@ -12,104 +12,113 @@ import java.util.Arrays;
 
 public final class SpriteCache implements Closeable {
 
-	private Sprite[] cache;
+    private Sprite[] cache;
 
-	private ByteBuffer dataChannel;
-	private ByteBuffer metaChannel;
+    private ByteBuffer dataChannel;
+    private ByteBuffer metaChannel;
 
-	public void init(StreamLoader archive) {
-		byte[] data = archive.getFile(Configuration.SPRITE_FILE_NAME + ".dat");
-		dataChannel = ByteBuffer.allocateDirect(data.length);
-		dataChannel.put(data);
-		dataChannel.flip();
+    public void init(StreamLoader archive) {
+        byte[] data = archive.getFile(Configuration.SPRITE_FILE_NAME + ".dat");
+        dataChannel = ByteBuffer.allocateDirect(data.length);
+        dataChannel.put(data);
+        dataChannel.flip();
 
-		byte[] meta = archive.getFile(Configuration.SPRITE_FILE_NAME + ".idx");
-		metaChannel = ByteBuffer.allocateDirect(meta.length);
-		metaChannel.put(meta);
-		metaChannel.flip();
+        byte[] meta = archive.getFile(Configuration.SPRITE_FILE_NAME + ".idx");
+        metaChannel = ByteBuffer.allocateDirect(meta.length);
+        metaChannel.put(meta);
+        metaChannel.flip();
 
-		final int spriteCount = meta.length / 10;
+        final int spriteCount = meta.length / 10;
 
-		cache = new Sprite[spriteCount];
-	}
+        cache = new Sprite[spriteCount];
+    }
 
-	public Sprite get(int id) {
-		try {
-			if (contains(id)) {
-				return cache[id];
-			}
+    public Sprite get(int id) {
+        try {
+            final Sprite[] cache = this.cache;
+            if (cache == null) {
+                return null;
+            }
 
-			final int entries = metaChannel.capacity() / 10;
+            if (contains(id)) {
+                return cache[id];
+            }
 
-			if (id > entries) {
-				System.out.printf("id=%d > size=%d%n", id, entries);
-				return null;
-			}
+            final int entries = metaChannel.capacity() / 10;
 
-			int p = id * 10;
+            if (id > entries) {
+                //System.out.printf("id=%d > size=%d%n", id, entries);
+                return null;
+            }
 
-			final int pos = ((metaChannel.get(p) & 0xFF) << 16) | ((metaChannel.get(p + 1) & 0xFF) << 8) | (metaChannel.get(p + 2) & 0xFF);
-			final int len = ((metaChannel.get(p + 3) & 0xFF) << 16) | ((metaChannel.get(p + 4) & 0xFF) << 8) | (metaChannel.get(p + 5) & 0xFF);
-			final int offsetX = metaChannel.getShort(p + 6) & 0xFF;
-			final int offsetY = metaChannel.getShort(p + 8) & 0xFF;
+            int p = id * 10;
 
-			final byte[] dataBuf = new byte[len];
-			dataChannel.position(pos);
-			dataChannel.get(dataBuf, 0, len);
+            final int pos = ((metaChannel.get(p) & 0xFF) << 16) | ((metaChannel.get(p + 1) & 0xFF) << 8) | (metaChannel.get(p + 2) & 0xFF);
+            final int len = ((metaChannel.get(p + 3) & 0xFF) << 16) | ((metaChannel.get(p + 4) & 0xFF) << 8) | (metaChannel.get(p + 5) & 0xFF);
+            final int offsetX = metaChannel.getShort(p + 6) & 0xFF;
+            final int offsetY = metaChannel.getShort(p + 8) & 0xFF;
 
-			try (InputStream is = new ByteArrayInputStream(dataBuf)) {
+            final byte[] dataBuf = new byte[len];
+            dataChannel.position(pos);
+            dataChannel.get(dataBuf, 0, len);
 
-				BufferedImage bimage = ImageIO.read(is);
+            try (InputStream is = new ByteArrayInputStream(dataBuf)) {
 
-				if (bimage == null) {
-					System.out.printf("Could not read image at %d%n", id);
-					return null;
-				}
+                BufferedImage bimage = ImageIO.read(is);
 
-				if (bimage.getType() != BufferedImage.TYPE_INT_ARGB) {
-					bimage = convert(bimage, BufferedImage.TYPE_INT_ARGB);
-				}
+                if (bimage == null) {
+                    System.out.printf("Could not read image at %d%n", id);
+                    return null;
+                }
 
-				int[] pixels = ((DataBufferInt) bimage.getRaster().getDataBuffer()).getData();
+                if (bimage.getType() != BufferedImage.TYPE_INT_ARGB) {
+                    bimage = convert(bimage, BufferedImage.TYPE_INT_ARGB);
+                }
 
-				Sprite sprite = new Sprite(bimage.getWidth(), bimage.getHeight(), offsetX, offsetY, pixels);
+                int[] pixels = ((DataBufferInt) bimage.getRaster().getDataBuffer()).getData();
 
-				// cache so we don't have to perform I/O calls again
-				cache[id] = sprite;
+                Sprite sprite = new Sprite(bimage.getWidth(), bimage.getHeight(), offsetX, offsetY, pixels);
 
-				return sprite;
-			}
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+                // cache so we don't have to perform I/O calls again
+                cache[id] = sprite;
 
-		System.out.printf("No sprite found for id=%d%n", id);
-		return null;
-	}
+                return sprite;
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
-	public boolean contains(int id) {
-		return id < cache.length && cache[id] != null;
-	}
+        System.out.printf("No sprite found for id=%d%n", id);
+        return null;
+    }
 
-	public void set(int id, Sprite sprite) {
-		if (!contains(id)) {
-			return;
-		}
+    public boolean contains(final int id) {
+        final Sprite[] cache = this.cache;
+        if (cache == null) {
+            return false;
+        }
+        if (id < 0 || id >= cache.length) {
+            return false;
+        }
+        return cache[id] != null;
+    }
 
-		cache[id] = sprite;
-	}
+    public void set(final int id,
+                    final Sprite sprite) {
+        cache[id] = sprite;
+    }
 
-	public void clear() {
-		Arrays.fill(cache, null);
-	}
+    public void clear() {
+        Arrays.fill(cache, null);
+    }
 
-	private static BufferedImage convert(BufferedImage bimage, int type) {
-		BufferedImage converted = new BufferedImage(bimage.getWidth(), bimage.getHeight(), type);
-		converted.getGraphics().drawImage(bimage, 0, 0, null);
-		return converted;
-	}
+    private static BufferedImage convert(BufferedImage bimage, int type) {
+        BufferedImage converted = new BufferedImage(bimage.getWidth(), bimage.getHeight(), type);
+        converted.getGraphics().drawImage(bimage, 0, 0, null);
+        return converted;
+    }
 
-	public void close() throws IOException {
-	}
+    public void close() throws IOException {
+    }
 
 }

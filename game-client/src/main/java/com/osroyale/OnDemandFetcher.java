@@ -1,7 +1,5 @@
 package com.osroyale;
 
-import org.jire.swiftfup.client.FileRequest;
-
 public final class OnDemandFetcher {
 
     private final Client client;
@@ -9,16 +7,6 @@ public final class OnDemandFetcher {
     public int mapAmount = 0;
 
     public void start(StreamLoader versionList) {
-/*		if (Configuration.USE_UPDATE_SERVER) {
-			FileChecksumsRequest fileChecksumsRequest = client.fileClient.requestChecksums();
-			try {
-				fileChecksumsRequest.get(30, TimeUnit.SECONDS);
-			} catch (InterruptedException | ExecutionException | TimeoutException e) {
-				e.printStackTrace();
-				return;
-			}
-		}*/
-
         byte[] array = versionList.getFile("map_index");
         /*try {
             array = Files.readAllBytes(Path.of("map_index"));
@@ -50,24 +38,18 @@ public final class OnDemandFetcher {
         return versions[j].length;
     }
 
-    public boolean loadData(int indexID, int fileID) {
-        return loadData(indexID, fileID, true);
+    public boolean loadData(final int indexID, final int fileID, final boolean flush) {
+        return client.loadData(indexID, fileID, flush);
     }
 
-    public boolean loadData(int indexID, int fileID, boolean flush) {
-        //System.out.println("REQUESTED " + indexID + ":" + fileID + " (flush=" + flush + ")");
-        FileRequest request = client.fileClient.request(indexID + 1, fileID);
-        if (flush && !request.isDone()) {
-            client.fileClient.flush();
-            //System.out.println("FLUSHED for " + indexID+":"+fileID+" / " + flush);
-        }
-        return true;
+    public boolean loadData(final int indexID, final int fileID) {
+        return loadData(indexID, fileID, true);
     }
 
     /**
      * Just a reversed argument version of @{@link #loadData(int, int)}
      */
-    public void writeRequest(int fileID, int indexID) {
+    public void writeRequest(final int fileID, final int indexID) {
         loadData(indexID, fileID, true);
     }
 

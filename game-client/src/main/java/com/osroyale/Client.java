@@ -39,7 +39,9 @@ import java.awt.*;
 import java.awt.datatransfer.*;
 import java.io.*;
 import java.math.BigInteger;
+import java.net.InetSocketAddress;
 import java.net.Socket;
+import java.net.SocketAddress;
 import java.net.URL;
 import java.nio.ByteBuffer;
 import java.nio.file.Files;
@@ -59,7 +61,10 @@ import static com.osroyale.SceneGraph.pitchRelaxEnabled;
 import static com.osroyale.Utility.getFileNameWithoutExtension;
 
 @Slf4j
-public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProcessor, RSClient {
+public class Client extends GameEngine
+        implements FileStore,
+        FileDecompressedListener,
+        RSClient {
 
     /**
      * We keep this main method here to support fallback in lanuncher etc.
@@ -220,48 +225,13 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
     }
 
     @Override
-    public FileRequests getFileRequests() {
-        return fileRequests;
-    }
-
-    @Override
-    public void setFileRequests(FileRequests fileRequests) {
-        this.fileRequests = fileRequests;
-    }
-
-    @Override
-    public FileClient getFileClient() {
-        return fileClient;
-    }
-
-    @Override
-    public void setFileClient(FileClient fileClient) {
-        this.fileClient = fileClient;
-    }
-
-    @Override
-    public FileStore getFileStore() {
-        return this;
-    }
-
-    @Override
-    public FileDecompressedListener getFileDecompressedListener() {
-        return this::processOnDemandQueue;
-    }
-
-    @Override
-    public AutoProcessor getAutoProcessor() {
-        return this;
-    }
-
-    @Override
-    public boolean shouldAutoProcess(FileRequests fileRequests) {
-        return onDemandFetcher == null;
-    }
-
-    @Override
-    public FileIndex getIndex(int index) {
+    public final FileIndex getIndex(final int index) {
         return fileStores[index];
+    }
+
+    @Override
+    public final void decompressed(final FileResponse fileResponse) {
+        processOnDemandQueue(fileResponse);
     }
 
     /**
@@ -6973,9 +6943,9 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
     }
 
     public void processGameLoop() {
-        final FileClient fileClient = this.fileClient;
-        if (fileClient != null) {
-            fileClient.getFileRequests().process();
+        final FileRequests fileRequests = swiftFUP.getFileRequests();
+        if (fileRequests != null) {
+            fileRequests.processDecompressedResponses();
         }
 
         callbacks.tick();
@@ -7946,9 +7916,15 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
             return;
         }
 
-        spriteCache.get(62).drawARGBSprite(0, 0);
+        final Sprite sprite = spriteCache.get(62);
+        if (sprite != null) {
+            sprite.drawARGBSprite(0, 0);
+        }
+
         String message = s + " " + i + "%";
-        newBoldFont.drawBasicString(message, (canvasWidth / 2 - 152) + (304 - newBoldFont.getTextWidth(message)) / 2, (canvasHeight / 2 - 18) + 22, 0xffffff, 0);
+        newBoldFont.drawBasicString(message,
+                (canvasWidth / 2 - 152) + (304 - newBoldFont.getTextWidth(message)) / 2,
+                (canvasHeight / 2 - 18) + 22, 0xffffff, 0);
         rasterProvider.drawFull(0, 0);
     }
 
@@ -8011,22 +7987,37 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
         return true;
     }
 
-    private StreamLoader streamLoaderForName(int fileID, String archiveName, String fileName, int expectedCRC, int progress) {
-        byte[] data = fileStores[0].readFile(fileID);
+    private StreamLoader streamLoaderForName(final int groupID,
+                                             final String displayName,
+                                             final String groupName,
+                                             final int expectedCRC,
+                                             final int loadingPercent) {
+        drawLoadingText(loadingPercent, "Loading " + displayName + "...");
+
+        byte[] data = fileStores[0].readFile(groupID);
 
         if (Configuration.USE_UPDATE_SERVER) {
-            int filePair = FilePair.create(0, fileID);
+            final FileRequests fileRequests = swiftFUP.getFileRequests();
+
+            final int filePair = FilePair.create(0, groupID);
+
             if (data != null && !fileRequests.checksum(filePair, data)) {
                 data = null;
+
+                drawLoadingText(loadingPercent, displayName + " checksum did not pass");
                 //System.out.println("did not pass checksum, data set to null");
             }
+
             if (data == null) {
-                FileRequest request = fileClient.request(filePair);
-                fileClient.flush();
+                drawLoadingText(loadingPercent, "Requesting " + displayName + "...");
+
+                final FileRequest request = fileRequests.filePair(filePair);
+                //fileClient.flush();
+
                 try {
                     data = request.get(1, TimeUnit.HOURS).getData();
-                } catch (InterruptedException | ExecutionException | TimeoutException e) {
-                    e.printStackTrace();
+                } catch (final InterruptedException | ExecutionException | TimeoutException e) {
+                    log.error("Failed to get stream loader data \"" + displayName + "\"", e);
                     return null;
                 }
             }
@@ -9984,7 +9975,7 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
                         Settings.DISPLAY_PING = !Settings.DISPLAY_PING;
                     }
 
-                    if (myPrivilege == 2 || myPrivilege == 3 || myPrivilege == 4 || Connection.DEVELOPMENT.equals(Configuration.CONNECTION)) {
+                    if (myPrivilege == 2 || myPrivilege == 3 || myPrivilege == 4 || Connection.DEV.equals(Configuration.CONNECTION)) {
                         /* Commands */
                         if (inputString.equals("::reint") || inputString.equals("::Reint") || inputString.equals("::REINT")) {
                             TextDrawingArea aTextDrawingArea_1273 = new TextDrawingArea(true, "q8_full", titleStreamLoader);
@@ -11772,8 +11763,6 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
 
     public void login(String username, String password, boolean reconnecting) {
         try {
-//            System.out.println("Just called login: "+ System.currentTimeMillis()%60000);
-            // Start login lag1
             final Connection connection = Configuration.CONNECTION;
             socketStream = new BufferedConnection(new Socket(connection.getGameAddress(), connection.getGamePort()));
             outgoing.position = 0;
@@ -12559,10 +12548,6 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
 
         drawSmoothLoading(10, "Initializing client resources");
 
-        if (Configuration.USE_UPDATE_SERVER) {
-            initializeSwiftFUP(Configuration.UPDATE_SERVER_IP, Configuration.UPDATE_SERVER_PORT);
-        }
-
 /*        try {
             spriteCache.init(Paths.get(Utility.findcachedir(), Configuration.SPRITE_FILE_NAME + ".dat").toFile(), Paths.get(Utility.findcachedir(), Configuration.SPRITE_FILE_NAME + ".idx").toFile());
         } catch (IOException e) {
@@ -12575,14 +12560,48 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
         }
 
         keybindManager.load();
+
         for (int index = 0; index < 25; index++) {
             bubbles.add(new Bubble());
         }
+
         if (cache_dat != null) {
             for (int i = 0; i < fileStores.length; i++) {
                 fileStores[i] = new RSFileStore(cache_dat, cache_idx[i], i + 1);
             }
         }
+
+        if (Configuration.USE_UPDATE_SERVER) {
+            drawLoadingText(11, "Initializing SwiftFUP...");
+            swiftFUP = SwiftFUP.create(this, this);
+
+            drawLoadingText(12, "Initializing SwiftFUP file requests...");
+            final FileRequests fileRequests = swiftFUP.initializeFileRequests();
+
+            drawLoadingText(13, "Initializing SwiftFUP file client...");
+
+            final SocketAddress swiftClientSocketAddress =
+                    new InetSocketAddress(Configuration.UPDATE_SERVER_IP, Configuration.UPDATE_SERVER_PORT);
+
+            swiftFUP.initializeFileClient(
+                    FileClientGroups.ONE_THREAD,
+                    () -> drawLoadingText(14, "Initializing SwiftFUP file client..."),
+                    null,
+                    swiftClientSocketAddress
+            );
+
+            drawLoadingText(15, "Initializing SwiftFUP auto-processor...");
+            swiftFUP.startAutoProcessor();
+
+            drawLoadingText(17, "Requesting SwiftFUP checksums...");
+            final FileRequest fileChecksumsRequest = fileRequests.checksums();
+            while (!fileChecksumsRequest.isDone()) {
+                drawLoadingText(18, "Processing SwiftFUP checksums...");
+            }
+        }
+
+        drawSmoothLoading(19, "Loading stream loaders...");
+
         try {
             titleStreamLoader = streamLoaderForName(1, "title screen", "title", expectedCRCs[1], 25);
             smallFont = new TextDrawingArea(false, "p11_full", titleStreamLoader);
@@ -18775,7 +18794,7 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
 
     public static int fadeStep = 1;
 
-    private final void minimapHovers() {
+    private void minimapHovers() {
         final boolean fixed = !isResized();
         hpHover = fixed ? isMouseWithin(516, 571, 41, 72) : isMouseWithin(canvasWidth - 210, canvasWidth - 156, 48, 74);
         prayHover = fixed ? isMouseWithin(516, 571, 76, 106) : isMouseWithin(canvasWidth - 209, canvasWidth - 153, 84, 112);
@@ -19479,9 +19498,7 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
     private int mouseInvInterfaceIndex;
     private int lastActiveInvInterface;
 
-
-    public volatile FileRequests fileRequests;
-    public volatile FileClient fileClient;
+    public volatile SwiftFUP swiftFUP;
     public volatile OnDemandFetcher onDemandFetcher;
 
     private int lastRegionChunkX;
@@ -19882,8 +19899,19 @@ public class Client extends GameEngine implements SwiftFUP, FileStore, AutoProce
         return equipment;
     }
 
-    public void flushFileClient() {
-        fileClient.flush();
+    public final void flushFileClient() {
+    }
+
+    public final boolean loadData(final int indexID,
+                                  final int fileID,
+                                  final boolean flush) {
+        swiftFUP.getFileRequests().file(indexID + 1, fileID);
+        return true;
+    }
+
+    public final boolean loadData(final int indexID,
+                                  final int fileID) {
+        return loadData(indexID, fileID, true);
     }
 
 }

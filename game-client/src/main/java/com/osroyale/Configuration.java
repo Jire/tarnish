@@ -8,16 +8,23 @@ package com.osroyale;
  */
 public final class Configuration {
 
-    public static final String LIVE_GAME_ADDRESS = "51.81.49.39";
+    public static final String LIVE_GAME_ADDRESS = "game.tarnishps.com";
     public static final int LIVE_GAME_PORT = 43594;
 
     public static final String LIVE_CACHE_ADDRESS = "cache.tarnishps.com";
     public static final int LIVE_CACHE_PORT = 43595;
 
+    public static final String DEV_GAME_ADDRESS = "localhost";
+    public static final int DEV_GAME_PORT = 43594;
+
+    public static final String DEV_CACHE_ADDRESS = "localhost";
+    public static final int DEV_CACHE_PORT = 43595;
+
     /**
      * The IP address client will be connecting to.
      */
-    public static final Connection CONNECTION = Connection.ECONOMY;
+    public static final Connection CONNECTION =
+            Connection.DEV;
 
     /**
      * State of client being in debug mode.
@@ -77,7 +84,8 @@ public final class Configuration {
      * Whether to use Jire SwiftFUP update server.
      */
     public static final boolean USE_UPDATE_SERVER = true;
-    public static final String UPDATE_SERVER_IP = CONNECTION.getUpdateAddress();
-    public static final int UPDATE_SERVER_PORT = CONNECTION.getUpdatePort();
+
+    public static final String UPDATE_SERVER_IP = CONNECTION.getCacheAddress();
+    public static final int UPDATE_SERVER_PORT = CONNECTION.getCachePort();
 
 }
