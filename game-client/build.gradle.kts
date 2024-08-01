@@ -139,22 +139,4 @@ tasks {
         options.isDeprecation = false
         options.encoding = "UTF-8"
     }
-
-    register("allatoriJar", JavaExec::class.java) {
-        group = "allatori"
-        mainClass.set("com.allatori.Obfuscate")
-        classpath = files("$rootDir/allatori/allatori.jar")
-        args("$rootDir/allatori.xml")
-
-        jvmArgs("-Xmx2g", "-Xms1g")
-
-        outputs.upToDateWhen { false }
-        dependsOn("shadowJar")
-    }
-    register("allatoriStackTraceRestore", JavaExec::class.java) {
-        group = "allatori"
-        mainClass.set("com.allatori.StackTrace2")
-        classpath = files("$rootDir/allatori/allatori.jar")
-        args("$rootDir/renaming-log.xml", "$rootDir/allatori/input.txt", "$rootDir/allatori/output.txt")
-    }
 }
