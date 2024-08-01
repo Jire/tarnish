@@ -1,0 +1,84 @@
+{
+    "id": 1419,
+    "name": "Scythe",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14632,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 3.175,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2003-10-31",
+    "duplicate": false,
+    "examine": "It's a Scythe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4Xs2XwUrDQBCGd97A01566SP4CIWeehFEb0GQgHhQBKmxamyReBH0IAgeRMWTPubI7DBssoKY4mTnh6UhWZKPb6abjXO9ApieyRQCAZxNp+E3vTpQGILG1XyOt3WN902DZVEMCRUhVotFGNdVFWDo3Nf7G17ub4TjzfFYGwrCwwVEYGQI6NOZx70ZQ6V3+McwTArUNsZGAD+WI1yWXtNShElt0APbQ+aTpXJLzVLsF7HyE6I7/7VWtRSB2jDprG64dEqWGOjvMBLAmwNFS/1gKFy6w20VS871g5Fw6ZQsrRvA410lS+uFS2fOkpQuvZIhcTX/bLJDsZm7I49VIX2UvXTRkJnSdV81RqBiAF8uRuEFbArK5FJApkxZej73+HBipnT8ryNLsitIZwwYCGZkfZIGz9hP3NRihoAILrulaIX7ST6h0pmDpbvpA3w89Xobuv5hICrjzsTZgaLSSSkzNnk7pmA4v8F8A/M+PR60LPJ+AAAAAElFTkSuQmCC",
+    "wiki_name": "Scythe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Scythe",
+    "equipment": {
+        "attack_stab": 3,
+        "attack_slash": 8,
+        "attack_crush": 3,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "scythe",
+        "stances": [
+            {
+                "combat_style": "reap",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "jab",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

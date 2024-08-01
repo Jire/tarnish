@@ -1,0 +1,84 @@
+{
+    "id": 25373,
+    "name": "Dragon harpoon (or)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 25374,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 55000,
+    "lowalch": 22000,
+    "highalch": 33000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2021-01-06",
+    "duplicate": false,
+    "examine": "A very powerful harpoon in the colours of the Trailblazer League.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByElEQVR4Xs3Xz0sCURAHcN8/0aWLsAdhQRBBFpGFQELEJRQlkVBSSaMyMimlIiwropKk3yBhYdChOkbn/rJvzdseKV26zRt4rK6XDzOz46zHMxYCKScMuo7fZwuB7Y0c4tGQLiiBw3YR7a087Ij/B8UKE+geVXDaKUtYo5ZGq5HlhAncnK/g4mQJveOqhB3vldDZKWC3OceBEri/rqN/uYar7rLMFuFU1uj3gNfLg6JMEYRKR5/veqt8oMFtQwKobARS5SIMC2jY3xwrG2WIKTsUAs+DlswSoah8b087XE2twkVRpkZLWC7EeFHUPy7APcyloxhtZIH3133518KYJY9nPBsCuagfdsAF/t5nC4HFpIVkxIRlTuqDyscCiFs+XVAC9dmILF00aCBgTOiBWnBCyEyZeqGK8aBE+W0bPkuLTVPAzmRgOQ7CyZQ+qKlsDrFSWaK8pqkHarowL1FGMKhPptLrDYRicUwYBkKmGp6ssO+3lrIjByc9fepogaI5RYd28moxwY/6/DjDy3BbLnm16owe5aNDT54aCdTwrCi1tiQqVTka6Eo4VpQbAgcPj8g2WxJF3xmXPBWqh9jeXv6GgmiB+W98AQCBWRPy+GzYAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon harpoon (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_harpoon_(or)",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": 32,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

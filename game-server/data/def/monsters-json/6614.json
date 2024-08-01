@@ -1,0 +1,108 @@
+{
+    "id": 6614,
+    "name": "Greater Skeleton Hellhound",
+    "last_updated": "2023-02-11",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2014-03-13",
+    "combat_level": 231,
+    "size": 2,
+    "hitpoints": 30,
+    "max_hit": 30,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "hellhounds",
+        "skeletons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 214.5,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Can never possibly go hungry.",
+    "wiki_name": "Greater Skeleton Hellhound (Vet'ion)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Greater_Skeleton_Hellhound_(Vet'ion)",
+    "attack_level": 228,
+    "strength_level": 295,
+    "defence_level": 180,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 150,
+    "defence_slash": 163,
+    "defence_crush": 20,
+    "defence_magic": 210,
+    "defence_ranged": 275,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 6806,
+            "name": "Skeleton champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.016129032258064516,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.005952380952380952,
+            "rolls": 1
+        }
+    ]
+}

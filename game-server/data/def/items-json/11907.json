@@ -1,0 +1,79 @@
+{
+    "id": 11907,
+    "name": "Trident of the seas",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 68500,
+    "lowalch": 27400,
+    "highalch": 41100,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2014-01-30",
+    "duplicate": false,
+    "examine": "A weapon from the deep.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhUlEQVR4XmNgGAUDDhj/Q/CgAIz/68rL/+ekpQ0WRzH+T09MBDvGQEFhIB0FiSZYyMAck5eRMRCOYvxfkpvzPzUuDsUxWcnJcD5EjG4AOSSQEzRytNE1lCAOkp455397Q93/soI8FEc1VFbSO5Ez/pdetAzsIAZvH5Roa62t+R8bHk7PqINEBygNJUVH/+9sbIBHESjUQGJ0cgzE0toosf/r66T/H+xV+H95pjLYYd1NTf+LsrP/uzo40M8xa2qk/5+bpvxfICHpP4OzKzxU0DFdHLO4TPr/6SlAx0THwh0DsxgbRjeBigCYY2LFwA4QCIvEcAy6ajqBUcdgA5AEOmgcI9bRM4gc09oBcQw0lAbeMaCsjeSQAXAMJCQ6ksUwHIOukg6A8f+WJgVICTwYHHNykvJ/sdqGweEYUN20s10BnoAH1DErqyCOYQgIHnjHHNyxHdKaQ2pYDZhj5k+b9r+3peW/j7v7wDtmclcXuFfg6ew80I6BAbo2oogDMIcMCscMJgAAQkdRCcuWvXMAAAAASUVORK5CYII=",
+    "wiki_name": "Trident of the seas (Partially charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_seas#Partially_charged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

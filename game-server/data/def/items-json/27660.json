@@ -1,0 +1,84 @@
+{
+    "id": 27660,
+    "name": "Ursine chainmace",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27661,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 175000,
+    "lowalch": 70000,
+    "highalch": 105000,
+    "weight": 2.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-25",
+    "duplicate": false,
+    "examine": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADV0lEQVR4Xr2XW2sTQRTHMw8lvXgpgaIQ0YVUU6KxaUoaQghNCDGWhNDSUKmlpbHESgxBqkW0EQRBqS8i9NF3+3F8ER988Xv04bj/M5nsZCW79rJ74JBMMt3zy/9cZhoI+GaCLPfd9ODSl4pFymYyZITDfkMJDgxPp1Lma9Z8TVMpn+fP4rEYAyUMww8oCYOgaytrVMjlWRGAFXI5Bnm+1/ZDJSstyUTSDGjwe4BEIxFWB0CATSYSfYU8UkmwEtVymWEAgKBIkwJdrlQYCIAepwyqLHF6AKOCKbdUEPTm/QHttJpUWa56C6RqA+mAOjqIFVTQy7f7lEh6mi6pAtITj8W5bpyDCSoulbxQR4Lsd1+zOkoVZxiYoFxBqjl8z6lNUG1qgrsGIPYidQ4kKJVOXRSQVOBhaIJ2G7v9LsI8CRthqs/P9VQaZnL+YO8FAAmaHhuhwuQotZ+2afPRhtniVZ7AAILXtWK1/7U0WfRqIA7f52qCbgVHKHNllDrPOtTcatJ6fd2cK8uDQHOzLoEEpxkpdt7naIJmxgNUnBxnmNZOi7bXtxlotbbKw1B2lwmUiDsEkulu7DZo48kGlatll/QONUG3gwEzeI0nLY4CpAtDEAqV8qXeMeEEJOjjl0MeiqihrWaDW1/V0uBeR5O/Kn05yEeCOqkhOQpauSxsg+qz94YAyWcdfHhH7VcdntTq2e5d2TdBmatBVgZq6DA6ENodzgrdv9svbPvTpP17nPw3TNaEQYpQJ0iNOhTtQHDMom5xkbq1iuuvPiUITFA5NMYpAgxaGwcnakVXSLk6u7r1FVeYM5oEgiqAQRep9zqYfhu0H6b2J57TzKtE6FJvvhhcsABSMADUodDy3t9tNCAEVO0NGOUSKsvf67c/+9MuwAS1b4Y4aDQSpe8LM1xLCkC5WmPPOSevmwnqmEAIiF+PNYCQMvWfA6vYWwPoa/S6t0AvTKBP09d4AmN9slmlP7koAx7Nz/Bn1sFq0NGC00A8twnaMySQUuNkJUe/s9H+bRBuHawm0INFL4Fggg5NIBX8pBSnX9kIHXdaEmZqvJ/Sb7EbdLz92Hugz3ckkAwi6GfGuqKixqCOWqt9HgLB9CCCfvSA1Fr/3gcYaYNBBlXwDcLJ/AT4Cyjkwrb36Jv+AAAAAElFTkSuQmCC",
+    "wiki_name": "Ursine chainmace (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ursine_chainmace#Charged",
+    "equipment": {
+        "attack_stab": 53,
+        "attack_slash": -2,
+        "attack_crush": 71,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 74,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

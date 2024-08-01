@@ -1,0 +1,79 @@
+{
+    "id": 6724,
+    "name": "Seercull",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6725,
+    "linked_id_placeholder": 14571,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 8000,
+    "lowalch": 3200,
+    "highalch": 4800,
+    "weight": 1.36,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2005-11-07",
+    "duplicate": false,
+    "examine": "An ancient Fremennik bow that was once used to battle the Moon Clan.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABvElEQVR4Xs2XXUsCQRSGnX/iHwi8CeliQRGRxUWURBExdGU1/MLPEBUJK4yWSIpCvBG69j++OTPt7lhWdDOzBw4sswvz8J4z754JBA6CwEvlQXB3O0O5XEA0oqmGIthu37DbvaPfa6JUzCMcPlUPRXM87mE4bME0i+qhQsGg20OTyYApRZ/5usIQwXzQT04Q1OsVxOMRf6hEIeiJ0/UYXle2H1QirLHT6SSDUQxF0OlcMoW8cimFImi1aq46Xv8og9o3dDmJmBY60tBKoAgapoFsSoN2dnJkc+lQBPNREVftLNpWCnrMcWwRQCrU/kc7reB+buJxUUOjUWWu7fSU+J1UKCeXyzlrcmoDuVxGUMsDkmKcdBPxN0Kz2y0hn9ddB5eskhdf4XzkUTQIm5u88vE1hVDcyQ0jIajE1xVBEQya5/4yTupTpVz0c2Mx+XvJUAT2dRXdegZGIsxGFFo+z6eknz5unNN+AZZ1wQY56lN0FheTTptSof7K2WzE7EHaZcHxpp/SAfs+xigNwsrqKyDbXrAek1K234PfiG8WU/c6pVglgvX66aBkCoEINpsVXp4f/ADjBD9l/4H5AG52iQsZxPrnAAAAAElFTkSuQmCC",
+    "wiki_name": "Seercull",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Seercull",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 69,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

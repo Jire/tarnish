@@ -1,0 +1,79 @@
+{
+    "id": 874,
+    "name": "Black knife(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14482,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 18,
+    "lowalch": 7,
+    "highalch": 10,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWUlEQVR4XuWVvUoDQRSFc9/AaptpFlIIAWERgo+QRtKYJqYxFjGwIsSwJDFrGBH/II2IjZXggx65M8y6GWO63TvggdssM/Dxnbu7jcb/CsF/IhhCpiMEAkXQawuTxLEZ/0SNITy+RYUdcZj1h0L+HCHN9qSBCK+fygCV7QgBEd6/lAEKwA7hqN0uRtjOD8xhkmC/2ZS08xsmVsqMAJCFYRA3Dkigrr9hxOyUYQ5arbCAtsHUDsSV6cUC88lkK5B/o+IQ7pdL3EynODvtFzBCQISH2xx5luE6TdHv9XDc6RgQgboIT3qF1WxW2DnpdjdAaoThkNkbtnM5Ghk7AlZc7N6wHQY6Hww27PinK46tiu0w0MVwKGmH8HKnjR0G4t0Rt8NvVTB2uCpn52o8NnbEYLgqtuOAfDv+jYpj7TggYTsudn8YSNhOOfb7w19lYTvliPyndicomLrzDVZ2bdJnXb9zAAAAAElFTkSuQmCC",
+    "wiki_name": "Black knife (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_knife#Poison",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 10,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 8,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

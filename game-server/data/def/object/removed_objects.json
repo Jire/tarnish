@@ -1,0 +1,522 @@
+[
+  {
+    "name": "wilderness gates",
+    "position": {
+      "x": 3336,
+      "y": 3896,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness gates",
+    "position": {
+      "x": 2855,
+      "y": 3546,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1806,
+      "y": 3528,
+      "z": 0
+    }
+  },
+  {
+    "name": "cart",
+    "position": {
+      "x": 3088,
+      "y": 3509,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1802,
+      "y": 3528,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1798,
+      "y": 3528,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1798,
+      "y": 3525,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1802,
+      "y": 3525,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1806,
+      "y": 3525,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1810,
+      "y": 3525,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1814,
+      "y": 3525,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1818,
+      "y": 3525,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1810,
+      "y": 3528,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1814,
+      "y": 3528,
+      "z": 0
+    }
+  },
+  {
+    "name": "random object",
+    "position": {
+      "x": 1818,
+      "y": 3528,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness gates",
+    "position": {
+      "x": 2854,
+      "y": 3546,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness gates",
+    "position": {
+      "x": 3337,
+      "y": 3896,
+      "z": 0
+    }
+  },
+  {
+    "name": "pillar",
+    "position": {
+      "x": 1810,
+      "y": 3567,
+      "z": 0
+    }
+  },
+  {
+    "name": "bookcase",
+    "position": {
+      "x": 3079,
+      "y": 3507,
+      "z": 0
+    }
+  },
+  {
+    "name": "bookcase",
+    "position": {
+      "x": 3077,
+      "y": 3507,
+      "z": 0
+    }
+  },
+  {
+    "name": "pillar",
+    "position": {
+      "x": 1811,
+      "y": 3565,
+      "z": 0
+    }
+  },
+  {
+    "name": "pillar",
+    "position": {
+      "x": 1813,
+      "y": 3574,
+      "z": 0
+    }
+  },
+  {
+    "name": "rocks",
+    "position": {
+      "x": 1807,
+      "y": 3570,
+      "z": 0
+    }
+  },
+  {
+    "name": "pillar",
+    "position": {
+      "x": 1809,
+      "y": 3574,
+      "z": 0
+    }
+  },
+  {
+    "name": "pillar",
+    "position": {
+      "x": 1809,
+      "y": 3578,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness lava dragon gates",
+    "position": {
+      "x": 3202,
+      "y": 3856,
+      "z": 0
+    }
+  },
+  {
+    "name": "lava maze gate",
+    "position": {
+      "x": 3075,
+      "y": 3867,
+      "z": 0
+    }
+  },
+  {
+    "name": "lava maze gate",
+    "position": {
+      "x": 3076,
+      "y": 3867,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness lava dragon gates",
+    "position": {
+      "x": 3201,
+      "y": 3856,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness gates",
+    "position": {
+      "x": 3224,
+      "y": 3904,
+      "z": 0
+    }
+  },
+  {
+    "name": "wilderness gates",
+    "position": {
+      "x": 3225,
+      "y": 3904,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1814,
+      "y": 3563,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1809,
+      "y": 3571,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1809,
+      "y": 3572,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1807,
+      "y": 3572,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1804,
+      "y": 3572,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1803,
+      "y": 3572,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1803,
+      "y": 3571,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1806,
+      "y": 3572,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1808,
+      "y": 3572,
+      "z": 0
+    }
+  },
+  {
+    "name": "donator zone",
+    "position": {
+      "x": 1808,
+      "y": 3571,
+      "z": 0
+    }
+  },
+  {
+    "name": "Edgeville bush",
+    "position": {
+      "x": 3077,
+      "y": 3503,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pest Control Door",
+    "position": {
+      "x": 2670,
+      "y": 2593,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pest Control Door",
+    "position": {
+      "x": 2670,
+      "y": 2592,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pest Control Door",
+    "position": {
+      "x": 2657,
+      "y": 2585,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pest Control Door",
+    "position": {
+      "x": 2656,
+      "y": 2585,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pest Control Door",
+    "position": {
+      "x": 2643,
+      "y": 2592,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pest Control Door",
+    "position": {
+      "x": 2643,
+      "y": 2593,
+      "z": 0
+    }
+  },
+  {
+    "name": "Al-kahrid Door",
+    "position": {
+      "x": 3287,
+      "y": 3172,
+      "z": 0
+    }
+  },
+  {
+    "name": "chair",
+    "position": {
+      "x": 3092,
+      "y": 3496,
+      "z": 0
+    }
+  },
+  {
+    "name": "Al-kahrid Door",
+    "position": {
+      "x": 3287,
+      "y": 3171,
+      "z": 0
+    }
+  },
+  {
+    "name": "Pillar",
+    "position": {
+      "x": 1808,
+      "y": 3568,
+      "z": 0
+    }
+  },
+  {
+    "name": "Al-kahrid Door",
+    "position": {
+      "x": 3298,
+      "y": 3172,
+      "z": 0
+    }
+  },
+  {
+    "name": "Al-kahrid Door",
+    "position": {
+      "x": 3298,
+      "y": 3171,
+      "z": 0
+    }
+  },
+  {
+    "name": "wildy gate",
+    "position": {
+      "x": 3071,
+      "y": 3857,
+      "z": 0
+    }
+  },
+  {
+    "name": "wildy gate",
+    "position": {
+      "x": 3071,
+      "y": 3856,
+      "z": 0
+    }
+  },
+  {
+    "name": "Ardy Door",
+    "position": {
+      "x": 2564,
+      "y": 3310,
+      "z": 0
+    }
+  },
+  {
+    "name": "Herb Stall",
+    "position": {
+      "x": 3098,
+      "y": 3499,
+      "z": 0
+    }
+  },
+  {
+    "name": "Mysterious Ruins",
+    "position": {
+      "x": 3097,
+      "y": 3472,
+      "z": 0
+    }
+  },
+  {
+    "name": "KBD Gates",
+    "position": {
+      "x": 3008,
+      "y": 3849,
+      "z": 0
+    }
+  },
+  {
+    "name": "KBD Gates",
+    "position": {
+      "x": 3008,
+      "y": 3850,
+      "z": 0
+    }
+  },
+  {
+    "name": "lectern",
+    "position": {
+      "x": 1801,
+      "y": 3540,
+      "z": 0
+    }
+  },
+  {
+    "name": "Yak Gates",
+    "position": {
+      "x": 2326,
+      "y": 3802,
+      "z": 0
+    }
+  },
+  {
+    "name": "Yak Gates",
+    "position": {
+      "x": 2328,
+      "y": 3804,
+      "z": 0
+    }
+  },
+  {
+    "name": "Yak Gates",
+    "position": {
+      "x": 2328,
+      "y": 3805,
+      "z": 0
+    }
+  }
+]

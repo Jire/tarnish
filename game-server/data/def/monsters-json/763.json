@@ -1,0 +1,82 @@
+{
+    "id": 763,
+    "name": "Giant Roc",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-10-23",
+    "combat_level": 172,
+    "size": 5,
+    "hitpoints": 250,
+    "max_hit": 14,
+    "attack_type": [
+        "crush",
+        "ranged"
+    ],
+    "attack_speed": 6,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "birds"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 250.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "A very, very large mountain-dwelling bird.",
+    "wiki_name": "Giant Roc (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_Roc#Normal",
+    "attack_level": 130,
+    "strength_level": 130,
+    "defence_level": 100,
+    "magic_level": 1,
+    "ranged_level": 130,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 150,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "rolls": 1
+        }
+    ]
+}

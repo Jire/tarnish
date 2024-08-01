@@ -1,0 +1,79 @@
+{
+    "id": 12766,
+    "name": "Dark bow",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15073,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120002,
+    "lowalch": 48000,
+    "highalch": 72001,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2014-09-18",
+    "duplicate": false,
+    "examine": "A bow from a darker dimension, painted blue.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9ElEQVR4Xu2XTUsCQRjHd75EZ8GDIAgiSIh4CJGQPBiJYREkYnnYBF/KXkwUScQKS1GR6lJB177hP2fXcWd3FYKanQ794GHZeRbmxzPjM6Oi/PMjCKwjEiF4fKhBohSd2Bwxj6I9/S6XRUq4JEG3W8JweIGgS1lEwqcLWePpqcm9C0OfwLumLCLicyEQySIUUxHeryKcKSGUVvH22tG+ve1VREoRXF7mcV7LodMs2qrii2Xgjx8gkMhiSz1HvHCqVZXm7Ev6axgCTIpOpk9o5CJ7eWweldFun4gWUhRewKiUPbeezCB6qIoXMmOX4nMb5WunhSizX2BL3yvW8XilJ0OIskxqtpdyNRwMPpfIOoJViiCwnUXiZiCrShS7VCHtw10lPB+TVKnbNt8Qdan0+B27kw9ObFkIwy7FB5Xb6T8j2ZtgMq5rR1K/f+asFOtRrE/FckWtoycrLZOs4L1mrZQ5RxsnPWJenlsYja6cqBKF4L5TXTER0c4/eijzFRJcJcoqKQJPKI71nYKTMozVUsFkfiFkzglnmdTs6hLKyBKiEPS7/OadXfqCqfk7C8fhpYh280yFvdodnfYl6VJRvxsRt35PZ0sndfn+iAyFoF4/XvyLYULWrxxEF6LP6bTxt4SaDaM5Wr9yGCYhff8YMInvyHwBdieL0OZbVd0AAAAASUVORK5CYII=",
+    "wiki_name": "Dark bow (Blue)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dark_bow#Blue",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 95,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 9,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

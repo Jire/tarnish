@@ -1,0 +1,77 @@
+{
+    "id": 27424,
+    "name": "Platinum speedrun trophy",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27425,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-10-12",
+    "duplicate": false,
+    "examine": "A platinum trophy to show your speedrunning prowess.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAD+UlEQVR4Xs2X30tTYRjHd/6JbroZdBEIgTcRXgRKSEQjGEoxwqgkhWliaWoq4RqaWsvZxqyGTRu1ftkPa0xzq9nUVcvStF8Di7opiPoLgie/z8t7djbXD3VbPfDcnPOe9/28z++j0y1bFPq1Zk3SbS4OdUzE6PSDSeoKhMgydJcGz9WTq6eabB0V2YJTaM8xa8rGCp2115DZdoaqe11U63JT3XkPtV2/w1An/EEGPDU2Tu3DI7SxeFumoBTquHefjt/yU3nHSSqpqeONXdEXDLDf2knhsEfVvA1W1ifRVvryOcRQvZGnNBW0s9UyAKWQ9XaAb9ly6TpbxNTYQr6Z13T+yQx1Wvaza5y2KhVGCzVyq51diHW1VUYGytfrVwOlsBUKd5oYqns0zO65sgjkjs1SbNzBtx8PnKLg8AkKDFmpadDH1oMrK7vt1HLERJX7tpPRUKABWnFsKbzxZmOpugHiAha6EHtJ0xEnPX5gp8iojUL+LrZIvXuQv6notNE+SzuZDxjIsG1TEkRDv5e1YIewWuqpvxHxsbG6Nu3tbrx8S7NRN/k8TeR1N5Cnr45jDW7dYT5Ibc1larDjIogpxCSsvWm7Qd1zGW4UQb376DENkE4nwYZfxWk+dpFeTLhocuw0uw0uhYUQb7DOOv2apEtAtZm3DBiIwnGDOFr6sUKBtwuqlZ6Ge9UYA1BZaxuZSguTrCAvAqD8oi1p9vyjKFz0qnqc7ILELcW7UPwDQ8FKfYtZB7dIIKzfUpif5lABpAVNvPsrEVZCLWr2XqUiU5kKNvH+Ez1a+Eg3595xGbAFIwxUeriBM1Ofl5cWSNazFcBIEQCtviEqLturmhtAY/H39HAyymXAHp5iIMTc1r3l5PZeTnOwwu+WPl+2CFMf6utXAxLW+frtOwNB4V68R7ojMwFkWryAuJDYA+VClpFVAkEUPhC9DVDXZt8kAcFlSHPUIKR+t93BKi2MPlfjOKvCZAQIBzYOXOKNUSDhqiH/iKoIaADDQloYfKeNqQzASBEHIMBx+MCzObKPP+Z6hRhDRkogPHdOTfO6LMEIkfVEqwBE25DZhaaMKq9dkxUYrSQOUHgagHXQn9bo1y2ByDpMsijsGtQqZJAEyjFEqohx9r+BwYyktwRobVu6YphzUejI8x8qkIRKXZVDEVmGCdFQYf4/XIaARhXPYFtYqYj0RtVGIZST4D9ymag/F5/Pc9qj08NlgFrvi+caTDTLtYcGWDGg4Y8DcYR5BzPRrvom1hxBCSBYCM0WbYM7eUEJw0jF/JRwY9ZEjCFalf9h+OvAgAYrwX1ywsxB1iWapgTBYIbhXsLAOmi2Eih1h4xL4tbJnT9VV2Odn20mEDlDjY/uAAAAAElFTkSuQmCC",
+    "wiki_name": "Platinum speedrun trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Platinum_speedrun_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

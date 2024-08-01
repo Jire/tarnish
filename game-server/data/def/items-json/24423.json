@@ -1,0 +1,94 @@
+{
+    "id": 24423,
+    "name": "Harmonised nightmare staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 24508,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 4600000,
+    "lowalch": 1840000,
+    "highalch": 2760000,
+    "weight": 1.6,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2020-02-06",
+    "duplicate": false,
+    "examine": "An ancient staff corrupted by darkness. A harmonised orb has been added to it.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xs2Wz2rCQBDG3ZfoxUsgByFQCEIIUgIREQkGUZSKFkUpttLWUhAKLT0IvRRKoYe+iY/QU59q6swyZqOlWJo/+8GQZHOYH/PN7myhcLAE7K7kKAF13weNoCRQUKvpAiWBwkYj60phIjWidazOaadD67fzeRZQAk4qFRj1+xST4SAG1242odtq7QCnCiWBMDi5+kS78MkgaF30nZoElEyTklU9j2zCd25obmrbMGJVkt+pScCxZYHrOFQtFYgbOgIQMKmrNqYmQUAYXCm0jGFUoJ5Xp/WyacWqliBgBINRtm2CeZzdwMwLd5IJCF2foJ7WX/C2/gTLMGHRGsJ9b5oslBo124WG5cBiOIWBH1Dwv8A5Iajz1Stcv3xsm3/ZHdP/xPqLrVEb+Crsb995HWER6vL5nezlA/Suc5YsUFyCrMDkai/hExPjuhrqbkwJCBVZyFAcRrG4Dey5/d2YklQLEWrQ5bm2HylX5ycJWD3Imab2W7z3MtWmSoE8NGVVtJCcf5n0y2GShyhud62qhFDaWactlEb3bpSEih+cuUtCLccXMKry7SB3yergGEn4GvIfyZtA23IJSJtzyj6Ss08TINSmp4olXWxj5TL9f5dWMH/RN9N3eTJPmpgmAAAAAElFTkSuQmCC",
+    "wiki_name": "Harmonised nightmare staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Harmonised_nightmare_staff",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 16,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 14,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 15,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 75,
+            "hitpoints": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

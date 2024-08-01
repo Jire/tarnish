@@ -1,0 +1,84 @@
+{
+    "id": 7437,
+    "name": "Spork",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 7438,
+    "linked_id_placeholder": 14352,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 325,
+    "lowalch": 130,
+    "highalch": 195,
+    "weight": 1.814,
+    "buy_limit": 50,
+    "quest_item": false,
+    "release_date": "2006-03-15",
+    "duplicate": false,
+    "examine": "Use the spork.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xu2WzUrDQBSFO28S6KIgBEIglFIKgosuLIIoCpVCVdpm0QpBKoG6KIUuBBfiE/imV88dJz9T6C53BvTAgSxmuF/m/sy0Wn9LirSdS4Pcn3do1A9+oZyBKVpdhwxzddouYEowUZUwd8NOAWPAoiBg27saUgmT3oTs3bJbAxOFyW4jhlmNQ8ofY3Y2iQqY2cWJVMoU5ZOYAxoYgMD43qYJrccxpZehxCkp2j4kDIPg62ndgHnLevSZD/j0RIDw5yZFVW/mCe2fDmEaB0IhI7htwHy8DIraEYCBFNeHSY8xuuv9uS8NAyn6ej3jlCBNAIFRN9UiFoKB9PWAWcMt/5M+dJxzGD1f6haHQX0YGBPctr2rIelWt2HsVULyDAZF6w0MLs9/mEPpSewNDIac4MV4TIo2U/2s8AbG0fi3pR9c3sDsZl2eNV7A7Bc9bm8PYCDdUdX2tlc4kJNnw3F5BeOLvgF9wHG8jDx4ngAAAABJRU5ErkJggg==",
+    "wiki_name": "Spork",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Spork",
+    "equipment": {
+        "attack_stab": 11,
+        "attack_slash": 8,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

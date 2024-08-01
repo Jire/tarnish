@@ -1,0 +1,77 @@
+{
+    "id": 2464,
+    "name": "Blue flowers",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 2465,
+    "linked_id_placeholder": 16982,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.028,
+    "buy_limit": 150,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A posy of flowers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADNElEQVR4Xu2W60sUYRTGnX/CL/tlYD8IC4IEIossrMh+kCSEFsPEMMMUvGCEJBWSVKIhVBBCdmHJbpYmXjAWFdtKFkmWJYmI6G85zXPeeS87rtE2o+uHDhyWmTnznt8853lfraj4H/8cFok8FmFROPLFydwfoI4MWMKYQN7mTk31N07v/f21vsMAqs6THflMdtWWk+9VMwGzx89xXWPb/CvqRAYIpcfFTSM7TmadJhnVSMKIGgHFNQyPuowB6juECj9yCfr1NUHfdxspv93gNNlwclWrBBgHfC/bSD/zCXUtwQICcmQPL1PITtFuJk65Tw2U3YzT9nrM/foNqgxNuHAZbo4aQDG0q5CE8QlkiQUZ6DF9WIvR5mo9pRejnHZVmp+HwnOsFOp2tuIqFXhwHnJ94AItva6jdy/qaH5W5PXUBTUumR/TMU4TXnooMCgkVABUZegejwj3+iZbaexVj+ENi9aXBcTaQlR9gAkczNhY8jT7JGTPMBg8hWeX7p81gER9yJ4VNXKUzrsBwOiv4gbO4kqp8LyTizxK3LvysNOtFe/hmYDBR2TYZzgqdE3JAQioMOtCzLMfYFRuZiiE7B5roZFH59W1ABHHATyIHLrbplTydvuL0EAAgB/gDWlSVsiFld6Bn0afdSsomfXNNdQ+3MTQPoAQelGYEyArb6Js0rlUrcfMot70k/aLRa2DCeq81qxUKuxTUggguc1fPq2lSnua1cHv+EK/oYaoH57uKNLUonMjJ6nn1mk/KsndkuIEAG95Fwi7DWa+szRIN+d6FRhGU2hysVas5QR1jZ7yoxKAAAMvzQggN+W2RhP4A+ObWBxQY4Sfrj7p2geFsfWOJ/2qJGAkGFKqIbOpI8r+mVoZottv+/gelLjx/KIBZVFDspYV9KESorC5/DqvcZHJ/kb+cyLHePlBu6qXa8HgULDwfonhBSi2kASDWmgIw8Mz2uRaKYzNp0qlhFYL5kZzHJomWKKtjgamzhywIw8hzDHCM2iOUXp3o8/Tu/QwwaTpNYAwvvST991DDov9VMzk8vrIVNJh8UntPTTLBCPjoEOzrCG8o/8zOBZRVu8Uj1JgfgPncTS2dzZ/VgAAAABJRU5ErkJggg==",
+    "wiki_name": "Blue flowers",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Blue_flowers",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

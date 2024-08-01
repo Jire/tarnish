@@ -1,0 +1,84 @@
+{
+    "id": 25738,
+    "name": "Holy scythe of vitur (uncharged)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 4000000,
+    "lowalch": 1600000,
+    "highalch": 2400000,
+    "weight": 3.175,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2021-06-03",
+    "duplicate": false,
+    "examine": "A powerful scythe cleansed in the light of Saradomin. It is currently uncharged.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmElEQVR4Xu2WTUsCQRjHnS/hWegQeJJgD4sXQ0QkicQwFJJCeiEoEMlehIiwF1sWbQU7JGQiidGpWx+gz/VPZ9ox1yDXdnQIf/BcdnZ9fv6fmVWXa8b/g+DnmgoE7085NLQMWpVtdKq7vKYoRtDUt3B3lhpIqHKyRGvCUqz5Wy2Nj/YOTcYoRHn11nweDy3rkwIgKJ1fQi+WULnRUdMN1ItxZNN+npIpZX1SAEymelvGa7ONl8YzOo8tdMpJtLTEkJDghJhM+UrDg3FPG7b1NS4RURTE/OrQ2Kyf4hCEjki7uOYCrNn3vcKk5txuy3XH6R7x+iZPxWxkNhtsyqS8X4L9645CcJo7opt3tDH0XwG/3zsWBPmDnM0xdO/1BUWlRHCcPbT5jQkCgSRCoQ1xUqOnY0IQDmf4+Kyrf8aejAnBaiKPaHRPjNR4MClVjckl1UtJUSJySS0G120eDqEQLK/s09MnVUq9/SRVSslUgSYlVUrxeP/Nb12dApKmNIF/BXYgCC74oHrn5RqdKSOJEPt9lEZmhtN8AgigIuItSVb1AAAAAElFTkSuQmCC",
+    "wiki_name": "Holy scythe of vitur (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Holy_scythe_of_vitur#Uncharged",
+    "equipment": {
+        "attack_stab": 50,
+        "attack_slash": 75,
+        "attack_crush": 10,
+        "attack_magic": -6,
+        "attack_ranged": 0,
+        "defence_stab": -2,
+        "defence_slash": 6,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "scythe",
+        "stances": [
+            {
+                "combat_style": "reap",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "jab",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

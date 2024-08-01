@@ -1,0 +1,402 @@
+{
+    "id": 7398,
+    "name": "Insatiable mutated Bloodveld",
+    "last_updated": "2021-09-02",
+    "incomplete": false,
+    "members": true,
+    "release_date": "2016-09-15",
+    "combat_level": 278,
+    "size": 3,
+    "hitpoints": 410,
+    "max_hit": 20,
+    "attack_type": [
+        "melee",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "bloodveld"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 50,
+    "slayer_xp": 4100.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "I wouldn't want to get near that tongue.",
+    "wiki_name": "Insatiable mutated Bloodveld",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Insatiable_mutated_Bloodveld",
+    "attack_level": 250,
+    "strength_level": 190,
+    "defence_level": 130,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 25769,
+            "name": "Vile ashes",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1159,
+            "name": "Mithril full helm",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 3
+        },
+        {
+            "id": 1301,
+            "name": "Adamant longsword",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 3
+        },
+        {
+            "id": 1331,
+            "name": "Adamant scimitar",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "rolls": 3
+        },
+        {
+            "id": 1147,
+            "name": "Rune med helm",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "rolls": 3
+        },
+        {
+            "id": 4125,
+            "name": "Black boots",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 3
+        },
+        {
+            "id": 1213,
+            "name": "Rune dagger",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 3
+        },
+        {
+            "id": 1373,
+            "name": "Rune battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 3
+        },
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": false,
+            "quantity": "105",
+            "noted": false,
+            "rarity": 0.0546875,
+            "rolls": 3
+        },
+        {
+            "id": 554,
+            "name": "Fire rune",
+            "members": false,
+            "quantity": "75",
+            "noted": false,
+            "rarity": 0.0703125,
+            "rolls": 3
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "30",
+            "noted": false,
+            "rarity": 0.1015625,
+            "rolls": 3
+        },
+        {
+            "id": 13495,
+            "name": "Ensouled bloodveld head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "7",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 3
+        },
+        {
+            "id": 566,
+            "name": "Soul rune",
+            "members": true,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.0546875,
+            "rolls": 3
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "350",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 3
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "11",
+            "noted": false,
+            "rarity": 0.0234375,
+            "rolls": 3
+        },
+        {
+            "id": 1777,
+            "name": "Bow string",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 3
+        },
+        {
+            "id": 444,
+            "name": "Gold ore",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0546875,
+            "rolls": 3
+        },
+        {
+            "id": 2327,
+            "name": "Meat pie",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 3
+        },
+        {
+            "id": 2359,
+            "name": "Mithril bar",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 3
+        },
+        {
+            "id": 1698,
+            "name": "Ruby amulet",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "rolls": 3
+        },
+        {
+            "id": 23962,
+            "name": "Crystal shard",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1151,
+            "name": "Black med helm",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 3
+        },
+        {
+            "id": 1355,
+            "name": "Mithril axe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 3
+        },
+        {
+            "id": 2722,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0196078431372549,
+            "rolls": 1
+        },
+        {
+            "id": 19677,
+            "name": "Ancient shard",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015151515151515152,
+            "rolls": 1
+        },
+        {
+            "id": 19679,
+            "name": "Dark totem base",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 19681,
+            "name": "Dark totem middle",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1369,
+            "name": "Mithril battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.046875,
+            "rolls": 3
+        },
+        {
+            "id": 19683,
+            "name": "Dark totem top",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20730,
+            "name": "Mist battlestaff",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 20736,
+            "name": "Dust battlestaff",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 21270,
+            "name": "Eternal gem",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0011160714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 20724,
+            "name": "Imbued heart",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0011160714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 1121,
+            "name": "Mithril platebody",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "rolls": 3
+        },
+        {
+            "id": 867,
+            "name": "Adamant knife",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0234375,
+            "rolls": 3
+        },
+        {
+            "id": 1111,
+            "name": "Adamant chainbody",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0234375,
+            "rolls": 3
+        }
+    ]
+}

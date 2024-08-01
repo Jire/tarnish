@@ -1,0 +1,77 @@
+{
+    "id": 10487,
+    "name": "Undead chicken",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 17098,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2006-12-12",
+    "duplicate": false,
+    "examine": "It looks at you with beady eyes.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu2XUUeDYRTHd75E1y99gW67q4t0scRsyiSmZJQxYvUJukhJJJEUdRWRUZrdlC7TxRLpouiTnPzP42zPXnvv6pxRf/5mj+f1/Pyfc87e5XJ/S8TBQyHi2+tDbt8cDwMU8d52g89PtgRmLEnE6V2GCuk0rw66QOkdxiLe39nwSkcLV+uE+K55xJcXux7pEK+vFXl1aYYr5SkBeHlu8ddnh99eH/2AqpU8L85N8n3rVNJBMX+8P/kANWolrq3MyuEP7bNuUm71A6B6tSBQ5eKEJKVQ5jCb9XmBgVFHenUO6ZAcjnRQQ6PJCC8vTEtCDjBQuCrAIB2tGVcYtQIpiDkMrga1o0Yx9zrLXKGQYyMhQLp0Fa5oEFDcXemnfklhImcBxQkZpERyaBYQ5k/c7umnf1gkBw4C0i6Lp7IbkMJgzTAdKBsI3+FCftwXSI35E8MYAIXfqxhIuwprxjBQP5C+YmDNAQbqAeETRkc5wUAkADCmMOwIo4r/Ubi9XvRLAWKn9/zLUt/dfc6sz9QVegAAAABJRU5ErkJggg==",
+    "wiki_name": "Undead chicken (item)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Undead_chicken_(item)",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

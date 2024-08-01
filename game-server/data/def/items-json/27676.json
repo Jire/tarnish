@@ -1,0 +1,91 @@
+{
+    "id": 27676,
+    "name": "Accursed sceptre (au)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 27677,
+    "linked_id_placeholder": 27678,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.198,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-25",
+    "duplicate": false,
+    "examine": "A mighty sceptre used in long forgotten battles.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xu2W30uaYRTHff+ObgQvBkEggwiJwBEjhkOSYmLiyAQdKWIz1Fob/biJfpqLNeiijbH2owXbbryIgUIhVDcyWH/Od5zz8Ly+vr5CkM+bF37hoOjR83nOj+e8DkdPtktDe7NVIuj0VAjFwhfs5D9jY/4j1rNHbMvJfTuhBEg+tonpQMYiM8LcTieb+dcdloZxn48zkAq/MQVuvG+GUZYpDQ9cLjwZHcVq+r0OIDNydXFqUSYNM+GwxecdkQAa6O/nfpEgtepXhHxDqJ59QP26bAiusd9sLGaA76gE0NDgINuwx4NHIyP4Uz7E79N9vAh6sVRI4OZvVYfdyn3Cy2RSHZCzr48zJI2g5p6v4cfxDn6dlBANDCPi99gFRGpM0e5GDv/qFTwLBLinFuLbqFWO8fN7Ufeh60AxkMMhG/ny/ARvdxfwdGyMS0dTt70+z+WTQHuL35CKx1UCiUBUroPSEgcnCCrdSuqdDkL2KlHkCUtEo6qAxB0UmpzkrDx0u/Xg1OTpyDJez5YYJBIMsh+9ShglQFQagpnw+w2nFtNHgPS9tMdeL5ui7JA0BqGLsfXUAspoMnsKsiP+WKa/fZBG/xh9Wv3uJI17IZdJN41vuyBGiHY+d5DICsGYT232tEHNMApPfRuJ5x0zjNnLJmlYzGZ7MBbqwVhJjHLXwNAKoF2jeAHeRmJr0yMD2T3DkMQ6oEeGroCRIF0AI3Xvq6BV3QLyHx/s7FS7M7RgAAAAAElFTkSuQmCC",
+    "wiki_name": "Accursed sceptre (a) (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Accursed_sceptre_(a)#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 22,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 20,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

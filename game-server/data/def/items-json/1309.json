@@ -1,0 +1,86 @@
+{
+    "id": 1309,
+    "name": "Iron 2h sword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1310,
+    "linked_id_placeholder": 14746,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 280,
+    "lowalch": 112,
+    "highalch": 168,
+    "weight": 3.628,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A two handed sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABPklEQVR4Xu3WMUvDQBgG4N6fyJIl0CHQSdyKCIUQpJsBaSeFGpTQSodip+LWxVnp5CzoUnAQRNEf4eDm4OIgDv6CV76ENL0rXe890Bduu8DD+30HqdX+XhSKQ08B6SQJ+mnKRhWQElOCNoKAgVJoR5GGIYIU4lYrB40Gg8UpMRSQUxhpZxkzzDLWqCR6O8sYAmi1HSJGsr4d86aF6O2QRyWp2hHMfztVnMJIKpBTozIxzoHMmxayHkMFkTHlb6iOIY1K4ezQw8Wph5upj9frOj7uQvw8N3jtTDMPVxMf83Mfw16co74fK5D5hYWovJ2j7jbGx2283dbxeR9yQftJE6N0Z7FLpHFJFHbjTZwcRBqChpHT29vKd4c4IknRjImhgl5mAb4eGi60I1F4ugzwPg+1/TFvWQ79Ra3G9ov6BVvmccbuzE7BAAAAAElFTkSuQmCC",
+    "wiki_name": "Iron 2h sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_2h_sword",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 13,
+        "attack_crush": 10,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

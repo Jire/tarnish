@@ -1,0 +1,86 @@
+{
+    "id": 23332,
+    "name": "Rune scimitar",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 23333,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 25600,
+    "lowalch": 10240,
+    "highalch": 15360,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-04-11",
+    "duplicate": false,
+    "examine": "A vicious, curved sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACBklEQVR4XsXX7StDURwHcOc/8U4pJeVPkERK1JpFWKM2E9EsY22JlNSKF2Y0D/MQxjszQ5s1T1EUzX/z1e/enbvt7k574Z7zrfPm1r379D0P966uTkgY1CE9KqRv3APLhFcWirfB0Ouc1jC2Gb9yrbm+XhRKRXTb3egZm6zADHoXRYIYuoadFRjrlE/DjCysiAIxdA6OGWIGPAENYw+sigCpGGpHP028HY4SMGUM7TZ7WTuEMRqlQJN2GkObdciwnVqGCajKdqqB6DoNvgv5tP3j1BUxfGcZYegaQfUI0zFG7ZQ2YgKCpzYMb8VECOVvDO0io1b0T/nHFM8bPUZgKzzGGGqFMEJbMcIQgg45PkXCWonH53GTXC7b2vzE1U+R/m4TwuCbsyIancbZqQ/XiSUFUvzIEoqhMNhsnXA5LVhbG8XO9pQCS1wVX5ACMRSGhoYONDVb0drqQDDowsH+MrIPexpIf4fJYWhs6kNLy7AGisVWkMvF5IHS6Si+v+61NSNp7VBoh4Xw+nKGl+fTMoQEDIUhlYrg8yMhr5HScRibxdPjEfL5rJz1srHuQmRrEnu7Mzg+9uLywo/npxB+8udyQPSjbnc/HI5ehMP+wkG4ibvbCN7fNgrNCY86XXTW8JaSybCCymR25aHoVUFr6ORE/Q/Fh4SFTWHKWtIjJGF4hH1OVM0vE9WMwrpjmOwAAAAASUVORK5CYII=",
+    "wiki_name": "Rune scimitar (saradomin)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_scimitar_(saradomin)",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 45,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 44,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "id": 28217,
+    "name": "Dragon 2h axe",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28218,
+    "linked_id_placeholder": 28219,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 161,
+    "lowalch": 64,
+    "highalch": 96,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-06-28",
+    "duplicate": false,
+    "examine": "A woodcutter's axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACYElEQVR4Xt2WX0sbQRTFM98gT/uSl4APhYBQCn0QCSQEEYmIkuASRTEJJqGJosY0RI3ENJVULab0rbQgpSDFD3k6d8aZTHeV/mE3I164JNns7v3tuWfuTiTyvIPBe8RiMGw4UUgob1oJhgIHKsWiyDkR8bnP8+qFYwuKYTEaESpV72GGUw4+3wO9jMftQCmgHoehHEw9AaBOPIoRV6Ybd4RKBOb3Vej+YsgtLeFwpyF88yURE2BKJYKj39TKRkyq+GO/EhYUQzqZRKNSwVGzqZ++xQFMlQiIjhHUp/KabmXA7WSYTiSwvbmJk1bL8IsEekylm52ycW6gwX3julqZ8RMzUZzyIZVCU0f55n33RLdKJSlBMJSmSt8apfDUId+8Oz7WEGookmnJvCaQUkmZOWAghnY6ia9uDndb0qDmUKS2UKp5pBQy51KAQAzF168wWs7idsMVBdSrwlREQdw2q/h5WBN516oHrY5sTXcujZtCXnwnVUiN61IBV0UX3/e2NZCCUdcFrA5Dkt8oP53AUSaFi8WF3wqZST4hMC9EADDjIqsrK8I3pM5jhcYF/f977/wfIZe1Gnq9TkevqL8p9Kf//zEYlrNZAUEz5sNZz/fU3itCDL63mZ/Hm3IZHwcDH8jEYRYyGZTW1/X0tQRCwTCXSmFrrYDTdttWe1TILQS9KA/qdVz2+xrIe+aEgm/S83ns1mq+VnnPnEBIE1eLRbG8R8OhTXWkb5Q65J3r83N7QLMzM3r4vd3bFXPHKhC1ipY4qUPtokmsZo8VICpMK8u7QbdoaAr/1sAijIynAvIL8y4jX2jRHbsAAAAASUVORK5CYII=",
+    "wiki_name": "Dragon 2h axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_2h_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 38,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

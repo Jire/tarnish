@@ -1,0 +1,79 @@
+{
+    "id": 872,
+    "name": "Steel knife(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14481,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 10,
+    "lowalch": 4,
+    "highalch": 6,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgklEQVR4XuWVzUoCYRiFfe+glRs3XkJ34Sbc5MYEySSTDMlkMtNkIioDCzXTUuwHgy7zxPmGGT5n0c55BzrgRkZ4eM6Z10Tif0UQ/kYxAsdNIiZQAnfgwWyn0+YTfiLCCO6ek4EddZjBPIVuP4mas6UNJBh9pgyQbUcJSPCyShmgGNgRfEynWE4mWIzH2nYEX7NZAHPT6Wja8WBohzD3bg8XjQaOSiUNIMHq7dUAEWb69Iiu4+CkUtGoS/C9mK/BsKqzWk3Pjg3zcO3i/LSO43IZh8WiDhDrmo+GGPb7QVW2nciBft6XcNttM2JWpWiHEbOZy2YT+3t51KtVY+egUNAAEtxedU1NNJPP5bCTyRgQhbrE3JpeqxXY2c1m10AihGHE7MYfMe0oWPHj7YZ2CMS92HbCT284XlW0QyAOWNGOmMNHOwTidtTt8K2KjR1W5dvhvbFvTeQwrIp2fKCwnfAvNhzPjg+kbMePtx8CKdux490fXmVlO3ZU/qf+Tqxgos4vE42d6dRRq6sAAAAASUVORK5CYII=",
+    "wiki_name": "Steel knife (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_knife#Poison",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 8,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 7,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 7141,
+    "name": "Harry's cutlass",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16934,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1040,
+    "lowalch": 416,
+    "highalch": 624,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-02-07",
+    "duplicate": false,
+    "examine": "I hope he doesn't want it back.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACc0lEQVR4Xu2V0UtTURzHPf+BT/flvgx8CHoKISRkMJEIcQ8NItmDQYggoaPpls1NmWvO6ea8zblsY220tLQiGUWIBT0IvRT2Hv0F/hHf+p3Dubu7y5fcdvbQFw4XzuHe8znf3/d3bk/PfzHYZxSKwUgm0SVQDKlYDFvr6xzoisOhEophZTGCjXgc+cyGaiCGpfl5rC1HzXIRjFKgR+Fwt5SLYWFuzizXdjrVPUCbiQR2jE2VQAy+qSkTyFoupUCRYJC7U87nVbpDYnjo9/MwF7NZ9e4EZqaxGl3iuXn5rKTSHVEqanXqqv1yWZU79H9iuDcxwS9CupGVwgw5nXhw34doKNRKGHFK++z58ySG2x4Ph6H2bilMcLIfldSwbXP259QaklGtaZ4GdZK8Z0q5XEOALwQz5u5DOjSIYmLI/KBcC/p6kY5r/ClBZE4OKhVzTo4LwpCEO0bEiZ24C9XM9SY3yKV8RsO4txdbKQ2VJzpeFAsNANZRf/efxBCbHeAObS+7UFobxkFupAmKXCKQd7s6jg4d+HrcZ3OzZWIIT1/FSuCa6dKecQO1oruhFHdH+rlLb57r+FQjiJaU5zyJTaVLFO5XWQF1XL2Jk9e38L02hoB3ENWCjv2Kbjpk/1LLJE5ad0RCfSi58XnXg19f7phrlKOPbx04OZLvtFESjEpHUJSn0/denH2bxNmpn6+FZnt56Qjq549L7YeiDQYu67x8h09HG9yhEV8UASegNobbKhHihXEXjJlRy4YCiHJkBWxjuKUYCo+FA1YYY1XjbW91pQMwUgx7pboT1Fmy3Tvkyt8koMgVO4gCGKmuAamrUyC/AVNIKeoSepFQAAAAAElFTkSuQmCC",
+    "wiki_name": "Harry's cutlass",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Harry's_cutlass",
+    "equipment": {
+        "attack_stab": 3,
+        "attack_slash": 14,
+        "attack_crush": 0,
+        "attack_magic": -5,
+        "attack_ranged": 0,
+        "defence_stab": 4,
+        "defence_slash": 4,
+        "defence_crush": 4,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 22,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

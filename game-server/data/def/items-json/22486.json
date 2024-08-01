@@ -1,0 +1,87 @@
+{
+    "id": 22486,
+    "name": "Scythe of vitur (uncharged)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22487,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 4000000,
+    "lowalch": 1600000,
+    "highalch": 2400000,
+    "weight": 3.175,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2018-06-07",
+    "duplicate": false,
+    "examine": "A powerful scythe. It is currently uncharged.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4Xu2Xb0vCUBTGPd/E14IwApEhg4WEhL1IkGRBkkg0oqRBZqCJmRER9lIrg4iir3ni3Mu9s7XKxv7cwAceBLnz/HzO2XGmUkuFJkB/xyq38PWgL31zMcCCrjPHBOVCUPHb4VB6PBoxrxoGrmgaO6el01FCcRAq/jyZ4Mt0iq8P9/g2e5R+f5rhmmliNpOJGshNZXI3Zv46M9yb5TLmc7kogQCvznsMZr4wFfOa3j8xC7hRKs3NUaizxGEuu11fCO9pLkDH4FCUlJgn76mAAux3Op9gvCf8xZOxqlWZ1OLX/qq/wggBblUqAb7MAgr2YYD7jUacO+kn8XbRK+2lkFsWVMDSob11etxSIyVKh+40pVKiwSYLKO+JBMRXQMu2ca9eVwNKbvGjQ1VaRwLstdsqAZEAD5pNNdrGBXjmOOqltFOrqZWSWJTLlL4XyAc+N6XE4dw1QLa0rAqJAXuyXC8WWQttPZ80FLCfk91ti4GJFiY87OKPgBIwXAJECZh/qw8r3TJj/Jsn9AAAAABJRU5ErkJggg==",
+    "wiki_name": "Scythe of vitur (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Scythe_of_vitur#Uncharged",
+    "equipment": {
+        "attack_stab": 50,
+        "attack_slash": 75,
+        "attack_crush": 10,
+        "attack_magic": -6,
+        "attack_ranged": 0,
+        "defence_stab": -2,
+        "defence_slash": 6,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 75,
+            "strength": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "scythe",
+        "stances": [
+            {
+                "combat_style": "reap",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "jab",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

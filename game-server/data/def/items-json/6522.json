@@ -1,0 +1,79 @@
+{
+    "id": 6522,
+    "name": "Toktz-xil-ul",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18253,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 250,
+    "lowalch": 100,
+    "highalch": 150,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2005-09-19",
+    "duplicate": false,
+    "examine": "A razor sharp ring of obsidian.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB70lEQVR4Xu2WwUoDMRCGm+fwsrCHvUpBSimFQvHuoSBFFIpUC7ai+E6eBC9ePHkRRAQvIoKCB19kZDKOmZ3dSrLZtQf9YeiSbma//EkmabX+VbsMLI9fFX10t9eFSb9nA5/H3Q6MOhs2ioCNQFJiBJgO+jAbDmC+ObSBz9gm4Rhwq922USPUcpD7gxRuJgk8HKbwskjheZ4W4DDYtfUkiYEiEIaQcbufwPUeJtfTYizY20kGT0epBUUwdCvSJQLRgW5c7TgQHLEODYj9Il0qwqAbl+O1UhDdGyXhXo+zWJfyQBfb/iDlMnaaI1zKA1UHYRm7pjSUfusH0Ygw0OoKIyqRgffTzA4Qpy4gp4PBznUCPc5SWyowZ4BLeaDzEa2feCAUlQSeOs8Fbr4rr3SnHiCUgY+zzAJ55iYgrh31uYMytrLjYAN2G00Zl33PTp4y9mgJ3P7NOsS7LAAIVXRJvxEuA3dTckdue28gdolLfjyUO9MC6xCLXNJJ9Fv+outLFJB0qWLJ/xKdg5FAqKJLrpj5gOVBZFQGkkWSoYr3Zi1q54/zddZtkKAFrZWfOgkmt68M/o8hykAqwrCcU3wlkdMgATSIPn4iQaScA/o2oNcIt2lXdMZoucR5OOka/mqQRmC0yuBWAlImCbBSkD+nT1W6hsEs9eaTAAAAAElFTkSuQmCC",
+    "wiki_name": "Toktz-xil-ul",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Toktz-xil-ul",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 69,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 49,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

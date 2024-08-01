@@ -1,0 +1,77 @@
+{
+    "id": 25314,
+    "name": "Giant boulder",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 25315,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 15.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2020-12-09",
+    "duplicate": false,
+    "examine": "That's one ginormous boulder.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADvElEQVR4XtWX70tTYRTHu6970bsgfLMyChbFEDR0zLbmlDkbrg2HmkMTf5A21PlzmixTc85y/pojGcOiRdCLxBe9KIQIqf/q1PcZZz736pRtV6oDB9n17j6ffc/3nOe5Fy78+6FQNrWfz8pzCYXGh4LU4ffnFpqdmKCZsTGaHB4W/xt9OkjB/n4a7O2lvq4uetzerrpfZziFwqEQtXg84sELz2YoMjWVF0oGwne8bjeZLl08Aapo2Kwi6ViIUtFhSi4EKT5kocmOChprqxBQAAZUPqCRKhONGq+rFHvS3S3ua/X5CoVS6MX0NPUEAhSbm6NU2E4rg2ahFK5DLUDlA2KopoYGctrt4jNKi+d1trUKGJPBIFK7cp5Q6GVkluJLS7S6uEiv5ucFWPR5RFwHVD4g/HqGana5yGG1iuu4BzAAZSDtqqeEIgC2VmK0sbx8DEwLtGCrUQFxskoMw6UqUB2EkhcGKgEIHjtJIWTV1cs5pQDFvoFiRaiDUPLCoGSyh0YGBnJAUAFAnaY7ObUYFGDm6urigfLBwNhQB12mbXsAcbJabHR3wFhsuRAKHTzyHoNBfvK5KPWgXswiqMODseZ+uQpChkGpmgI36N7DK4W2O4eigtn60kyxjy6hzntPowBKNtapgJwtt6jadk1lavYNWt9QVlaaQrIyG/vNuRnE5WL/aLcObnmk02kXMDaLpRQYRNbUUAlQWJATw002MHeTdlKLMjU1iDlUYTIVa2YOhZLxVXqzFqed9XUBx/7hPYzVwXbAoIBkz4yPB8lgKBOddbO8vFQgxBFUYt9Lqc1NUSp0FdRAAuJ1Xa1q8PEw3NvLkNfrpruVlaWWi0MR6gAKQLvb22L2YHEoAKA1h4XW62tp80/KgxBA794mqacnQNFoRA91EAr96m4VUOnvfuEnlIlVwF/2k+wlBoKRM5kdCodD+gGlEwlRKmwjUAcAUAcLA4J9owVCZ8E76XRClE03IMAgYWiow+0MAHgJhpa7Tp47X3/sksfnIIfDqi8QVMLswaL49Xw4422Du0zeQNHqHz7HRdubzUXvX9rImhpmhjqAwbDkvQxbhwwlAx38zJC/3UU2q0U1obUrFBhZICiE1oePYGz5gMb7mRbo8PAb9fV16Q8EEBkIJwA+D50GhJJh/tw2GvUFwgySgXAc+atA2DK0J8eTgLCFaIF4/2IYHYAQ2cM+IOQDvnxA47cJPhWyOjKITjAcR2+unNoO47cJHog6q3I8sg+W3zpPz3OFkUMuwVmp/e5/H78BAWz/E4hB7xIAAAAASUVORK5CYII=",
+    "wiki_name": "Giant boulder",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_boulder",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

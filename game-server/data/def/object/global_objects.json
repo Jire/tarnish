@@ -1,0 +1,1201 @@
+[
+  {
+    "id": 4309,
+    "name": "Spinning wheel (Flax)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2736,
+      "y": 3448,
+      "height": 0
+    }
+  },
+  {
+    "id": 10822,
+    "name": "Yew Tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1809,
+      "y": 3573,
+      "height": 0
+    }
+  },
+  {
+    "id": 9034,
+    "name": "Mahogany Tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1813,
+      "y": 3578,
+      "height": 0
+    }
+  },
+  {
+    "id": 9036,
+    "name": "Teak Tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1805,
+      "y": 3578,
+      "height": 0
+    }
+  },
+  {
+    "id": 10831,
+    "name": "Maple Tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1801,
+      "y": 3578,
+      "height": 0
+    }
+  },
+  {
+    "id": 10834,
+    "name": "Magic Tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1804,
+      "y": 3573,
+      "height": 0
+    }
+  },
+  {
+    "id": 114,
+    "name": "Cooking range",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 1801,
+      "y": 3540,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3044,
+      "y": 9776,
+      "height": 0
+    }
+  },
+  {
+    "id": 29241,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3083,
+      "y": 3499,
+      "height": 0
+    }
+  },
+  {
+    "id": 29241,
+    "name": "ornate dzone",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2480,
+      "y": 10439,
+      "height": 0
+    }
+  },
+  {
+    "id": 29241,
+    "name": "ornate sdzone",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2422,
+      "y": 10417,
+      "height": 0
+    }
+  },
+  {
+    "id": 575,
+    "name": "Altar",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2420,
+      "y": 10417,
+      "height": 0
+    }
+  },
+  {
+    "id": 13607,
+    "name": "Trading post",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 2417,
+      "y": 10417,
+      "height": 0
+    }
+  },
+  {
+    "id": 575,
+    "name": "Altar",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 3097,
+      "y": 3506,
+      "height": 0
+    }
+  },
+  {
+    "id": 575,
+    "name": "Altar",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 1801,
+      "y": 3547,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3417,
+      "y": 3539,
+      "height": 1
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3417,
+      "y": 3540,
+      "height": 1
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3417,
+      "y": 3541,
+      "height": 1
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3417,
+      "y": 3542,
+      "height": 1
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2688,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 10355,
+    "name": "bank booth",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2810,
+      "y": 3442,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2411,
+      "y": 10432,
+      "height": 0
+    }
+  },
+  {
+    "id": 884,
+    "name": "well of goodwill DZ",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2480,
+      "y": 10432,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2687,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2686,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "Altar",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2685,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2684,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2683,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 6951,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 1811,
+      "y": 3565,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2682,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 31561,
+    "name": "pillar",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3241,
+      "y": 10145,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2681,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2441,
+      "y": 10421,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2441,
+      "y": 10420,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2441,
+      "y": 10419,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2473,
+      "y": 10423,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2472,
+      "y": 10423,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2466,
+      "y": 10447,
+      "height": 0
+    }
+  },
+  {
+    "id": 34761,
+    "name": "mind altar",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2785,
+      "y": 4840,
+      "height": 0
+    }
+  },
+  {
+    "id": 0,
+    "name": "invisible wall",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2680,
+      "y": 3711,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3186,
+      "y":  3436,
+      "height": 0
+    }
+  },
+  {
+    "id": 11363,
+    "name": "ore DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10433,
+      "height": 0
+    }
+  },
+  {
+    "id": 10943,
+    "name": "ore DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10434,
+      "height": 0
+    }
+  },
+  {
+    "id": 11365,
+    "name": "ore DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10435,
+      "height": 0
+    }
+  },
+  {
+    "id": 11367,
+    "name": "ore DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10436,
+      "height": 0
+    }
+  },
+  {
+    "id": 11371,
+    "name": "ore DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10437,
+      "height": 0
+    }
+  },
+  {
+    "id": 11373,
+    "name": "ore DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10438,
+      "height": 0
+    }
+  },
+  {
+    "id": 10820,
+    "name": "tree DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2485,
+      "y":  10428,
+      "height": 0
+    }
+  },
+  {
+    "id": 10831,
+    "name": "tree DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2482,
+      "y":  10425,
+      "height": 0
+    }
+  },
+  {
+    "id": 10832,
+    "name": "tree DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2477,
+      "y":  10425,
+      "height": 0
+    }
+  },
+  {
+    "id": 9036,
+    "name": "tree DZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2475,
+      "y":  10425,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank dz",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2480,
+      "y":  10426,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (sdz)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2408,
+      "y":  10410,
+      "height": 0
+    }
+  },
+  {
+    "id": 11375,
+    "name": "ore SDZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2420,
+      "y":  10436,
+      "height": 0
+    }
+  },
+  {
+    "id": 11377,
+    "name": "ore SDZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2422,
+      "y":  10436,
+      "height": 0
+    }
+  },
+  {
+    "id": 11380,
+    "name": "ore SDZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2423,
+      "y":  10434,
+      "height": 0
+    }
+  },
+  {
+    "id": 11367,
+    "name": "ore SDZ",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2423,
+      "y":  10432,
+      "height": 0
+    }
+  },
+  {
+    "id": 16469,
+    "name": "furnace",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2425,
+      "y":  10430,
+      "height": 0
+    }
+  },
+  {
+    "id": 2097,
+    "name": "furnace",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2425,
+      "y":  10428,
+      "height": 0
+    }
+  },
+  {
+    "id": 16469,
+    "name": "furnace",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 2470,
+      "y":  10440,
+      "height": 0
+    }
+  },
+  {
+    "id": 884,
+    "name": "furnace",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 2426,
+      "y": 10423,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2417,
+      "y":  10436,
+      "height": 0
+    }
+  },
+  {
+    "id": 10834,
+    "name": "tree (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2410,
+      "y":  10431,
+      "height": 0
+    }
+  },
+  {
+    "id": 9034,
+    "name": "tree (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2406,
+      "y":  10434,
+      "height": 0
+    }
+  },
+  {
+    "id": 10822,
+    "name": "tree (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2410,
+      "y":  10436,
+      "height": 0
+    }
+  },
+  {
+    "id": 4875,
+    "name": "stall (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2436,
+      "y":  10410,
+      "height": 0
+    }
+  },
+  {
+    "id": 4876,
+    "name": "stall (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2435,
+      "y":  10410,
+      "height": 0
+    }
+  },
+  {
+    "id": 4874,
+    "name": "stall (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2434,
+      "y":  10410,
+      "height": 0
+    }
+  },
+  {
+    "id": 4877,
+    "name": "stall (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2433,
+      "y":  10410,
+      "height": 0
+    }
+  },
+  {
+    "id": 4878,
+    "name": "stall (SDZ)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2432,
+      "y":  10410,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2470,
+      "y":  10430,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 2488,
+      "y":  10442,
+      "height": 0
+    }
+  },
+  {
+    "id": 2097,
+    "name": "anvil home",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3109,
+      "y": 3497,
+      "height": 0
+    }
+  },
+  {
+    "id": 2097,
+    "name": "anvil home",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3107,
+      "y": 3497,
+      "height": 0
+    }
+  },
+  {
+    "id": 2191,
+    "name": "crystal chest",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 3090,
+      "y": 3492,
+      "height": 0
+    }
+  },
+  {
+    "id": 27290,
+    "name": "blood money chest",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 3091,
+      "y": 3492,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (home)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3096,
+      "y": 3493,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (home)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3098,
+      "y": 3493,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (home)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3095,
+      "y": 3491,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (home)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3095,
+      "y": 3489,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3045,
+      "y": 9776,
+      "height": 0
+    }
+  },
+  {
+    "id": 10583,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3046,
+      "y": 9776,
+      "height": 0
+    }
+  },
+  {
+    "id": 4875,
+    "name": "stall",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3084,
+      "y": 3483,
+      "height": 0
+    }
+  },
+  {
+    "id": 4876,
+    "name": "stall",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3085,
+      "y": 3483,
+      "height": 0
+    }
+  },
+  {
+    "id": 10822,
+    "name": "yew tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3085,
+      "y": 3480,
+      "height": 0
+    }
+  },
+  {
+    "id": 10822,
+    "name": "yew tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3085,
+      "y": 3468,
+      "height": 0
+    }
+  },
+  {
+    "id": 13607,
+    "name": "hermans desk",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3091,
+      "y": 3495,
+      "height": 0
+    }
+  },
+  {
+    "id": 409,
+    "name": "Altar",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3094,
+      "y": 3506,
+      "height": 0
+    }
+  },
+  {
+    "id": 4874,
+    "name": "stall",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3086,
+      "y": 3483,
+      "height": 0
+    }
+  },
+  {
+    "id": 4877,
+    "name": "stall",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3087,
+      "y": 3483,
+      "height": 0
+    }
+  },
+  {
+    "id": 4878,
+    "name": "stall",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3088,
+      "y": 3483,
+      "height": 0
+    }
+  },
+  {
+    "id": 29088,
+    "name": "Shrine",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2728,
+      "y": 3477,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (giant mole)",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 1754,
+      "y": 5187,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (wyverns)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3058,
+      "y": 9563,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (wc guild)",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 1616,
+      "y": 3503,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (mining varrock)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3290,
+      "y": 3372,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (DZ TREES)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1801,
+      "y": 3573,
+      "height": 0
+    }
+  },
+  {
+    "id": 10832,
+    "name": "Maple Tree",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 1809,
+      "y": 3578,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (fishing)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2837,
+      "y": 3437,
+      "height": 0
+    }
+  },
+  {
+    "id": 11365,
+    "name": "Iron Ore",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 1814,
+      "y": 3569,
+      "height": 0
+    }
+  },
+  {
+    "id": 11367,
+    "name": "Coal Ore",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 1813,
+      "y": 3567,
+      "height": 0
+    }
+  },
+  {
+    "id": 11371,
+    "name": "Gold Ore",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 1814,
+      "y": 3565,
+      "height": 0
+    }
+  },
+  {
+    "id": 11380,
+    "name": "Gem Rock",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 1812,
+      "y": 3564,
+      "height": 0
+    }
+  },
+  {
+    "id": 11373,
+    "name": "Mithril Ore",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 1812,
+      "y": 3571,
+      "height": 0
+    }
+  },
+  {
+    "id": 11375,
+    "name": "Adamanite Ore",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 1811,
+      "y": 3571,
+      "height": 0
+    }
+  },
+  {
+    "id": 11377,
+    "name": "Runite Ore",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 1810,
+      "y": 3571,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (dzone)",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 1814,
+      "y": 3571,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (Puro puro)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2594,
+      "y": 4317,
+      "height": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (Flax)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2736,
+      "y": 3444,
+      "height": 0
+    }
+  }
+]

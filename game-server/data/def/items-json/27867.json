@@ -1,0 +1,84 @@
+{
+    "id": 27867,
+    "name": "Abyssal dagger (bh)(p++)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27868,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 115004,
+    "lowalch": 46001,
+    "highalch": 69002,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "Something sharp and extremely poisonous from the body of a defeated Abyssal Sire.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABs0lEQVR4Xt2VsUvEMBjFm/+gU5YsgQ4HglAE8S9wc3NycHFxcXFwcBBuuOGGG4QDB1fhQBAEEQ5HJ/Gv+sxr+EyatuqQNMUHjzt6vcvv3vvSFMWoEhReyShBcq1pQlAGaKUaoFoDLKssjFxMCcjAyPkkgByMXCpSmyr3HAkLA986oJFTQgLOx7JoLO90DiBBWim6UCWdGZ9I+3ppPK9kfiAY7690SU+1qeyxIvU8+hxZKKTCvtGSXmtN+sUlNFJKgs49CDbqetszQNtZysraw8swqIdBlpXz+749OiKn01781AwtdtBhWXzDII2F5/VM0tak83kQfaDtbPjmnQQfGahrA7QyAP499zuKPjyYiECQS4gXRDIwwyGhEDxBOqw2DABQG6rCIHON+My/N1k6+PdYPKyNU/Kvu0SSwEAWaLPbrmPIfkUJYCBBD7/A+DOWKBVf3V0WwjBEApjuQy8EGIIJfymCRPOgg8OFQwgG9eclgrpp8EkdQvQnEjWd/iqwk4Z2Ux9AJBiWheKafP8FJpEsFJ9L/ATGwZkBhtVfX5hQ+K3EmijUTx65NitedMjh/f9WX75R7ET5OggSAAAAAElFTkSuQmCC",
+    "wiki_name": "Abyssal dagger (bh) (Poison++)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_dagger_(bh)#Poison++",
+    "equipment": {
+        "attack_stab": 85,
+        "attack_slash": 40,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 75,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 9174,
+    "name": "Bronze crossbow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 9175,
+    "linked_id_placeholder": 14501,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 73,
+    "lowalch": 29,
+    "highalch": 43,
+    "weight": 4.0,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-07-31",
+    "duplicate": false,
+    "examine": "A bronze crossbow.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACpklEQVR4Xu1WXWsaQRTN/IM+9Vnog1AIiBBERDBICBIJEaViwhZjMBajwTQ2lbRI2hCaEART2lAopeSX3npmct3ZcTed9aMfkAMXo+bunj3n3jMuLT3iESYEqfonIOi4UaR2bXNaUlM1BUDQRW+XOvWCJNRwNsKSErSVeR626QEIOus6klCzmqe97XWqvlgLc31BlfVl2RCLRGybAiDo9lOL3nUqY3VAyCmuUmUrY0tK0O5mnGLRp1qDVaMBQXc3Xfp83qSTZkmqA0JQJxmPUnz5me1DK0LRyJN7QiPFivrT2JAT9HN4LNUZnO2P7SrkkpROKPWZjDUhbwM/iaB2nTclaI2VTSByfvKSeu2ytAtksqmY57oWZAB3qPUG929FpNcpU//NjkFOyJuDRP/1jlx12FTKp8ffhyDCEJSO66pMgtXiuuzXaPBxfzzAGFrMCoqHN6QqOvwV8oNu6berQ0kIAwxF8muJCYvMfkuoGcqlovcK2EDQ9fs9aRMUwbzMYJEJQUfbKXI2YpRNqNU0/8MLIVcbaYxN4nmZwSI/CHpVSvzGOqUAK4PVdhM4qGdqCOo6SiVObfN7qIK1xibpRFC31y2fnpmhVMI81QsrnhsiY6BKsEVzmR0TSiWQapWTsoYfGnJWsEk4k7BJwTefu0KAGnAQg0VQhbOFj4AgMt+HncXY9raalvlyeVqTKQyL9INxkgxjQcP95eJAbhISGDblVlc8gWd2uBj1Xh3MWyWVwHwuSatGxwrXwzcT9OPmyIJ4aLjbhfTmQka5aR5EbCG2ec8sFLJJr1KWf/KaxEYKDw59Pp8jdGLIJxSyisnpiqLuvnYXo5IJnRiKQxTpjle8R2Sc1jKeX5/mdeYO006/wgLAVpfYHwKTM0sn5372l+El+B/iF4lLSqOICUJvAAAAAElFTkSuQmCC",
+    "wiki_name": "Bronze crossbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_crossbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 18,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "crossbow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "id": 12199,
+    "name": "Ancient crozier",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12200,
+    "linked_id_placeholder": 15840,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000,
+    "lowalch": 2000,
+    "highalch": 3000,
+    "weight": 0.005,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "An Ancient crozier.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWklEQVR4Xu2X70vCYBCAd39HXwQ/BIEggYiMIIkY4RiCo1gxcIkU5CfDEKQgEokoQgolIoj+0as73dK39i1v96EHjo2Xe9nD3X6dZYkAGFZCDMoB0jlFe6uFnZ0z7DpdjOxovi4G4On2CTobu4lQdb3Kx1immMtxmDtXyKxKfslnATtv89Et1hIhc8cKAW4NVYnaRO2iytBab6+HhbWCZMsAB+cuR9yu30KoZYDX/TpeXXhLF00Lc/cfAzi69HE4aEhWIA3A+5sDFlIhM749ZCEVMpOHkIVUyLyOI3y+O9Ih8/Z0jC+PTR0yDc/Deu37jZupTKdZYSHXcRIhM0uQr49mWOZQUB1iJqRAZv5PE5R0yJBItL+pQ4aepsUbOHOZuF2Zy7xPWksiqmTMDEH+ZdJQKPMxbSdCZoYgP2UyFFIlQ4AuGZqdFucnM0MQ4NlJyfxkWTSuKBlZmE8m/0GT4vChoAAAAABJRU5ErkJggg==",
+    "wiki_name": "Ancient crozier",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_crozier",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 25,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 32,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 6,
+        "slot": "weapon",
+        "requirements": {
+            "prayer": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

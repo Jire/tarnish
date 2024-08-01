@@ -1,0 +1,86 @@
+{
+    "id": 12377,
+    "name": "Adamant cane",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12378,
+    "linked_id_placeholder": 15929,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1440,
+    "lowalch": 576,
+    "highalch": 864,
+    "weight": 1.814,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "A diamond topped cane.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeUlEQVR4Xu3Wz0pCURAGcOc52vgCwiVoIeFCIlwYQiiKXWyRSIIpiibaP7ToVoYoCLqwiAwKwra5EgwqCFq6yUWv8tV4ud18gjNEH8z+x8xh5jgc8kOwS3kIZ9UKMskkVnw+1SjCoN/HVbuN4/09bOj6FKQ5napQhLenEfq9Hlq1GorZDLwej8rxESbjMUaDR1x3OtMuMWhe0xApRVSgCJ+TD7y/PP9UNBSaASkY3yzqdThUDeLYKAZxRXfXVII4BP1An0K4O+mjNALrAZUPnGMvSOPmBLnTHIKJILRFTR2KR2SO6Xth3tWQP88jkoqqHp8VQv2+jmKjiFg2pq5LsyE0H5oo1Lcx55yTg+Ly6364FlwyUNa74vfkXnbLQJkhJHYS8K4uyUJljOyvPSUihHKrjPBmWBaqenkoaSVwCJVuBfFSXBaKx5eqpmSh+Mzw/ROF4i7xqTFRImAWhNAwDBkoa6vfXnRRSG/JQJkxO2V/aQREFOY/fzZfeKYQH5ga0DEAAAAASUVORK5CYII=",
+    "wiki_name": "Adamant cane",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_cane",
+    "equipment": {
+        "attack_stab": 13,
+        "attack_slash": -2,
+        "attack_crush": 25,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 23,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 3,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

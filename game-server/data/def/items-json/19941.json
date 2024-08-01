@@ -1,0 +1,77 @@
+{
+    "id": 19941,
+    "name": "Heavy casket",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 19942,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 15.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "Full to the brim with loot... Where's that key gone?",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSUlEQVR4Xu2VTWsTURSGM/8gq2yyuXAX2fYnCK4KIkqL0kqlH4QGbAuzGNpADbOQGrElsWIaK0XaLkpLF+JKscWVFHUlxQ/8M0ffOznTm5PYMXcIIsyBhySTzDnPPffkTi6XRRZZ/Nfh0QVDCbtAMvM38zQ1mqexK7m0Ur3JgT+RT8ZfoSBYpeXlGlWno2sQw/0jSrlIeSYRCO50F6lWQ7o/W4gJyxc8qHQTho8MnGNhPJKS1f4iPFOgfq+TuNwp3ikAbKk/Ca6tNaheb5qFQSZFl6IOrS9FUiyG5IzsRj8erz+jjY2WAR3CLDkLYbUswjQa7RhZvB/N5jZtbr4wYNtmr6cQ4pmIu/P7lZMD7lwSrdZLAxaIbeMuyYoJ4VFlQsVJsXUMF5CFJViE/XsIpdg2z+z/zs5BlwzY2to1SAGW4D8AC/HvcR1CjtsWDTWSBnO6C54hf0bH/PxRos+fNJ28U3R8VDTdXZxS5jt75vhMchLCEF4mhPcs9P2bpo9nmt6+UbS/VzT3oiNNv0Dt5/sGFuKzyFkISW24gH3t67mmsw+aXr9StN3+R0L27Jx/0fT+VNHhQZGePikMR6gyrhKF7CHmR419YvcTcjytPVq8reKkSUIMPttIIXQulVBwV18qJJFHBOA/QXWmZHJOXyu6CCE8k0QKcYFwvtTDarkXPGCBP6lp7oaiydEUQmbbRDEuAFkJOiqp1R4aMJPozq2rzkKIqEv9CmDFEixAghwSyDgKIXoTDgIXl8gqA4VMNigyXxZZDDt+AeT403U3eEvDAAAAAElFTkSuQmCC",
+    "wiki_name": "Heavy casket",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Heavy_casket",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 11,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 9,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

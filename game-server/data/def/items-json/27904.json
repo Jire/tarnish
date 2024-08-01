@@ -1,0 +1,84 @@
+{
+    "id": 27904,
+    "name": "Vesta's longsword (bh)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27905,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 300000,
+    "lowalch": 120000,
+    "highalch": 180000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A powerful longsword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABAklEQVR4XmNgGAWjgBBg/I8uMkAA5BDG/zt2rAXT6LJ0Boz/29vr/u/auR6MQXwDBYWBchR2xwyQg0YdgwuMOgYXGHUMLgBxzNatq0YdgwZGHYMLjDoGFxh1DDqANKpAuKKicOAdM2NC3v/Vi6vBjlm8aAYYD5hjetvS/i+fX/F/44qG/9vXNv+fPXvSQDkGBBj/J8e5/89OCv+/d2vn/8M7e/+fOjAR7iB01XQAjP9zU6P+F6THYjhmABwEcUx6Qtj/4qw4eKIeAMdALEZ3DMwhdHfMro1t/9cuqcHqGHTVdACM/9cvr/t/4ej0/xePzx5ox8AAohAcBI6BgAFKLygAAKS2dcOr0sWfAAAAAElFTkSuQmCC",
+    "wiki_name": "Vesta's longsword (bh) (Activated)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vesta's_longsword_(bh)#Activated",
+    "equipment": {
+        "attack_stab": 106,
+        "attack_slash": 121,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 4,
+        "defence_crush": 3,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 118,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

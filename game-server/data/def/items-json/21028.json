@@ -1,0 +1,86 @@
+{
+    "id": 21028,
+    "name": "Dragon harpoon",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 21029,
+    "linked_id_placeholder": 21030,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 55000,
+    "lowalch": 22000,
+    "highalch": 33000,
+    "weight": 2.267,
+    "buy_limit": 5,
+    "quest_item": false,
+    "release_date": "2017-01-05",
+    "duplicate": false,
+    "examine": "A very powerful harpoon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABb0lEQVR4XtWWUUvCUBiG9/2DXZ2bbgZdBF2NQEJCUEQkFEmUZIGSSSq5pEXLBiVeBPUL+rtv+3Y4OtdNV32nFw6Mw2APz3v2bY7zf0Io7giGECgXFkERbg5c9JRjCxRhlgINU0tt1wooQpQCsSWuriEPRYg9F2EOivd8z7MPqnjXH0YDcXXmPAlDEZIcEFvia8HqNJCpjdf7oZK0RHjzVAZk1teRyiwdy711lJnZWSF8ppb4PIlWx2fIAH1s1ribTHBWLktZ4mgb2ghhvVrh+iqQtOQ4+w8mvEQRLrtdSUvFEJbzOc7rdVugCJskwWw8lq1uP4TXOMZwMLDFEofw/LDERatlF1Q4naJWqdgFxaPAIihdXdDv56DMEoseBQbqtFTCie/LQ/F54qHZ63S2tgTHAuFxscDtaJSNg3azKf/d488KW2Iors9Mc1FLT/fhForra1SrkpY4P6GER4L+TclDmdpEq8svYRgdA/FbmG8znBda8P7dgwAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon harpoon",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_harpoon",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": 32,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

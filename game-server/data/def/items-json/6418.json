@@ -1,0 +1,77 @@
+{
+    "id": 6418,
+    "name": "Maple blackjack(o)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6419,
+    "linked_id_placeholder": 16447,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1600,
+    "lowalch": 640,
+    "highalch": 960,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-08-15",
+    "duplicate": false,
+    "examine": "An offensive blackjack.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABkklEQVR4Xu3V70dDURgH8J3/ZPQPzGUmc1mmF/0FvRszrWmJjdsmM0mSJEmapJQSMZERSSSSSG960Yte93c8eZ7juffs0Y83nXOT++Uwx/3x8T3n3KVSSZIkSfJTFMgZh8GXmwAFc7WamHMSDXk7GTcAESaTTtOQd1mKgvf+BLweFeGxV4D7bR/utnzCTJfLIc5hSwpeDorwvDcGT7sFeNjRqNtNnxDdVgvajQY063VXKEUYBpktIYoxM5VKuHzyCb8cRQgcCDJbwnZuNvJDGAcgjCIAQhhntnS9noertVFXS4ZR0AkCAsxWqwQz9xK2FAsKMXiypkqlsDHZ0uWqM5SivcL7BRE4GMQtIWiwwihrMI3hl+iNq38jhHFmS4g6X8rZRfEp4pPEMIQgTLZ0saxB1k7e1w/WbSFGtsQoeYf1mMsoW7K8dN+HYQhB0J9A6ei2+ou5ocHzseDMZTxe8OC0k4WzblbgYomC/XmPxmHbIxzOOfzv+ywKes0MjWByJATJqxwn2j8xtxNFflyT/Lt8AOiTljKIz/emAAAAAElFTkSuQmCC",
+    "wiki_name": "Maple blackjack(o)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Maple_blackjack(o)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 24,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

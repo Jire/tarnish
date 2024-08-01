@@ -1,0 +1,90 @@
+{
+    "id": 1339,
+    "name": "Seagull",
+    "last_updated": "2023-08-03",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2005-09-26",
+    "combat_level": 3,
+    "size": 1,
+    "hitpoints": 10,
+    "max_hit": 0,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "birds"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 5.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "Smells of rotten fish.",
+    "wiki_name": "Seagull (Level 3)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Seagull#Level_3",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": -47,
+    "strength_bonus": -42,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": -42,
+    "defence_slash": -42,
+    "defence_crush": -42,
+    "defence_magic": -42,
+    "defence_ranged": -42,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 7887,
+            "name": "Seagull wing",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "rolls": 1
+        },
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 314,
+            "name": "Feather",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": 10858,
+    "name": "Shadow sword",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16520,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 3.628,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2007-02-12",
+    "duplicate": false,
+    "examine": "A shadow sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xs2WW2vCQBCF3fdi8aGSWqzRRuu9EUNtE28lEW////dMObNskob0oVBnc2AJubEfc87ubK0mLkXFJxalaD6fUAWgAJDB+K7Lo/iVkBR5Xpdms3E1YHo9l2G22zAFKn4lJEXd7jPDbDaftqujqNl8oOl0VA2YRuOeYdbRByXJ3qZViur1O5pMhgxzPMb2qwOYKFzR6WQVRu8zCDFgzufELgwCjNyE4TtdLge7MP3+Cy/tIPDpej1WBya/mqzD5HdhYRgd3jwMQiwEUzwi6CZpDabTafNk5h7DNEoDI9QwFbVaj1wNA7JaBXzFpgcY9Kf9fi1XHVRiMPBSoMXijSuDqux2EcXxVgoGyrKCa7v9xECw53D4SiGFYIwUDYcDtshxHG6YAIJVvj+XyE2ZdCUQ7uXSzx3OxatjpNguAGGMR68pUDbElMGYyRFy5MpYaQ7txT9vIL3sDYy2RgMBBiD5HN3QOl0JhDgPk034066bw2Al4VxTDqNlnpW9+2dpS7Df/AZjQSJW/E2VgqmKvgHrOlIeUTpX2AAAAABJRU5ErkJggg==",
+    "wiki_name": "Shadow sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shadow_sword",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 27,
+        "attack_crush": 21,
+        "attack_magic": 4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 4,
+        "defence_ranged": -1,
+        "melee_strength": 26,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

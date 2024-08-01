@@ -1,0 +1,419 @@
+{
+    "id": 2054,
+    "name": "Chaos Elemental",
+    "last_updated": "2023-06-09",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-02-20",
+    "combat_level": 305,
+    "size": 3,
+    "hitpoints": 250,
+    "max_hit": 28,
+    "attack_type": [
+        "melee",
+        "crush",
+        "ranged",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "bosses"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 268.75,
+    "slayer_masters": [
+        "krystilia",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "pUre A cHaOs of crEatuRe!",
+    "wiki_name": "Chaos Elemental",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Chaos_Elemental",
+    "attack_level": 270,
+    "strength_level": 270,
+    "defence_level": 270,
+    "magic_level": 270,
+    "ranged_level": 270,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 70,
+    "defence_slash": 70,
+    "defence_crush": 70,
+    "defence_magic": 70,
+    "defence_ranged": 70,
+    "drops": [
+        {
+            "id": 2297,
+            "name": "Anchovy pizza",
+            "members": false,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 361,
+            "name": "Tuna",
+            "members": false,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 11920,
+            "name": "Dragon pickaxe",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 1215,
+            "name": "Dragon dagger",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0859375,
+            "rolls": 1
+        },
+        {
+            "id": 7158,
+            "name": "Dragon 2h sword",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": false,
+            "quantity": "500",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "75",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": "250",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "125",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 809,
+            "name": "Mithril dart",
+            "members": true,
+            "quantity": "300",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 892,
+            "name": "Rune arrow",
+            "members": true,
+            "quantity": "150",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 534,
+            "name": "Babydragon bones",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.005858230814294083,
+            "rolls": 1
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.004393673110720563,
+            "rolls": 1
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.003417634996582365,
+            "rolls": 1
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.0026852846401718583,
+            "rolls": 1
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.0014647722279185586,
+            "rolls": 1
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.001220703125,
+            "rolls": 1
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.0009765625,
+            "rolls": 1
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.0007324397568300008,
+            "rolls": 1
+        },
+        {
+            "id": 530,
+            "name": "Bat bones",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "1-4",
+            "noted": false,
+            "rarity": 0.0007324397568300008,
+            "rolls": 1
+        },
+        {
+            "id": 464,
+            "name": "Strange fruit",
+            "members": true,
+            "quantity": "10",
+            "noted": true,
+            "rarity": 0.1015625,
+            "rolls": 1
+        },
+        {
+            "id": 5952,
+            "name": "Antidote++(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 5940,
+            "name": "Weapon poison(++)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.078125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "7500",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 536,
+            "name": "Dragon bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01694915254237288,
+            "rolls": 1
+        },
+        {
+            "id": 12073,
+            "name": "Clue scroll (elite)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.005,
+            "rolls": 1
+        },
+        {
+            "id": 11995,
+            "name": "Pet chaos elemental",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0033333333333333335,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.017241379310344827,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 2436,
+            "name": "Super attack(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 2442,
+            "name": "Super defence(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 2440,
+            "name": "Super strength(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        }
+    ]
+}

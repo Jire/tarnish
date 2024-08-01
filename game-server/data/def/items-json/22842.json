@@ -1,0 +1,77 @@
+{
+    "id": 22842,
+    "name": "Pearl barbarian rod",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22843,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 150,
+    "lowalch": 60,
+    "highalch": 90,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-01-10",
+    "duplicate": false,
+    "examine": "A decorative heavy barbarian Fishing rod.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQ0lEQVR4Xu2XXWcDQRSGc35HbpZchBJWWbUqpKJibYythNVWc1OpEEIbvSol+hf6f0+dM52PnVTvMmcu8vDaXAx5vGdmku31ziQFoIs4gJOnjY2wlG5lWN7YhvIs44QrT4z+8qauOb6IiIwvkkQroYiIzEKpNMZjZMJWwpURALxq7jsyWb//+zk6gLfPOxwU1yxhItSQO0XN/oDq9VNyXE7GjUdsE3fvF8ERGbp3jC8UroyAljEnSrgdLVNNp9LtuJ8CI+Maid4O4MVkxjmW0USVoUtv9vKGWV7YMUUU8NEyfor5kqPFogJ4V5d4mQ9wvvvghqrNO+evkZ0YwKUa4+pBccpiaEclIEM4ITrS9PRFIssQgN+HrW2IMi5HEvuGAGwXFX7tV7yHqCnRUdG70nbd4mObxH9h4njzCok4khE58w8/yLwvp+ilkTwAAAAASUVORK5CYII=",
+    "wiki_name": "Pearl barbarian rod",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Pearl_barbarian_rod",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "id": 882,
+    "name": "Slash Bash",
+    "last_updated": "2022-06-28",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2005-05-17",
+    "combat_level": 111,
+    "size": 3,
+    "hitpoints": 100,
+    "max_hit": 13,
+    "attack_type": [
+        "crush",
+        "ranged"
+    ],
+    "attack_speed": 6,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "zombies"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 100.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "A powerful looking Zogre.",
+    "wiki_name": "Slash Bash",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Slash_Bash",
+    "attack_level": 100,
+    "strength_level": 120,
+    "defence_level": 60,
+    "magic_level": 1,
+    "ranged_level": 100,
+    "attack_bonus": 22,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 30,
+    "defence_slash": 30,
+    "defence_crush": 30,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 4812,
+            "name": "Zogre bones",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 4834,
+            "name": "Ourg bones",
+            "members": true,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 4818,
+            "name": "Ogre artefact",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 6807,
+            "name": "Zombie champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": 26708,
+    "name": "Dragon claws (or)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27093,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 205000,
+    "lowalch": 82000,
+    "highalch": 123000,
+    "weight": 0.907,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "A set of pretty fighting claws.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACPklEQVR4Xu2U0UsCQRDG3b/DF8GHQAgkkJAQDAkJQ4okEUkyySRFMDOyegjyNfQx+mc3vllnb2877c68zgc/OLw9mZnffjO7sdhWoUpI9WyEhGw2b2WxeLIJUMqZWu1Ktlp3Mp8/ihJKyHL5XEPU69ey0biR2ezBf0GZc+I4UyqdylzukNoGIPz+A5SgwuyG6QxadXZ2QRC93gOt8RsilKCCPLRoDdap1O68oPqGBxCz2Zdst3thtk85Eo8nKDkKAS6Z3NFt63bvPaHwPYRBV+1ioGr1UqbTe3rNIICwodA+rBHPbtrZA0rQTjOZfQLAu+kWHgwxCvf7jwQBBwGN/6bTT/0/2ozh/yOUahEDITFahXcTCkOMwqPRq4YCOENhjc1UKjX6lk4gNrCE7HT6ukXsBh9zQDrJuR1CjsdvFAeIQuFYf8ca3znOruZDCgBWwwGsMcC8ewy2UzAWAxjDTSYfHidNQWGmVnBJtQEJ0JqXl3dKAjgG43cHxB3PQ21CMBQ77o5ZKqGPMifC2pybxTAst1OmW9gQx9tRC6TmhwPxYLcmxHIYlopFLrSfTx8eHnA7wkNCDofPtDMzwYq9p9niHBgDc9D5JNoxloQcDJ7IEbNFDBcUiMVgaJ2T57e2kwRdcrDY3Nkf7xBDbmd85HNOGANhBnzuxqcC5fp5wtw2r0c+c6mBtudnfe0KLNUu0x3ME8NFAoTj7hRXa/NWtiNClj0v7vsnAiDILC70dR8RjJK7eKTueGujYLaa6xvSbleuoWHaiwAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon claws (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_claws_(or)",
+    "equipment": {
+        "attack_stab": 41,
+        "attack_slash": 57,
+        "attack_crush": -4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 13,
+        "defence_slash": 26,
+        "defence_crush": 7,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 56,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "claw",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

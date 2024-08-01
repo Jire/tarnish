@@ -1,0 +1,77 @@
+{
+    "id": 27810,
+    "name": "Dragon candle dagger",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27811,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-02-22",
+    "duplicate": false,
+    "examine": "A candle lit by the fire of a dragon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACEElEQVR4Xs3UT0gbQRQG8Myxh8KCZC9LYGAPC9JD8WRPpScRAhYsSBtEYxHFFlH8A9qmRAhVwUOsIiIiYkHQKpYcKkKwCoWighcPgoIUbx5Ljx4+9+1jXJt6bGbmgyEQsuTH995OIqElApXfGIzAYKYGFqEERtqS6GxybEEJjLYnsT6QwvOnD21ACbzLJrExnMLumET9owemUQIfXifxLZdCpoEbeixldCp/qTG82Nk075FhjAqNyYp2KALLPZ4t7Qis9cUYgyAeUWlIovyeEEbbEUgHCeyMSvwYizGGQAIddQ5KrySOPvomMTyi/icOtl56+J6VOJ8OTI1KoNlNIP/MvcUcd2tr5+61z610eQ6mGlxstMSYs14t7YT3SY5fYTp538WIdFDwY8xRFzejoR2BoYyDtUL4x3MSxcDFRAihT8KU22OMglQRQxHIdYQ7Munh52I4ki8BFmq96NyHqXz6P0fg7QsHE29cbBfDP1/2cbzi4/durRkMNTM3HI5mnMe1Py8jELWkHUOtfM57UTOEoXGphghUZQy/HeoU+3lnCHOw5ONk1cfpuo/zTYZUHdPa6ES7Qm/TzKCLnU88HoJcbAW4LP0LqRqGEIVuF1O9vC/lWW6F2rja1gZRYRAtrbpnaE9+fQ2iN0kj5G74FqYRKcyfvb8xlU9oiIj2xBKMisD1YdoWjIpVGI5VGJO5AXIXrPihrMqlAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon candle dagger",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_candle_dagger",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

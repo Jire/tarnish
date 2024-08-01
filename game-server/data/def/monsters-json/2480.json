@@ -1,0 +1,110 @@
+{
+    "id": 2480,
+    "name": "Scorpion",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2006-07-04",
+    "combat_level": 37,
+    "size": 2,
+    "hitpoints": 37,
+    "max_hit": 4,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "scorpions"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 37.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "An extremely vicious scorpion.",
+    "wiki_name": "Scorpion (Level 37)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Scorpion#Level_37",
+    "attack_level": 31,
+    "strength_level": 32,
+    "defence_level": 31,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 35,
+    "defence_slash": 15,
+    "defence_crush": 15,
+    "defence_magic": 30,
+    "defence_ranged": 35,
+    "drops": [
+        {
+            "id": 4569,
+            "name": "Book page 1",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 13459,
+            "name": "Ensouled scorpion head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "rolls": 1
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0007112375533428165,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.003257328990228013,
+            "rolls": 1
+        }
+    ]
+}

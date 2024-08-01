@@ -1,0 +1,94 @@
+{
+    "id": 11787,
+    "name": "Steam battlestaff",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11788,
+    "linked_id_placeholder": 14697,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 17000,
+    "lowalch": 6800,
+    "highalch": 10200,
+    "weight": 2.267,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2013-10-17",
+    "duplicate": false,
+    "examine": "It's a slightly magical stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhklEQVR4Xu2Wz0oCURSHO28wq9nMxkdo3xO4EYI2EUkEUWCEQoURgYVQQkiUREWBIRmFUYLgtk2IaKUgLpSBKUPEl/jFvcOoM/vm3EUfnNWcxce5589MTf3DAmEc7BBOX4rIv1Xw2mpzSxEiiX2kHwt4qtZQ6XRgDYecUoTFaBSpu3sU6++odU10+n2YgwGXFCEUDiOZvUXp41MKtXs/aH33pBiDFGEmGEQ8FsNNJoNqp4um9YWGZckQ36cDAf+l8gcGcpcXUqhumig3miMZn4UIiRVdCrlHn0VGQLjeNUZCjoTPMuMqbC1oeE65ZbzZfwwhuabjIWkgu2fgfFvnlVmd1aRIKR2QUT4REiyTJCAcb+goHLobmKk6AkIuwdq8kxDONnVXA3szfMZefsxPNAnJJlamOsy7ZhKSO0cZGe9UeTN8xL5RysiIBahIExN2ljRVqkNYDmncB9PBPpxiG4vjyfxUtozom6s4+1MR1uc0HEV0daoTm7eFFKiOgxL/Nm4cEQ6ZXwZOT2GmliQLAAAAAElFTkSuQmCC",
+    "wiki_name": "Steam battlestaff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steam_battlestaff",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 28,
+        "attack_magic": 12,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 12,
+        "defence_ranged": 0,
+        "melee_strength": 35,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

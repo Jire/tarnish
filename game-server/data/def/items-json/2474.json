@@ -1,0 +1,77 @@
+{
+    "id": 2474,
+    "name": "White flowers",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 2475,
+    "linked_id_placeholder": 16987,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.028,
+    "buy_limit": 150,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A posy of flowers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADoklEQVR4Xu2W6UtUYRTGff8T/wQJREQEReaDJCEkholhhim4YIQkFZJUUiFEEJGEMuS+TO6ajYO7ok7mhpMro+KaSy719dRzru+9d0aNpjsuHzpwcO7rmff87nOe91Ufn//xzyFIyQsRgjZWV2lzff0PUGcGLBjk29oabW1sHDZ1by7ox/4+HeztHVk/Wms4BMMgd7Y2aWFujuamvtL4Z7va7OfBAe3v7tL37W1+9vP15Z/z01Nci/QilDau3Z0dWltepiWnk5wzMzTrcHAjCQMFAY21lcVFhkcdUgM1HIoKU8MmmhszkcMeRiO9oTQ9MUEjAwOqSgBeW1mh8f4wmhkxqc/LCwsM5iUgQcP9/WStrSV7ZwgNd4dSvy2Eeq3BrNLU+DgV5b+lmclJcs7OsiqoARSgAYKxSRiDQIIW5+dpuK+PPtXUUEdzMNkag6i1JpDTMTbGv++z2WjMPsTgA+0hakpwjNVLHhKsAhp9tFiorjyAPpQEUHWRkg/Nt9RxyexqDebUw7OHfqvnNShkj9VKLdXVVFZYwCPCWsrzaMopS9J5Q5C1XoFotgSqL6AH9srYILljdJT90lhZwWq11ddzgzuvruuAlPqOlmauwShHBwdpcuSLN2C0t2pvauLN8Rk/B7s62VfyhN3Ljz+sVb431N1NvW1t7DEYGj5bXVrS1Xgcgk1sa2zgTQY6O9gPMKq9t8dFIWRiTiRlvbupPgMEJsdngODkZbyMUVVy7/YXIdgvAMLbwg/whjQpADEWrYHip+z3iSqUzKAIP4rNDGdoA0AIbVOYEyANlYFs0gqzv5uZlXq9nzS/CIpON1H8gwhVJdc+HoUCJI95aaE/1ZWVsnL15WWUa0nVqaHUZ76JO6apoBtZlynpyVUjKimnBc1xS9eWFFOl2cwgMHlTVSWb+UVdOj2uSFbBMBpXkyt7BUdeooTsK0ZUEgwCA6M5lJEJIKyjCfyB8T2rSVPHCD/dL0g4AoWxJedGGVMJ9w4gYHIk4KQaMsPjAtk/eQ0Z9LQqhdegxKPi2zooQaFR/qygAZUQrs3l27kbFxmVGsZ/TuQY776OVevlXjA4FHRd9zDcAY7bSIJBLTSE4eEZzeSaUhibQZU8CU0tmBvNcWnqwUwxAZSWd+2EE3kKoR8jPIPmGKX7aTR4e3seejBpeg1AMb70k/t3TzkE++k4k8vnM1NJC8E3tfuleU4wMk66NM81FO9o/xlciDhX7xwfnsD8AiAb9KZpdDriAAAAAElFTkSuQmCC",
+    "wiki_name": "White flowers",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_flowers",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "id": 28027,
+    "name": "Dragon mace (cr)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28028,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 51000,
+    "lowalch": 20400,
+    "highalch": 30600,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4Xu2W0WoaQRSGM8+Rm9wFhIAIIiKCIiKLIopLJAkJtSGpFBtaCC1pKAQCvSgUSqEESq/6oqf9znTsZFZ70cy6LeSHA+uZdefb/5yZ2a2tR21cRsJMgTLSbjalIKhVkxpJOp1fQOH4qlw0+RP/zp3VqvJhkEijXg/ArHPZ/0ST0Uknw+FyQmDedlpSKZd18kGvp/latXoPpryzoxE+MYKMvOu2FQKYeb0m6V5Jjitl6bZaMur35bLV0HBwuZftVbOhILNqRYNrckB+GvXl+2EqH4eJfB4P1CVAcyqbfVPnBg7cJl15027KTa+jMN+mE/m6P1YYoPjtnIpYNguyVypp1La39Y3ppePpVN73ewpwl47ky2So10ARrt+iwtCwfox+QlEe3MEFB+ECpxjjnpz6yD4MGFYPTbxo1JdQOASEAwKSPGUEyI9oUNZuC0YZmIyVRP8AxspjL8It4IDiN9e+QxFLh+zGyJu6pU24DfHJ4YGC0DurICLDIOvOQZrq5D4UTuESpcKZECR8UgQZ2R+PdVWdnZzI4vxcQegfP8gBxnW0fsnKqCtPj47k2Wy2LEWyu6v7EWN+r/hnWg7uGC2Pc+V+Y9qeAijMu8+RyEBGXXl+eiqvX14Ek9pxzq5s3o5lcw+S0fI4V9ZPsC7vtoq/lr+bmpWurJtgXf4BsucUOzH9cjGfy83V1R9cyVUWhpVBI16+WMjt9XVRMMieUcDQoOwzhAMK796A7Oem/zlRoDvI7hn+Z0KBME7ZQzC8Y+P6Z0Ae9b/oBzbIG6f96+rqAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon mace (cr)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_mace_(cr)",
+    "equipment": {
+        "attack_stab": 40,
+        "attack_slash": -2,
+        "attack_crush": 60,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

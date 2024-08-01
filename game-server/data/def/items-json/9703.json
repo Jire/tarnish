@@ -1,0 +1,84 @@
+{
+    "id": 9703,
+    "name": "Training sword",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18770,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-09-27",
+    "duplicate": false,
+    "examine": "Basic training sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xs2WzUoCURiGPXcwq9ZeQtuW0bIWtQkialGUUBGBFhkiolRCGCaD9oOlCE2FhQkSpFJmCNOPKQ0FuelO3jgzOOhQ7ZzvvHAYOHMGHp73fDAOR8/DYN0hCgdheK5W9af1rc1hKOZyqNdqaKiqDtTvdFJBMeTPFN3Md6tlwhABMWQO9nFXKOCj8YbPZlMcO1+aJo4drV6nhuEx7Dw9VPD++kJfVdtO51SRAnE7auVeDJjf7FhP2RiGa+UUj8WiOHZK+bwYMNFwWLfD6xKiKm7nJpsVx85VJoNauSyOHV6XMHaU46QIMDwMSVnGRSolRlXcTjqRoLZj/I7yFd+N0MMsemSshxTsBIM43ItSV8UwOevHivdIhyK2w8MwPObC/HKkC8p6yuYwzAxKJtTG5jklFMPEgITVEQmB8T4suGNw+07gC19SQBkwriEJ3lHJnLT2svkuMUzNBeDxp7EVu+0C6FzWr3oYhmlXCEtrcWzLJRPIesrGGNPFLRHU81dI7sr/sRvmB07gaKsmoW36AAAAAElFTkSuQmCC",
+    "wiki_name": "Training sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Training_sword",
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 3,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

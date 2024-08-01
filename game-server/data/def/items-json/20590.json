@@ -1,0 +1,77 @@
+{
+    "id": 20590,
+    "name": "Stale baguette",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20591,
+    "linked_id_placeholder": 20592,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 225,
+    "lowalch": 90,
+    "highalch": 135,
+    "weight": 2.267,
+    "buy_limit": 5,
+    "quest_item": false,
+    "release_date": "2016-08-04",
+    "duplicate": false,
+    "examine": "Baguette ready for pain.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABhElEQVR4Xu2W30oCYRTE/Z6jG68DQQSJ6CaICClCKJKSJA1zKVdKEA1D7C8ZghYlhRQRQUQXPeLEnOW40QucEAeG1b3ZH/PNjkYiE42HHP7eMZTD94uPAEptKofPRw8fg5JcX/u71lAO7w97GHbzeO4VRkDxaNQKygnI4Hobt+dbuL/MymfDlJwA9NqbuDpeR62YEDe8hC1U52QDp7X0CKhZTqJTn7WFah6uwM/FBIgFp7+GB7ZQTIlpsdzsltpwEoLjY6+06DQ7xqsZVLeVEQjCXdTXJLlWdVVsBqUg7FZtPwUvG5OycxrMoLTsTIZwuuhmUMFiuxGQlpylD6EMwMIHOwHRRWfXTNPSxFh2mkBc+PDnxgAskJMRVR8V4ni62bFLiw9lMkyI+9SuJHFWnRGbQnGrtE8s+9tdUd5EUyhdch1TwuiqG/2vCo7v95rzuyEQ5dDwl1EtLaFSXEQ5vyCDanRsKgcvN498Zg7pVAKx6SnrlKhwQBXGGCgc0H8BM9HY6wdLEmb0IIbWjAAAAABJRU5ErkJggg==",
+    "wiki_name": "Stale baguette",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Stale_baguette",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

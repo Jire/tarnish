@@ -1,0 +1,79 @@
+{
+    "id": 845,
+    "name": "Oak longbow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 846,
+    "linked_id_placeholder": 14561,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 160,
+    "lowalch": 64,
+    "highalch": 96,
+    "weight": 2.267,
+    "buy_limit": 18000,
+    "quest_item": false,
+    "release_date": "2002-03-25",
+    "duplicate": false,
+    "examine": "A nice sturdy bow made out of oak.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4XtWXsUoDQRCGb97gqmuuCfgCvo+dhZWdnOFQgoKIQkAhICEEVERBUbQQRBBsbGzENxr5b1jmdnL1zvrBQm4vkI9/Z3cnRRFBHD+7QvxxOWKRykKMeL9peLZX8fsyCzHig7btpPD5blrz28JdLJZqNku+OXUXi6UwprsVXx3X/DrviyWVW5XCONlRsa/bIJeMWGp9pOmg8ENaMp8M4sl4bH6YuN0qu6QchIBK9eewfJ/XyZctYKWItzfK7mhwTclKIaXflzW/lFDkVgq19POUmdTisObvB2epuHaILyaVx9kUUKn+HI4D1503JIWhbUxyhqWWR27HAbBSsnSOQmBVSjsDF6TbVCm5gN1Tsp3B80xqyX4zIf07j/jx3LW4AyqFu+7+zD0loFKOHYFFdh7+JGBkkBIQKcfucgg5uYOUfeuE7DoklElKRZGVzL/mDxyRQf3kuowHAAAAAElFTkSuQmCC",
+    "wiki_name": "Oak longbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Oak_longbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 14,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

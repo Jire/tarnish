@@ -1,0 +1,93 @@
+{
+    "id": 6908,
+    "name": "Beginner wand",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6909,
+    "linked_id_placeholder": 18595,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1200,
+    "lowalch": 480,
+    "highalch": 720,
+    "weight": 0.283,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-01-04",
+    "duplicate": false,
+    "examine": "A beginner level wand.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xu2XMWvDQAyFc/+gUxcvBx4ODAbjJZRQcAklGDIEUgiNaWkaSjO0Q///oORZKOe4dYcOkoc+EHg48MeT9M6eTMYvRz+XuvjFzcF/q9Us04ZikNevlD4/PB3ePe33nl6eE9puE9rlgepp0If6reDSvEx1oQrvaagEancvTimCDcvRQ8VQBi0cErsDqE2l3MJhOXqc5y1MbKmp3LllI4CBRgXk6K3OOkNtvnE80ABCLuG5uTPdOM6jJgvnBJcyhRIwgTGPAUlvwEhYonWmUKw42ACS+85w+3jr4BBgbgtvPU8Q33GyeZvAZQjFV4l8ogAmRoEhFFwCECJBtk/9G+pSp3kqOKMAA5fWs5SWU97I/mklnZK8LtsWSgwsysRy8yKQhCWAqpyh+qeV5OhpUbQz1QVCJJhCwSUBusmuqUyvLFsH8X3XBQoJQ/VPKsq1reo7ZOgSFO+7EcCwLv/x/vV3HQFeSiVcL4Co5wAAAABJRU5ErkJggg==",
+    "wiki_name": "Beginner wand",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Beginner_wand",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 5,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 5,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 45
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

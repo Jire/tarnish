@@ -1,0 +1,93 @@
+{
+    "id": 6603,
+    "name": "White magic staff",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6604,
+    "linked_id_placeholder": 14316,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 200,
+    "lowalch": 80,
+    "highalch": 120,
+    "weight": 2.267,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "A Magical staff.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlklEQVR4Xu3WzUoCURgG4L478RK6B1ddgav2rtq5izAXRraobCEkBSpkmbaIbAQRNW3En4a0wTH/cAxFjK7hjTnhX7T2O4teOKuZxcM735xzNjb+wxLCYrGHEA7HoSh5aJrOjSK4XLsIBq+QyajQ9Tam0y9OFMHp3EEgEEIuV4ZhdDEeTzCZfHKhCA7HNvz+IAqFqgCZ5kgsC8aAItjtWzg/PUEpm0Wz2UGvZ6LbHYhlPd+02daPenupQVNVAWq1elBVbY5ZM4gQvbwQoNVfnwVjhVB5ys9BM8SaMYsWgn4/uobB28hdJAKjXke1UEBOeeTFHHk8YniH/T4+BgOMh8M56PfbawhBicfRaTZlGF4rhHqlwjm8yyFkk0kMOh3OT7Qcgq6xbXZ/hTAyTXna6bffZWmHYDQa8mBey2V5MNZ1QhpM8jYmdmMJhpgQCgTECS5BO4QD9x6K6bQcmMN9t9iNa89F7k/1c4qnEgmomQx3O4Rjrxf311HkUwq0Uom/nTOfDw+xG5TzOe52ZpHibrOaGYQD8w3xvYJQ+qsJQgAAAABJRU5ErkJggg==",
+    "wiki_name": "White magic staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_magic_staff",
+    "equipment": {
+        "attack_stab": 2,
+        "attack_slash": -1,
+        "attack_crush": 10,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 1293,
+    "name": "Iron longsword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1294,
+    "linked_id_placeholder": 14738,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 140,
+    "lowalch": 56,
+    "highalch": 84,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A razor sharp longsword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABn0lEQVR4XuWWTUsCURiFvf9gVm7cDMzCbdsWgiEhYYiSJCZJKpmkSUaE/YKC2ta2qHUU0q6iWoRUy+iDFlH9kZPnTtevqOW8QgdeZhazeDjnvPeOz/c/peCOuFyQ6WQSC/m8NJRCIhZDIZvFSqWiYUZsW8/glx7IhaErjXod1VKpAzT4pQdSmIxGtTNryzU9gu4ojIfDmJvJ6JgIs7pUlXJHYSwUQiaVQq1c/gEjAsRtWiwWhwPGlJgg4jCmxOyNOIwpMVdbHMaUmL0hDMsstFFU90pgVMKncfdaoCviMCwxe8OoxGFY4tl0uhOVKAxLzN7M53J9BRaAoRSm4vHOiovf4Cwxo2JvBNwxv5zuTEQi+rwRikphc8OP46MAzs9sXWJGxRXvjckjGEohk7b6oG5bjo7KOOYhDKVQKFhYb1jY3uqHenxw8P4W/AbzVG2XRttQCQuHBwE0T7pAIpERonXj4PMjiNOmrd/v7xz9FIlsfy+Aywsbz08uQO947s7ujl+78voS1DH1QngMY6RwfWXriAQc+U0i8fytoYKR1BdRNJJhxgh1owAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron longsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_longsword",
+    "equipment": {
+        "attack_stab": 6,
+        "attack_slash": 8,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

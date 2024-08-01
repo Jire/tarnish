@@ -1,0 +1,67 @@
+{
+    "id": 5370,
+    "name": "Ghost",
+    "last_updated": "2021-09-02",
+    "incomplete": false,
+    "members": true,
+    "release_date": "2003-03-17",
+    "combat_level": 24,
+    "size": 1,
+    "hitpoints": 20,
+    "max_hit": 3,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral",
+        "undead"
+    ],
+    "category": [
+        "ghosts"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 20.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "Spooky.",
+    "wiki_name": "Ghost (Grave of Scorpius)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ghost_(Grave_of_Scorpius)",
+    "attack_level": 23,
+    "strength_level": 20,
+    "defence_level": 23,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.011111111111111112,
+            "rolls": 1
+        }
+    ]
+}

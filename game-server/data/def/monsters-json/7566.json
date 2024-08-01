@@ -1,0 +1,88 @@
+{
+    "id": 7566,
+    "name": "Vasa Nistirio",
+    "last_updated": "2020-12-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": null,
+    "combat_level": 0,
+    "size": 5,
+    "hitpoints": null,
+    "max_hit": null,
+    "attack_type": [
+        "ranged",
+        "magic"
+    ],
+    "attack_speed": 3,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "xerician"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "A former High Priest, fused with the rock and bound to the dark crystals.",
+    "wiki_name": "Vasa Nistirio",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vasa_Nistirio",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 0,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 100,
+    "ranged_bonus": 0,
+    "defence_stab": 170,
+    "defence_slash": 190,
+    "defence_crush": 50,
+    "defence_magic": 400,
+    "defence_ranged": 60,
+    "drops": [
+        {
+            "id": 20888,
+            "name": "Nistirio's manifesto",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20911,
+            "name": "Endarkened juice",
+            "members": true,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20984,
+            "name": "Xeric's aid (+)(4)",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20936,
+            "name": "Twisted (+)(4)",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

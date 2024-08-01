@@ -1,0 +1,84 @@
+{
+    "id": 10129,
+    "name": "Barb-tail harpoon",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10130,
+    "linked_id_placeholder": 15411,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 36,
+    "lowalch": 14,
+    "highalch": 21,
+    "weight": 1.36,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "A mighty Hunter weapon. One previous owner.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xu2U30vCUBiGPf+J10HgXVdBICEx8WoQCQMJRJHyItAKxxhlmcFQLMZARKgr/8pX3jMO+2F21fEY+MDHGGzs4f3es0LhwIG9ReDnMYLAarXEfD5DFE2wWHwiDAMEwdCsFOdj9o7p9A2jkYfx2DcpJeBYJbTtEzw/DeB593gZulKmVCzKyb+hEQG7fISryjF8/xH9fheu28sI5d/QQFLcrnOO9uWZTIZrotj3VyTXtiMhgd71BR6aFm7qZTTtU1loDpPi8BnKTSavujskcNeoyKEUr0yHUpRLJ7dchro7JHDbqMkVpYV4z0l/PBbQLMNhGkxCjRLZ9vH8/R8Rd6ZVt+RqKJUW2yajiViGSXScakbqt2Q0kcgwCSXE2eyLdoQ81kpGrclAKiQrkz7OO06FJDJKyJAIERi0qpn/ioH1KOICqx+dwVRIIsOrwVRIIsN17YUMS2y4LySW8To1030h8WnKy+Sf2jHGV7TJXskc+C+sAQN8eB/8UvbEAAAAAElFTkSuQmCC",
+    "wiki_name": "Barb-tail harpoon",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Barb-tail_harpoon",
+    "equipment": {
+        "attack_stab": 9,
+        "attack_slash": 4,
+        "attack_crush": -4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 6,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

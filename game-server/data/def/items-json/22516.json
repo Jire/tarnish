@@ -1,0 +1,77 @@
+{
+    "id": 22516,
+    "name": "Dawnbringer",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2018-06-07",
+    "duplicate": false,
+    "examine": "A weapon of light to hold back the darkness.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACS0lEQVR4Xu2XT2sTQRjGM9/Aey4LOQQWAksglBICKUuNIVqNhsQmJphQazFNTGpTMLZ1JZElNLVE7VZpSqtFMSgiRnqxBy8qoqjgn0tPIh48+Bke3RmTlNTqaTcj9IGXnV12eX88887sOxbL/yeC7icmantyfUxwPbZArz0AI6iEy+3kt0fqWE3dRMGfg5oq4X76jtlgBMtJDVq8hgeXG6gnl1CNqJg6cA4TR3PInziLuRkRD1f6zIAiGJdP48fnAE22dqEOLXEV1bCK2cNF5ANZ5I5nIdosuKI48OWNz2gogqQ7jpUFJ5423GjOP8JmcQN3R1cp1MVfUGf2j1GIpYqEl0+8dCwJglFQBCFXELWSg0J9at7C60UNzZICLT8CJXkI0YBIYZ8/9uDjMxnf3vmNd2ksIeB8xk7B1mpOLFclGvr9VC4LVZmlMO83B9oOGeiSLraKokErMikByqQdalGkdROPRDBfLtMwCYaJJWkt707oQBPpNCqXFCxW54yerp1qOdBxguDY0BBOJRKYzIy3Xer+zmQxt+6tM4c4AOpM6XShYP607S6CIwG2iXLhkg4y4PHQmuLKpT6Xiz8ou82GcDC4B/UXEQx6vRCsVgyHQvxA6fXkl2W+oByiiIM+H/3N7EHtLlbk+sZ5MjrMAxSBu7+fPyinJNGVp2+cqVjsN1RPwVg9bYfaejHID1Tjhov25CacWP4lQo9P69ec9Fz39a0f3z+wTqH7TZNEILv3IT9qoz36q43OEaqHrUuroFn0GIZpZ4/+Z/0E4amNEKUPdKwAAAAASUVORK5CYII=",
+    "wiki_name": "Dawnbringer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dawnbringer",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 25,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

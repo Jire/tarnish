@@ -1,0 +1,94 @@
+{
+    "id": 6526,
+    "name": "Toktz-mej-tal",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6538,
+    "linked_id_placeholder": 18257,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 35000,
+    "lowalch": 14000,
+    "highalch": 21000,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-09-19",
+    "duplicate": false,
+    "examine": "A staff of obsidian.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA80lEQVR4Xu2WsQrCQAyGmzdw6nzQwdW1SAfpUKRSLBZLLYK1g+AbOAgODo6+cSR33HB3k0uToR90KRk+8ofkomhmZuZfAP0/jACu0xSFSAEe6xo3WaaFVkpxSgGe21YL7cuSWwi0hBWxMkxCpjO7onBE2GQup04LdU3DH9OhquTEdBsGZ3hZZZ4qxk8Sc3eFMNGIiIg+iui7ZO+MmZdr3wcz41dOBOArMTMjYgPTwnuohYy5oYW3zXNHhE2G4vGF/KqJEHYo6TaJOZR0m3whv2oihB3K+zgGS49JhgB8y1h6hNnCAmIizDNCSEwW9q6ESJD5AdfM3PfxjOr7AAAAAElFTkSuQmCC",
+    "wiki_name": "Toktz-mej-tal",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Toktz-mej-tal",
+    "equipment": {
+        "attack_stab": 15,
+        "attack_slash": -1,
+        "attack_crush": 55,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 10,
+        "defence_slash": 15,
+        "defence_crush": 5,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "2h",
+        "requirements": {
+            "attack": 60,
+            "magic": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

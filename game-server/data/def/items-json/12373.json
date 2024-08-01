@@ -1,0 +1,79 @@
+{
+    "id": 12373,
+    "name": "Dragon cane",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12374,
+    "linked_id_placeholder": 15927,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 30000,
+    "lowalch": 12000,
+    "highalch": 18000,
+    "weight": 1.814,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "An onyx topped cane.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZklEQVR4Xu2WMWvDMBCFrX+QSYsWQYdApiwmBFPwkqEQsjQQMqRDly5dOnToUMiQIb8hf/bqp/NVssng0kpRwQ8eyCKxPt87yS6K/ylF/ZnEAoBAKHq3k/Y6dDIpWk0KZ1kcQC/G+80IYDIpWgdAHy3Q6zeIorm1zv1/RhIvGlYJQGFkSWEEBFHtNft0p11UEluCyLqNXBYMVddrqqoHNz42UM8tTOTIOJJwN2GMSt033myeOnHNWtj+Xf5Qyj05DBCpAoyYADadzumgef5RM1DECkHK7SIYUDAWRu+cG2OnAUjAEwBBPhaAoTropU+r6TIzLiocB1KpJEDhWSNGtTCPPkPVpOHZ0eV3kN9JvDgqgyMA40VZkjUmDdS1KEIwGR92u+D6RuqePx6q+6ubKnuobMAYZr/d5gMlzV4tl/lAsUaooRqhhiqEygZMuXdfsvffMDHUqq7zgoIjf5P/TFnBjPqtvgAivwl3HHjT7QAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon cane",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_cane",
+    "equipment": {
+        "attack_stab": 40,
+        "attack_slash": -2,
+        "attack_crush": 60,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "polestaff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

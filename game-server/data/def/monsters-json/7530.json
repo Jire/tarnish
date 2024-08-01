@@ -1,0 +1,88 @@
+{
+    "id": 7530,
+    "name": "Vespula",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": null,
+    "combat_level": 0,
+    "size": 5,
+    "hitpoints": null,
+    "max_hit": null,
+    "attack_type": [
+        "melee",
+        "ranged"
+    ],
+    "attack_speed": 3,
+    "aggressive": true,
+    "poisonous": true,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": false,
+    "attributes": [
+        "xerician"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Queen of the Abyssal Vespine. Her lifeforce is sustained by her connection to the Abyss.",
+    "wiki_name": "Vespula",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vespula",
+    "attack_level": 0,
+    "strength_level": 0,
+    "defence_level": 0,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 70,
+    "defence_ranged": 60,
+    "drops": [
+        {
+            "id": 20893,
+            "name": "Transdimensional notes",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20984,
+            "name": "Xeric's aid (+)(4)",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20960,
+            "name": "Revitalisation (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20972,
+            "name": "Prayer enhance (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

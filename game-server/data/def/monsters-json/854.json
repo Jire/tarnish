@@ -1,0 +1,81 @@
+{
+    "id": 854,
+    "name": "Icelord",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-01-29",
+    "combat_level": 51,
+    "size": 2,
+    "hitpoints": 60,
+    "max_hit": 5,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "ice warriors"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 60.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": true,
+    "examine": "Sturdy cold being.",
+    "wiki_name": "Icelord",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Icelord",
+    "attack_level": 40,
+    "strength_level": 40,
+    "defence_level": 40,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "rolls": 1
+        }
+    ]
+}

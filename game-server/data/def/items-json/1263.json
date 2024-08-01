@@ -1,0 +1,86 @@
+{
+    "id": 1263,
+    "name": "Dragon spear(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1264,
+    "linked_id_placeholder": 14781,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 62400,
+    "lowalch": 24960,
+    "highalch": 37440,
+    "weight": 2.267,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A poisoned dragon tipped spear.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdUlEQVR4Xu2WMUvDQBiGc/8g0y1ZAg6Ck2sRx9Klm0OR0kALNoXWYlpjjbVSFEShYKWgIA5Ogr/y8977PKtxcLs70BeOcEngHt7ngyQI/lYEle84CkAEzRdSX8tPLUfQ3XNEtw+SrlcGyAkUH/z4GtH9S6ShRjMGKuLQNpTSs8GHP71Fn1BJGtKNup9/AG3HsQ0ooQ8FEJpYbUoNdbmUVK0HtFT7NHIAVA0D2pchzWJJHQWwq/br+WEYa0BoBwtq0EZL8tqTDGURBmEgqFmohZa+zpRlGETouQFM9m1WHMHMi0K3gzkqQ1iHuZpO6TzPNcxWsJ6X8puWIuhiMqHTLKNRv/+jHcthVWfjMR0fDlzDIEKrOjkaUr1W80fVsNdz3Q6rQjveqDLtpO22e1VmkD1QhfAgQ9VOpeK+HaPqIElct8PNQNWg23UNg3A7UNVqNNyrQjueqEIYyBtVgMGH0wNViNCqOs2mD+2YWP9B/z1ewfxH5R0zFULjtgQdKwAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon spear (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_spear#Poison",
+    "equipment": {
+        "attack_stab": 55,
+        "attack_slash": 55,
+        "attack_crush": 55,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 5,
+        "defence_slash": 5,
+        "defence_crush": 5,
+        "defence_magic": 5,
+        "defence_ranged": 5,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

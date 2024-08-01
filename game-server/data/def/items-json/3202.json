@@ -1,0 +1,80 @@
+{
+    "id": 3202,
+    "name": "Rune halberd",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 3203,
+    "linked_id_placeholder": 14626,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 64000,
+    "lowalch": 25600,
+    "highalch": 38400,
+    "weight": 3.175,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2004-09-20",
+    "duplicate": false,
+    "examine": "A rune halberd.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbklEQVR4XtWWQUvDQBCFM//AUy695CYIQvBSihTqIYgkBEODEkKDTZFIrUWxlqBEBBV68OatePCfPt0s25pgPWbHByHLTiAfb14maxgbRZAXCxFOggDHrssBSjpzniTYs+1ybVuWLihCkF3Dic5KkJtoSycQIZ49roA6boD3mYnUl1D1pxsQYTB/Qn98i8N4hK4fYrfTxeLSRORogSIk+TPCyRzecIyDcIC248Ha3kGRmnDaRtNQhOH9K06nOfzRVcUlUbuLG88TIS0WZY5E29wkW7mkvrwsaLx1sm3KJRFu4ZICEiHXkCf58nqW1P7LhYY8yZxIANG6XhCVa7WvIU9SP8EUlKxoydNaCkzc1658z60jjVBC1RYRPh5a8PYbztPfIrxNTT152iwqJzkjl4Q0h/x3Efo9VnkSkiOCVZ4+ixY/l5Y5QyjxI2YHpWZUvaJR8nTADorl4FRHlnpFowiTkCFU9QjDQKxg/qW+AK+I9Gzd2vo4AAAAAElFTkSuQmCC",
+    "wiki_name": "Rune halberd",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_halberd",
+    "equipment": {
+        "attack_stab": 48,
+        "attack_slash": 67,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 4,
+        "defence_crush": 5,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 68,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 40,
+            "strength": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "polearm",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

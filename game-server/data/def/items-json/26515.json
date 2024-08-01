@@ -1,0 +1,77 @@
+{
+    "id": 26515,
+    "name": "Shattered relics dragon trophy",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 26516,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "A Dragon trophy for competing in Leagues III - Shattered Relics",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACyUlEQVR4Xu2XTWsTURSG5/6D6GIWxuBokEigEANDCCWQEkIIzcJWMVaoi0QpVBd+UNCWQikuBEWUQhFdVnDThhIXBd10VSQL9y5c+EuO856ZO3PnTrJoOpO48IWXSe4k9zz3nPsxYxj/lZgE6S1TlKBznQUKQ00V0AHqLjJQwbL42tvb0wAnKkHnV+9EgKx0elJQehAH6Ok9L7igTjpFy2bKB3QhE5Mg2zAi8+XCpy0y1+/TigOD+3nvNzJj0UHEIkG7OZMqqXCwBwcfyfrxmczNFVpyMgMYadx/vb3N7TFDCdpxYNasFN00ZYYErR3vU+f4CxV/H1Gm947b9CzBEiim8rkwyEzJtulJOoB6NvhKdwc9yv35RpmjD2Rcv+YDqEDqf/Tex5DgzgEjjQBofzzo0+3BAV391afM/lsyLl+kTcvk4LK0b5zBoNTIbstr0yOcUu5EVoHgutf5ogN0qb9DV96vU7NWo1ajwYFx/1XWDP0XKzCG0gm/XNI35uepWChQtlikXKnMnqlUqDBXo1KrRXajydYz+yKeLAnuCKPzs1O/RXO1BfbsbJPK5TrZdpWsfN53vVqNAMHhVTqWBNd/y0k/wDB/ut3nDNNeesjGd3jGAclls7xLYx7hqgPJfewMQJDc3FwDYnfjERtguKIN8wYlQVBkAhnCJMdgXnoOb5pnUHAMCM6GBJJGGyAABWPpY4UFO3vgGI8Ud4+RJdJLhtHL7ABKLY9uvecxJWi53fazpAIhuFoqGBmKpTyj5Z5NMvXNZpuNeQNLGLU8q92u9zkxqXMgPDfUCSvv/zw54X0rUSi1BDIwjofoChL0/fBQg5yIXKDhgYe1JS7Be004O4GGtSUs93gZBTQFCd6F/wGgYIWhZMGbRoIrarSEf2DyM5BjvG3IZ6EpQAVAMJ6P1NN+gu9lqsIbo+4pLPfgKWCU9d+fRn8B7XZIjbNwGE8AAAAASUVORK5CYII=",
+    "wiki_name": "Shattered relics dragon trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_relics_dragon_trophy",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "id": 2585,
+    "name": "Abyssal guardian",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2005-06-13",
+    "combat_level": 59,
+    "size": 1,
+    "hitpoints": 55,
+    "max_hit": 11,
+    "attack_type": [
+        "stab",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "It seems to have eyes in the back of its head...",
+    "wiki_name": "Abyssal guardian",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_guardian",
+    "attack_level": 30,
+    "strength_level": 90,
+    "defence_level": 30,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 15,
+    "strength_bonus": 5,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 70,
+    "defence_slash": 70,
+    "defence_crush": 70,
+    "defence_magic": 150,
+    "defence_ranged": 70,
+    "drops": [
+        {
+            "id": 592,
+            "name": "Ashes",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1462,
+            "name": "Nature talisman",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 5516,
+            "name": "Elemental talisman",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 5509,
+            "name": "Small pouch",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.023809523809523808,
+            "rolls": 1
+        },
+        {
+            "id": 5510,
+            "name": "Medium pouch",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.023809523809523808,
+            "rolls": 1
+        },
+        {
+            "id": 5512,
+            "name": "Large pouch",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.023809523809523808,
+            "rolls": 1
+        },
+        {
+            "id": 5514,
+            "name": "Giant pouch",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.023809523809523808,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "1",
+            "noted": true,
+            "rarity": 0.140625,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.1328125,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "5",
+            "noted": true,
+            "rarity": 0.015625,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "10",
+            "noted": true,
+            "rarity": 0.015625,
+            "rolls": 1
+        },
+        {
+            "id": 1438,
+            "name": "Air talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "15",
+            "noted": true,
+            "rarity": 0.015625,
+            "rolls": 1
+        },
+        {
+            "id": 5521,
+            "name": "Binding necklace",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01171875,
+            "rolls": 1
+        },
+        {
+            "id": 2801,
+            "name": "Clue scroll (medium)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 1444,
+            "name": "Water talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "rolls": 1
+        },
+        {
+            "id": 1440,
+            "name": "Earth talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "rolls": 1
+        },
+        {
+            "id": 1442,
+            "name": "Fire talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "rolls": 1
+        },
+        {
+            "id": 1448,
+            "name": "Mind talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "rolls": 1
+        },
+        {
+            "id": 1446,
+            "name": "Body talisman",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.01953125,
+            "rolls": 1
+        },
+        {
+            "id": 1454,
+            "name": "Cosmic talisman",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 1452,
+            "name": "Chaos talisman",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        }
+    ]
+}

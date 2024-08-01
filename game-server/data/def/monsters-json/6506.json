@@ -1,0 +1,66 @@
+{
+    "id": 6506,
+    "name": "TzTok-Jad",
+    "last_updated": "2023-06-09",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2015-12-03",
+    "combat_level": 702,
+    "size": 5,
+    "hitpoints": 250,
+    "max_hit": 97,
+    "attack_type": [
+        "stab",
+        "ranged",
+        "magic"
+    ],
+    "attack_speed": 8,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "tzhaar"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 25250.0,
+    "slayer_masters": [
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "This is going to hurt...",
+    "wiki_name": "TzTok-Jad (PvM Arena)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/TzTok-Jad_(PvM_Arena)",
+    "attack_level": 640,
+    "strength_level": 960,
+    "defence_level": 480,
+    "magic_level": 480,
+    "ranged_level": 960,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 60,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 13225,
+            "name": "Tzrek-jad",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.005,
+            "rolls": 1
+        }
+    ]
+}

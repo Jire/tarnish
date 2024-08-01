@@ -1,0 +1,74 @@
+{
+    "id": 7996,
+    "name": "Corrupt Lizardman (hard)",
+    "last_updated": "2020-12-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2018-04-19",
+    "combat_level": 152,
+    "size": 1,
+    "hitpoints": 150,
+    "max_hit": 22,
+    "attack_type": [
+        "crush",
+        "ranged"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": true,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "lizardmen"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 150.0,
+    "slayer_masters": [
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Looks like there's something wrong with it.",
+    "wiki_name": "Corrupt Lizardman (Hard)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupt_Lizardman#Hard",
+    "attack_level": 162,
+    "strength_level": 162,
+    "defence_level": 38,
+    "magic_level": 1,
+    "ranged_level": 162,
+    "attack_bonus": 22,
+    "strength_bonus": 20,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 22,
+    "ranged_bonus": 20,
+    "defence_stab": -10,
+    "defence_slash": 25,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 13383,
+            "name": "Xerician fabric",
+            "members": true,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

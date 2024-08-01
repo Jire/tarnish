@@ -1,0 +1,77 @@
+{
+    "id": 20251,
+    "name": "Arceuus banner",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20252,
+    "linked_id_placeholder": 20253,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 70,
+    "lowalch": 28,
+    "highalch": 42,
+    "weight": 2.267,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "An ancient banner bearing the mark of the Arceuus Elders.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHElEQVR4Xu2X3UrDQBCFzXN400fwViSwIYQgldBQqegzeSHiH1apf6DeiaAi3ogiIoivtHomnc1mUptIsr3ywCHNzOzM10kodG7uX63J0zJSVJ18Vc2vkgc93ZmfHzeUuSwfKfVLDvL0ShxbPf4kTw/SVBzMgOBetzsBzNOB71NsodMpfRmcsYHKNVOVA+UHc6AwOqZ8EczTS4uLhXt2P0m0r7b0kr/pBigIhwQVxecGbDkM6ZHhik0gBhDkfbU9GyDj+ETH3SsamhkA21oFu8a4dwakwgOCkuZNSBj3QBjyA1WwNXjmQMOnYWkgYrZlHt653WkTKIszkA3Hn23bcBzbu993B8SD5FAJI+u4Z6tA8hFVQdixcs9amg7EL+3oeUTmzch7O4YzToH6q0dmWJXT/mFzIPzKlg9PBkLs9PXMbMX+PDMgDAEUhrMlEMdnALRFQ9bWL/X6xnUBSho1vXSfzjgFwhAMs6HsDXEOHqxduAfCELiXPpLtx8SxJH0wdU6B4JXeHQ2EGYhtA8GohR0AZTkCSm4NFAH0nwpABZifWv4ik3tWqhpIQqnoUwfRF11V+GG2QjVjIO5X7lmpaUBZHgO6yQ0NU+E7QTAM7v3gjXKoabgdqB4QveDBCw03UGOYLP5MbrgdqAoImgxlw3C+4XagOkBQGQpXCdJwO6y6TXIoabtHdZ8aqt+kCNXiVpoo/2PY6laaqC2Qb062FDab/XXzAAAAAElFTkSuQmCC",
+    "wiki_name": "Arceuus banner",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Arceuus_banner",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": 12,
+        "attack_crush": 12,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "polestaff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

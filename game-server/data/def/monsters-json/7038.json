@@ -1,0 +1,55 @@
+{
+    "id": 7038,
+    "name": "Reanimated abyssal",
+    "last_updated": "2021-07-12",
+    "incomplete": false,
+    "members": true,
+    "release_date": "2016-01-07",
+    "combat_level": 0,
+    "size": 1,
+    "hitpoints": 35,
+    "max_hit": 8,
+    "attack_type": [
+        "melee"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "abyssal demons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 85,
+    "slayer_xp": 35.0,
+    "slayer_masters": [
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "wiki_name": "Reanimated abyssal",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Reanimated_abyssal",
+    "attack_level": 97,
+    "strength_level": 67,
+    "defence_level": 135,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 20,
+    "defence_slash": 20,
+    "defence_crush": 20,
+    "defence_magic": 0,
+    "defence_ranged": 20,
+    "drops": []
+}

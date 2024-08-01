@@ -1,0 +1,77 @@
+{
+    "id": 2472,
+    "name": "Mixed flowers",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 2473,
+    "linked_id_placeholder": 16986,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.028,
+    "buy_limit": 150,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A posy of flowers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADc0lEQVR4Xu2W3UsUURjGPf9EN3MzMBcLA4IEIossKLIXkoSQGCaGGabgB0ZIUiFJJRVCBSGUVkv2taZtrouwqJimLKYsW4tZWkGFiEh/w9s853hmZsc12mb9uOiFh505e3be3zzvM6M5Of/rn4uR0IEoRms/PbS+5vkD1J4BMw4CbaxLIGdzRlruEpdzffte1yWA4NDmhk6rKx5a/qhRfFEzmwmYpKEEP89TVf6peqZMZRHKGtevTZ1+fPfQty8eWvkkwASQgNH0uAml6TFS9VkDZprLAnVdwoXPcT99/eCn5cUSSswV01JSo/mYzSXA6AuUjJXQasJvnkuwLAEx3jQSVmlxuojib4spNllEc+M+7lLyvUb9fYrhwAR3Ac2xB1CAlg5JGJdAjOclNqdR+LVKb8Z8NBkppGjIywUYQE1NqkbTCKlamOanikxJ8CxmiPGGcAhAIy8K6NXTAhoaELoUOG2OS2om6uOyw8sMZQ0KmhhXKTSsUOCRwkeEtaYbldT1vMGWDUbjYQExNuw1b8AOnJWxIbyJuMZHNDSocLeQKXx39s4JG5DYr6gDhvpJ0YJilJ5oNmCsuxrIVSiYK1xBXmZnVJ6rhXfiCTt/r3Zrr/idooW2YKJiVEawNX3etifjYtSvKxwEx0N5Cs8DghoyjvFdQBffQfVd5dTRd8o8FyARfoynDmq7VWW65Oz2F2UBAQB5QDZkSAEoYWV2kKfOx/UmlFRhWR5Vt5dyaBdAKOuiCCdARge9PKTBQL4jzGK/PU9WXhhVtvqp9mKZ6VJqn4xKAMnH/NnDfOr1HOLu4LN7uNnmhtjf3luTpimjkx1HqOHqMTcuiTAjKxAAbhuSQPeNNYT55kgrXQk2mmAYTWrIxbV85YeprvOoG5cYB0GW0BwgUgDCOpogHxjf9VCLOUbk6cKDum1QGFtjd4U7lySMBIOkG1KlNV6en57RNrr2somvwYnLT87YoBgVV+RzB124hEptLu/OGVyoormE/zmRYzx3t9rcL6+FgMPB1PUMywmQ7kISDG6hIQKPzFght5zC2Fy6lElZbiHcaI6Xph3MX1VALT3Hd3gid6HsY0Rm0ByjdD6NLt/emZcdTIbeAhDBl3ly/naXi/E8pQu5PN8zl6xi/E3tfGnuE4ysnV6a+1oiO9Z/Bgei9jU76SsTmN9p+FqtrbEOqgAAAABJRU5ErkJggg==",
+    "wiki_name": "Mixed flowers",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mixed_flowers",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

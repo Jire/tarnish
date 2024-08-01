@@ -1,0 +1,86 @@
+{
+    "id": 1229,
+    "name": "Rune dagger(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1230,
+    "linked_id_placeholder": 14647,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 8000,
+    "lowalch": 3200,
+    "highalch": 4800,
+    "weight": 0.453,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2002-02-27",
+    "duplicate": false,
+    "examine": "The blade is covered with a nasty poison.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4Xu3VsUoDQRAG4Js32OqaawJXCFZik8JGELFQbAyIiI0WWqRQMIKd2EYwjSI2WoiiKEpQLIyohQQbUYIgvoCI+Ay/7A6b28uldfYKf1jCXYr9mJnbDYI/D6HzjadoCGG9Fprfzn8Fk0Ds0s99hYIPVBriGUSYW6ualStQqbxilmdQGuOu4vRCfkAuRhCUK4xOd1CuMJ7mRicL+m9VkixIGONekFmM8NwQ6hd6I744u4HEq7O/FxlU44ZhHjE6hI1qiMODCJd1RjUfY18YHcLSokJtM8TxEaPubgt4asZ4eY6dVoqGUFlW2N4KcXoS4foqQbVeY3y890ijCBMDAWZHFHZ3ojbq4Z5RX58MEmodYbg/wMyQQnlcmY31kJ+fMcq2THCWuDrzo4zhTZMjwELEMGNFrs7qpAsKAmGIDWFqUKFSSjDCADdcHTs3njE6ZL6in+/eVKs8hTFvLT74PFeHzDWhrwh7EnvE2FD7jPFcHTe5wnCkMb/ggbsiscuhxQAAAABJRU5ErkJggg==",
+    "wiki_name": "Rune dagger (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_dagger#Poison",
+    "equipment": {
+        "attack_stab": 25,
+        "attack_slash": 12,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 24,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

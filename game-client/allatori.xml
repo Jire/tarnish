@@ -1,0 +1,103 @@
+<config>
+    <input basedir="build/libs">
+        <jar in="Tarnish.jar" out="Tarnish-allatori.jar"/>
+    </input>
+
+    <keep-names>
+        <class template="class com.osroyale.Client"/>
+        <class template="class net.runelite.*">
+            <method template="@com.google.inject.Inject *(**)"/>
+            <method template="@com.google.inject.* *(**)"/>
+            <method template="@javax.inject.Named *(**)"/>
+            <method template="@javax.inject.Singleton *(**)"/>
+            <method template="@javax.inject.* *(**)"/>
+            <method template="@net.runelite.client.eventbus.Subscribe *(**)"/>
+
+            <field template="@com.google.inject.* *"/>
+            <field template="@com.google.inject.Inject *"/>
+            <field template="@javax.inject.Named *"/>
+            <field template="@javax.inject.Singleton *"/>
+            <field template="@javax.inject.* *"/>
+
+            <!-- Matches all fields -->
+            <field access="private+"/>
+            <!-- Matches public integer fields -->
+            <field template="public int *"/>
+            <!-- Matches all static fields -->
+            <field template="static *"/>
+            <!-- Matches protected and public String fields -->
+            <field template="protected+ java.lang.String *"/>
+            <!-- Matches all methods -->
+            <method template="private+ *(**)"/>
+            <!-- Matches all getter methods -->
+            <method template="private+ get*(**)"/>
+        </class>
+    </keep-names>
+
+    <ignore-classes>
+        <class template="class ch.*"/>
+        <class template="class club.*"/>
+        <class template="class com.apple.*"/>
+        <class template="class com.displee.*"/>
+        <class template="class com.github.*"/>
+        <class template="class com.google.*"/>
+        <class template="class com.jakewharton.*"/>
+        <class template="class com.jogamp.*"/>
+        <class template="class com.sun.*"/>
+        <class template="class io.*"/>
+        <class template="class it.*"/>
+        <class template="class javax.*"/>
+        <class template="class jogamp.*"/>
+        <class template="class joptsimple.*"/>
+        <class template="class kotlin.*"/>
+        <class template="class lzma.*"/>
+        <class template="class okhttp3.*"/>
+        <class template="class okio.*"/>
+        <class template="class org.*"/>
+        <class template="class io.*"/>
+        <class template="class net.runelite.rlawt.*"/>
+    </ignore-classes>
+
+    <!-- Configuration properties, all properties are optional -->
+    <!-- General properties, we recommend to use these two properties -->
+    <property name="log-file" value="renaming-log.xml"/>
+    <property name="random-seed"
+              value="eQwHF9FF55RL7dCinZY5FJH6EPVbZxx^7UvkoL5pwyv3HDhK7nfMN$Tb#uJsapdxADm#9Tc^2F4yqoeF%xaPnwHNH9if5hbYXFZtTTTGQ%SQZ6dJPwr2#$s6aLEgRm3x"/>
+
+    <!-- String encryption -->
+    <property name="string-encryption" value="enable"/>
+    <property name="string-encryption-type" value="fast"/>
+    <property name="string-encryption-version" value="v4"/>
+
+    <!-- Control flow obfuscation -->
+    <property name="control-flow-obfuscation" value="disable"/>
+    <property name="extensive-flow-obfuscation" value="disable"/>
+
+    <!-- Renaming -->
+    <!--<property name="default-package" value=""/>
+    <property name="force-default-package" value="disable"/>-->
+
+    <property name="packages-naming" value="keep"/>
+    <property name="classes-naming" value="compact"/>
+    <property name="methods-naming" value="unique"/>
+    <property name="fields-naming" value="compact"/>
+    <property name="local-variables-naming" value="keep"/>
+
+    <property name="update-resource-names" value="enable"/>
+    <property name="update-resource-contents" value="disable"/>
+
+    <!-- Other -->
+    <property name="line-numbers" value="obfuscate"/>
+    <property name="generics" value="keep"/>
+    <property name="inner-classes" value="keep"/>
+    <property name="member-reorder" value="random"/>
+    <property name="finalize" value="enable"/>
+    <property name="synthetize-methods" value="disable"/>
+    <property name="synthetize-fields" value="disable"/>
+    <property name="remove-toString" value="enable"/>
+    <property name="remove-calls" value="System.out.println"/>
+    <property name="remove-calls" value="System.err.println"/>
+    <property name="output-jar-compression-level" value="9"/>
+
+    <property name="unique-renaming" value="enable"/>
+</config>

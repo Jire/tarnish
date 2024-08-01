@@ -1,0 +1,73 @@
+{
+    "id": 113,
+    "name": "Wild dog",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2005-01-17",
+    "combat_level": 63,
+    "size": 1,
+    "hitpoints": 62,
+    "max_hit": 6,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "dogs"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 62.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "An unsuitable pet.",
+    "wiki_name": "Wild dog (Unused)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Wild_dog#Unused",
+    "attack_level": 53,
+    "strength_level": 54,
+    "defence_level": 54,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 13468,
+            "name": "Ensouled dog head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "rolls": 1
+        }
+    ]
+}

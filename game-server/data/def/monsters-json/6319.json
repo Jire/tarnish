@@ -1,0 +1,53 @@
+{
+    "id": 6319,
+    "name": "Tree spirit (hard)",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-09-05",
+    "combat_level": 199,
+    "size": 1,
+    "hitpoints": 187,
+    "max_hit": 22,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral",
+        "undead"
+    ],
+    "category": [
+        "ghosts"
+    ],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": 0.0,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Guardian of the dramen tree.",
+    "wiki_name": "Tree spirit (Lost City) (Hard)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tree_spirit_(Lost_City)#Hard",
+    "attack_level": 200,
+    "strength_level": 209,
+    "defence_level": 80,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}

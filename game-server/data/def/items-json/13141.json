@@ -1,0 +1,77 @@
+{
+    "id": 13141,
+    "name": "Western banner 1",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18679,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2015-03-05",
+    "duplicate": false,
+    "examine": "A mysterious crystal banner.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC70lEQVR4Xu3XbU9SYRgHcM838SP0LfoMvXGrlrpmL8zMh3hRag8022CRKIySQEEkIhWQiBkjdIIPMMt4tK3mJ+gDXHHdZxfc5z4H5MCx3nRt/02vufv+nYvjfQ59ff/rn5UEYucvFW4sbi7BpvuRRv9SS4YkV+5D5PWosLkEnwJPWe9Kf78Kq/y955IhKf8kpANT4PGHwO50w6LLw6Ek2N20aIAkiHln9UyOxt86OBFvINyAUAgkAyTIJ+xtQerJqUqCw7gNTr/42JXjBHZ8EwyQ8IyzxN1jDcirB3ONjF8fVoG+pr0aG3cMkthGFJwAhe/ziJ87E3AcvtMSVMqGNTbWAcLNn41OtQ0Pqibuwd7aMKxarmqCzgoJjY07BmFJYDc9USEon6PPIRWbh9/xa3C+cYOFMFqgX8UMxJbvsp/5PXSBcEpaqFIxBOn4CzgPzUPpKMwwteBAG5C83vbqY1VPBwhLnhJFBCEGg5i0a4ilHShVvwCxpxtEU6I4kwGWfN4BuxkLC+II0g6UjVpVPZ0gLOWUEGN6Z4Vc7iULYjoF5ZMOVa8rkDglDGIOD2wsOKVOQHimib0uQFjKKfEp5J0sIsrxRjwIJSjnNlS9LkFYSlStugRnNWc9LqhWomxSPAhPb3HzHydJVc8QUKViY6lWFiC7L99PeF+J95LyASuvEfHMcD2DQOVS/fwpmmFxewWW4j52o8fWZiEZMV84peS6mesZAKqUrYqIIB41NjB4wWuIASCcDoX/tycQHZ7aU5Lg+OOCsSBC0TlEKBFEKOWUJDhJLRsPwkzevK2I+LzjUTQlzPe9gPEgEYOZvjWiemd66ws2QlOqHGxdPggPQQxuKoZ/raUp4eaGgbQg+Ej4Fp9jC++/N8HR1kPwWYfAaxnkvoE0Ic3NDQIRJBOchtOMv4GhqxajhjTX7Am0uv6h8YzCSRRiMwoMLcoDtCFUPYLwo6C0wuirnkBYrT8O8S87rx7XED+Krhfiqt0afwCqzzFamr63JgAAAABJRU5ErkJggg==",
+    "wiki_name": "Western banner 1",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Western_banner_1",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": 12,
+        "attack_crush": 12,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "polestaff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 20836,
+    "name": "Giant present",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 20837,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-12-14",
+    "duplicate": false,
+    "examine": "That's one ginormous present.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADu0lEQVR4Xt2WXUsUYRTH22/Q1d7szcJeCIEggojIwsqyyOIiLhuJhl10Wx+gwEAosDd6xYpUkgxL0zLTTEwyKaQSCSwios9ymt95Ots45s74sgU98GfXmXnO+Z3/Oc4+Bw78Pysm2+uvLpe0t7ZG1VdXI/31h+RSwyG50lAr1xtr/yZYTJOb/BADjXVy+VJczvfH5dzZuPT1xasJ5gKTGI09SMj4Q6fJiYQ8nUrItavxLUBneuNy+tTB/QaLaWASnDxxUD9JPnIvIaP3E3L3TkJuXncwXAfGgHDtdpMT3/c4Z24jFQJEQgPgOwlfLyX1vt8pvg8318uIp7F0g4xnGmQy06if/D2arlftAMqBDPoqs1atr6Vk4WWyLJLPziRV83NOXJ+dGFfNPZ6Q+clJ1VJrswoY4pKjLpmsBOVAnrQ0akXBqp5510n4ajEpb1eScmsgrm4NDSa0favvUvJmOamubXRkN+mzp4Vck8YgHg6GAMVkJZ+WZU9UseiJAC+yTtxbb29RJ2gLQ/3xQ0od+7Seki8bKQUBlk8EHHrXllYR87kXi0JpZygQMGitkJH3nlbbMhrokwdCIkQ7cAmwmWmXjGfZE4Thbz65RywKpTg6gEuhQDzMRr8sQRDI7hsM7gFuLTIY2sh1nqNYXGcMIrUMcjYRwERgAAwKIAMIQjAn5hgzBgxt5R57rGWRgbCRCgj4tZhVEdjsByw4qIjnvhVzZbfUkdXf88U1/wyRh//gUCCoGTgGmIQ/SjkNjADDJZLhDADou/cMzxkI+wAExPb6gey/bEdAbGQ+CE5gKkUENxCSmkN+EO75C9kOKMJ76M9A/sAIR/xA1jpzyyC3A2JOI74YY/puCAOyhH4wP8h2QIwB87ljIDZEAQpTJaAb2XQZpiIQ5NUEetTeKoP5Frnc0hzmDssBMXT7DbTQ2SFTxbyMFnIykMvIhUxTNKA7rRndxCt+P4Ds3TVTKsiY5w7xyROhXayY0gNENVS1crS0ayA9gvz6IaZVw/nsJpAQGFZMLhbyMlBql6HOkjzs6ZTp4z3l8439cAYTB0URi14x/PByYONUMNK2GSaYucLaCkWFBLcDGAmDEKbl7qLCzB0u6MGN0yXnpF3C2HI9Nig7zNvxFNdIHATjGm1mXmi5gewRxi232QWz0yDVKtyxLoVa6iqWwfg+f6RdYSY68jrAO5yXaMsPZrrffVihaI1B4Qxtwpl9c6XS2lzpbyhAbGamS23VcSXaci4AZa2quithK9jOfwrjX9Vo0U9KqRlPBWPIwQAAAABJRU5ErkJggg==",
+    "wiki_name": "Giant present",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_present",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

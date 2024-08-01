@@ -1,0 +1,79 @@
+{
+    "id": 1347,
+    "name": "Rune warhammer",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1348,
+    "linked_id_placeholder": 14727,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 41500,
+    "lowalch": 16600,
+    "highalch": 24900,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "I don't think it's intended for joinery.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeklEQVR4Xt2VTUvDQBCGs/9gTzn3J3jzJNRDELEEQgMSSqVapFJrMahF8eLBgwcPguDfHXlnmWTblNbLfuALwyYkYR6eHTZJ8r+iqK3gUVTVr1zny+cYwAwQYFDlYsUVEKwLNJw/cBWze99g69sldmygfHrH5WnOunYECDACNLicc51dzLgcQnWBbDvbgLDiu4NezwWUYoi/Ap2Mps1cOQMCiMzJLiDAYMUzp0DSHNuRVZOmqQ2EZwDCtZxVjoAQxc1eJpoWpabxqabjcswQNihW245ToLfrlOpK01WuadhP6CgvG1uAFTseYBDFdmaFpirTDHKYDahfVGxFbHmDse2Y88WUWEJ5gkEUPY1aO+uNWzhvMJ/LtBnkbY3l3gMM0s4OBlmANt/yGLXTjuco+rhNm0EODIOYYbYHefMNj1H0/RiZHZw9kdhBzDBHY+erjsaOop9VytsVgR0DIydzYDsGBlv1fhOJHYHBryKwHYn3P/f+CEgUMCHyC4WZzNkWYAs2AAAAAElFTkSuQmCC",
+    "wiki_name": "Rune warhammer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_warhammer",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 53,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 62,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

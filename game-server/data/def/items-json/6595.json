@@ -1,0 +1,86 @@
+{
+    "id": 6595,
+    "name": "White dagger(p+)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6596,
+    "linked_id_placeholder": 14312,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 240,
+    "lowalch": 96,
+    "highalch": 144,
+    "weight": 0.453,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "This dagger is poisoned.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABfElEQVR4XmNgoDlg/I8uMkAA5BDG/wo71cE0uiwdAcIhMAziGygoDISjUB0ywA5i/L9/61YwHlQO2rh8GRgPsINQHYOOB5WDYI6ho4MGlWNAALuDBpVjkB2EroPGALuDBlXoDJBjQADTQXR2DHIFiekYOqcbxv87J4EsglSc2BxE99BZ2SINdtTxOcpgywfQMSDA+H9Codj/Ne3S//dMgTjqwhLlgXIMCDD+L40W+D+tTOz/ph4FuKMuL1P+f3strAFG90YY4//KBIH/syqkwY7aP03h/8l5CEc93UL3liHjfx9Hg/+xgZb/F9RK/9/Sh+qozwe04NGHrpMGgPG/o6X6/xBP0/+p4bZgi5c1IRwFizI6piVE6CBCAVEEwBxCN8e422qBQycv0RUlWujsEBhg/B/gavQ/I8qB3tGCDUBCB5ZuBtgxIMAIzkXfD9M1B+ECEMfcW4/oNQyggxjB1cSRWQr/b60ekG4MNsAIL2MGOHSQwaByDATQ2zEANZjor+HcntwAAAAASUVORK5CYII=",
+    "wiki_name": "White dagger (Poison+)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_dagger#Poison+",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": 5,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

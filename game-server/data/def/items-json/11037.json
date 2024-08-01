@@ -1,0 +1,86 @@
+{
+    "id": 11037,
+    "name": "Brine sabre",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11038,
+    "linked_id_placeholder": 17135,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 26000,
+    "lowalch": 10400,
+    "highalch": 15600,
+    "weight": 1.814,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2007-04-10",
+    "duplicate": false,
+    "examine": "A salty sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABc0lEQVR4Xu2WwUoCURSG57zBrNq4mRcIJJCQ6AnctDVBUokg2xgEDUJMJmaaaWajaTamURS949+cO41M2tpziX44DAx38fH/55x7DePvirD4R1CE534fAVRYoiLcXzcx6LQx6nbVVxiKcOmcwb1pwXNdBRO3LFWLJ1ckQrtWU86E0YnC7O2m0anXMbztYPYwkAQiHBeLuDp3FAz3z8toKAt0Wirh3fNUvT2NVYkCObatGnnc6+nQ0MG4c/GECbvDItU/rWpVB3dYhItyWR93mpWK2j/auMONzHvn9XEk7w73Dsf0OZ3q4c5dozHfP8LusIJx/5hM9HCHJ4sv0mhci6dWoODhxTB8b0WjEgAibMTj2Eml1M6JTpUADIuQj5mwLVM9NcRhtk0DRz5QGJtg37AI6TUTJ1YAtJ/N4rBQ+AZbuX66k89k5jBCkRE2EwmUfKCtZBIHuZwsDEc1W48t9Y4ADIuW4hGECSXqyO/SCuZfvr4AvZBF3YFu6BUAAAAASUVORK5CYII=",
+    "wiki_name": "Brine sabre",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Brine_sabre",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 47,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 46,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

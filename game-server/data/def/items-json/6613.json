@@ -1,0 +1,79 @@
+{
+    "id": 6613,
+    "name": "White warhammer",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6614,
+    "linked_id_placeholder": 14321,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 980,
+    "lowalch": 392,
+    "highalch": 588,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "I don't think it's intended for joinery.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xt2VUUvCUBzFvd9gT3v2I/QReumhlyDqRSKIIAqKYFCR9GIWYmq51KZppqlpmmZFUfTl/nHuuNuUYU+7u3TgMsbu+P92zuEuEvlfYuSu0MXoZzymr+GQPp8HKoAx+h6NONDHoE9vvS69PnbCBLOB4I4Aemm3adhqUb/RkA02Gdf7U4+7A6BBs0m9+zp172rUvq14wAKF849LuAOgTq1KD+UyNSyLaoUCVa/NIKFmx+UHhCvem4tGg4BiHMIL5OcQIgNIxczzCAMFAgyGYLAXSHRIAAEGUHgWKBAAMBzdyKdSzlBvqRGVdXXJ4VD8AIEgxr8+vqHR3qpG64saXZwmOCBiA+BNLkv1UolDCphAgRJbOhkxjTaXNFqZj1AiHqdiJuNEJdyRAAMx7s72skaxBY2DHBsGZZNJHpWZTvOrNBivO/b5Yq+zkxMeFZYkGIjR4ZrrzuRgF04aTG5fd4rsN1jcS4CB3O6gyAJoepdEsZnuSBaj9K7uFDlkGMgus7fI0zskilHxQDF3cPYo4g5kl1kZd0xDGXcYWUc6j0sBd2wYcTKH7I4Ng6jOdxRxR8DgVxGyO0LS/9x/S4AoAROGfgE6MSAFAj+7DAAAAABJRU5ErkJggg==",
+    "wiki_name": "White warhammer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_warhammer",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 22,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 22,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

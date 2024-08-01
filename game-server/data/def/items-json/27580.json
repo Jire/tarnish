@@ -1,0 +1,77 @@
+{
+    "id": 27580,
+    "name": "Festive nutcracker staff",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27581,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-12-13",
+    "duplicate": false,
+    "examine": "A festive nutcracker staff.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiklEQVR4Xu3XMUvDQBgG4Nw/cOqS5SBDIVMpSCmlkFJKKJbSUtBBFIsoRexQqIhKFxUFEQcFdehQRASxi8VZEQQ3cXZ0Kjg5Or1yFy5po4UuvdyQFz4ugYR7uO8IF00Lo0wIvAo8BO/XBj57Udzs6kGhvBUpnK7i4YTidl9He8cBxSiVhXIQqWQSpYs1VNp12AeLSG9WsLU05WIkgQhye/MckD+quiPDJGp5WZjBzUqQac1xCCt2bW3Pcsz0ii2jVQTfjyYvNrGoVLPMMWyMLViIV7O4zyR4SdjQw6sjQKxNyfUCx4jVkdQyTXMmIPi4i7qQVKPIMX7IxDFOCF7bBnrHlGO++n0Y2RjMktMiiRARgu6hjrNmhLeHps0/IP8bEwzBco4iH4+ga4lN69TPiykb5GGi+vBHT+wrie0ajRl8yn8/oYyHkZQQMyqKYWo2RSkRYvwhqM8ohGkUjRDzTwg2ygph2JlGGczblYGnc4qKpQWNYSF4vqTotLz/pgAxIhLPveNGKYwK+QUUUWuMFQGiOwAAAABJRU5ErkJggg==",
+    "wiki_name": "Nutcracker staff (Festive)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nutcracker_staff#Festive",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

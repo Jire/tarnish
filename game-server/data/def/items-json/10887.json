@@ -1,0 +1,87 @@
+{
+    "id": 10887,
+    "name": "Barrelchest anchor",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16372,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 230000,
+    "lowalch": 92000,
+    "highalch": 138000,
+    "weight": 30.0,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2007-03-06",
+    "duplicate": false,
+    "examine": "This is likely to put my back out...",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6ElEQVR4Xu2Wb0sCQRDG3W/SR+g79EqCMAxDpDDDDBPBMjMTEbPMRJT6wBPPDKN7a5d3152+0AcWV925/e382blUaq/dkqHVsRXJ5tXqNZXLl3RROKdc7pQymeNtgBmq1W6o3W5Qv/9Mb8Mu9XpP1Ok8ULNZo1KpQPn82S9gsXtRHlav3zLM6+BlJVzT6ZC63UdeU6lcUbGYX/yXzZ7w93T6KA4ow6FpteoegMODA8/Ab+Nxn70GMKwHHGwRUoVZrv+X/CBcGRqNeuxBBUMoY4YRBXuYAMFTs9k7z5FjKAAFci0SlGGvKNBkMqD5/IPnyLsNA5lFmGwgJPr31yf/huqMIaGDyPAV4AJp3ikUroZl5SUmwzliA7kFgDlCByBcogmGznAVKRDmNoh3U8PVliCQ4RMDQhPW6xVXiQHJxkhQbOCC+G8kt7y2Ff91oSQNFUOTcz0IJN6BjTbgv9evlXgB/QnD9Yq72ivDIUX7QD8LbuerJQgeGtwrkMDAo+hlEWCWjVMHIMJ7BRKY+8bdormqvbvSR+IJGNtDYYJ7xZb3cCHsBQZVgBPhEy9abohcqyCyDxLiGQJkn8b1jGuRsKQsbSC7rN3VG5C8NuhrJqoi5gssiqRj6xveFsNlK1JFJKsIFbHXbusHFKkWioUFYWUAAAAASUVORK5CYII=",
+    "wiki_name": "Barrelchest anchor (Fixed)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Barrelchest_anchor#Fixed",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 10,
+        "attack_crush": 92,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 100,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 60,
+            "strength": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

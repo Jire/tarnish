@@ -1,0 +1,175 @@
+{
+    "id": 7426,
+    "name": "Zamorak crafter",
+    "last_updated": "2020-12-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-10-13",
+    "combat_level": 19,
+    "size": 1,
+    "hitpoints": 25,
+    "max_hit": 2,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "A Z.M.I. runecrafter.",
+    "wiki_name": "Zamorak crafter",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_crafter",
+    "attack_level": 15,
+    "strength_level": 15,
+    "defence_level": 12,
+    "magic_level": 20,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": false,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.14285714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": false,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.014285714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.02857142857142857,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.07142857142857142,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.014285714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "50",
+            "noted": false,
+            "rarity": 0.14285714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 559,
+            "name": "Body rune",
+            "members": false,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.07142857142857142,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.02857142857142857,
+            "rolls": 1
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 0.07142857142857142,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.02857142857142857,
+            "rolls": 1
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": false,
+            "quantity": "6",
+            "noted": false,
+            "rarity": 0.07142857142857142,
+            "rolls": 1
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": false,
+            "quantity": "5",
+            "noted": false,
+            "rarity": 0.14285714285714285,
+            "rolls": 1
+        },
+        {
+            "id": 566,
+            "name": "Soul rune",
+            "members": true,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.02857142857142857,
+            "rolls": 1
+        },
+        {
+            "id": 554,
+            "name": "Fire rune",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.14285714285714285,
+            "rolls": 1
+        }
+    ]
+}

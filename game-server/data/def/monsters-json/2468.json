@@ -1,0 +1,117 @@
+{
+    "id": 2468,
+    "name": "Cyclops",
+    "last_updated": "2023-08-03",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-06-13",
+    "combat_level": 76,
+    "size": 2,
+    "hitpoints": 100,
+    "max_hit": 7,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "hill giants"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 100.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": true,
+    "examine": "A one-eyed woman eater.",
+    "wiki_name": "Cyclops (Level 76)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cyclops#Level_76",
+    "attack_level": 65,
+    "strength_level": 65,
+    "defence_level": 35,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 8844,
+            "name": "Bronze defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 8845,
+            "name": "Iron defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 8846,
+            "name": "Steel defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 8847,
+            "name": "Black defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 8848,
+            "name": "Mithril defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 8849,
+            "name": "Adamant defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 8850,
+            "name": "Rune defender",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        }
+    ]
+}

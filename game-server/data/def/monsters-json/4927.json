@@ -1,0 +1,72 @@
+{
+    "id": 4927,
+    "name": "Entrana firebird",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2002-02-27",
+    "combat_level": 2,
+    "size": 2,
+    "hitpoints": 5,
+    "max_hit": 1,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "birds"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 5.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "Probably not a chicken.",
+    "wiki_name": "Entrana firebird",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Entrana_firebird",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": -31,
+    "strength_bonus": -26,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": -26,
+    "defence_slash": -26,
+    "defence_crush": -26,
+    "defence_magic": -26,
+    "defence_ranged": -26,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1583,
+            "name": "Fire feather",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

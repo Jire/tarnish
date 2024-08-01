@@ -1,0 +1,322 @@
+{
+    "id": 8030,
+    "name": "Adamant dragon",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2018-01-04",
+    "combat_level": 338,
+    "size": 5,
+    "hitpoints": 295,
+    "max_hit": 29,
+    "attack_type": [
+        "melee",
+        "ranged",
+        "magic",
+        "dragonfire"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "category": [
+        "adamant dragons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 324.5,
+    "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Its scales seem to be made of adamantite.",
+    "wiki_name": "Adamant dragon",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_dragon",
+    "attack_level": 280,
+    "strength_level": 280,
+    "defence_level": 272,
+    "magic_level": 186,
+    "ranged_level": 186,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 30,
+    "defence_slash": 110,
+    "defence_crush": 85,
+    "defence_magic": 30,
+    "defence_ranged": 95,
+    "drops": [
+        {
+            "id": 536,
+            "name": "Dragon bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 21880,
+            "name": "Wrath rune",
+            "members": true,
+            "quantity": "10-30",
+            "noted": false,
+            "rarity": 0.07272727272727272,
+            "rolls": 1
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": "60-120",
+            "noted": false,
+            "rarity": 0.06363636363636363,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "30-60",
+            "noted": false,
+            "rarity": 0.06363636363636363,
+            "rolls": 1
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": "1",
+            "noted": true,
+            "rarity": 0.022727272727272728,
+            "rolls": 1
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": "1",
+            "noted": true,
+            "rarity": 0.01818181818181818,
+            "rolls": 1
+        },
+        {
+            "id": 3051,
+            "name": "Grimy snapdragon",
+            "members": true,
+            "quantity": "1",
+            "noted": true,
+            "rarity": 0.01818181818181818,
+            "rolls": 1
+        },
+        {
+            "id": 219,
+            "name": "Grimy torstol",
+            "members": true,
+            "quantity": "1",
+            "noted": true,
+            "rarity": 0.013636983499249966,
+            "rolls": 1
+        },
+        {
+            "id": 19578,
+            "name": "Adamant javelin heads",
+            "members": true,
+            "quantity": "40-50",
+            "noted": false,
+            "rarity": 0.07272727272727272,
+            "rolls": 1
+        },
+        {
+            "id": 9380,
+            "name": "Adamant bolts(unf)",
+            "members": true,
+            "quantity": "20-40",
+            "noted": false,
+            "rarity": 0.1,
+            "rolls": 1
+        },
+        {
+            "id": 1601,
+            "name": "Diamond",
+            "members": false,
+            "quantity": "1-3",
+            "noted": true,
+            "rarity": 0.06363636363636363,
+            "rolls": 1
+        },
+        {
+            "id": 2361,
+            "name": "Adamantite bar",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 19582,
+            "name": "Dragon javelin heads",
+            "members": true,
+            "quantity": "20-30",
+            "noted": false,
+            "rarity": 0.06363636363636363,
+            "rolls": 1
+        },
+        {
+            "id": 449,
+            "name": "Adamantite ore",
+            "members": false,
+            "quantity": "8-20",
+            "noted": true,
+            "rarity": 0.05454545454545454,
+            "rolls": 1
+        },
+        {
+            "id": 2361,
+            "name": "Adamantite bar",
+            "members": false,
+            "quantity": "5-35",
+            "noted": true,
+            "rarity": 0.03636363636363636,
+            "rolls": 1
+        },
+        {
+            "id": 21930,
+            "name": "Dragon bolts (unf)",
+            "members": true,
+            "quantity": "15-20",
+            "noted": false,
+            "rarity": 0.00909090909090909,
+            "rolls": 1
+        },
+        {
+            "id": 22118,
+            "name": "Wrath talisman",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00909090909090909,
+            "rolls": 1
+        },
+        {
+            "id": 1123,
+            "name": "Adamant platebody",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.08181818181818182,
+            "rolls": 1
+        },
+        {
+            "id": 1432,
+            "name": "Rune mace",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.06363636363636363,
+            "rolls": 1
+        },
+        {
+            "id": 1333,
+            "name": "Rune scimitar",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.06363636363636363,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.019230769230769232,
+            "rolls": 1
+        },
+        {
+            "id": 12073,
+            "name": "Clue scroll (elite)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.003125,
+            "rolls": 1
+        },
+        {
+            "id": 21918,
+            "name": "Dragon limbs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001,
+            "rolls": 1
+        },
+        {
+            "id": 22100,
+            "name": "Dragon metal slice",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        },
+        {
+            "id": 11286,
+            "name": "Draconic visage",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00011111111111111112,
+            "rolls": 1
+        },
+        {
+            "id": 1149,
+            "name": "Dragon med helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00909090909090909,
+            "rolls": 1
+        },
+        {
+            "id": 4087,
+            "name": "Dragon platelegs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00909090909090909,
+            "rolls": 1
+        },
+        {
+            "id": 4585,
+            "name": "Dragon plateskirt",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00909090909090909,
+            "rolls": 1
+        },
+        {
+            "id": 890,
+            "name": "Adamant arrow",
+            "members": false,
+            "quantity": "30-40",
+            "noted": false,
+            "rarity": 0.07272727272727272,
+            "rolls": 1
+        }
+    ]
+}

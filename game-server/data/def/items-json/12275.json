@@ -1,0 +1,93 @@
+{
+    "id": 12275,
+    "name": "Bandos crozier",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12276,
+    "linked_id_placeholder": 15878,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000,
+    "lowalch": 2000,
+    "highalch": 3000,
+    "weight": 2.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "A Bandos crozier.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABI0lEQVR4Xu2Wz2rCQBCHd97AkxcvAQ8FTyIEKdKTByl60IugIMSKGmhfoA9RSikIrSgigkjpM/5kd5MYJufszsEPhmWTWfj4DfmjVOkQOq0K9JruF+MAw241d80pVqhRV4kAYTqombUZBKb4iZIhtBoVvK8f8PxURTwJ0H20iXmQ0ZAR0HUbk7d0NIR2GCIa1UxC3mWG/b6pVCgdF+90AOH/+Ibt1zwbk8dxEf4OrwWBfPETJUK47OOCCO9yRFGGdziEcN6u5cicfldyZNJVhEw8aydPk1KeZTSE5STMRsXvOsbri45jkxGSjv0+DXo9CekIk9l9v5gSI7P5mMmR+fmMJMhoKPunESOTF+IdDrklIyCd4phEyfAOD4iSsYiSuSOZKy088veNy/gtAAAAAElFTkSuQmCC",
+    "wiki_name": "Bandos crozier",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bandos_crozier",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 25,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 32,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 6,
+        "slot": "weapon",
+        "requirements": {
+            "prayer": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

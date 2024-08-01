@@ -1,0 +1,79 @@
+{
+    "id": 22634,
+    "name": "Morrigan's throwing axe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22635,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 4000,
+    "lowalch": 1600,
+    "highalch": 2400,
+    "weight": 0.0,
+    "buy_limit": 100,
+    "quest_item": false,
+    "release_date": "2018-09-06",
+    "duplicate": false,
+    "examine": "A vicious throwing axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACKElEQVR4Xu2W20pCQRSGnTfxEbrtrpsuIgiiSFCMMsook45kJSKdzCQUMxNF7CCK0lHsqptue6oV/xpmu7d0hD3uoH5YOOiw5/Nfh9ku17/+BQmS4ZgUgIy1hUlaDvp7AWU9WMXr64sRkfAMwyzNevm3PrdbF5Sgm5sruru95ni4r1KrVaenpyYH1vgOewA06x8jz+iQbpc6rqTTh1QqZen6qkD1etkSzeYFw6m9Gl1yufBweYA8LJM5YihzmKHa7YZulzpSYHAKUS7nOC4vzqlaLVKtVmK4RqPSKyjBtRLwjtJp9pjdQirxmc+fULGYMUArlbzhavdTbJLgTgKMb3yYDvajtLe7Q/H4FsVimwwFoLNcimFVAE4DlDA6adIzQoMD/XzI+nqIVlcWeV0opA0guJZMximRiBlFbmOhS5jg1AQ7o2DMha7WSFsqtcvubW+vGbC2wmyEpjlVcMcMow5RMHAFKQRIKDRngbUJSA5GdA06CO68f4CEiUY32BG/z2PZZxMMJLh90dKoh0hk5RP7rVeLzSCQYGdUTaCLUMAfA3UGqBaYx8cazxEUZyDg0/nPvyOZKswQsyuOweAWR92gYxx0BRL0/PzA7mDqapghP5GsEbiDUY/rwEF3rPMGM8VBGEgCoW7Q4pi0jqcKdYOLEUBfzRuNEvxChXkDGMyccHjeyXTJNz9MY3U7m4G6d/dAwnjJ+iVAkPVSdDBdHSkAc3Tv+VN6Az9eTtQ4PseVAAAAAElFTkSuQmCC",
+    "wiki_name": "Morrigan's throwing axe (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Morrigan's_throwing_axe_(Deadman_Mode)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 93,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 117,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 78
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

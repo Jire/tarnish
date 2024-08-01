@@ -1,0 +1,86 @@
+{
+    "id": 6601,
+    "name": "White mace",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6602,
+    "linked_id_placeholder": 14315,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 432,
+    "lowalch": 172,
+    "highalch": 259,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABf0lEQVR4XuWUQUsCURSFff9gVrNp40/oX7iJVoFEJClIA5owaaGB4WIgFxlCMJQtJiioQEFKKBlaZbs24iL6NSfevF7z5rmNOw86cHZ3mI9zz32ZzP8RQ+xUJSBuLi/wOnnC53xODaUmEYNIS6DVbJYCSgCoVmFSB+q0Wvh4n5kBxGEkkAqVChAHqTlO5LfpNGFyIBVGB/LPevhaLCITXRpLwKhAHEZaAhGkxLCWy5kFtJ3Po1woJIBUGGkyoN1iEfuVCpquG/XppHOMwPfxeH+HWRj+mgyosVfFUb2Onufh9mqA5+Hwp8BJcxgSoH63i4cgQDgeR6moP9etf/3HYnA3LZw3bLyMRtRJ6GIorVvoVmyc1uylVPRpAjG0dkQ6KaYixVDdsNB3DYLplO1EOvoUocSq/END0jnYEkU2AoafOF/VoLlixqo4jDFFbpeW3xt9ikiixLw3apH1KUIxeE7yxFMEintz3U69yOKqeHcMOXMu8SobAiNlFIwQNcw3I2r02Wwa9HcAAAAASUVORK5CYII=",
+    "wiki_name": "White mace",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_mace",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": -2,
+        "attack_crush": 16,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 13,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 3,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

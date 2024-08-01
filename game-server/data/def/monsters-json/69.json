@@ -1,0 +1,75 @@
+{
+    "id": 69,
+    "name": "Summoned Zombie",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2002-05-28",
+    "combat_level": 13,
+    "size": 1,
+    "hitpoints": 22,
+    "max_hit": 2,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "zombies"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 22.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "The living dead.",
+    "wiki_name": "Summoned Zombie",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Summoned_Zombie",
+    "attack_level": 8,
+    "strength_level": 9,
+    "defence_level": 10,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 6807,
+            "name": "Zombie champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        }
+    ]
+}

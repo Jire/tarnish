@@ -1,0 +1,84 @@
+{
+    "id": 8966,
+    "name": "Cutthroat flag",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16216,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 200,
+    "lowalch": 80,
+    "highalch": 120,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-07-04",
+    "duplicate": false,
+    "examine": "The flag of The Cutthroat.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9klEQVR4Xs2X4UoCQRSF9U2EfgSCIEKIhGBIiCiCJIiFIkUJYlFIEQQR9EJi+auiR7txV65ez866M7tuOHCYZubOPd8M68yUSm2UNBVyB8R1MrIuErwEatdK1GtVaNg5pdF5g26HLZpen9G436Srbo367RMvpnqc92pucz/HPY06Xs1tziFxpcKhLdTmrsjfuWzWJ/+KzcJ5MjefyXhCAiibQLISTBhXAoTuhrKG2BugcjHnA9o1lBMQf3QCoeEwaVQJjDVQvXIUCeh3sVgJx0xA6BxQ0tSsFlcQercwsQkEhbGJAyEACuMjAfHhtVdAnUZ5BaG/J0ysgbBfxrAvEhAf8UFAJhPcFYTEtjMQ30UCob8nNEdDFI5FBuJL1AZoG5SpPxEgNNFGqKAYZyB+KgiE/sWhoTYN6jeNJQoUBIXtWED8CBMIfQRgYpQJzKR/AWKQn88PKyhnIH6augIV8nn6ns+9GsdQsYD0IYmJBUT0NZt59c53iB/lYUAaJEgIkggQmoYJYWID6WsEzWwVG+j+su0D0gnR0EY7A5JrBFepk4cJoZyBHm/qNBlUA4HEiJ8mNtJgm4uwLuvVyTXC/xKjdNw2vU8H9PbQp9e7C3qZ9Oh53PXkBMVbutxW2V6/kcSECefhfPQOLTIJjVyS4TzX+XtT/gBKgBaoaiERpgAAAABJRU5ErkJggg==",
+    "wiki_name": "Cutthroat flag",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cutthroat_flag",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "banner",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

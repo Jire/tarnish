@@ -1,0 +1,52 @@
+{
+    "id": 6451,
+    "name": "Zombie",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-01-22",
+    "combat_level": 47,
+    "size": 1,
+    "hitpoints": 42,
+    "max_hit": 6,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "zombies"
+    ],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Has anybody told him he's dead?",
+    "wiki_name": "Zombie (Tarn's Lair) (Level 47)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_(Tarn's_Lair)#Level_47",
+    "attack_level": 42,
+    "strength_level": 39,
+    "defence_level": 42,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 10,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 20,
+    "defence_slash": 20,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 10,
+    "drops": []
+}

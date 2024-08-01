@@ -1,0 +1,77 @@
+{
+    "id": 26712,
+    "name": "Heavy ballista (or)",
+    "last_updated": "2023-06-09",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27097,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 950000,
+    "lowalch": 380000,
+    "highalch": 570000,
+    "weight": 6.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A powerful and good looking weapon forged from the wreckage of an airship.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC3UlEQVR4Xu2U7UuTYRTGu/+JvvRF8EMQBCOQEBEcMmQ4ZJE4dDicsTbaC7o132ZjmfkWw0TRTBaWkZSISIiVRERFRH3pY3/NlddZz3yeW4Nt2taHHbjYve1+zv17rvucc+5cLaoeClZVNRTiwTaEfC3o7WyE23mlmlAKyVtORPytAtPpakB93XkBstXVVRrqCMbvaUK3+6rAVAlIYSTajljAUbgqA6bBRpCKAimkBlxSN3Qn0NNsccaAqRCQQjreYXFHv6aKwtxNusUdo3ZOgtGf+kehkMnMYvzOfSST44jFhqRWTglT7tBSmJh4IDCjoxmBsTddPD3Mo9UN5HKbhcIrVpOTWYHp7u7D4OAIXK02XL50QYCam+1lvuThQ0tLOTjsjfB4euFytuCay45OtwOe6074ejrg9bTLmr/xP+6Zmpq3wHDwEYZizuHhNGy2siezwsrKU3GKULoTumZmHhZgElGfDD+6Yrhj3lv2tdElKptdPpbsKKnC3NxiAYZie0dDPQWdAYwR+SSsJboUCzr+JLbuMcNw3pgdCQc8FpnhrHmKjrxTX96MYXW+D+mhDktSM0w4HD+hm/L7gv1dx2SFKwlS4ePeCN5uJ5Bb7Mdythd7rwbxaX8UXm+/wCzNeRHyH07iemu96OL1svg5GviinFdcS7P4AsVCKbzfHcKv79MCsrUextd3Kfj9QUlCwNlMF+LhNnGQ67UFv8CvL9/A88c3BYSFT7HbOKNSqXvicDo9Ld3Kl+NZRdaYws/PE/h2MC4i4OvNAey+iOHlk5BAUVwTYHMtKOAEoCMcA4YSiTGZ4GYwjo6SgX58yAgM3TnYSQoQRdf4ySvd34rLdzpEQAJwWlORyG0R1waYfqUldqGSuiEQDzcc2tmIYvtZpPCdxc+aMkOw4A2dBGAdJSVFPpEBRBheD0UogizMWGePrlMCHA9zO/9N+qG69JxnEvohuvT9tahFLf7X+A2PR/1ZYbIpiAAAAABJRU5ErkJggg==",
+    "wiki_name": "Heavy ballista (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Heavy_ballista_(or)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 125,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 15,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "crossbow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 873,
+    "name": "Mithril knife(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14483,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 27,
+    "lowalch": 10,
+    "highalch": 16,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABgklEQVR4XuWVTUsCURSGPf+glZvZ+BPaiQvBCJmFgyQNyTgYfoBKVmQyqWkyIZWBm4g2rYJ+6BvnXmaYmaCdcwZ64W4ud+Dhec/cm8v9rxCSO4IheH4eGYEi+DsNc1goqJU8kWIIz+/50I44zO7TwGqbx9g7kAYivH0ZCihqRwiI8PFtKKAM2CG02z5cd62WsB0NEwBZ1oWkHcJ5ZxPC1E+uUK12UC7bEkBxmGZzDtPso1JxJOr6DcNVHR235exEYRqNm7CqUqkhA8SGnNYS9tkdarWhqipqJ3WgXn8Lf7HAfDIJqxKywyFslkvcT6fotJzQTrFoSQARnh5WWHkebsdjOLYNyzQViEBdhBd/jfVsFto5rddjICnCcEjNDdu5HAyUHQErQfTcsB0G6rluzE7y9J6jq2I7DDTsdiXtEF4ffWWHgXh2xO3wX5UZO1xVYOd6NFJ2xGC4KrYTACXtJL/Yc7SdAEjYThA9PwwkbCcaff/wrSxsJxqRd+rvZAom7fwANdiHs7Q9WtwAAAAASUVORK5CYII=",
+    "wiki_name": "Mithril knife (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_knife#Poison",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 11,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 10,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

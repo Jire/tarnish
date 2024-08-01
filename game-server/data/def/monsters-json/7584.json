@@ -1,0 +1,62 @@
+{
+    "id": 7584,
+    "name": "Ice demon",
+    "last_updated": "2021-08-05",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2017-01-05",
+    "combat_level": 0,
+    "size": 2,
+    "hitpoints": 140,
+    "max_hit": null,
+    "attack_type": [
+        "ranged",
+        "magic"
+    ],
+    "attack_speed": 3,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "demon",
+        "xerician"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Lord of the Icefiends.",
+    "wiki_name": "Ice demon (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_demon#Normal",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 160,
+    "magic_level": 390,
+    "ranged_level": 390,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 70,
+    "defence_slash": 70,
+    "defence_crush": 110,
+    "defence_magic": 60,
+    "defence_ranged": 140,
+    "drops": [
+        {
+            "id": 25766,
+            "name": "Fiendish ashes",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

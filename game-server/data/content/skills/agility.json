@@ -1,0 +1,1800 @@
+[
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 2655,
+      "y": 9567,
+      "height": 0
+    },
+    "start": {
+      "x": 2655,
+      "y": 9566,
+      "height": 0
+    },
+    "end": {
+      "x": 2655,
+      "y": 9573,
+      "height": 0
+    },
+    "level": 33,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 2655,
+      "y": 9571,
+      "height": 0
+    },
+    "start": {
+      "x": 2655,
+      "y": 9573,
+      "height": 0
+    },
+    "end": {
+      "x": 2655,
+      "y": 9566,
+      "height": 0
+    },
+    "level": 33,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 2887,
+      "y": 9799,
+      "height": 0
+    },
+    "start": {
+      "x": 2886,
+      "y": 9799,
+      "height": 0
+    },
+    "end": {
+      "x": 2892,
+      "y": 9799,
+      "height": 0
+    },
+    "level": 70,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 2890,
+      "y": 9799,
+      "height": 0
+    },
+    "start": {
+      "x": 2892,
+      "y": 9799,
+      "height": 0
+    },
+    "end": {
+      "x": 2886,
+      "y": 9799,
+      "height": 0
+    },
+    "level": 70,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "WILDERNESS_COURSE",
+    "objectPosition": {
+      "x": 2998,
+      "y": 3917,
+      "height": 0
+    },
+    "start": {
+      "x": 2998,
+      "y": 3916,
+      "height": 0
+    },
+    "end": {
+      "x": 2998,
+      "y": 3931,
+      "height": 0
+    },
+    "level": 49,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "WILDERNESS_COURSE",
+    "objectPosition": {
+      "x": 2998,
+      "y": 3931,
+      "height": 0
+    },
+    "start": {
+      "x": 2998,
+      "y": 3931,
+      "height": 0
+    },
+    "end": {
+      "x": 2998,
+      "y": 3916,
+      "height": 0
+    },
+    "level": 49,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "WILDERNESS_COURSE",
+    "objectPosition": {
+      "x": 2997,
+      "y": 3931,
+      "height": 0
+    },
+    "start": {
+      "x": 2998,
+      "y": 3931,
+      "height": 0
+    },
+    "end": {
+      "x": 2998,
+      "y": 3916,
+      "height": 0
+    },
+    "level": 49,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "SEERS_CLIMB",
+    "start": {
+      "x": 2729,
+      "y": 3489,
+      "height": 0
+    },
+    "end": {
+      "x": 2729,
+      "y": 3490,
+      "height": 3
+    },
+    "level": 60,
+    "experience": 45.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_SEERS_GAP",
+    "objectPosition": {
+      "x": 2720,
+      "y": 3492,
+      "height": 3
+    },
+    "start": {
+      "x": 2721,
+      "y": 3494,
+      "height": 3
+    },
+    "end": {
+      "x": 2713,
+      "y": 3494,
+      "height": 2
+    },
+    "level": 60,
+    "experience": 20.0,
+    "ordinal": 1
+  },
+  {
+    "type": "JUMP_SEERS_GAP",
+    "start": {
+      "x": 2721,
+      "y": 3495,
+      "height": 3
+    },
+    "end": {
+      "x": 2713,
+      "y": 3494,
+      "height": 2
+    },
+    "level": 60,
+    "experience": 20.0,
+    "ordinal": 0
+  },
+  {
+    "type": "TIGHT_ROPE",
+    "objectPosition": {
+      "x": 2710,
+      "y": 3489,
+      "height": 2
+    },
+    "start": {
+      "x": 2710,
+      "y": 3490,
+      "height": 2
+    },
+    "end": {
+      "x": 2710,
+      "y": 3480,
+      "height": 2
+    },
+    "level": 60,
+    "experience": 20.0,
+    "ordinal": 2
+  },
+  {
+    "type": "JUMP_SEERS_GAP_2",
+    "start": {
+      "x": 2714,
+      "y": 3477,
+      "height": 2
+    },
+    "end": {
+      "x": 2714,
+      "y": 3472,
+      "height": 3
+    },
+    "level": 60,
+    "experience": 35.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_SEERS_GAP_2",
+    "objectPosition": {
+      "x": 2710,
+      "y": 3476,
+      "height": 2
+    },
+    "start": {
+      "x": 2713,
+      "y": 3477,
+      "height": 2
+    },
+    "end": {
+      "x": 2713,
+      "y": 3472,
+      "height": 3
+    },
+    "level": 60,
+    "experience": 35.0,
+    "ordinal": 3
+  },
+  {
+    "type": "JUMP_SEERS_GAP_2",
+    "start": {
+      "x": 2712,
+      "y": 3477,
+      "height": 2
+    },
+    "end": {
+      "x": 2712,
+      "y": 3472,
+      "height": 3
+    },
+    "level": 60,
+    "experience": 35.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_SEERS_GAP_2",
+    "start": {
+      "x": 2711,
+      "y": 3477,
+      "height": 2
+    },
+    "end": {
+      "x": 2711,
+      "y": 3472,
+      "height": 3
+    },
+    "level": 60,
+    "experience": 35.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_SEERS_GAP_2",
+    "start": {
+      "x": 2710,
+      "y": 3477,
+      "height": 2
+    },
+    "end": {
+      "x": 2710,
+      "y": 3472,
+      "height": 3
+    },
+    "level": 60,
+    "experience": 35.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "objectPosition": {
+      "x": 2700,
+      "y": 3469,
+      "height": 3
+    },
+    "start": {
+      "x": 2702,
+      "y": 3470,
+      "height": 3
+    },
+    "end": {
+      "x": 2702,
+      "y": 3465,
+      "height": 2
+    },
+    "level": 60,
+    "experience": 15.0,
+    "ordinal": 4
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "start": {
+      "x": 2701,
+      "y": 3470,
+      "height": 3
+    },
+    "end": {
+      "x": 2701,
+      "y": 3465,
+      "height": 2
+    },
+    "level": 60,
+    "experience": 15.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "start": {
+      "x": 2701,
+      "y": 3470,
+      "height": 3
+    },
+    "end": {
+      "x": 2701,
+      "y": 3465,
+      "height": 2
+    },
+    "level": 60,
+    "experience": 15.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "objectPosition": {
+      "x": 2703,
+      "y": 3461,
+      "height": 2
+    },
+    "start": {
+      "x": 2702,
+      "y": 3464,
+      "height": 2
+    },
+    "end": {
+      "x": 2704,
+      "y": 3464,
+      "height": 0
+    },
+    "level": 60,
+    "experience": 0.0,
+    "ordinal": 5
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "start": {
+      "x": 2702,
+      "y": 3463,
+      "height": 2
+    },
+    "end": {
+      "x": 2704,
+      "y": 3463,
+      "height": 0
+    },
+    "level": 60,
+    "experience": 435.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "start": {
+      "x": 2702,
+      "y": 3462,
+      "height": 2
+    },
+    "end": {
+      "x": 2704,
+      "y": 3462,
+      "height": 0
+    },
+    "level": 60,
+    "experience": 435.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "start": {
+      "x": 2702,
+      "y": 3461,
+      "height": 2
+    },
+    "end": {
+      "x": 2704,
+      "y": 3461,
+      "height": 0
+    },
+    "level": 60,
+    "experience": 435.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "start": {
+      "x": 2702,
+      "y": 3460,
+      "height": 2
+    },
+    "end": {
+      "x": 2704,
+      "y": 3460,
+      "height": 0
+    },
+    "level": 60,
+    "experience": 435.0,
+    "ordinal": 0
+  },
+  {
+    "type": "ARDOUGNE_WALL_CLIMB",
+    "start": {
+      "x": 2673,
+      "y": 3298,
+      "height": 0
+    },
+    "end": {
+      "x": 2671,
+      "y": 3299,
+      "height": 3
+    },
+    "level": 90,
+    "experience": 43.0,
+    "ordinal": 0
+  },
+  {
+    "type": "JUMP_ARDOUGNE_ROOF",
+    "objectPosition": {
+      "x": 2670,
+      "y": 3310,
+      "height": 3
+    },
+    "start": {
+      "x": 2671,
+      "y": 3309,
+      "height": 3
+    },
+    "end": {
+      "x": 2665,
+      "y": 3318,
+      "height": 3
+    },
+    "level": 90,
+    "experience": 65.0,
+    "ordinal": 1
+  },
+  {
+    "type": "PLANK",
+    "objectPosition": {
+      "x": 2661,
+      "y": 3318,
+      "height": 3
+    },
+    "start": {
+      "x": 2662,
+      "y": 3318,
+      "height": 3
+    },
+    "end": {
+      "x": 2656,
+      "y": 3318,
+      "height": 3
+    },
+    "level": 90,
+    "experience": 50.0,
+    "ordinal": 2
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "objectPosition": {
+      "x": 2653,
+      "y": 3317,
+      "height": 3
+    },
+    "start": {
+      "x": 2654,
+      "y": 3318,
+      "height": 3
+    },
+    "end": {
+      "x": 2653,
+      "y": 3314,
+      "height": 3
+    },
+    "level": 90,
+    "experience": 21.0,
+    "ordinal": 3
+  },
+  {
+    "type": "JUMP_ARDOUGNE_GAP",
+    "objectPosition": {
+      "x": 2653,
+      "y": 3308,
+      "height": 3
+    },
+    "start": {
+      "x": 2653,
+      "y": 3310,
+      "height": 3
+    },
+    "end": {
+      "x": 2651,
+      "y": 3309,
+      "height": 3
+    },
+    "level": 90,
+    "experience": 28.0,
+    "ordinal": 4
+  },
+  {
+    "type": "STEEP_LEDGE",
+    "objectPosition": {
+      "x": 2654,
+      "y": 3300,
+      "height": 3
+    },
+    "start": {
+      "x": 2653,
+      "y": 3300,
+      "height": 3
+    },
+    "end": {
+      "x": 2656,
+      "y": 3297,
+      "height": 3
+    },
+    "level": 90,
+    "experience": 57.0,
+    "ordinal": 5
+  },
+  {
+    "type": "JUMP_ARDOUGNE_ROOF_2",
+    "objectPosition": {
+      "x": 2656,
+      "y": 3296,
+      "height": 3
+    },
+    "start": {
+      "x": 2656,
+      "y": 3297,
+      "height": 3
+    },
+    "end": {
+      "x": 2668,
+      "y": 3297,
+      "height": 0
+    },
+    "level": 90,
+    "experience": 0.0,
+    "ordinal": 6
+  },
+  {
+    "type": "PIPE",
+    "start": {
+      "x": 2886,
+      "y": 9799,
+      "height": 0
+    },
+    "end": {
+      "x": 2892,
+      "y": 9799,
+      "height": 0
+    },
+    "level": 33,
+    "experience": 0,
+    "ordinal": 0
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3422,
+      "y": 3551,
+      "height": 0
+    },
+    "end": {
+      "x": 3422,
+      "y": 3551,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3422,
+      "y": 3549,
+      "height": 0
+    },
+    "end": {
+      "x": 3422,
+      "y": 3549,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3423,
+      "y": 3550,
+      "height": 0
+    },
+    "end": {
+      "x": 3423,
+      "y": 3550,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3421,
+      "y": 3550,
+      "height": 0
+    },
+    "end": {
+      "x": 3421,
+      "y": 3550,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3422,
+      "y": 3551,
+      "height": 1
+    },
+    "end": {
+      "x": 3422,
+      "y": 3551,
+      "height": 0
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3422,
+      "y": 3549,
+      "height": 1
+    },
+    "end": {
+      "x": 3422,
+      "y": 3549,
+      "height": 0
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3423,
+      "y": 3550,
+      "height": 1
+    },
+    "end": {
+      "x": 3423,
+      "y": 3550,
+      "height": 0
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3421,
+      "y": 3550,
+      "height": 1
+    },
+    "end": {
+      "x": 3421,
+      "y": 3550,
+      "height": 0
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3447,
+      "y": 3575,
+      "height": 1
+    },
+    "end": {
+      "x": 3447,
+      "y": 3575,
+      "height": 2
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3447,
+      "y": 3576,
+      "height": 1
+    },
+    "end": {
+      "x": 3447,
+      "y": 3576,
+      "height": 2
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3446,
+      "y": 3577,
+      "height": 1
+    },
+    "end": {
+      "x": 3446,
+      "y": 3577,
+      "height": 2
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3447,
+      "y": 3575,
+      "height": 2
+    },
+    "end": {
+      "x": 3447,
+      "y": 3575,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3447,
+      "y": 3576,
+      "height": 2
+    },
+    "end": {
+      "x": 3447,
+      "y": 3576,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "CLIMB_DOWN",
+    "start": {
+      "x": 3446,
+      "y": 3577,
+      "height": 2
+    },
+    "end": {
+      "x": 3446,
+      "y": 3577,
+      "height": 1
+    },
+    "level": 71,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "JUMP_OVER",
+    "start": {
+      "x": 2880,
+      "y": 9813,
+      "height": 0
+    },
+    "end": {
+      "x": 2878,
+      "y": 9813,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "JUMP_OVER",
+    "end": {
+      "x": 2878,
+      "y": 9813,
+      "height": 0
+    },
+    "start": {
+      "x": 2880,
+      "y": 9813,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "PIPE",
+    "start": {
+      "x": 2698,
+      "y": 9500,
+      "height": 0
+    },
+    "end": {
+      "x": 2698,
+      "y": 9492,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "PLANK",
+    "start": {
+      "x": 2682,
+      "y": 9506,
+      "height": 0
+    },
+    "end": {
+      "x": 2687,
+      "y": 9506,
+      "height": 0
+    },
+    "level": 33,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "PLANK",
+    "start": {
+      "x": 2687,
+      "y": 9506,
+      "height": 0
+    },
+    "end": {
+      "x": 2682,
+      "y": 9506,
+      "height": 0
+    },
+    "level": 33,
+    "experience": 0,
+    "ordinal": -1
+  },
+  {
+    "type": "TREE_BRANCH_UP",
+    "start": {
+      "x": 2472,
+      "y": 3422,
+      "height": 1
+    },
+    "end": {
+      "x": 2474,
+      "y": 3420,
+      "height": 2
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 2
+  },
+  {
+    "type": "TREE_BRANCH_UP",
+    "objectPosition": {
+      "x": 2473,
+      "y": 3422,
+      "height": 1
+    },
+    "start": {
+      "x": 2473,
+      "y": 3423,
+      "height": 1
+    },
+    "end": {
+      "x": 2474,
+      "y": 3420,
+      "height": 2
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 2
+  },
+  {
+    "type": "LEDGE",
+    "objectPosition": {
+      "x": 2535,
+      "y": 3547,
+      "height": 1
+    },
+    "start": {
+      "x": 2536,
+      "y": 3547,
+      "height": 1
+    },
+    "end": {
+      "x": 2532,
+      "y": 3547,
+      "height": 1
+    },
+    "level": 35,
+    "experience": 22.0,
+    "ordinal": 3
+  },
+  {
+    "type": "LADDER",
+    "objectPosition": {
+      "x": 2532,
+      "y": 3545,
+      "height": 1
+    },
+    "start": {
+      "x": 2532,
+      "y": 3546,
+      "height": 1
+    },
+    "end": {
+      "x": 2532,
+      "y": 3546,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 0.0,
+    "ordinal": -1
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2476,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2476,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2473,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2473,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2472,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2472,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "LOW_WALL",
+    "objectPosition": {
+      "x": 2542,
+      "y": 3553,
+      "height": 0
+    },
+    "start": {
+      "x": 2541,
+      "y": 3553,
+      "height": 0
+    },
+    "end": {
+      "x": 2543,
+      "y": 3553,
+      "height": 0
+    },
+    "level": 35,
+    "experience": 13.7,
+    "ordinal": 6
+  },
+  {
+    "type": "TREE_BRANCH_UP",
+    "start": {
+      "x": 2474,
+      "y": 3422,
+      "height": 1
+    },
+    "end": {
+      "x": 2474,
+      "y": 3420,
+      "height": 2
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 2
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2471,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2471,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "PLANK",
+    "objectPosition": {
+      "x": 2474,
+      "y": 3435,
+      "height": 0
+    },
+    "start": {
+      "x": 2474,
+      "y": 3436,
+      "height": 0
+    },
+    "end": {
+      "x": 2474,
+      "y": 3429,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 0
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2475,
+      "y": 3425,
+      "height": 0
+    },
+    "start": {
+      "x": 2475,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2475,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2473,
+      "y": 3425,
+      "height": 0
+    },
+    "start": {
+      "x": 2474,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2474,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2471,
+      "y": 3425,
+      "height": 0
+    },
+    "start": {
+      "x": 2472,
+      "y": 3426,
+      "height": 0
+    },
+    "end": {
+      "x": 2472,
+      "y": 3424,
+      "height": 1
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 1
+  },
+  {
+    "type": "TIGHT_ROPE",
+    "objectPosition": {
+      "x": 2478,
+      "y": 3420,
+      "height": 2
+    },
+    "start": {
+      "x": 2477,
+      "y": 3420,
+      "height": 2
+    },
+    "end": {
+      "x": 2483,
+      "y": 3420,
+      "height": 2
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 3
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2538,
+      "y": 3545,
+      "height": 0
+    },
+    "start": {
+      "x": 2539,
+      "y": 3546,
+      "height": 0
+    },
+    "end": {
+      "x": 2538,
+      "y": 3546,
+      "height": 1
+    },
+    "level": 35,
+    "experience": 8.2,
+    "ordinal": 2
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2539,
+      "y": 3546,
+      "height": 0
+    },
+    "end": {
+      "x": 2538,
+      "y": 3545,
+      "height": 1
+    },
+    "level": 35,
+    "experience": 8.2,
+    "ordinal": 2
+  },
+  {
+    "type": "LOW_WALL",
+    "objectPosition": {
+      "x": 2536,
+      "y": 3553,
+      "height": 0
+    },
+    "start": {
+      "x": 2535,
+      "y": 3553,
+      "height": 0
+    },
+    "end": {
+      "x": 2537,
+      "y": 3553,
+      "height": 0
+    },
+    "level": 35,
+    "experience": 13.7,
+    "ordinal": 4
+  },
+  {
+    "type": "LOW_WALL",
+    "objectPosition": {
+      "x": 2539,
+      "y": 3553,
+      "height": 0
+    },
+    "start": {
+      "x": 2538,
+      "y": 3553,
+      "height": 0
+    },
+    "end": {
+      "x": 2540,
+      "y": 3553,
+      "height": 0
+    },
+    "level": 35,
+    "experience": 13.7,
+    "ordinal": 5
+  },
+  {
+    "type": "TREE_BRANCH_DOWN",
+    "objectPosition": {
+      "x": 2487,
+      "y": 3420,
+      "height": 2
+    },
+    "start": {
+      "x": 2486,
+      "y": 3420,
+      "height": 2
+    },
+    "end": {
+      "x": 2486,
+      "y": 3420,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 4
+  },
+  {
+    "type": "TREE_BRANCH_DOWN",
+    "objectPosition": {
+      "x": 2486,
+      "y": 3419,
+      "height": 2
+    },
+    "start": {
+      "x": 2486,
+      "y": 3420,
+      "height": 2
+    },
+    "end": {
+      "x": 2486,
+      "y": 3418,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 4
+  },
+  {
+    "type": "TREE_BRANCH_DOWN",
+    "start": {
+      "x": 2487,
+      "y": 3421,
+      "height": 2
+    },
+    "end": {
+      "x": 2487,
+      "y": 3421,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 4
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2483,
+      "y": 3426,
+      "height": 0
+    },
+    "start": {
+      "x": 2484,
+      "y": 3425,
+      "height": 0
+    },
+    "end": {
+      "x": 2484,
+      "y": 3427,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 5
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2485,
+      "y": 3426,
+      "height": 0
+    },
+    "start": {
+      "x": 2485,
+      "y": 3425,
+      "height": 0
+    },
+    "end": {
+      "x": 2485,
+      "y": 3427,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 5
+  },
+  {
+    "type": "NETTING",
+    "objectPosition": {
+      "x": 2487,
+      "y": 3426,
+      "height": 0
+    },
+    "start": {
+      "x": 2488,
+      "y": 3425,
+      "height": 0
+    },
+    "end": {
+      "x": 2488,
+      "y": 3427,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 5
+  },
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 2484,
+      "y": 3431,
+      "height": 0
+    },
+    "start": {
+      "x": 2484,
+      "y": 3430,
+      "height": 0
+    },
+    "end": {
+      "x": 2484,
+      "y": 3437,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 6
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2487,
+      "y": 3425,
+      "height": 0
+    },
+    "end": {
+      "x": 2487,
+      "y": 3427,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 5
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2483,
+      "y": 3425,
+      "height": 0
+    },
+    "end": {
+      "x": 2483,
+      "y": 3427,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 5
+  },
+  {
+    "type": "TREE_BRANCH_DOWN",
+    "start": {
+      "x": 2485,
+      "y": 3419,
+      "height": 2
+    },
+    "end": {
+      "x": 2485,
+      "y": 3419,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 4
+  },
+  {
+    "type": "TREE_BRANCH_DOWN",
+    "start": {
+      "x": 2488,
+      "y": 3420,
+      "height": 2
+    },
+    "end": {
+      "x": 2488,
+      "y": 3420,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 5.0,
+    "ordinal": 4
+  },
+  {
+    "type": "NETTING",
+    "start": {
+      "x": 2486,
+      "y": 3425,
+      "height": 0
+    },
+    "end": {
+      "x": 2486,
+      "y": 3427,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 5
+  },
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 2487,
+      "y": 3431,
+      "height": 0
+    },
+    "start": {
+      "x": 2487,
+      "y": 3430,
+      "height": 0
+    },
+    "end": {
+      "x": 2487,
+      "y": 3437,
+      "height": 0
+    },
+    "level": 1,
+    "experience": 7.5,
+    "ordinal": 6
+  },
+  {
+    "type": "PIPE",
+    "objectPosition": {
+      "x": 3004,
+      "y": 3938,
+      "height": 0
+    },
+    "start": {
+      "x": 3004,
+      "y": 3937,
+      "height": 0
+    },
+    "end": {
+      "x": 3004,
+      "y": 3950,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 12.5,
+    "ordinal": 0
+  },
+  {
+    "type": "ROPE_SWING",
+    "objectPosition": {
+      "x": 3005,
+      "y": 3952,
+      "height": 0
+    },
+    "start": {
+      "x": 3005,
+      "y": 3953,
+      "height": 0
+    },
+    "end": {
+      "x": 3005,
+      "y": 3958,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 1
+  },
+  {
+    "type": "STEPPING_STONES",
+    "objectPosition": {
+      "x": 3001,
+      "y": 3960,
+      "height": 0
+    },
+    "start": {
+      "x": 3002,
+      "y": 3960,
+      "height": 0
+    },
+    "end": {
+      "x": 2996,
+      "y": 3960,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 2
+  },
+  {
+    "type": "ROCKS",
+    "start": {
+      "x": 2993,
+      "y": 3937,
+      "height": 0
+    },
+    "end": {
+      "x": 2993,
+      "y": 3933,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 4
+  },
+  {
+    "type": "ROCKS",
+    "start": {
+      "x": 2995,
+      "y": 3937,
+      "height": 0
+    },
+    "end": {
+      "x": 2995,
+      "y": 3933,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 4
+  },
+  {
+    "type": "ROCKS",
+    "objectPosition": {
+      "x": 2995,
+      "y": 3936,
+      "height": 0
+    },
+    "start": {
+      "x": 2995,
+      "y": 3937,
+      "height": 0
+    },
+    "end": {
+      "x": 2995,
+      "y": 3933,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 4
+  },
+  {
+    "type": "ROCKS",
+    "objectPosition": {
+      "x": 2993,
+      "y": 3936,
+      "height": 0
+    },
+    "start": {
+      "x": 2993,
+      "y": 3937,
+      "height": 0
+    },
+    "end": {
+      "x": 2993,
+      "y": 3933,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 4
+  },
+  {
+    "type": "ROCKS",
+    "objectPosition": {
+      "x": 2994,
+      "y": 3936,
+      "height": 0
+    },
+    "start": {
+      "x": 2994,
+      "y": 3937,
+      "height": 0
+    },
+    "end": {
+      "x": 2994,
+      "y": 3933,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 4
+  },
+  {
+    "type": "PLANK",
+    "objectPosition": {
+      "x": 3001,
+      "y": 3945,
+      "height": 0
+    },
+    "start": {
+      "x": 3002,
+      "y": 3945,
+      "height": 0
+    },
+    "end": {
+      "x": 2994,
+      "y": 3945,
+      "height": 0
+    },
+    "level": 52,
+    "experience": 20.0,
+    "ordinal": 3
+  },
+  {
+    "type": "ROPE_SWING",
+    "objectPosition": {
+      "x": 2551,
+      "y": 3550,
+      "height": 0
+    },
+    "start": {
+      "x": 2551,
+      "y": 3554,
+      "height": 0
+    },
+    "end": {
+      "x": 2551,
+      "y": 3549,
+      "height": 0
+    },
+    "level": 35,
+    "experience": 22.0,
+    "ordinal": 0
+  },
+  {
+    "type": "PLANK",
+    "objectPosition": {
+      "x": 2550,
+      "y": 3546,
+      "height": 0
+    },
+    "start": {
+      "x": 2551,
+      "y": 3546,
+      "height": 0
+    },
+    "end": {
+      "x": 2541,
+      "y": 3546,
+      "height": 0
+    },
+    "level": 35,
+    "experience": 13.7,
+    "ordinal": 1
+  },
+  {
+    "type": "CLIMB_UP",
+    "start": {
+      "x": 3273,
+      "y": 3195,
+      "height": 0
+    },
+    "end": {
+      "x": 3273,
+      "y": 3193,
+      "height": 3
+    },
+    "level": 20,
+    "experience": 10,
+    "ordinal": 0
+  },
+  {
+    "type": "TIGHT_ROPE",
+    "start": {
+      "x": 3272,
+      "y": 3182,
+      "height": 3
+    },
+    "end": {
+      "x": 3272,
+      "y": 3172,
+      "height": 3
+    },
+    "level": 20,
+    "experience": 30,
+    "ordinal": 1
+  },
+  {
+    "type": "RUNNING_START",
+    "start": {
+      "x": 3266,
+      "y": 3166,
+      "height": 3
+    },
+    "end": {
+      "x": 3268,
+      "y": 3166,
+      "height": 3
+    },
+    "level": 20,
+    "experience": 40,
+    "ordinal": 2,
+    "next": {
+      "type": "SWING_ACROSS",
+      "start": {
+        "x": 3268,
+        "y": 3166,
+        "height": 3
+      },
+      "end": {
+        "x": 3283,
+        "y": 3166,
+        "height": 3
+      },
+      "level": 0,
+      "experience": 0.0,
+      "ordinal": -1
+    }
+  }
+]

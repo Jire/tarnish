@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN">
+    <appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%highlight{%d{MMM d, yyyy h:mm:ss} %logger{36} [%t]%n%level: %msg%n}{FATAL=red blink, ERROR=red bright, WARN=yellow bold, INFO=white, DEBUG=green bold, TRACE=blue}"/>
+        </Console>
+
+        <File name="ErrorFile" fileName="data/error.log">
+            <PatternLayout pattern="%d{MMM d, yyyy h:mm:ss} %logger{36} [%t]%n%level: %msg%n"/>
+        </File>
+
+        <File name="InfoFile" fileName="data/info.log">
+            <PatternLayout pattern="%d{MMM d, yyyy h:mm:ss} %logger{36} [%t]%n%level: %msg%n"/>
+        </File>
+
+        <File name="WarnFile" fileName="data/warning.log">
+            <PatternLayout pattern="%d{MMM d, yyyy h:mm:ss} %logger{36} [%t]%n%level: %msg%n"/>
+        </File>
+    </appenders>
+
+    <loggers>
+        <root level="debug">
+            <appender-ref ref="Console" level="ALL"/>
+            <appender-ref ref="ErrorFile" level="ERROR"/>
+            <appender-ref ref="InfoFile" level="INFO"/>
+            <appender-ref ref="WarnFile" level="WARN"/>
+        </root>
+    </loggers>
+</configuration>

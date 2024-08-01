@@ -1,0 +1,84 @@
+{
+    "id": 7409,
+    "name": "Magic secateurs",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 17728,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2006-02-27",
+    "duplicate": false,
+    "examine": "The only way to kill a Tanglefoot.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xs2Wv0rEQBDGkzdIlSbNQl7AF/ANfAELm2tsbCwsLIQrLK6wEASLw0IQhAMrX/Ccb2Y2yU6S8w6zuw4MIcmy88s3fzZF8f+t3I89i0nw+rkZeQY4AnlxR3lSqOq6HgFYx7ozh2t0EyB4l74JoEQq9TDHAkVWKQT6DSoLkIeyMFmB4ACw9x7K7rKgnQaEazaVbLqqO3p+Q76qYqsEG0MFQA/07J78lvyqYk8CNeX1ho6RdSNQUEmBqssEUKgN6wz1qEBQaSVA/j78gGRW9iohpaQOQ8LpuU+nVdfusrBpClHgFJxT+aR/Brh6FVMXf7N1XaoYBkX/qsUPMK05BtMxYXdZ0Ajo3bEaw9QAqHkTZziApoEioM+2+3kbFj6/AxS9h4pDKL/W7raAUdBdK3XUdZhYAGah4qlEwb402LpXabRmGyoVUaVy775bqRWqI3TT9Jeb9GFtVJU+pKN4/swG6qFYJayNc+RIHfGXbzTQ7MzRrsQ6qHkh66KkjgNh9iCYnnFzUDwwFbrvzEVNgTBzMAgRENP5AFREGG/STTyd0do4yw6kJDKMNz0+fMedF7NACU3+mYa/t5mBYElq5DT7K8wPETomsxhma2YAAAAASUVORK5CYII=",
+    "wiki_name": "Magic secateurs",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Magic_secateurs",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 9,
+        "attack_crush": -5,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 1,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

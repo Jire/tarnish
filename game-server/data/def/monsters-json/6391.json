@@ -1,0 +1,83 @@
+{
+    "id": 6391,
+    "name": "Dad",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-08-24",
+    "combat_level": 101,
+    "size": 3,
+    "hitpoints": 120,
+    "max_hit": 27,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 8,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "trolls"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 126.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": true,
+    "examine": "An unusually large troll.",
+    "wiki_name": "Dad (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dad#Normal",
+    "attack_level": 60,
+    "strength_level": 120,
+    "defence_level": 50,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_bonus": 40,
+    "strength_bonus": 70,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 25,
+    "defence_slash": 25,
+    "defence_crush": 40,
+    "defence_magic": 200,
+    "defence_ranged": 200,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "rolls": 1
+        }
+    ]
+}

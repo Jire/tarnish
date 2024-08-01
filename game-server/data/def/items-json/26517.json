@@ -1,0 +1,84 @@
+{
+    "id": 26517,
+    "name": "Shattered cane",
+    "last_updated": "2023-04-25",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 26518,
+    "linked_id_placeholder": 26519,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "The cane of a Shattered relic hunter.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu2XUUoDMRRFm3X4M+AGXIh/CqKiYAtVWpWiMlSKpVIEoShFRITil7+iGxBchAuK3hduZhqoH4V5iTAXLmRgAoebN+9lGo1aS8nYwtFl7Li3L57krdhQxj5ede3q97sY69dJHistY2/ODuZg4KfRsSQ1OtnThDK2396yd/22h1n5mHqo24umwKxlmTjcXYFc3RCkDDO9PJTkCBTurEhGjgUJAYAwMECZkOqRDbu7UicA4NEBBGsY687Oui4UkwIMiplF/TDoSHJsA6pHh/rJvl48xGzc83B4RlqKKUG/UG/3Nvuc+YJ+vj71UARVhwpdhqFVodhzit7jwMpA6lChCEaYCP1pkdyYoaOmVOjfQEUHc1Ds8ufNjTSgAMOk8tZmGlCAwcyDB0fbaUBhtPDmoHypWyQjCYW9KnxLWe5r4/xL4Geh6OoYzABKJCmIvUn1Tv635od0rVrV6gdCQ318xsAIoAAAAABJRU5ErkJggg==",
+    "wiki_name": "Shattered cane",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_cane",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

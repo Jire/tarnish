@@ -1,0 +1,77 @@
+{
+    "id": 20397,
+    "name": "Spear",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 3.628,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-08-04",
+    "duplicate": false,
+    "examine": "A large makeshift spear.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABM0lEQVR4Xu2VMYsCMRCFM3/CZpvAFoKVzXGFCIJYCHIoJydsIaKNzRYWFnaCP3y8N7lsvMFCEDMW+8GASMCPefHFuZaWlmch1t8YAIkww777+2wGcTUt+KPnGpm+9zL6ZAaID8uSd3MvYygT4oEMZv/luRoXjZA+/WKI65WXOVRlc3cMthN+9LgqZfbL/xFll8FGNrNCZOqFl5jMIjpvunxclxJR3IxBRBHi2cCJFLakY9KnX0C6pBh0y/coll32rZDck+mgIyLYjBbJKAOIT1VXpIziASmeyWfYSowoswhI1f/z27TpYTSSiULoFsRkFBEg6RNs5rb+DURAqP/bt8hoKyC9R/g3Ia4opE9mgGQjccxjumx7ImLYL5HwFt1rXX0yCyg7LWImE3gbkcTbiLQ8wBXHjQKifo0SkwAAAABJRU5ErkJggg==",
+    "wiki_name": "Spear (Last Man Standing)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Spear_(Last_Man_Standing)",
+    "equipment": {
+        "attack_stab": 22,
+        "attack_slash": 18,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 2,
+        "defence_crush": 4,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "polearm",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

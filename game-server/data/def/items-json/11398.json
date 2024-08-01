@@ -1,0 +1,86 @@
+{
+    "id": 11398,
+    "name": "Steel hasta(p++)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11399,
+    "linked_id_placeholder": 15571,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 325,
+    "lowalch": 130,
+    "highalch": 195,
+    "weight": 2.267,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2007-07-03",
+    "duplicate": false,
+    "examine": "A poison-tipped, one-handed steel hasta.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA00lEQVR4XmNgGAWjYBSQCxj/Q/CgAIz/N61Y/r9ve8JgcBTEMZ2NDWDHGCgogDG6KhoDWPQw/l8yexacPWCOmdrT/X9aXy/cMTCHDIBjYAARMgPuEBDetX79//aGOriD0FXRCTD+T3U2/V8eYDvQaQYEGP9nuJpjOGTAHJPjaTk4HILNMeiq6AQY/ydERQ4Wx4AA4/8tq1YOHsdsXb1q8DgGlptGHYMKRh2DC4w6BhuAlMCDxjGzJk74v3H5ssHjGFgIDbBjYGDAa2xMMGgcMgpwAACB5cTMEIMLcwAAAABJRU5ErkJggg==",
+    "wiki_name": "Steel hasta (Poison++)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_hasta#Poison++",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": 12,
+        "attack_crush": 12,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": -3,
+        "defence_slash": -3,
+        "defence_crush": -3,
+        "defence_magic": 0,
+        "defence_ranged": -3,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 25733,
+    "name": "Holy sanguinesti staff (uncharged)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000000,
+    "lowalch": 2000000,
+    "highalch": 3000000,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2021-06-03",
+    "duplicate": false,
+    "examine": "A sacred staff imbued with the might of Saradomin to smite his foes. It is currently uncharged.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABp0lEQVR4Xu2VTUsCURSGvX/CjRvBRSAI4ibEjSHiIhkUJRglmRRTTKUyDBIicqEQgkUIFUFfKEmFGBFB0cJFCC36D/2Qt+4dxnSq7b2z8IEDw3AWD+e8Z8ZkmmIICPRvBEAl1FpLeEbP+i5OEAQCKTidPjjsDuwUfGjWG6htV0VIEUQiJXi9MpNxOV0oF0vwuN34HKhCTquVlxSBFCogGMwhIoVZtRoHeHsdsNJkOAkRJuL3K8gv56DIi2xF7ZNzfAzfectQ1NzQqeRSGWSW0ri56KDfuWUrpLIc80MQXSgjNC9hq7SJvd0am8xxs4WX+yeEw6vonrV55oewi6IitE4Pj3B3eY3n/iMT1U6e08q+szM3i2E3x7JDp9K76uKh24Mcq0yIcJChEKyvFFFORdHZzyChVJFM1ZHJNnlOZRwCJSYjGY+jkpVH6xEmYzbb/pQQKiNQQkP7nghZix7C/kualEAZNSMRSRIV2HEIrBYLNgp548jor0jfxYkfGcFXRPkto+/giMFkZmyTHzx9B0cMJuOw240jk04kjCKjYSgZFUPJTPmHL8aGO1egqRSQAAAAAElFTkSuQmCC",
+    "wiki_name": "Holy sanguinesti staff (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Holy_sanguinesti_staff#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 25,
+        "attack_ranged": -4,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "id": 7605,
+    "name": "Skeletal Mystic",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": null,
+    "combat_level": 0,
+    "size": 2,
+    "hitpoints": null,
+    "max_hit": null,
+    "attack_type": [
+        "melee",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": false,
+    "attributes": [
+        "undead",
+        "xerician"
+    ],
+    "category": [
+        "skeletons"
+    ],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": true,
+    "examine": "Sounds like some kind of hybrid clothing, actually.",
+    "wiki_name": "Skeletal Mystic",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skeletal_Mystic",
+    "attack_level": 0,
+    "strength_level": 0,
+    "defence_level": 0,
+    "magic_level": 0,
+    "ranged_level": 1,
+    "attack_bonus": 85,
+    "strength_bonus": 50,
+    "attack_magic": 40,
+    "magic_bonus": 38,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 155,
+    "defence_slash": 155,
+    "defence_crush": 115,
+    "defence_magic": 140,
+    "defence_ranged": 115,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20906,
+            "name": "Golpar seed",
+            "members": true,
+            "quantity": "5-10",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20909,
+            "name": "Buchu seed",
+            "members": true,
+            "quantity": "5-10",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20903,
+            "name": "Noxifer seed",
+            "members": true,
+            "quantity": "5-10",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "rolls": 1
+        }
+    ]
+}

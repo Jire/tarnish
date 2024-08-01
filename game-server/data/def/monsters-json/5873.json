@@ -1,0 +1,64 @@
+{
+    "id": 5873,
+    "name": "Baby green dragon",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2015-09-10",
+    "combat_level": 48,
+    "size": 2,
+    "hitpoints": 50,
+    "max_hit": 5,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "dragon"
+    ],
+    "category": [
+        "green dragons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_masters": [
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "Young but still dangerous.",
+    "wiki_name": "Baby green dragon (3)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Baby_green_dragon#3",
+    "attack_level": 40,
+    "strength_level": 40,
+    "defence_level": 40,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 30,
+    "defence_slash": 50,
+    "defence_crush": 50,
+    "defence_magic": 40,
+    "defence_ranged": 30,
+    "drops": [
+        {
+            "id": 534,
+            "name": "Babydragon bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

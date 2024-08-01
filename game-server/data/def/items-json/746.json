@@ -1,0 +1,84 @@
+{
+    "id": 746,
+    "name": "Dark dagger",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16812,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2003-08-20",
+    "duplicate": false,
+    "examine": "A black obsidian dagger. It has a strange aura about it.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABGklEQVR4Xu3VwQqCQBAG4OY5uggehCCQIDp0KcSDCFIkiYeiSydvvT9MzNpmO61FkLN78Ic5JGv7MTvqZDLGmwDyKw4DOE9r9ATVYeIgUMVXCGbE2EJz0mIW290TxFcJpYVwjCPQiOmLiXE8N/0YByBPMR7MzTtGaG5sH8LupWfDDAgC3GxStZH+/a0zA2IogGEYPUCAs22pimOEjorSdUhjqF4RugS6QwHc748KpbuyTE2QhghgKIDn8xWL4qBQq8wO4ncNGMCmuWFdXzDPdwrlHBTHa4yiGKvqpFBJkhmz05ZIOgxVEMywLGs1U69FxymAMjHTKR0L74rYE2Zi+KZ9xf/lT3nHCGz6KWDF8FXCEZmL3+IVxpfcAS2FVDGJemSEAAAAAElFTkSuQmCC",
+    "wiki_name": "Dark dagger",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dark_dagger",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 3,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

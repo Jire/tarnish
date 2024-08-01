@@ -1,0 +1,79 @@
+{
+    "id": 811,
+    "name": "Rune dart",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14524,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 350,
+    "lowalch": 140,
+    "highalch": 210,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with a rune tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2VMUvDQBTH732Dm7J0CWQQBKEUHDoULEU6NAihBQkSqe0QKFEsoigiODg4OAiCg1/2mXeXa5PTwaG5e4N/+FNo2vLj9+5ehfiPtwDa73gMYJJfIyMoAgHshqGq/dRxAOOL1QbIfuo4gNPVDS8747MlHzsny0sudgBnxR0OZxkfO5PznI8d2jn9ScLBDuDp1T0ep3M+dmjndAcjHnZo5xwlqU87+i+Bmq4f1c6JDnq+7AB+7XfwYy/A97KLocS4J3zZAfysQN7K5iOJ00OBWSB92AFlhUCoxVhi2tdAi075GmhL9rdaCmysvEa62UADUQkodWcJGiAvkR4VgRDUuoTJy9LYYtm6JWiAUJ8rO6Z1oJYPtoapg1DpVtV7G0osLCD7l3aY7b4xpXGZPoWBayAhzAi2owB1w6hkzDnQ79G2COihAjLX3hMQpQnU8oH+a+AHkP0JxwF1sBkBUUDtIkZAFBbnp5ldw3wD53EvtXT/JSAAAAAASUVORK5CYII=",
+    "wiki_name": "Rune dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_dart#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 26,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

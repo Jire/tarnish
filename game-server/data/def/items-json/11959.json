@@ -1,0 +1,79 @@
+{
+    "id": 11959,
+    "name": "Black chinchompa",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15365,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 240,
+    "lowalch": 96,
+    "highalch": 144,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2014-03-27",
+    "duplicate": false,
+    "examine": "Just plain nasty.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACRElEQVR4Xu2W30uTURjHPX+HNwMvAiEYgYiEYEhIGKIoDpVEk5k0k/yV6ZYsNVtaFIheddldRHRjRFcRXVgGpX/QI59nPu/ORtqF53WjfODL3m1n53zO9/uc911d3UVd1P9bToqqiXJyrbVV0iO9tQDlpLerS7o7O+VmR4cCJROJakE5Gejrk5HBAX0F6kZ7+7FLpymWcvLmdUF23+1IenhYofp7eiKoRH39iYoBysn3L29l7t6kzGQyMjUxIZPj46rmpia5kkzK5cbGSJcaGiIZUOBYnSzNzsrD6WkFujs2JreHhrSxr7a0qAAzOB/QwGKIz8lqNqsg9M+d0dFTgQwKeMYSMwoOhegf4vKBfDAfiLG3UindCNexxMdO6SMfyK59pwCyU8lvuC6dyiDl9GQRA70ERKWAAgBH6Lvc/LwsLyxo3Ny/DCiAS0UYFiIuTtz1trYy+VD0DeOe5pfl2eO8PHmUU7CgQNY7xMXk7B4XWAT5YIzBRcA3V1YULL+4qL/JpFMhYnMa1YP7Uzrxy/V13TVR8B4ZmMEBy/1ra2NDXqytRVB8HsAlF8EwMQv4UD6Yr197u/Lz2wfZfr6p4+kjnoFEGsQlXz5UpVum33sfFQpx/O1xw9jtXPbsUNhsMqhXhYKCcU2/IBoZ7X99r1AHPz5FD2V/U6W5glXJrUoYokV8j0OH+5+ju3X5xgKXuYUMAhGjLR6zKydVEch6qnLxWF35c7myBi+5U7Uq/iPwYaoOxFGvEXeszr1x/141BfPP1xHVd4eLmkLamAAAAABJRU5ErkJggg==",
+    "wiki_name": "Black chinchompa",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_chinchompa",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 80,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 30,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 65
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "chinchompas",
+        "stances": [
+            {
+                "combat_style": "short fuse",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "medium fuse",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "long fuse",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

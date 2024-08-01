@@ -1,0 +1,77 @@
+{
+    "id": 22846,
+    "name": "Pearl fishing rod",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22847,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-01-10",
+    "duplicate": false,
+    "examine": "Useful for catching sardine or herring while looking a little bit fancy.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu2WwUrDQBCGO8/RS6AHoSAEoXgqxEMphVIMCYYqDa1gvagIHgWvnnwCL6LS0lC1in2+X2eTTZv1vrMHPxiSw0I+/plMUqv94xSEvJyA0AkC9LtdF6TyZM7SVF19z1NlnrJALvL+ssDnbCkvwyKr16xokZjMJhVTxLJM/nBuzfJ5LinCELKnGb7mb39SMU9agFQi34uPUsar14t7EQg7jYaRilhChHW2wvlkgovptJKKiAy3adMesVQYKgdYC4nK6K1rCpknLUBq8+p0xAeYk9mW0RKWZfLWsIjeNUKJMITdZtMdmWEcq9KLT3R4tcwoSco6aLcLMasQkqintu9+q4Xx8bAUEmrZ76/mOEK/F+AoDLHn+5V2WZZhCDeXKU5HoRLaFhGQYQiP99fSqWgID7f5V1s4FYYQH3Zwd3Ui+XprCNFgoMqBNmmcmJkqTsm4wg/n1SfUEk5D1QAAAABJRU5ErkJggg==",
+    "wiki_name": "Pearl fishing rod",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Pearl_fishing_rod",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

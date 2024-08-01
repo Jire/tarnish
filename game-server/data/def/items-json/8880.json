@@ -1,0 +1,79 @@
+{
+    "id": 8880,
+    "name": "Dorgeshuun crossbow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 8881,
+    "linked_id_placeholder": 17150,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2000,
+    "lowalch": 800,
+    "highalch": 1200,
+    "weight": 2.267,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2006-06-21",
+    "duplicate": false,
+    "examine": "This fires crossbow bolts.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADLElEQVR4Xu2X2U5TURiF2W/CI/hE3nphYuKA3vRCohKMImgUNUgAIUhAwhAGCUNaoVYsQ7G1FZBJ5JJn+PXbO7tnKj3t4RgudCU7NO3Z/1l7rX/YNDT8u1Di/+YCoaT7TbNEJMWmSBvPgJL29tsyMf5Mx73U2FhPbCV9vfflZWciJlJKmpuvyuJCl6RX+uXL6ki9cZWkUr3S03MvymlcMCrfvHFZJiefSzY7KrncjHwrLMnOdrp+Uu8GH+oTOfa5VxiUtDy4Jvn8vI7zdWtOSsWU7O6ulmNw0DoPq2T5Y58kmpoCyyFViaTS6qIKBFBmb29NLzeRusmMjnZo64LqWBtVBZJKhofb9L7NjSk5OSnJ8c9C2aIIRCyUjI91SDLZEziVN6iXKKpkPg3qPDk62pLT0xMpFpPnJQMMoaXFbpcilWHV6n/bInNzr7VFpdKy/Douyt6PbDxksIueQamGETJQ8n7kibaKSlrLjmmrYiADjDoQmp+vhZDpwNNTL7RN62sTcnCwqfd5CyAyDCHyAQuqEzK5gyLkzcb6ZNkmN6Gz94fCsQtCH2ZfVQmoZGjokS5nEpeqskQcm9xVGQkmF5B/ZrpTLxvU/xz5AhF6TSG/4CHiEDi3baaPoBB2kUMo5UxpsyCMPYeHOd1jbAcOKhGTbeQQ6tCHWNjIsE0krmgb0+kB2f6+Ivv763okuNXxx4qBEDBKoBDzjPInXzKZIdnKzcrOTkaXNZ/PJmPiBMdNRNikRCGIYBG5svp52Cjzp/m5u7B/v4PYVLIwarW2XtfDlpyhz3R13Q1Rx+IvEGp7fEvbhzoQghh5VdtLYrTNkqHSqCgSneGJfcw58ir8JV5C4QeoCtMoyReunvQeujIDlBFBa2CoWlvD1tOOOzUcoCqUHpaUNrc+SNjgqMSNkAqkTw0MtGryqIh69v5MB6cY+I3bYywquZetPnoRZU8/4rO9M/NyvuMQzDdIcxieob/Z+eh/S12wleStKKXbAS+kDdCbIAEhewXxHwZCqBbhP49aobQy2MJfEt6vpnMIYzNXFPdv/ogxIGhpUE3vs5V/ixHVSXhRyzP/EYbfnsbaZSbwQ7YAAAAASUVORK5CYII=",
+    "wiki_name": "Dorgeshuun crossbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dorgeshuun_crossbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 42,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 28
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "crossbow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 28128,
+    "name": "Love crossbow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28129,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-06-07",
+    "duplicate": false,
+    "examine": "You gotta really put your heart into firing this thing.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADwUlEQVR4Xu2W70tTYRTHe/4O3wx6IQiCCCEhvoheRBAR1JuKwB+UYhkpSSwtLE0N82f+bK1ZM5c2y5a61jR/u1w1nYpLs6VFf8e3zrnc3bvtbm1z1pu+cF7d+5zn85xznnOeffv+67/UEgi3fyYBa9Yl9GaeR0fGOdSlnYI+9VgiUMk4icB8TgUcB68GQclAGTpdrP4FFiYmYHlk3AWUwM+dHfg3N+BbWYHX7caH2VkGqkw9Hg+Q4IXkwNzTHc9ClQS2fD6sLy/B43LBNTmJOacTEyOv0Zp+Nh4ggek3dkwYjHBml6MrIxdFukMRohRapOoUC3ycn8P8+Dim7GMYt9nwZmgIL8xmVKedRPn+oyjQ5UTwGybFuXN4GNUVFRqnEXxSCj8ZgctG32YdjgDEyOAAhp/2cfoNbW1oqa8PwJDPGKJEEviyvs4hrqu6qQEk/RNqP7a3sbG6Cs/CAix3G1BZWIT+hwY87upCx70G1JeWccRzU7Ij+IwowfmnCDXcvh1xsXJCqYA319a4ZqhehlvaUHv5CrpbmtFYU4PqkssMlEB0SALLi4scbgpxJCBFUkRpDdUNHWSwsQmt1/S4c6MSty5eYjgCSgCGJPiktmcWNNfWxgREt5JgqHZeWfphqq7Bff11NF4tD0prAjAkAZ/Xy0AU7uhA0kbUt2SYPsMDTlVovSQIQxL47vfDbrVGqSEJ5OvGZ+4zlF5jezuq9PpANEp0h4NqJnh9XBLY8a5yCsKBFBD3zDQX8IDJhMK8PJTn5av+FSjdfyTQx3YNtL3sxfbWFqdNvQmBUNOjlkBNj3qNOipKWgQ3QIpSUoC+LS3D/8nDxSpD0S2iTk63SAbqbGoMAlFHkkYERSkJQKTfV3nRjRdZJeg/UARjZj53Yqqrty9fcgFT0ysuKIiwoQiMCe3vcUtg0/U+CIjGBAFRmmgcqMeK9oYikadGNEmPKxlInl+GjLyghhl5M4Gq1BPJBRo4UAxz5oVAygiqKf00zqRkxbCR4Bfin/+LWRIQvfQIhkCoLujUNBLI6B/JtCR4TVKB1Omi08o3Z7C3F9YnT9jonaOAhZsMFeo9QSmO3xlN0uPN8BCOHgMmR0fZqA3QyKBurb6FcmuglMvtIdR7QlIKV4GbN/fB1W+B+/kQjw4CG30+yDeQgAhShho7WMbASgNNorTgpky9HD2K2mhHJ2ztHUHmtTu4TdC/0W/lLqUFF2qrznH4pme4icpAoX72RDKc2gjAYxvhAUwvgb8KpC3BMHK09jRdsUtr8P5ZvwDOeNkdaUQKvQAAAABJRU5ErkJggg==",
+    "wiki_name": "Love crossbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Love_crossbow",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

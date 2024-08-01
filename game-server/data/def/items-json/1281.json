@@ -1,0 +1,86 @@
+{
+    "id": 1281,
+    "name": "Steel sword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1282,
+    "linked_id_placeholder": 14732,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 325,
+    "lowalch": 130,
+    "highalch": 195,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A razor sharp sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABf0lEQVR4Xs2WQUsCQRiGnX+wJy97GejQtWvH6NqhUxKSYJJKmmRmuGmxmZhppiiFZL8gikI6FBXVKSqIfkAE9UfemlnWdKlu7jcvDAu7s/DwvPMt6/EMPAzOO0QRIAzVQkFenU9dDoNpGKgVi6iXShJohHMqKIbVVEqaaTcaXRgiIIZENIrNbBZ7OxXs71bVsdOq19SyQwwjYtmp5PNolsv0Vdl2eqeKFMi2owTMb3acu1wMQyaZxJa5ro4d8VVWAmbW75d2RF1KVCXs5NJpdeysLCawvWGqY0fUpYydpVhMBRgRhvlQCMsLcTWqEnbi4TC1Het3VKy5QIAepnPG8fgwhBmfD5FgkLoqhoOWjssLC4rYjgjDWs6L46N+KOcul/N9mMc0CXV9xfH8RArFMD2qIT2hwZzy4vREx+0Nx+sLCZQFExnXYExq3Umzl8tnieGwreP+juP9bbgPoHc53xpgLKDzDsfnxw+Qc5eLYTAymhx5gnr+CslZ+T9uw3wBVktIUv4cp4sAAAAASUVORK5CYII=",
+    "wiki_name": "Steel sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_sword",
+    "equipment": {
+        "attack_stab": 11,
+        "attack_slash": 8,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

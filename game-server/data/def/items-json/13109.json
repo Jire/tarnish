@@ -1,0 +1,84 @@
+{
+    "id": 13109,
+    "name": "Wilderness sword 2",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18647,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2015-03-05",
+    "duplicate": false,
+    "examine": "A razor sharp sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4Xs2X30uTURzG/f4HXnWzm/daCLoZXgWD6EoRIUG6SPAi80IEkSAzwYwuIqo1aJjTBmauHxNysKY4mWva2FzlmrTMgsCL/ownvt+z98detLudswcOG+/2cj48z/M9e9fR0d4iqNUWItyamJDVJlCEldiCLH5/wbJMQxH+npzgwd1ZWF1d7eMSr0B393+gTrvWQqmozoIixCKRM0BbLgV1PhhsAKg1H36Cl8/nzUIFQyHcm56Wfi08DQsMO2mo+AqKj4PZqSlTMG5EViDgdCrU2+sA+e9ooQj9PT240teHqwMDuD9zB+Ojo7g+NCRQ4UsXPf3R1iPCjeFhjI2MyOZ/jo8xY53DTasTY4FORBpQtycndZZbRWYfA7+PfjhQ7JINpbVPzZsRftXrTVDpd28bDmlzyS/Cz8NDB4pdSr1OeKIzAkY4qtWaoN6/WjHRKa8I9Wq1CSq5vKy/U64Ihc1NfD/4ioNSSaCeXQ7hTTzucUi7Uwqq9rmCL8WiQG2srWF1MWYyPgX1rbKPyt6uQPHk2T++bnxawQj5jYxEt18oCBRPXjwabYAQoo8fmYHi6Er5HYHiyeNnp4dzc0i8WHIc89/ZIhGuDQ4KFEdXzOUEiiePn5/sXrlLi9RmDFX+mMdeNotcOi3x8fTxcxQXPZNM6oOyC8z/XNilncwHeWUwBjFwVqmp44JnUylxa3drS7rFjvFnmrvEUtF92t4WV9glPqvs6xrdceWePYT1xCqq5bI5GCUSdzgidorPJ45RW5lPl3fMDcbllQ3gXf7v+PUPzdAKQMVW+OYAAAAASUVORK5CYII=",
+    "wiki_name": "Wilderness sword 2",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Wilderness_sword_2",
+    "equipment": {
+        "attack_stab": 11,
+        "attack_slash": 8,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

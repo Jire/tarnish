@@ -1,0 +1,86 @@
+{
+    "id": 10583,
+    "name": "Keris(p+)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16725,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 10000,
+    "lowalch": 4000,
+    "highalch": 6000,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2007-01-10",
+    "duplicate": false,
+    "examine": "The twisted blade is covered with a nasty poison.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4XuWU7UtaYRjGe/6DffLL+RL4oa8yEIkIHBIykkgKRWWRSS6mCK7VthbRYk2alc63maczzzoN0zVsg73EaC+M/V3XuB85x3K0bz5P0AU3HA4czo/ruu57YOB6iqH3jUQxfGnO4opAMfw4mcd7PYJazn8VoBhOW1E0akEUMj6spN2yoRjO2jG8ex1Gcz8Et3uMAzkGB2VBMSwtrSIeT2J6OoTR0VsYst+Q6RJDMvkAMzPzmJiYgtPpshyS4BJDKrWMWOwegsE78Hhuw+G4KSsyhnT6ERYWUohE5jA+PsndURQCEQ7EsLi4gkTiPqLRu/D7A7w7dvuQyLiopJ2hElNvLotKCAx1heIhR+iZtsqManh4RCwMxUOOmEDkCm0VRXX+7giAIXWByBU6fjTkjNfrEw1D6naGgMgZcoiAqMiCNqpbYJrqwVeUtI/IvaxeADIvcp+BGOrNn1AbZ9gzTlGuf4JutLCTr+Boz4tQaNbaLAFxdWAIpKJ/RmH/A2raIYcxymPWmM71GYbEoDW+c5i8eoKqaiC7W4aW9/DpBek7zJvj3zwq6oumN7gzq+ubokFMMeitX7zAu6+OUapo2NjMygAhdRxQ337jUVFvXmwXRfWkVwyH7T9WVNnSEfLFGtaeZiyg3i/6qC5M/aDJS1woq3i+lZPhDkOkYrsAQhv1LLNjFVkoTMxQEC+7eTQPH68hlV62tkmwOwyJtoJw0YbwhgsjQfs/EAJhSAxzuoLJdRtcUx0YCRCmGALbNgSeOOH00c+FRnOZpPTk/5IYEddfTJYEaD/L9wAAAAAASUVORK5CYII=",
+    "wiki_name": "Keris (Poison+)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Keris#Poison+",
+    "equipment": {
+        "attack_stab": 40,
+        "attack_slash": 20,
+        "attack_crush": -10,
+        "attack_magic": 2,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 2,
+        "defence_ranged": 0,
+        "melee_strength": 30,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

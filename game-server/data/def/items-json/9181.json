@@ -1,0 +1,79 @@
+{
+    "id": 9181,
+    "name": "Mithril crossbow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 9182,
+    "linked_id_placeholder": 14505,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 783,
+    "lowalch": 313,
+    "highalch": 469,
+    "weight": 5.0,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-07-31",
+    "duplicate": false,
+    "examine": "A mithril crossbow.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6klEQVR4Xu2WbUtaYRjHu79Eb3oj7MUgEGQgIiIoISGGGIqiYaRyVKaJZW5SIRZNFi5msfZAG7TYu33I/7yu0+25z0ndMXUP0B8ufDrXfX5ej2dp6UlPskpAt39CAkfVDTSL4cdCPcppjAQu2xm0yhEGquVC00IJhMOpaZ0mSODdYYqB9gvrqG6voZwJTHO+QDJZYgeXw2HXaYwE7i40dJuJYXQISEv5kUv47EIJZLN1OJ1uxcGWo0UCPy8z+Haex8lejKNDQBQdv9sBj3PF7p/WgZaXn90DCaTjaojtwA1griscnS9vdrigCSgdcWLNa5xLMLaAMpldi4P8JwK7WnR44Gg4gdteAR9Ps1w7FB1KF8GE/c9N59qAIQlEIlsKhC7jvQ7SqqfQburXqXaQ96FTduOsEedCpprJRl3D36cAkRLw+fR5Mc5RRkva23YeF6dF3J0nGISKVouv6sW7+cIEMu7MCRKIRrcnAkmpKf3RS+K2m0C7FuX0xIKrD1Jk9bcpge2dBkKhxH0E7Eig/8qP06qH05NYXx1Gb0YYkkClcoJUuoJAYMMGlODWfn+cxl7WxdGZMUWjJKBph79JnR4B6iY5+Khm1MhYPWaQQK3e5faXU9v6O0VFrgQVhCF71RE+M0uPEg3JXK5pvuEgKtRNPOyinmFE1CKfY7qk9CgRVKl0jPLLDj51Ylwr1Em0AmIhc0tb/c2f5yK9wAns61kc3f11lNMeXoxB76SWFrjp1xeTtkajxwPv6mgDrzU/t7W6GB/CSC2ouG86QVy1/Byd6paXB55ckJNvJvDhvDLvKA0mcL/IA++wFOA1QGtF2uSbDTrxcs8G+NQyuoumNz1NktECNp4sx4EtJG3mnUUWj2tsNKPodXMzPwZM4PNFbcT3c5QKRjuPjGYVrRpjiBr2/fpgMVGySgUjKxRaDEfTnYw+08igLl1ZUa9dsKzpHGVud5jT6nDIp4A/JAlnNRXO+O4vywz4H+oXTo1YzTJe7VEAAAAASUVORK5CYII=",
+    "wiki_name": "Mithril crossbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_crossbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 66,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 36
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "crossbow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

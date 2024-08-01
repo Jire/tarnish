@@ -1,0 +1,84 @@
+{
+    "id": 7435,
+    "name": "Egg whisk",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 7436,
+    "linked_id_placeholder": 14351,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": 20,
+    "highalch": 30,
+    "weight": 0.453,
+    "buy_limit": 50,
+    "quest_item": false,
+    "release_date": "2006-03-15",
+    "duplicate": false,
+    "examine": "A large whisk of death.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4Xu2W/StDURjHnf9E+UEpJbW01or8SEoppRRqkSgsL7PSkJnlZaa0LC9t02yGNWbYhPB3fXnO6Wz3zuYX7rnKPvV023NP53x6nnPOXV1djRr/BwYRfwKGsd5mdNvqv5GqljcEho1xK2YHWtHf2VBBisHjclXIGwbDiqMNwRk73EMWOHqaNIszJI6PEQ4Gea6lnqqoBIbAlB3hhY5itSi36HQiFYngJplQLUQwhObasTlhw8KgEIofHSJ9GkMulTJDiBCnzTNi4W1MnpwgcxbHw9UVnnO3KveRFiFET9mufDqNl7uc6irJu0gEte0yGkX2PIlCJoPX+3vdewOrJSYf7mrkJ2yyrxnT/S1ciCpF++fx5hpv+bxuHN1dBkgxPGWzfCOvjVq5AImQEL0LBXa4EEnSyaNrQYZsqwEtLG+DCLEQ45uargSSpiuBREiYKqUdVz7rj6BJKwUtFAsf8Ja9FwpfpGUc7AZ+X6o6DHcXF0Uhrez+9lZRitqrVEovI3JL8/PFvF5QAXoZ4vOjvOzRCQV8Pt3v0lglMOz5/RoBkZMyq263aikhJKXKw4R/CATDjtfLQ8pRaGUUCxEM656lLxUySUYiKkVP/cY2ldKGNrk6JaTEn5Cp8S/4AC4ei+bWyD7MAAAAAElFTkSuQmCC",
+    "wiki_name": "Egg whisk",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Egg_whisk",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 3,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 4,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

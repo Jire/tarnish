@@ -1,0 +1,93 @@
+{
+    "id": 2415,
+    "name": "Saradomin staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15618,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 80000,
+    "lowalch": 32000,
+    "highalch": 48000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2003-09-22",
+    "duplicate": false,
+    "examine": "A magical staff imbued with the power of Saradomin.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXklEQVR4XuXWsUrDUBQG4J436HSXLAEHV1/CSfElHHSSCsYa0pTYxBjbxoaUtqIOuokgiigugoODgoubq2/y67khEYtzzwV/OBCy5OPPzSG12v8LYfqOYAhPL3MQRPGDf2Z8auH5rQAt2PasUQUg7ivs+ApBpPT167sYiFM0s+nUESYKW24d2Vjh4tqSe21FE4TjMwura3V8fM5XDYm1dHlr6+GWxDHpUOHqrgAJYziEPb9VnRkjML1OB4M4lvyyOITQ85BGEbIkMaMdxgy7XTPa+QsjBCIc7AYY9Xv6VTFMvB3+oqYxoqCwsaghRmAyd+kXRBQTrSvk3rL0mSlDuH+0MfJXTAARzicT3DzYeoRBhJM8r0b4IH//ER6mOMoGenj3iLdTQozYyOU25s0sjOGQbsWYbcwYY5rhVvaDNrYbG9KHmEMaE7iuGe3wL2m72TQBwyG0HMcUTJnZY74A3INHcuasn4sAAAAASUVORK5CYII=",
+    "wiki_name": "Saradomin staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_staff",
+    "equipment": {
+        "attack_stab": -1,
+        "attack_slash": -1,
+        "attack_crush": 6,
+        "attack_magic": 6,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 6,
+        "defence_ranged": 0,
+        "melee_strength": 2,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

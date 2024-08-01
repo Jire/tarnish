@@ -1,0 +1,84 @@
+{
+    "id": 7443,
+    "name": "Skewer",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 7444,
+    "linked_id_placeholder": 14355,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 3200,
+    "lowalch": 1280,
+    "highalch": 1920,
+    "weight": 2.041,
+    "buy_limit": 50,
+    "quest_item": false,
+    "release_date": "2006-03-15",
+    "duplicate": false,
+    "examine": "Generally used for impaling fresh meat.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xu3Xz0oCURQGcO8btGozmwEXA8GADEQMIhgtZqFIg9KgojSKJvmHzEzNkMnEjIjaWcvoAQSX0bt9ce5gBD3AuQs/uPsf517OOTcS2UapCIRHiQg83gU4830VUAKviwVuej1UikUJiuk6F0rgZT7HsNvFaSGPuG1zggSeZzNcX3T+YRhAAk/TKa7aLZQ8jx9DD/iy2VQD8xBM0Gk01MDcj8do1evI53L8mGA0wnm1qgZmMhiog7nt9yXmxHX5MdR9aRwogaHuS5hsJoPDRIIXQ91XKUytXFYDQ6OAMMep1BbzJyGGdhlmTLhy0pAkTNpxeDEN15QDknYZdkw7Z8JPGUjHdeiaxovpFyzUMnvwjqJIWhoMfYcPMyxZsjpFx4BzoMEyGDFBZR9dL/Z7Vba5y4f5Wq3w+f4mryqbjMrqMGEoAt/rNT6WSzm9qTqMmE0239zwMGPCbBBKYFTJDwykYiOxTwgwAAAAAElFTkSuQmCC",
+    "wiki_name": "Skewer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skewer",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": 29,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 31,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "id": 21276,
+    "name": "Skull sceptre (i)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 21277,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2017-05-18",
+    "duplicate": false,
+    "examine": "An imbued magical Sceptre.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xu2XQU7CQBSGmXOw4QiezLjyAIQQAiIVsaBIipiAYhOwWitiUxDEtGLFaLwBibf4zUwz1NSFG2Umhi95iybT9Mt7b95MY7EV/wuCIITAPx6Gup1Hu14XIUVwvF9BrVRCtViEkskwGfrsDgc41TQxUuZZG4l4nInojQbOW01Yus5k1hIJFtG3/hjChG4NA8ZJC6NeD45pwp9MRGSIQ6CpKm46HUxsG2++j3G/v8hSdPUSIGgeVvHgOHgcjfDieZi5LobXltgs8f7pd7vw7oaY3o8xsK7ESvGgpXt9mrLy0RAmFe4sgvfZMz7mczYWBPbTV4Js7WazC6noiqXDs0UH58GOIodUAEEhnUZFKcgllU+l2BETbgDhEOSSSext5eTpK54deuTQkEKKNzstHz12pJAKkFSK9tRK6meCqS6lFL2B8t0YXSGAcCxsbqzLI3VULsO+vGD3dmmkeAj6YfgOF5FCZsVv8Qkexij85ZTrHgAAAABJRU5ErkJggg==",
+    "wiki_name": "Skull sceptre (i)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skull_sceptre_(i)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": -1,
+        "attack_crush": 7,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 4,
+        "defence_ranged": 0,
+        "melee_strength": 3,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

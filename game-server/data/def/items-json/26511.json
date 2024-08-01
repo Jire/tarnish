@@ -1,0 +1,77 @@
+{
+    "id": 26511,
+    "name": "Shattered relics adamant trophy",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 26512,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-03-16",
+    "duplicate": false,
+    "examine": "An Adamant trophy for competing in Leagues III - Shattered Relics",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADTUlEQVR4XsWXz2oaURTGvS+RjZsBF0JAGAKDDCIYRIIo0iEhkoihSRBLQ0vE/CN0YUspQmhLN910UbroW/QluuyztHDqd6Zn5s51xtGq8cCHdczc+7vf+TPTTCY2FEW10VB0en1K7Ysj2u/tk3fmbRJK0WA8YJiL1xfUu+9R97LLQLZl/QfUUg4revnukmoHNbJLdpCu/qs+VZoVI4WzFK6HA53fncf8lho+DDbOWtlggSeNBn/ulstU2N4mK5ulfC7Hwndox7ZZRcfh73Lvs9FzdhkCVOuktQiUopPhUyrVS3yTnx5FtdoB7VY9Out06NDzqF6t8sZQyXVZgBUgke400n/84pg/d73qvFCKa8UEGgzGEQEOAihUr7fZLdM5AOIaJI6hUeCSU3HmgVJ8ioJTCBaA1QKCjaFe756lQ8rGpmQtHE4OeNg/NA6dGL5DUryjLyMuZmwOkO/j20AClwQEFxqdRmwjYIRI2lKBYGm9Xec/Bszn/BYDAWLw5xdLgOTfAgQ3kApAYFPUC8BQR6hNfJqHTgVCyrCItDzsFSBR+ffPKbe4fux8AIWUAEi6DBBwTHcpLI2ZoXghtCgmNL7rDn17e0Vf3wyn3NKBcBhAuTWX1/mxY9Fo8htcsbYtdktPWYpLCB8KKcPNUtACIJoFhE/Msq3cFruDMhDXcVDAzpEyPRSnDmB6hyVJgCBAiCRFugAnbb8AECJcRG/xpLafBQK3Iek8cWtBoExGnx9xQBiQjlOh3E6O6wOKHGTykB4+DLk54mAWBvLDf6SgQPU0lUr+eMCjxHQEEJA+ZHUtBYMBKa8hgDJdaO7tGZso7iL5O7luytxpzggHJDZB0ZqbY5jKNbkHQxApkveo6JpLR/jQ1YH03+S6XJOBiC4NHx8rjaT8K/owqZPRv84S1+IG4sqh4vM/qZduNWh10zl9IE7fu5aYTN6W/xY4vWGSq2uNKJD5a7yraw3/uZcEtIHwXyU2DBTWBqYxgMJ35BV3Unr4EFfvr+n20x3PGrxOYAhicMprxSOBKYa4+XjDQADDw1P+yw2n0OaAig7KtYU/c0SVowqVD8rkei4Vm0Wyq5MXs3KB8m6en/6PVFdh/aTp0dpdny1pMu+dN/4CiJ7I78N2lagAAAAASUVORK5CYII=",
+    "wiki_name": "Shattered relics adamant trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shattered_relics_adamant_trophy",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

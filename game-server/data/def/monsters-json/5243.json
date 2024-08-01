@@ -1,0 +1,60 @@
+{
+    "id": 5243,
+    "name": "Jungle spider",
+    "last_updated": "2022-06-28",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-12-06",
+    "combat_level": 37,
+    "size": 1,
+    "hitpoints": 35,
+    "max_hit": 10,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": true,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "spiders"
+    ],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "A very dangerous looking spider, with its fangs unsheathed.",
+    "wiki_name": "Jungle spider (Ape Atoll)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Jungle_spider_(Ape_Atoll)",
+    "attack_level": 50,
+    "strength_level": 30,
+    "defence_level": 10,
+    "magic_level": 10,
+    "ranged_level": 1,
+    "attack_bonus": 100,
+    "strength_bonus": 100,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 6291,
+            "name": "Spider carcass",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

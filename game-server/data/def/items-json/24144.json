@@ -1,0 +1,94 @@
+{
+    "id": 24144,
+    "name": "Staff of balance",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 24145,
+    "linked_id_placeholder": 24146,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000004,
+    "lowalch": 400001,
+    "highalch": 600002,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-08-29",
+    "duplicate": false,
+    "examine": "A ghastly weapon with evil origins combined with an icon of balance.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABpElEQVR4Xs2Xy0rDQBiFM7gQcTMuzKYIgYJKoVCK6EropnRhKa0pvUSjJrVEgi1NL/Gy0IIU+wA+gS96zExsWuO6+fvB2YQJ8/FzZkIUJVEY4k8IYWh+v4NYSmweZrd0GgnlNI1CisGY92XMTzcKkRDD9uEBmm4L/tcYOyfH0aSEDLnQqkiCMsu+iGype/Cf7v8Ixd9YI4HAPoc3vJUZ9K9hObUoJEKuUYZtX8Ltt6IQ9SaUEZk9WzJxkURluMkxsnV8+DdQMgqVyIJgEjoH91RwR5VC/EX9nRAJ4YSUYjCZMkemm0V+kqco8QImRZRzBVpZQ1pPU5R4FSZFUoXUvyLHV66ZcPNpz/wnQiIzG1oYOTra1QLlVAQM2XQK7dJZNB1CGQFDz66gY5SoZcKecJvLkMvwiSHvG3nnkMt4DRlx6R1ZmUgovjIBAplHPZKJH+/46gQIhJyqFFoVIZIRMPidOnIe6bdpQXC8zQqyvdzmCPE2lyHvjch0bCL7EBaZVMZpXuBteIX5q00tI2C4axQx6Nbgu/VN6I1g+V9FPJ0l1PfND7yjSIAWDphPAAAAAElFTkSuQmCC",
+    "wiki_name": "Staff of balance",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Staff_of_balance",
+    "equipment": {
+        "attack_stab": 55,
+        "attack_slash": 70,
+        "attack_crush": 0,
+        "attack_magic": 17,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 3,
+        "defence_magic": 17,
+        "defence_ranged": 0,
+        "melee_strength": 72,
+        "ranged_strength": 0,
+        "magic_damage": 15,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 75,
+            "magic": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bladed_staff",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

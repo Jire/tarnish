@@ -1,0 +1,88 @@
+{
+    "id": 23762,
+    "name": "Crystal harpoon",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 23763,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 520000,
+    "lowalch": 208000,
+    "highalch": 312000,
+    "weight": 0.907,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A very powerful harpoon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4XtWW3UoCURSF288QdO0LBBJEhEiGiIj2MzUpag5ipaEF6pBJISlZGZpJJcoUFb3oyjnDmFlddJH7tC4HhvOx1j77rKmp/yHC+BdGEXYOy7CgpAAjVK462E7n4Zx3yQBFqF7f46jWQmz3EEu+FTmgOr0nlOttEZ+2X5QhQkL7wcDpRQf7egVbWgbT0zP8UM17Ayf1WySzOjZiOwLI6XBwQRGM5zfUW11kS1UxU2uRJKdLhK7xitbAJf2sKebJ5/FwujQA6htils4ad8Kl9WAQy243l0uEh15frAEztkKlgaiqIuT3w7W4yAFFuOv2oERTw2ufiscRVhQEvF6O6KzIUgelkcMJyVgUm6urw3ka/+uPRahdNuBfC48cTkhEImKe2KKzHfqIiIbzNOd0Th7qM4wtQuM4hUwsCK+LAep7EfS9TSSUZbgXZuWCUoPWfvrqJIsI57qGgGdeFpdMWVCKn+Xm/STpoAaNs5BANhGSC6qcjSCp+uS6eaWMKqAk2VGEx6u8WJz2nmKGIrw0ddycpkVDsDsU444inOg6irmceISZm6Ypwp6miVZgVhWzPzE1A1ufgSyQ8cYwcVkQoyCMMJZ+C/IOx05FTL+X2XMAAAAASUVORK5CYII=",
+    "wiki_name": "Crystal harpoon (Active)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_harpoon#Active",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": 32,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 70,
+            "agility": 50,
+            "fishing": 71
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "id": 9092,
+    "name": "Lunar staff - pt2",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16719,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 15,
+    "lowalch": 6,
+    "highalch": 9,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2006-07-24",
+    "duplicate": false,
+    "examine": "A staff enchanted by air and fire.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xs2WUUsCQRSFvf9E6KEnQXwRCaEIiWiJRCksNkypBUGQCpGKMCIIIugfnziz7s4yrdCDztwDy8Iw7H6ce+eeqVS2KoG7ElCCr5cxlEAJkvgEz7OBAapXqwUo74CCRm0H3eMWZrfdlUP2sWveJIh7BxiedzC+PMLgbN/A0bHF9AI/b0mJaxuXdSDqNI0LLBcB+F4+xnifX+N7eZfDbBFIchfazRrmkz5e76/w+TT6Uy4PMJTgcK9uSkIYOpGdruzn7uN+YcMS9KO2AfHsxDoJpqPTUkfcnR4kpnfK500QCSbDKC+XCiC6U2xid4dHSX6qAjcxJXhIevmsCQ7DaPA0df8jG5AqYOgOoyFwE6fTl+m9/p7jTWk0cBpnIAHLJSbBs+AsggSAoez9RkHfUGlwqhl+bnAGhKHSaawGhu6oSnH30uXu8Kj0ZKlyh3NHjTutxi4+Fjd63GFeKXEnU1iYX7ERPvCBub3NAAAAAElFTkSuQmCC",
+    "wiki_name": "Lunar staff - pt2",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Lunar_staff_-_pt2",
+    "equipment": {
+        "attack_stab": -1,
+        "attack_slash": -1,
+        "attack_crush": 10,
+        "attack_magic": 10,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

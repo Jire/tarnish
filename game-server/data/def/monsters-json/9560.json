@@ -1,0 +1,60 @@
+{
+    "id": 9560,
+    "name": "Kroy",
+    "last_updated": "2022-06-28",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2020-06-04",
+    "combat_level": 133,
+    "size": 1,
+    "hitpoints": 209,
+    "max_hit": 15,
+    "attack_type": [
+        "melee",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "vampyre"
+    ],
+    "category": [
+        "vampyres"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 240.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "He looks a little worse for wear.",
+    "wiki_name": "Kroy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Kroy",
+    "attack_level": 80,
+    "strength_level": 80,
+    "defence_level": 80,
+    "magic_level": 80,
+    "ranged_level": 0,
+    "attack_bonus": 36,
+    "strength_bonus": 42,
+    "attack_magic": 36,
+    "magic_bonus": 42,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 50,
+    "defence_slash": 50,
+    "defence_crush": 50,
+    "defence_magic": 50,
+    "defence_ranged": 50,
+    "drops": []
+}

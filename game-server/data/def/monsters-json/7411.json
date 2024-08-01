@@ -1,0 +1,58 @@
+{
+    "id": 7411,
+    "name": "Nechryarch",
+    "last_updated": "2021-08-05",
+    "incomplete": false,
+    "members": true,
+    "release_date": "2016-09-15",
+    "combat_level": 300,
+    "size": 2,
+    "hitpoints": 320,
+    "max_hit": 27,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": true,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "nechryael"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 80,
+    "slayer_xp": 3280.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "The arch demon of death.",
+    "wiki_name": "Nechryarch",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nechryarch",
+    "attack_level": 310,
+    "strength_level": 260,
+    "defence_level": 140,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 30,
+    "defence_slash": 30,
+    "defence_crush": 30,
+    "defence_magic": 0,
+    "defence_ranged": 30,
+    "drops": []
+}

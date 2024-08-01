@@ -1,0 +1,84 @@
+{
+    "id": 28031,
+    "name": "Dragon scimitar (cr)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28032,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 101000,
+    "lowalch": 40400,
+    "highalch": 60600,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A vicious, curved sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdklEQVR4Xu2WUUvDMBCAe/9kz4NBGRQppdAhsofJcFgcMhx0QxwyhYJDJz74z08vIW2SpuqDuTzoB8dKyJGPu2RJFP1dAGUERUkA7rMUJ3keQsqUqPNMiCiZeDAQYWd5wJR4KjI8K4pwMkpCiegyWZo2QnamB0BIPE9yfD2VIroMc3WgI6KHLWRn/zJfy+hSDEL9MnpVVDC062dCSoRNxhZybWQ72wPglKFgbhPRbZVLgkmGkNVR7WGWsC/BfhlznhdAO7rtGAkFkbnfbkWohemXLk2qDvO9RIBY+HG3azZrlYyFCFUniNBdVTWtKUdDHMex8e/L2C4F4PvxKCRGQymkizDLEIBvhwNel6VoH0mp6tgzGfh83zzsRdte6lqI0ffFbIYnScIt1cq0FZFBp+58Om1aZ2d6Qm7om+XSsWfAGLczPQF4u17j5XzeszD7CftOKIpcYx6RLbtaLHqFGAHcrFaiQupZEViI6L5t7BnsmCfrn+gDMV+lu365jggAAAAASUVORK5CYII=",
+    "wiki_name": "Dragon scimitar (cr)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_scimitar_(cr)",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": 67,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 66,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

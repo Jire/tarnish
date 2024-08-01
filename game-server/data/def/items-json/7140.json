@@ -1,0 +1,86 @@
+{
+    "id": 7140,
+    "name": "Lucky cutlass",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16933,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2560,
+    "lowalch": 1024,
+    "highalch": 1536,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-02-07",
+    "duplicate": false,
+    "examine": "Feels quite lucky.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABwklEQVR4Xu2WS0sCURzFvV/CzWwG/AJuWrQrWrhp1y5QIrCVRWJoaobZZOYjH9kDS5CiohdFFOGqTRDRMqKPc+p/L9cZpTYt7p2gA3+u3GHwxznnzozH86+/L4bvR4sYVtNpbKxkUc3nsV0uoVWvod1s6oRjiM/PYTmRwFpmCaVcDrVCATubFZ1wDOFQCAuzEaRiMWSTSe5axbI4HDm3V6tiv9FQC+WcxWiUg5FrMlJyja75TVMNFP2RHCecdGyrWOxBDd6rRE44ckpGqBXKlnBLdkppdD+L8dgIiFZXuEQwNOSUC1xivD8SiE6eK1yiuCSMXXwtEpE53dEIQxLuuApIwrim1ARDL2D72Ct/8TrFOAw9salLH68+vL/48PYsRhMcw0nbwPWxgYcrE3fnJv9N6+O9ie6NyfcVQTEctQSMlfEiGPD3HKmteznoWcfA7akAUtQvO5bw+BAiE8MDUTFcHhoqgfq/AggoFRzpAcj9g6aAGrxXgVgPyAZgKFtetS7ZYshMjeIiN4mnrizz115cI1B2egz5mQAvdKtu9LmjAYgkikwnUHZHIwyJobMrYGjVFNWg7GOv2R1bEsQVML/VJ6KTmZPJ2HuMAAAAAElFTkSuQmCC",
+    "wiki_name": "Lucky cutlass",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Lucky_cutlass",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 20,
+        "attack_crush": 0,
+        "attack_magic": -5,
+        "attack_ranged": 0,
+        "defence_stab": 6,
+        "defence_slash": 6,
+        "defence_crush": 6,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 25,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

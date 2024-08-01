@@ -1,0 +1,86 @@
+{
+    "id": 1231,
+    "name": "Dragon dagger(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1232,
+    "linked_id_placeholder": 14648,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 24000,
+    "lowalch": 9600,
+    "highalch": 14400,
+    "weight": 0.453,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A powerful dagger.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYElEQVR4Xu3WvUoDQRQF4J032GqaaQamCAiCTfABUgRRAsFgiGGDSTAJZg0qKkgQFkxhYSEELMTOykqwsbERbGxsfKDjzCQ7Liu2uVPkwG222Y87Z3+CYJmFhyF/hTAM8kXBI5QGvRYsaE1KahSDeJSQbz6BnhTkuxcgBj6VEM8a9LHiB0jcS1to9UkO0ttJBMSDtIVWXz6AJsIVWn2vUoIYtnmAvghxJkNMFMdtgdOCOhpzrCeZY6Z0IIaIh4g15lL+xZCAzFFd6KO6ocOYb9RszFGlmDsqTFSvY7/Vsjc3Jb5WZBgThq1y2aI6zSYOul23LbISrxeLFtWo1RzqZDjE+dFoDlt4dJE3Q2yUSg7Vb7cR93oUW5ph0kkijp1q1YLIOpTF5PtDhjGTRRBgTH5BRBvJhtnynh7GuBqPKcqbD8PebgOjwcCH7ZjoX4xKxb2hiTFpyJ6m/+MVZhmf8gN1LxEWuniqRgAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon dagger (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_dagger#Poison",
+    "equipment": {
+        "attack_stab": 40,
+        "attack_slash": 25,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 40,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

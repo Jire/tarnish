@@ -1,0 +1,86 @@
+{
+    "id": 11373,
+    "name": "Mithril hasta",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11374,
+    "linked_id_placeholder": 15557,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 845,
+    "lowalch": 338,
+    "highalch": 507,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2007-07-03",
+    "duplicate": false,
+    "examine": "A mithril-tipped, one-handed hasta.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAw0lEQVR4XmNgGAWjgBBg/I8uMoCA8X9Dw+z/g8RRCMcYKCiAMboKOoJRx6ADUBqB4MTE1oF3THh4BRgPAsfAwKAIGRCARFNe3oz/fgG5cAehq6ITYPyf6mz6vzzAFp5+BjB0GP9nuJpjOGTAHJPjaTk4HILNMeiq6AQY/5ub+wwWx4AA4/+srEmDxzHZOVMGj2NguWnUMahg1DG4wKhjsAFICTxoHFNW1v+/o2PJ4HEMLIQG2DEwMOA1NiYYNA4ZBTgAAOf2xAyHJL4aAAAAAElFTkSuQmCC",
+    "wiki_name": "Mithril hasta (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_hasta#Unpoisoned",
+    "equipment": {
+        "attack_stab": 17,
+        "attack_slash": 17,
+        "attack_crush": 17,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": -5,
+        "defence_slash": -5,
+        "defence_crush": -4,
+        "defence_magic": 0,
+        "defence_ranged": -5,
+        "melee_strength": 18,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 27414,
+    "name": "Giant stopwatch",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27415,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-10-12",
+    "duplicate": false,
+    "examine": "You won't forget the time with this.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC6ElEQVR4Xu2WW2sTURDHc76B774E9iEQCIRACCEEUkIIgg+C0FLEggY1YPMQULEYxPsFg7RKCBgq9YLWC8VLqYZSbATpg9oKrZdaivggCKE132DkP4eTbE6y2iQb8SEDfzbsTnZ+O2fOnHE4etYzZYLq1RXbahBB+dNeGr/goztZHz0Y9f/Fvy0TlDvppdFMmJJ7PBQNbrMIImimEKTizWAdvMuw8m/LBL2+H6b5u2H+4pFDLkrtdXIArxPXmh98AIQMqefSR1Dp0UG7oAQtT0dpbTZGT/MBzlR6n9EUCH7vpiJUvLWLjid9GoDgZbQBqpZ61MOplIv6d2yv3jP7fXjWRyszUVqaHqTJa3HKjoRMfrK2Gj+kJZMvGct46OIRN8McTRi8ZIl+p6k2BM1OhOjNZJi+l+KcJSwvhP/BFz743QGQzMjj6wF6USw1VeawiwZ2Ggx876qfawhZghYeRmjudojvq4ziY9oEkrvl+Y1gA4QuBEG9IJNTuQALu2zxSR8DoeawKRoLfcsmOPV4mR7cSieG/azUkIcBkBW8A5vgyjG5TG3D4MtUoFgkwtIB9OfK58CAm3bHDYZSEGaQlmGwtbH2zYJawej3UfBuw9EJiDIJhELWg+iygoFQ6GYgPUoLJoGw/noQHUa/ZxY6ua1A6B16kFaEXvNfAZ1N15pfx0Bo+50CoZvbkB2YoI3lM/RjYX/15fq21tXsOYraNqDK2jhtfrxEP98m6oLqIDoUrjjJ0X9sBVqfi1Hla4EzVX6fbAhuJTUhoisnBwFiExCK+turOP36ktsyFEDQuwrnvHyuqZPdBiBYDaqymqeNlfNUXhym9fkhPvXVjIzfuKJn4QDGFbvLfJrbBASTUFg+XDc/Zam8lK6OFfp4ASCMHzZu92YmaLUYY31+GWXh0FUQGE0wZiAzWDIAdRFGmTyp0ZvUrIy5BpMhsqKAJi7LObnLMNJkgNoYYaV/AmM2FfBP0v/Ts27Yb70kjypgi3YsAAAAAElFTkSuQmCC",
+    "wiki_name": "Giant stopwatch",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_stopwatch",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

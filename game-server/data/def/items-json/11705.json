@@ -1,0 +1,84 @@
+{
+    "id": 11705,
+    "name": "Beach boxing gloves",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18144,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": 20,
+    "highalch": 30,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2013-07-02",
+    "duplicate": false,
+    "examine": "For play-fighting.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACvUlEQVR4Xu2WzWoTYRSGZ+4gq2yyGZhFoCtvoFege3HRTcGVLhRUbFEoWLSgGLUqRYVGDYpaaQ1KKyomYijaUpTgD1WK9EaOfb6PN5mkCYUkExf2wEumycycZ97zMw2C/fg/IrSm/nmEdv5c1q4VsnZnLjcMqOTTd9bMJQ9TLt+0UmkmTajQRkaChkZHAzt0MLAjhzM2Pp6x48cyViicsYcPLu4oZyvLc3bvrnfpQBQNGiq0l+XInjzOuSSU5MrlrHNj+oLX1FTWZmcnbOHZVatWi7b4POfOBy4Fl0J380cln4DkQOEK5bl9awfmuhdAlcq8vX0T2fKryMpLkS08TQkKnTyRaej0KS8gBVuczzmgT6uxffxAqfx1lG3ApfMwTBHCJZWLv3GQMuEIn9vb9V0N31Tf4acH0TuIkiGViu8Aodco1esV7w5lxcXkQwwAKnTJ6RV6BtHciBIhlQuHgKGHuG7ibKYBogfiXn26FToYAEhMeSQaFuGOBJiAABEETuqh9EA9QoUtMMnSqDwSv9HgcgB3BCEn9SBaCT00e7gLhuTv30VukiRc4TfOEdDk5FG3MO8Xp+3F0g03getriy3gPQARzSmpVjwAo732ObaN9bgx5to/Y2N+NdBDauhkD9VqpQZMj0BB0LzYg33ZiO3XZt5+fI/dMVDAMVmaym7Sy7dnmPYQGEB/tvK2+TPvjnEFF3BkLw0UqBmtS49y0GuUai9RSn/dgENuMdZ6oSbHXPtKrxhNmTZ7KlDcVEk47pY8uck1AKmVTq8L1Ck5awJpSldrceOaFIAI3ThsSazkTGFyVfCpjZ4SULOfgBEEyVkL9a9e3+qxWxV8n+J/lcnoDCQQ1sPW77w7Z2hAKpPKI2e0r9hdAAkmZSDCNzY9gksA4Q5AuAPQEGEUrUuzXUOG8aGk3dR+/n70E38B1fqZECc7EnoAAAAASUVORK5CYII=",
+    "wiki_name": "Beach boxing gloves (Yellow)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Beach_boxing_gloves#Yellow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 1,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "claw",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

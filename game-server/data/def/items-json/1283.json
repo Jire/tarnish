@@ -1,0 +1,86 @@
+{
+    "id": 1283,
+    "name": "Black sword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1284,
+    "linked_id_placeholder": 14733,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 624,
+    "lowalch": 249,
+    "highalch": 374,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-12-08",
+    "duplicate": false,
+    "examine": "A razor sharp sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABD0lEQVR4Xu3WwQoBQRzHcfMGc3KZy5SDq6ujXB2clKuLJ1AU5TGEJxCRHAjhJJQ8gBQv8tPstNjZ5Wb+c9hvTbI76tN/dksi8fcYzCtEKQiDFML7NO9aTkP8pb5npKRCRWOIQEFMPJ1gTmFU0SBzl6WiMU6AnMI4cFQqR6fjFCY+qnDxdH7lFEYVBpk7LBbGEIH031EfRI6ZTiQO+1RoOuZOSzF0OwKLuUYRT0fF0GomMRwEUeYuyzFUctxDrZYSpyMpiqGc5agVONqlJMYjgc1a4nImQWlMNc/RKPLXm+Yvy88SQ78nsNtK3K7pAOBzmb/6Yxo0m0o87m+QuctiDI069155guP5Fsmz8jvbmCdfChH6OyEYeQAAAABJRU5ErkJggg==",
+    "wiki_name": "Black sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_sword",
+    "equipment": {
+        "attack_stab": 14,
+        "attack_slash": 10,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

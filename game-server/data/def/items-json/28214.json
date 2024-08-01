@@ -1,0 +1,84 @@
+{
+    "id": 28214,
+    "name": "Rune 2h axe",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28215,
+    "linked_id_placeholder": 28216,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 161,
+    "lowalch": 64,
+    "highalch": 96,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-06-28",
+    "duplicate": false,
+    "examine": "A woodcutter's axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4Xs2W0UsiURTGu//EPg/0EPQkQUiEYIRIKMLQgAwyoiubMWuiWK4lieFKREgRsSzEskQsS3/lt50z3Ol6m5626/WD8yLjnB/f+c69s7LyoRLQf7EogZxfwxJBCex4gQKllhVFQBKKqlgP8euqawtKIJXZjaFKjSNUjkeon00ZKOU4dqCyro98pYH9sIdyewC/O7Q1OoF0rshANCqv1eciqLdgC4ET6Hx2MWpX2B1ZOhhVdTAxDRXBDFs++k2Pm5FTFOxCtcl5kiMM+uM4U4ZyJbDqfGKY2fAgHgkFm7JE43ObHXaJxqYC6W/6IAlsbaxhelJXGglkSh4D6e4YBhJYX3MY5uGyE7tD609A8iwiIDoCFgJE7vyYtObcIaCtgstABKKXIaAXdzZWkd5N4fKpPweUBKCWgUC/BHndwfbeJr7/7iU0SQZQa/59/6WoCcGMH6LcJDUxCKBK8IiyxTTyXgYns2jNDTZM0qv1t+dNHI4q6EyjFX/PHYMSOKqV+DqgTZLbpOdC/5chCb4G7i++Kt80VkBIAmFQxPVpA083ryttAYQk0CjnMe4G+Dlt28iJKoHA3cEgLPOo/tx+i4H0JxcgAa+QQe/LPo9K5saqO7RRdFHSqP7eDey645ey8VY9zo7tu0NBlkDP92d23dnLbvKa0wFIQNbdqXk5DvOkV8XdOLTpjlTy54L+1EIlIZYCZpn0D36y7JCZFSqhAAAAAElFTkSuQmCC",
+    "wiki_name": "Rune 2h axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_2h_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 26,
+        "attack_crush": 24,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 29,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

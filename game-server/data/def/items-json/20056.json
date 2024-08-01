@@ -1,0 +1,77 @@
+{
+    "id": 20056,
+    "name": "Ale of the gods",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20057,
+    "linked_id_placeholder": 20058,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 850,
+    "lowalch": 340,
+    "highalch": 510,
+    "weight": 0.06,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "Ale of the gods.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACmklEQVR4Xu2X/0tTYRTG9/4n/gn9D9EPUURQFBVFEpnQGoksTWVM00QqSipBlEgr7JvYNykRi4iIKKKIGEI/CPthOHUrdLUvjCeec3nd3fUGV3jfjaADBy7vYPez5zzvOWeh0P+wGgqVrHsoDPcdxb2rzbh9pckFVhc4hYsd+3HzwjFM32jB3J0zmBlrlefHI5F6gClcix8Sdb4878H7qS58nu7GxydxeX77sAOv77bXCkohFtm1DvRuslOSMIT7NtMrij0dPS1AWxoabENtBJqf6xcIqqLVYflqBtTdshtDPYcxMXhCkmrM3ori1UQb3tw/K1C/czlklpZqUTaFaNN2nI/ulVv2PZFAOpUSgHw+j2KxiFKphHK5jNzqKlbSadtQCp3hnbjcdUBuGcvGm8Vb9mttTSCYP7NZgSGshdK5e4xCe/MODLTtw0h/owDpktFHhUJBlPqRyQhMKpk0DaREDfYdZm/rHikXTT1+6bhA8IbNvxwQD9HQ9BFVWl5cRHJhwSSQEgVoXJp4MHZQQAjlBvrwKCY3zQ3E8mn/EMYYEF/iLpcXiKXyA+K5vmWGYBgKU8OnPL+yAuYGSsz2VQGxY2dXlu0C6TOvQny5F4gN00JzVJgcCgcC4sjwAvGZ5nZUNRLBgPhyP6BPz+LrQIZUUnhw/WRgID3PNBDbAW9bXYC+vjhXNWCtAbEPOR6o5GaAOOOMA7mTg9UPiLuQHxA/NwrE7szk+OD8Ch/ZGhiI/ckwEKO6XH8rmRtIm5pAPDMMFArpLu18qbOgBQXSo8coUHVUVlg/IL01aiACWgfigkZfBQHSg9Ypt/FQiDRuE4VocKrErZG9iksagTQUIbhF8lz/V7Ok0kaTB8mKBy2E2+SbSe/3/BPxBzVyJ3Txv85RAAAAAElFTkSuQmCC",
+    "wiki_name": "Ale of the gods",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ale_of_the_gods",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

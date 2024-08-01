@@ -1,0 +1,86 @@
+{
+    "id": 12389,
+    "name": "Gilded scimitar",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12390,
+    "linked_id_placeholder": 15835,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 25600,
+    "lowalch": 10240,
+    "highalch": 15360,
+    "weight": 1.814,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "Rune scimitar with gold plate.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB6UlEQVR4XuWWvUoDQRDHM2+QKs01C1cErOxs7Sz0BdKm8SmsLEQIKvEDCaLRSERjSAiHMRIMghBCIAREBIUggoVY+QTjzS6bu9u7Su52A/5hOO5jjx/zn5ndVOp/ClB9YkgEAjg+t/lVfatRAmRwbHOYlysBNM+YbigB8nDIAjCTRtYEEGCnyDhM/8jG0ZkH8+loBwJs7zDsHXgwzxcezHdnTidQNMxb3YP5udcGBOhsMezuMXwsMRyWbXyqCqsI6L0poL7aWiwDbBXYtG6oiCk7MqLAEmx9wMamFbIqKvxgH61EoACvN6yQVSoIQRKsHAUyyLYYrRMwqlU0b2QQHD1XAfyh/vWPCsL4rSIQmRUJkwCAX9EwlA2ZFbpXs6L+JUaJjpJF7G9xutK9hqxIhWHk8IuCUVfHrCAM2SI3TILSaBHJg/F302stOz3faLKIBNirea0t64WGmwqjrkxIgLvrGWyduEB1Nt25pU2aYUiA+VwaC2sZrO67W0TFLeam1uJVBbiykMLcYhrzS2ksb1s4cIwdQ0nAYVaXBRDZN7o1BgTcokk/y2Fkaxuyy90iShYOb9zB1wu3tnYYqhXKDrW84ZohAVaKFm/17iXjWZoZIJo947sZAXJOxbwxVMSqwqc89QvtMg3yC7zzY3nmN4ogAAAAAElFTkSuQmCC",
+    "wiki_name": "Gilded scimitar",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_scimitar",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 45,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 44,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

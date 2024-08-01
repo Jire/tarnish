@@ -1,0 +1,86 @@
+{
+    "id": 20554,
+    "name": "Toktz-xil-ak",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 20,
+    "lowalch": 8,
+    "highalch": 12,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-09-19",
+    "duplicate": true,
+    "examine": "A razor sharp sword of obsidian.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABHElEQVR4Xu2WTQqDMBCF4znceAQpSJEi2EUP0QpSKt30/ntLMh1nJmlpA+an4IOHC4P5eDMZo9Smn1XM5OQq5qosF2cARUDHrjNAdVWlh0KwQ9vmkJJSkApA7ZsmDygQpJUVFKa1q+sXVEYnkDd9BlAE85gmK60kyckZ9cnRobT1jLKtRwQ6KhQ2OYc59f0yt5JAYfk4FC+phIoGBgD3cTTmjZ0wLYK6DYPZGEtqg0VKi8rEoTjY+7SCghGUBrpezsa0qdtbgcHkfHI3lWv4+4D95QeFacq+W11+UO5BCCJ/qMBAWt+gaCRwKPsrK0tuyqHoskdrIqQkr8Ha2MRuM8MzOBBJpoVl4qWKCAPivxPuyMm4QgBue82mv9UTUAxycMk9a8AAAAAASUVORK5CYII=",
+    "wiki_name": "Toktz-xil-ak",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Toktz-xil-ak",
+    "equipment": {
+        "attack_stab": 47,
+        "attack_slash": 38,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 49,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

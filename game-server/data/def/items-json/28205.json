@@ -1,0 +1,84 @@
+{
+    "id": 28205,
+    "name": "Black 2h axe",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28206,
+    "linked_id_placeholder": 28207,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 161,
+    "lowalch": 64,
+    "highalch": 96,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-06-28",
+    "duplicate": false,
+    "examine": "A woodcutter's axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4Xs2WUUsCQRSFnT/Riy8LPgg+iSASERgRIokgLYiJYUoZZqKYZklimEiEJCIRSERIRL/y5Myy7jqOEOQ4e+C+LLt7P849d2ddrrWKgL+iUASa2w0HQRlAFpS9lMgCstf7U1UVlBjIdMyvac6BUjQ6MYwYbCNwBJVcAu1yegmEr1w6LRvKgGmVUmgUdNaMh+BhaKYk5YrAo20xmEHrfD4SHkQExL9pTSLYDnjRq5/aGomBKIxkIAKfV2Mwk37lT+5IB6LuvHZLK93JHqeWShLQzJ2AB6F9P/rTxgKQCMBeEgI9C7JPw040iMePmqCJGMBei+/7l4wmFKYzMXIjaiIRwC7CRhSOhRDRd1EfGGsusaFIlvXD+wIu2mlUesaKr3JHogiusnF2HNBNMreJzwX/lCQRdgyMHy5t/zRKQKgIipkYnm/zmL5YK60AhIogn4ygU83grVdWkRO7CDKJPTSLSTaqr+HNHIi/cwMi0A93UTs7YqMyc6PUHbpR9KCko/oeNdW6k4qH51v1ObhW7w4Nsgn0M75T6040HGRrTj+AFEi5O1n9gIW5WzvBqFNU6Y4p8e8Cf9dGZUI4AsZJ+gVuZLuOmbpajQAAAABJRU5ErkJggg==",
+    "wiki_name": "Black 2h axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_2h_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 10,
+        "attack_crush": 8,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

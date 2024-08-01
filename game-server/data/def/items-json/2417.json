@@ -1,0 +1,93 @@
+{
+    "id": 2417,
+    "name": "Zamorak staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15620,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 80000,
+    "lowalch": 32000,
+    "highalch": 48000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2003-09-22",
+    "duplicate": false,
+    "examine": "A magical staff imbued with the power of Zamorak.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuklEQVR4Xu2Wz0sCQRzFnf/A0172suBBCIL+l04RXbzUoUuIh4LCZDGjIiPJ0sJy1X5gaRJEXaJTf9a3fTNOs7toHXLcIXrw2N1hl/n43uyOicTfEyPlWCUg1p0kbToWuSkrLigBAoh8Shljc47DHX1CIyj7AkAiMMAkzOiJmc70BFBpaNQVXEPerB24Dj+joCcqRqt2kk9wnBZQOAfY20eK9v2xsu+TdDARUa8mIEhArfle9n3/5NDgxaH+s8PPUQ/AFIAAUmlOXIzmrQQtWUnK+EDtrk13AwGDIyaWFUljLDcE0paSdLlU4lA3PQGG5ABQm7F5UkgHMBjXCAQx2isU6MB1aXc7T5cdm4PJSgGFY9SaaoMYHRaLHGojmw1VhCpRKbwwrFZCakopnI6cRH0YFVzU4z+ev5JKZye/NfJXBwGjDt43AY1PJ3rnlMT4Av4unSmLUW5RbRmxp7OZCe/sscK4Kz/9zZiaGL2+i9fZDJhej2+eRizgx+sO9dstum004gZiHOLB86hzXjehLkbdZpNa9ZoZMEjFOzs1AQZidFWtmgNzUamYA1M7KpsCI2UUjJBRMP+K6BNFGpNHB3AltQAAAABJRU5ErkJggg==",
+    "wiki_name": "Zamorak staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zamorak_staff",
+    "equipment": {
+        "attack_stab": -1,
+        "attack_slash": -1,
+        "attack_crush": 6,
+        "attack_magic": 6,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 6,
+        "defence_ranged": 0,
+        "melee_strength": 2,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

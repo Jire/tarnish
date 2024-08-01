@@ -1,0 +1,188 @@
+{
+    "id": 7269,
+    "name": "Magic axe",
+    "last_updated": "2021-09-24",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-06-09",
+    "combat_level": 42,
+    "size": 1,
+    "hitpoints": 44,
+    "max_hit": 5,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "magic axes"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 44.0,
+    "slayer_masters": [
+        "krystilia"
+    ],
+    "duplicate": false,
+    "examine": "A magic axe with a mind of its own.",
+    "wiki_name": "Magic axe (Catacombs of Kourend)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Magic_axe#Catacombs_of_Kourend",
+    "attack_level": 38,
+    "strength_level": 38,
+    "defence_level": 29,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 10,
+    "defence_slash": 5,
+    "defence_crush": 15,
+    "defence_magic": 5,
+    "defence_ranged": 10,
+    "drops": [
+        {
+            "id": 1363,
+            "name": "Iron battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1373,
+            "name": "Rune battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002,
+            "rolls": 1
+        },
+        {
+            "id": 2801,
+            "name": "Clue scroll (medium)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 19677,
+            "name": "Ancient shard",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0033003300330033004,
+            "rolls": 1
+        },
+        {
+            "id": 19679,
+            "name": "Dark totem base",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002197802197802198,
+            "rolls": 1
+        },
+        {
+            "id": 19681,
+            "name": "Dark totem middle",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002197802197802198,
+            "rolls": 1
+        },
+        {
+            "id": 19683,
+            "name": "Dark totem top",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.002197802197802198,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 2801,
+            "name": "Clue scroll (medium)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001876172607879925,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0035211267605633804,
+            "rolls": 1
+        },
+        {
+            "id": 1363,
+            "name": "Iron battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.95,
+            "rolls": 1
+        },
+        {
+            "id": 1365,
+            "name": "Steel battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 1369,
+            "name": "Mithril battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02,
+            "rolls": 1
+        },
+        {
+            "id": 1371,
+            "name": "Adamant battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.008,
+            "rolls": 1
+        }
+    ]
+}

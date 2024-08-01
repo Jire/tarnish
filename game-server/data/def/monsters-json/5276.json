@@ -1,0 +1,81 @@
+{
+    "id": 5276,
+    "name": "Monkey Guard",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-12-06",
+    "combat_level": 167,
+    "size": 2,
+    "hitpoints": 130,
+    "max_hit": 14,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "monkeys"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 130.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "A huge brutish gorilla armoured with dangerous looking vambraces.",
+    "wiki_name": "Monkey Guard (Bearded)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_Guard#Bearded",
+    "attack_level": 130,
+    "strength_level": 130,
+    "defence_level": 200,
+    "magic_level": 130,
+    "ranged_level": 1,
+    "attack_bonus": 50,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 3181,
+            "name": "Monkey bones (gorilla)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 3182,
+            "name": "Monkey bones (bearded gorilla)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 13450,
+            "name": "Ensouled monkey head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.02857142857142857,
+            "rolls": 1
+        }
+    ]
+}

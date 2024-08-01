@@ -1,0 +1,77 @@
+{
+    "id": 20260,
+    "name": "Piscarilius banner",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20261,
+    "linked_id_placeholder": 20262,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 70,
+    "lowalch": 28,
+    "highalch": 42,
+    "weight": 2.267,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "A stained glass banner displaying the Piscarilius sigil.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADCElEQVR4Xu2WwU8TQRTG2Yvn9sylxIuJBzmIhhgSjSGEwMGDirFSoE1rqa1WWlqUaIpVTEWIUCsQCZaoB0OMICIno8Z48o967nvbt8zOzra7beXkS7686e7Mm99+M53djo7/cSShgXylTcGFvUygwafNh+BtjKvQIBm6SIU5yz3UocHBuyL17w4EXI5xFXYgdxNo8G275KG/6/AChO4d6vfuEkzHBi3XDLUUboE0eF/Jw97WHDmDMH8OytTerRZgazkLK8UEFLKjrUJpcHuin4pwtgNpNOmvnUXwRa+BLx4EX+y60WZFRkwhWAtQjYCMzUuTIYiunx8DtkxtAe5tOdcsVD0g/a+9njJd4YlRX5asMqHYOR2quhCpQXkCcwIyYEKZNIRzmbowoizLWVtCb8eJ3nEqMkADOKO2K7cg9eQR3C3Nk1Qwx051k5RO1ZavJ3oDZpPDkvN1Qw2EYpiNYKcjjCjRRXJJFwJxvaaB0B2G+TDdQ0Df9/ctMF/XXsGP6hsSt8VNzzoTG4XTkSBER/rcLpsdSHQHgRDGCah3Z4/aKLwuQ+E4dgkdcuGSZp624ql7deExTS4D8fKIzoiZoXCcCIUuuXZIBXT56RxcKRXh83OjoAzErohLx/fOTo7bgE6ExkyXZAIp6gNhYXZJ3tAMI29uEaZtQGPrZQhvrppAMpgM0VagmfgQdeaMCq0tw/jrl1Sc95IbKIbhzMvNME0DoUMIpHKJJUJx+2Q4anFIBpJnV4QdiF8dExsVmzuyGAQzwqCcYFoGQncYiDd0IyCGYHUlUl7cwdDMd439naO/YEudFigVEOt48g7JAhSbbCeQcR+lghElwmBmZ7hem4A0KKT400EDf27GlBMMgnTFjS/GB4kLigdsGPWAjPsrs8MElgz2gj+VBn86A/5MzgJIv/G6LvEhPLrDcbiR1QWM4quFS/Di3hDMTw3Q02fD5yAf7YP7N8/T72K6HxbzxuHKdey1XAYPdCrAwOzYs+wgOYEQ2OZ7zg/1j0IEU0EcKYwYMkCrEH8B/TvJaZEJie4AAAAASUVORK5CYII=",
+    "wiki_name": "Piscarilius banner",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Piscarilius_banner",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": 12,
+        "attack_crush": 12,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "polestaff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 6541,
+    "name": "Mouse toy",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 17037,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.1,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2005-09-26",
+    "duplicate": false,
+    "examine": "An Advanced Combat Training Device.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuklEQVR4Xu2W30oCQRTGd96gR/AReoRupAsjCANZwrAEhTIILBMtsUKKQvqLUF6YWIiGZQVBF0Fv9sWZaVx3WmNXd2kv9oOPWfbPOb+ZM5xZTQsUKNC/iEHYF2I4PlpFq5X7gfrLnouhUllBo5FFp1NAtZrC5cUaarUMH8/P0vze6UmSQ/8GdBWW4fBgGfXbTQ7z0i9bJBEmaHq3XI6jtLeEYkFHPh9DbnsR2WyUT2hCKMYD00oQTLud5wGnQyFLq4CqNzLzPJ5xz7EYnyXByNkZya2lQqrA6VSEm0o9JhjD9dW6LRh7EhCJRBjJ5Cweu8XxoNyBERouryyh49iOP7AlBl2f4Xt0jFXySgLq7XXfL1CibBLIm0o4EuNN1SdAYmP7BEj0uOenEh7udwYwLgHZbXDyPcb7D3V+eVi7CjMX0RBd0EZAGRDU7QmEOj+tSvNuyzsYsh6bGiSXpi5PZen1dgfnIa2KJzASRMKQ43Fh+iuQEARgnPSGJ4QxB1NBJIy8ls+tAIatZrEphvdaGx83XXzWe/hq9E1ANFLpwmEzgBWEGnkCmRONsgrgMoRZaqJRVr8LFMgP+gYIx8MSjaWKlQAAAABJRU5ErkJggg==",
+    "wiki_name": "Mouse toy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mouse_toy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

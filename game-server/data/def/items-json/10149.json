@@ -1,0 +1,81 @@
+{
+    "id": 10149,
+    "name": "Swamp lizard",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10163,
+    "linked_id_placeholder": 15369,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": 20,
+    "highalch": 30,
+    "weight": 4.0,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "A very slimy and generally disgusting green lizard.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABBUlEQVR4Xu2VsQrCMBCGmzfo1KVLoEPASdzc3FzcHBycfP+HiL2EP5deKziYS4V8cCAl0o+7/5quazT+AuPlk4oYP15GvxMpljlaG0qeUGSHMsN5SELyhCJrmYpCTSaH1pgLMv2pSm6Md08XXk4SWzLKQkTsjL1ZP15tbRkiylBN9ylKuX4xRvmPgrAMhCBBv+kZyxXHhG7ktRwVd6jA+GTrM5k5yCi8HKcg8nOZENh0U5u0UdgqlBQqRFzt6eFSYNGdfMULjeYTnAdskhyTogxYh5hGqTQmCa8xugMZzpYanCGMaxlg1ewQs9DrEKXwJRYXp6IMyK8B9Y3aJt+k6jKNxhe8AVFX/4qHJjmlAAAAAElFTkSuQmCC",
+    "wiki_name": "Swamp lizard",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Swamp_lizard",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 10,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 20,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 22,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 30,
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "salamander",
+        "stances": [
+            {
+                "combat_style": "scorch",
+                "attack_type": "slash",
+                "attack_style": null,
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "flare",
+                "attack_type": "ranged",
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": null
+            },
+            {
+                "combat_style": "blaze",
+                "attack_type": "magic",
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": null
+            }
+        ]
+    }
+}

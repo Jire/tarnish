@@ -1,0 +1,84 @@
+{
+    "id": 278,
+    "name": "Cattleprod",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16879,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 3,
+    "lowalch": 1,
+    "highalch": 1,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2002-08-15",
+    "duplicate": false,
+    "examine": "A sharp cattleprod.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABuklEQVR4Xu2W30oCURDGmzfYK699hJ4kCAKJSELQLrJIzMz8w0ZmZplmJKaBF0XQU058Z5k9+6ftblyJPhg85zjL/Pabs2d3Y+Nf6iL+fb5SEe/ncmwhiM+Oy4G5t2bHqiK+qFRM8c1s1vxeVqtcLpVCa3FAFRGfn574QALXqtW4mM+HgJBn52oivmm3DIAAwZ1Ove4XFyCAXjeb2i4R31257DYavguAk7l1g8w64JVdIh52u75LcAFQ1gkbcO3W7fC439d0iXjU65lCgBIw2VfiFtaRN30cGkcVXSJ+HgzMXaMgAo4BEIUxxn8vD/e8mEx4/jT23VMDwl2Xd5xYzMYjA7GcTvn9dcYfi7mBlwdACQgiPtx2/KjtOdwuZPjzbcFfy6UfgJL9ZJ8+FREXthyu7DrcOHDYLWa4f5SJbeogiCIMRKZFQaBo8RWBQF67ACNAK2hJksIwiBRhIFpfmCBQNHMFspt4bYCSYFIAInPwJQFFs5XlwUgIDMZrBZRSu8IwPwFFr1BUHEaAgidz9CpFJQOl2i58UsARhECl4A7knTsChbc5AuOUgKD4t01K7bKS4tGI5v1ZfQNo2/29euP1DQAAAABJRU5ErkJggg==",
+    "wiki_name": "Cattleprod",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cattleprod",
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 2,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 3,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

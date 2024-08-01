@@ -1,0 +1,86 @@
+{
+    "id": 11806,
+    "name": "Saradomin godsword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 11807,
+    "linked_id_placeholder": 18344,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1250000,
+    "lowalch": 500000,
+    "highalch": 750000,
+    "weight": 10.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2013-10-17",
+    "duplicate": false,
+    "examine": "A gracious, heavy sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACTElEQVR4XsWV0U4TQRiFmTfhEXwBEr33hnjFhQnaQIytjQ2WGjGk3hAUsYrttnbTtLa1TWthBQQNpAESEi68EG58nWP/GWZ3Z5e6BnZ2TzJpdqeZ8+35/5mZmIhMDM6IXQyDwQ+0WluoVttxQzF0Ots2TL3e40C3Jid1Qo0rB0O3u8MhDKPOgdbXDd1ADLu7Q3s4UAy93nc0Gn0OUy5/tqEJRiMQSRjt7x/bpv3+HprNAYfZ2DAVEM0wUgyHh6fcmBpYwhQKlahS8Yrh6OgMv8//2DBrb0txwUgx1GpdDrO6+j5OGNE3lAztKGrkyqcW/xVzkcpJhUY+/9pubM0Juc8a91cLIErmqt0UMoxzpuRyy8qQYO0v32CaHX7OEJgEUtcIpWwM6fSibSwh3DDUI8ViDSsrBfudmopzaIYGJRZXQeQ7AqJ03CDedCSMf+7acsolgWhY1gHfScFmQfPXkoCgs4XA6MKkLa4mN14hw0iN7qpNA4nEYyUZCavJdJwY9gYllN4t4WnyPm92dwn/J6UQxfDTquDDmxym797hxpnMc2SzL33HQAQpjW7wHZMnMzd7z1cmAnOXTDOQMDKLebxaSvpMvf0TMoy3/mJHLSy8CDBlSKWeXf4nNI0atp/xLMpwcZLGzMwspqZE3/hhpMbB3khuKIavjSRqHx8GpOPoX3M30KiBrSys1hM8enBbAdFkGCSG4fYimuU5VAvTAWXSLoZfw2VsNlMcpGEk4geSMHI7t6vzlz0UuVQYJxXvc6S62tz7HKliNXfpL7mxMWEYSloBAAAAAElFTkSuQmCC",
+    "wiki_name": "Saradomin godsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Saradomin_godsword",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 132,
+        "attack_crush": 80,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 132,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 8,
+        "slot": "2h",
+        "requirements": {
+            "attack": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

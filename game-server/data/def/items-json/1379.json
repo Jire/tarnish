@@ -1,0 +1,91 @@
+{
+    "id": 1379,
+    "name": "Staff",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1380,
+    "linked_id_placeholder": 14676,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 15,
+    "lowalch": 6,
+    "highalch": 9,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "It's a slightly magical stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABMElEQVR4Xu2XMUsDURCEb//BVa+xyU+wt0ljIUggWB0SCAFREIRAFCUEggSiYCEEUoQUgiAIgj9xZG55OThIYbUjOPCqu+Jjdnf2vaL4ezL4kZDh6Tphc3+gAmV4GJZYTRLeZhJQhnFV4uXGXfp4DIdyIJYtu/S1FIAanLhL67uEz4UDHXY6sVA8r+O0K1swEGVYXCW8z4WAOHF52iSA2ODbqRDQqOdA38/hk0YZzrpFDSQyaZTVQFKT1nap/UeAml4ScYnyiRO6BVCG+UXScoml436TconpLecSl+6/S/tluOz7fUnKpdko7bKp/TVA3ktyLxSGJe/eIlCG6risS8dsaqBCwbzBWboMFdxXhtOjArfnnk05xRkHgZHgzybuuRyYgTBZuXfC3WmUQX4L8wMF9vBXJcSRrgAAAABJRU5ErkJggg==",
+    "wiki_name": "Staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Staff",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": -1,
+        "attack_crush": 7,
+        "attack_magic": 4,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 4,
+        "defence_ranged": 0,
+        "melee_strength": 3,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

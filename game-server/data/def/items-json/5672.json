@@ -1,0 +1,86 @@
+{
+    "id": 5672,
+    "name": "Steel dagger(p+)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 5673,
+    "linked_id_placeholder": 14652,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 125,
+    "lowalch": 50,
+    "highalch": 75,
+    "weight": 0.453,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-07-11",
+    "duplicate": false,
+    "examine": "The blade has been poisoned.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeklEQVR4Xu3VsUoDQRAG4Js32OqaawJXCFZiY2EjiFgoNgpiYWMKQSwUTGFrq5BrlGCjhShGRQkGCxW1kGAjShDEFxARn+GX3WFze7m0zl7hD0u4S7EfM3O7QfDnIXS/8RQNIWwkofnt/lcwKcQu/TxQKvlAZSGeQYTmSd2sQoFqSdUsz6Asxl1L5XJxQC5GEFQojE5vUKEwnuZGJw/6b1WaPEgY416QeYzw3BAaF3ojvjh7gcSrs78XGdTNNcM8YnQIW5shDg8iXDYY1XqMfWF0CKsrCkk1xPERo+5uS3hqxXh5jp1WioZQWVPY2Q5xWo9w1UxR7dcYH+990ijC9HCAhXGF3VrUQT3cM+rrk0FCrSOMDQaYH1VYnlJmYz3k52eMsi0TnCWuzuIEY3jT9AiwEDHM5BBXZ33WBQWBMMSGMDeiUJlJMcIAN1wdOzeeMTpkvqKf7/5MqzyFMW9tPvg8V4fMNaGvCHsSe8TYUOeM8VwdN4XCcKQxvwan2f0vUpEOAAAAAElFTkSuQmCC",
+    "wiki_name": "Steel dagger (Poison+)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_dagger#Poison+",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": 4,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

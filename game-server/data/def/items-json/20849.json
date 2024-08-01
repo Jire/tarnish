@@ -1,0 +1,79 @@
+{
+    "id": 20849,
+    "name": "Dragon thrownaxe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 20850,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 750,
+    "lowalch": 300,
+    "highalch": 450,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2017-01-05",
+    "duplicate": false,
+    "examine": "A razor sharp throwing axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xt2Wz0sCURDH9/0He9pLlwUPQRBINwkPISGhSKIkJkoqqaRJRkUdgg4dOnQL+nen/b7n7Hv741K9da2BL8u6486Hme8b1nH+bgiKKtcQtNpxaRqo77nUDbQFYILufZcWayhWzmBCAo1StAGotAJ6dCwA4opnRd9P+Y+VUJ1IjkMB4RmuLBNK51oPIYu0PMcAU4KXTDFU5l169j3pj7rr0HEgXAH4WvDoKQBhsdkz6FJyRCgIKBx11vuuJwVgyOySRSghi6ETaVC8gyAU/giAoJeCBkOexdGJsBMYjekZFIXQBeSgKMb2GQCZeYBCjjUg3jHoArwCoTOAAQAU9wsKq+IKHM+tAbEXUIzBcI9RAOatoL3TbbdTCqvxJn//UaiXmeaEGMYEWkwmdHHepVajsR5X9D26a78O3SVefrgHCPyCziDncbWi5WwmoU5rtQSUJRiE6hIgeMeYR1uPQkONej06qVQSUBZDnRaITxebNbpjolBH5XK2UBDD8GbmT480qMvBgA5LpeygeDRpippW0MPNUhodUAfFYnZQCC4eVzRLQ2F8vBKiORsPDVWvVsNOxrM2HIL6nY7cTxmb/Dsh5MjQpf29vYT/4tkbClX8ajyWRscCRefOms18oeCn6XAYQrGvcvKWoNv5PITKGQYh6O56IZfmFsBwpC3SnGOrYP5FfAF4iPWnikzGawAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon thrownaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_thrownaxe",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 36,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 47,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 61
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

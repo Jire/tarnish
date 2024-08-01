@@ -1,0 +1,88 @@
+{
+    "id": 23675,
+    "name": "Crystal axe (inactive)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 23676,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 520000,
+    "lowalch": 208000,
+    "highalch": 312000,
+    "weight": 0.907,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A very powerful axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsklEQVR4Xt2W32tSYRjHff+TwS4Gg0B2ExKBIGOEQ5JJ4oZiyhhtq1aic3Pq5g/UuZw2zR+ba5vSMEZJBF100VVEF0FXQYxi/SXffB7z51wEOztKX3g473nfwzkfvt/nnPcoFP+XBLpn+iiBb99PMSBQAh8+fsLWdgrpTK7fUALHr9/AH4hg80kS26k0Mtl8v6AEcgcluFa92AhFkUjuIJ5IIbWTQTZXuACq15xkEnj+ogL3mh+hyCYimwkuAkvWoGhcB2gVuXhFUALZ/UOUT6pY9QYQiW0hEI41wejBmZpL4Wic5xvXPE1nGUg5NCQllEC6UESxfAyHy4M1fwjroQgfqZd8gXANLM4xUpwNmKNSGfnC3tUAFQ7LKL18BafbyxAefxDLHj/HR3M0XnjowOy9RURjidrbl8du8QA7zbewUZdWPaqjygkc7jV2YMW7wRCPXSvnesZstSNcizGRTHOchb39P9HG23rsUhIcVaX6ll2gagegKBpF506nGz5fgGGj8QS7Rm5SrLs1OAniExxV9d37nhCtmwvcUKlwW6uFbWameS31HLlJLv04+yUFEOk8SPf6mFLJMGajse2hgh2iiD9/+YrTn2dSASkUvUFIAtdGRxnGZDB0gDfW2+vi+0gigZHhYdzSaDCl03W501K7s91rEktgXK3+izuySkA1NoI7ej2702cYkoB+QgXXnAFh592eUcksAbtxAtFl22C4MzethWN2ajBgJjXXGcj3oP4B7CMMSbAz1DsD4Y5Be7OjifsKY9KpOaZnwUW5o+r83FNZDePcN0nvnNzuiOaOfd+qQ9Bhwbx5ksdLNr3cMKQWUHpjgR2hBnbPG+FZNMkdFUnwZkl706zFgt3IEtYfmZvRyewOqf6jRfuTddqEebu9A0RmmIZk/Yf5N7U7IifMb7WmSMiuWN8CAAAAAElFTkSuQmCC",
+    "wiki_name": "Crystal axe (Inactive)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_axe#Inactive",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 38,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "woodcutting": 70,
+            "agility": 50,
+            "attack": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

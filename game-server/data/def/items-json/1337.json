@@ -1,0 +1,79 @@
+{
+    "id": 1337,
+    "name": "Bronze warhammer",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1338,
+    "linked_id_placeholder": 14722,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 47,
+    "lowalch": 18,
+    "highalch": 28,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "I don't think it's intended for joinery.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABW0lEQVR4Xt3VMUsDQRAF4Jt/sNXVBxZCQAhpLEQIhCBBCIppDgmoIAqKEFDBzsLCwkIQ/Lsjb5fZ3RxHQoqdXXwwxcHBfrwb9qrqf4U4TPYQX89HfgqABdDydOgnI6wf1J4c2FGGrX+uLgazmAzsKO3Z5nYEgzkbh0mI2h0kbQ2bJgWKLGAXkOxVMhAwcvg2kLyTFCQAHDg72reHdkFxO3JXJQIhZA97uzL8uDC8nBmeHO55QAyN20kKer+tedUavpkbvhhXfDxqPKJvdxJiELLt3J0bbqfGQgCSlgSmhonbcfeLG4CAkXtHAYMQv1yGdtYPDjg1zNdT7Re572B5VsAgYXewyALqvqUY2tiOcog/H2q/yJkxiFvmeJG7byiG+Oe5sHZw9xTSDuKWuZh2vlfFtEP8+1rbz1VAOw4jN3PmdhwGn+rjvpB2BINfReZ2JOp/7u0RSBGYHPkD09GlIOPEX40AAAAASUVORK5CYII=",
+    "wiki_name": "Bronze warhammer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_warhammer",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 10,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 8,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

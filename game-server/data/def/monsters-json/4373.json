@@ -1,0 +1,52 @@
+{
+    "id": 4373,
+    "name": "City guard",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2003-05-07",
+    "combat_level": 83,
+    "size": 2,
+    "hitpoints": 80,
+    "max_hit": 10,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "ogres"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 80.0,
+    "slayer_masters": [
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "Tries to keep the peace.",
+    "wiki_name": "City guard",
+    "wiki_url": "https://oldschool.runescape.wiki/w/City_guard",
+    "attack_level": 70,
+    "strength_level": 70,
+    "defence_level": 70,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 9,
+    "strength_bonus": 13,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 13,
+    "defence_slash": 24,
+    "defence_crush": 19,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}

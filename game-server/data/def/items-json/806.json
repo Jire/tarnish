@@ -1,0 +1,79 @@
+{
+    "id": 806,
+    "name": "Bronze dart",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14518,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with a bronze tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABY0lEQVR4Xu2VP0vEQBTE932DrdKkCVxxcHAQAnKIHCgpDvEQQZsUKbzmmmssLCwECwsLC0Gw8Ms+d/Zlvc1qYXHJbuHAEMif5ce82Y1S/4om4vBORBHf1DNOCAogxGVRWIdPRxbx1amkkwRMs5qnlc75yTSddFyRE0iHuL0ouV5M0knHL3JkICnysgJE9HRkVH6RowOhyIt5nkY6GJVf5AhA8kuAby8rW+RymsVKh/hzlvO7AXgz3pxpXlcqVjrEHx3Iq/G21nx9pLjNdIx0yKYCEHi30twcC9AmN9dMUgq/Gkj0ncrLRNwuBQgGUDNeStQDeZ7IqAACqDsDszXG2NZ68JSoBwI/dek4+0ADF1tgfBAYu8r3faF5FwCFKx1Q+/PGGeNyfiyysYGUciPYj4LsDoOR2OhAv0vSAtBDB+S2fSQgqA80cKH/KvoBFL4xssgWOyEgiOxZlBAQlER/+jo0zBftqSl6EAFPygAAAABJRU5ErkJggg==",
+    "wiki_name": "Bronze dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_dart#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 1,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

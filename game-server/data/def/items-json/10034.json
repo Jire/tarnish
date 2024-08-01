@@ -1,0 +1,79 @@
+{
+    "id": 10034,
+    "name": "Red chinchompa",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15364,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 160,
+    "lowalch": 64,
+    "highalch": 96,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "Even more volatile than its vegetarian counterpart.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2klEQVR4Xu2VO0sDQRSFd/7BVlsHLARBCIKIiKCIiBBESCEWggjBQhsLC1HBwiKFrVaWdiJiExErEYtoBB8/6MqZ4WSueWjhjFk0Bw7JZmZ3vjn37iRJ+urr/8qIcy5kZHIgkcpqOQ9QRsrFpGlcFwuFXkEZWRlLZW08tZ8AKg07qK8dRUbOTqtSuziR9QkHtTzioUYLzkNZuyNAGXm8O5eduVS2Z1LZmvYm0OygM3oL1oARympkfz6zBtDmVGpTQtmQEpPqBEewCOUzUl3Mmv0DqG5AGgrzuAE4OBQMKJQLQBpK9xShuAF8wlHKh52idATS1lAAIgxL7N/KIHJnEEqABueuaQLxGhAsGRLFGIECpGTsw7AoHg4g9gWtoQgB883Eb0GBsBDLdbiQyUHJWTcu08EcbQJhzkZlKUTZfDMjHQDhrdMmGBfGMdF6fnEsQEqm2TtYCEDwUbkdTPulXpPnhyt7D+4FFJMMkpK2huoG9lq/tlCwPljx/Xhv9+dQiJkmFBYmHPuKbtxfWqi3pxt7jZT0pvyzgsmnpUH4VwNjHAm9N24tvAYJDOPEtGANwjT0eKRUuskDaRguHjWVznJAgPmcTs9k2mByB9Q6owf69cb9XrmC+fP6AFuBLogOMEBtAAAAAElFTkSuQmCC",
+    "wiki_name": "Red chinchompa",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Red_chinchompa",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 70,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 15,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 55
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "chinchompas",
+        "stances": [
+            {
+                "combat_style": "short fuse",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "medium fuse",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "long fuse",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

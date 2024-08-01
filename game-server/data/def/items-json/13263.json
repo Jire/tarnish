@@ -1,0 +1,80 @@
+{
+    "id": 13263,
+    "name": "Abyssal bludgeon",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 13264,
+    "linked_id_placeholder": 18628,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 260000,
+    "lowalch": 104000,
+    "highalch": 156000,
+    "weight": 6.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2015-10-01",
+    "duplicate": false,
+    "examine": "Elements of deceased Abyssal Sires have been fused together.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0UlEQVR4Xu2WS0sCURzF534DV7NxI7gIWokgISEYIS6UodDNGEkQPTBchBE9LJRABHtYESJD9JAeiIEQRiJF0SKiFlEf6DT3DjOO0arF3CE6cBi4DMyPc/+PEYR//UoE3084iiC7OAObQBEU8/NIShID8rhcvKEIUlIU8lDQPkDpEQkup9MOQATV3XXsFBftAETQqG2jeVFGTSkg6hB4A1HRriJoNQ4QUoGouXealohaR2OJb1DcwAiuzsrMtLhjosDqSa+pXlsm7YNPtROsj49BFh0GVL8gGLYUSr866naziv3NZQPKp8IEHBygNBHUT7fwfHeOy60SlHwOpYUMVqan4BZFBmRxJxLctw6NtO6uFTarNtbSOKpssCeXlPQrpLOqUs4ivzpnQHJZxN1r6XaZDtlpKeg3ao6DKIhu7YQgmZCMmup9m5sIliYnMez12AWK4P31BqODfrskRfB4e4yXhzpyqdkfoPTas1TqdG+foFTIsF+Y1YRsNECf221aP5ZKA6jsZfH51mGrJxOPYcDnY1BcktLHwcdrG3I8jpFIBEOBALweD0tpIsklKSotDQoUDYcRCgYx6Pezs96xYaHMS1o3NxizzMOUO8y//ry+AL/WMB6btCVgAAAAAElFTkSuQmCC",
+    "wiki_name": "Abyssal bludgeon",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Abyssal_bludgeon",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 102,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 85,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 70,
+            "strength": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "bludgeon",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

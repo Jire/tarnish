@@ -1,0 +1,84 @@
+{
+    "id": 27857,
+    "name": "Dragon mace (bh)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27858,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50000,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4Xt3VYUvCQBgHcO9z7M1gL3oVjGCEhGBIjFAkSRITJZNspEmLzF5EX/2JZ8ez3d2cjrbbjf7wfyPO+3F3e2w0/lcYqJ8YDINzz4N8qDzfKZwE5Np2xoIIYXDmujnhhcJB+3cpgWBv+/0j8FIig/hiMoQwlYGuOx0JJUJETKUgQqmYE8eBq3ZbwmgH9Xw/RuHCiCAItaLdwTCwLSsGUVUMgeRqSRqEOyb2otncWw0oBr5tRSDx2AgSuKdw0+1mQLTcJw7CEoggVASJKBFSMgaTgLCh50oYEYTVtCtiEtAhjHi/NNwbMRzUc+wUhkDq26cRxS9mFgarQjSiWDRfxsMhPM/nEoKgx1riXeKT+eF+DC+LBXy8ruFnt0stlKfqL/8hLJq4j5NJClPyQnnCoiM6hFGf0BiOeZrNYL1cmsdMR6P6YO4Ggxjz+bYxi8HBhrtTCwwOL3yj8PXeBAF8b7cSSH1CYxhctlrRrKHjwnvzFYamdgfDj4sm8ftqZRJD4W8XzpwaYCil/+8UT60wJvMLnpcUdnhaWzcAAAAASUVORK5CYII=",
+    "wiki_name": "Dragon mace (bh)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_mace_(bh)",
+    "equipment": {
+        "attack_stab": 44,
+        "attack_slash": -2,
+        "attack_crush": 64,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 55,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 6609,
+    "name": "White 2h sword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6610,
+    "linked_id_placeholder": 14319,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1920,
+    "lowalch": 768,
+    "highalch": 1152,
+    "weight": 3.628,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "A two handed sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4Xu3WMUvDQBgG4N6fyJIl0CHQSdxEnKRItwqCk0JbFAdxKIYOVacuboriIM6CXQIOhRjRQf+Bg1sHFwdx8Be88iWk6V3peu+BvnDbBR7e7ztIpfL3opAfenLI9fkZHuKYjcohBaYALQQBA6Vw0utpGCJI4SiKMtBrmk5OgaGAnMJIO9OYlyRhjUqitzONIYBm2yFiJPPbMW9aiN4OeVSSsh3B/LdTximMpAQ5NSoT4xzIvGkh8zFUEBlT/IbqGNKoFI7bHi4OPdwNfLzdVvFxH+LnqcZrZ7Dn4abvIz71cdCqZ6jvtASZX1iIytrZ2VxBtNvA+7CKz1HIBW2tL6HbWZvsEmlcEoVmfRH726sagoaR09pYznaHOCJJ3oyJoYKerwJ8JTUX2pEoPF4GGMehtj/mLcuhv6jZ2H5RvwTKs0UGPlQSAAAAAElFTkSuQmCC",
+    "wiki_name": "White 2h sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_2h_sword",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 27,
+        "attack_crush": 21,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 26,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "2h",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": 27418,
+    "name": "Bronze speedrun trophy",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27419,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 0.75,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-10-12",
+    "duplicate": false,
+    "examine": "A bronze trophy to show your speedrunning prowess.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACbElEQVR4Xu2Y0WvTYBTF8/0HfdpLXwJ9KAyEMCijjMKkhCErZaNhpZVK17JuuBrcirNOCitTqXPixFkcExlTlDGGiIj4IOJfdty9H1/SJVUYLEkfPHDeSvLj3PMlN9W0S0nA78gksFaKoWlJL89L+wFDgRRY2jvGXKuLjKHBnNSQm9JQmNZwq72NWqeH5e09NHf6KJkKMjAJLO4c4rpVQSZv/ROIEqvlJZCh60FBCZilKsNMmjkfUGVjC/WtZ1jt7TujVFDeK12RBEMQjJHJIjWuOVAEtLj5mNOxd9+43Xr9CUY2FxSUQOVGjEGSqTTSs/PQ4/GhptLfP/2F2WYbupEKanSCi9o++42Nk59offyB9fffcffoK+x3X3g8BEym35ETqSmM6YnggOhmqwenPIr6iyMueeVJn3tEoyPTGHm0cyXEk9ccmECAKIXm4RlW+id8/Ku9A5S7Ly+A0EjJlE6AMEoCje5zLjCdqqLdRuF2y4EY110PpuO9yhXr/El9/I2Tarz6wGOjlFQ6CijA7nglXx1U6DtvP3OX1Mi8KYUGpN5jlNLNR/tRA5Fkwem0LWw+HQoUQqG9ct/qBKMglEOGkZI3FL5EIoFxJYEoJZlOpJIF79TGwi7x3ySBVJn/A/klgQZP2UgA0XNopIBo/RgBIIEH5STWrAQWpuOeB2PocmGqM3EGmkjGGGqmsR4FlMC9YgIred0Byk5IIHK22gwTSvA+Tbv1MKBUzkK6cP7tVl4KC0rwHkTLPZmWNFpBcvZDB8Ss207BQyq5YBBlAip2dvkTmz59QoZRGvxT4aIjgJHyrhuD9v72svoDK+8phih+FyoAAAAASUVORK5CYII=",
+    "wiki_name": "Bronze speedrun trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_speedrun_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

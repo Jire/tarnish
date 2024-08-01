@@ -1,0 +1,108 @@
+{
+    "id": 6613,
+    "name": "Skeleton Hellhound",
+    "last_updated": "2023-02-11",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2014-03-13",
+    "combat_level": 194,
+    "size": 2,
+    "hitpoints": 30,
+    "max_hit": 26,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "hellhounds",
+        "skeletons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 114.5,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Can never possibly go hungry.",
+    "wiki_name": "Skeleton Hellhound (Vet'ion)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_Hellhound_(Vet'ion)",
+    "attack_level": 210,
+    "strength_level": 250,
+    "defence_level": 150,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 101,
+    "defence_slash": 103,
+    "defence_crush": 10,
+    "defence_magic": 180,
+    "defence_ranged": 266,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "4",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1619,
+            "name": "Uncut ruby",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "rolls": 1
+        }
+    ]
+}

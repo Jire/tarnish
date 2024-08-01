@@ -1,0 +1,84 @@
+{
+    "id": 12357,
+    "name": "Katana",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 12358,
+    "linked_id_placeholder": 15919,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 24000,
+    "lowalch": 9600,
+    "highalch": 14400,
+    "weight": 0.453,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2014-06-12",
+    "duplicate": false,
+    "examine": "Created by Hattori Hanzo in the Eastern Lands.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAA3klEQVR4Xu3VzQqCQBQFYH2ONkI7V25atuyJIiITEbPQZFDM7Ed8op6gp7l1R2G0Vbs5ggfOZjZ+3BmuhjFlvDFJVXtMyh9PCtOU1q6LgyrqGhMVCYGJ2ngeDqpsGkzUKcuwUHx9jNr6Pg6KVwIcKrvdKc5zLJSoKonaBQEOKi2veKhzcZFvCgrFU+I9tQ8POCieEv/7hiitOFNOKYgT8qJji7KXuifGH+86X5Axs9vqRDmWRdw+Tp1pzhAGkS/EWSG8pX4m1L/5RUHAFOr9SvBQclfBoLpC7SgYzGjzAa2h2jK8pxxjAAAAAElFTkSuQmCC",
+    "wiki_name": "Katana",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Katana",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 45,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 3,
+        "defence_slash": 7,
+        "defence_crush": 7,
+        "defence_magic": 0,
+        "defence_ranged": -3,
+        "melee_strength": 40,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

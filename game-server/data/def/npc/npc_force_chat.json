@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2461,
+    "position": {
+      "x":2845,
+      "y":3538,
+      "height":2
+    },
+    "interval": 18,
+    "type": "RANDOM",
+    "messages": [
+      "Let's go people, Get your asses in gear!",
+      "Kill those Cyclops you fools!",
+      "Is that all you people got? Come on! Put some effort!!"
+    ]
+  },
+  {
+    "id": 2153,
+    "position": {
+      "x": 2541,
+      "y": 3548,
+      "height": 0
+    },
+	"interval": 23,
+	"type": "NORMAL",
+	"messages": [
+		"Get your asses moving, experience won't gain itself!"
+	]
+  },
+  {
+    "id": 6080,
+    "position": {
+      "x": 2478,
+      "y": 3427,
+      "height": 0
+    },
+	"interval": 20,
+	"type": "NORMAL",
+	"messages": [
+		"Move it, move it, move it!"
+	]
+  },
+  {
+    "id": 6080,
+    "position": {
+      "x": 2475,
+      "y": 3423,
+      "height": 1
+    },
+	"interval": 25,
+	"type": "NORMAL",
+	"messages": [
+		"That's it - straight up!"
+	]
+  },
+  {
+    "id": 6080,
+    "position": {
+      "x": 2474,
+      "y": 3420,
+      "height": 2
+    },
+	"interval": 27,
+	"type": "NORMAL",
+	"messages": [
+		"Come on scaredy cat, get accross that rope!"
+	]
+  },
+  {
+    "id": 6080,
+    "position": {
+      "x": 2487,
+      "y": 3422,
+      "height": 0
+    },
+	"interval": 31,
+	"type": "NORMAL",
+	"messages": [
+		"My granny can move faster than you!"
+	]
+  }   
+]

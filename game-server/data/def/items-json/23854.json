@@ -1,0 +1,77 @@
+{
+    "id": 23854,
+    "name": "Corrupted staff (perfected)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A powerful staff of corrupted crystal.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4XuXXsUvDUBAG8N4qCB20S0ViKqbGBoIQJMRAg4RQyOAgQoVCRRCUDqIiiIvi4FAFUXDpIOLo6B/42XulTdPueQd+cMODwPvx7pJHSqX/FUK+tGUEiGwLgVXDrbOBjrmqC0UKUatUFOC6sY6z+poqXruGUSSKchCuXt1E4tiqCgaR2pRBz15Dtcsbbs7r3eXyBKMFxMWYI3NFYbpJXPTpcEYgf3gyDLp0t+AtlbG5uIB21NQB4hA6ga+GOnXdyXCP50oL6KSV5BDjKnh+OITjMIBTrc4hNGA4hLfH8znI7FMFhTDoX+hqzWwI3+83cjA/gzvUDG1v0XQIv18POYx2kChMK/LktKp7GMO2GKH9dLILVACGQ+pLrPFumg6hvd+U0yqeG3/bkoF5uT/FXuDKwHw89ZDGOzIwn69XOEhDCRgOIXQcKRhO9ksjAMMRB+KIaVcWURgd+QP3GgQ7KMrLdQAAAABJRU5ErkJggg==",
+    "wiki_name": "Corrupted staff (perfected)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_staff_(perfected)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 184,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 3,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

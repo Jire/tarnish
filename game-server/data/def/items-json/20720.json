@@ -1,0 +1,77 @@
+{
+    "id": 20720,
+    "name": "Bruma torch",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 20721,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.003,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-09-08",
+    "duplicate": false,
+    "examine": "A torch made from the wood of the magical Bruma tree.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUUlEQVR4Xu2VMUsDMRTHm8/hEsgQOBBuOToUoSJFSjvUpYvg4iYuTs5FB6GLS/sZpCCoIKK4dHIVHARd3MTJj/DXl5BeLrajLxnuDw9ueEd+/PKSNBp16qyKgK3osSCPXxrz7yw2lMDsReHqTeP2Q+PhUxugXEpuKGtlfC9xeiNx8axw+apw/R4FSGC730dvMMD5XC6gzu7sNzOQgM5zbLQ30e50DNhoeojJkzJwDoYJSGC9KCCzzBRBbXW7xhSBscPsDIfGjgNyUFTsMMfj/YWdtd9FfSiCjDI3DsAB5a2WAWG349sgGAdExo5O9jjtVM34QEpr7B5EGGQfxG2PX6wwzk64eFjhn/+Q0kwIEnYypDrEjAO7KsvthF2MESiazcrtG3Ywxtqh+yUZO0ltFcFEeJeWxd4zidgpT1UCdkorriLbofx9EsIO9iQBUSfl/ADqNCBpJpT4SwAAAABJRU5ErkJggg==",
+    "wiki_name": "Bruma torch",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bruma_torch",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

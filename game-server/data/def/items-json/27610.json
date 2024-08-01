@@ -1,0 +1,77 @@
+{
+    "id": 27610,
+    "name": "Venator bow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27611,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 750000,
+    "lowalch": 300000,
+    "highalch": 450000,
+    "weight": 4.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-11",
+    "duplicate": false,
+    "examine": "A bow used by hunters from a forgotten empire.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACWElEQVR4Xu2WX2vTUBjGd64F7xxIEDKiFjYKIRBKVwOpsYywUlsaWjLpaDu6lRZlOnRqUcZQGDphqOwDKLhL0RuvvPBS0O/g9/DiMedkWcxZAoKnyc0eeDlN3jTvj+c9fzIzcyYC/k5GoiAEttJkI59NWQTd2R08kz+jszBiQKosZwlFMJE+4FD5jhvyzayBCMa1p3jTOELtiou581ezB9pu7x/PGz8oTEZABO/bP/Fo9DoCkikMHTd7z7NvUwBDY9B+iK21l8fXqSsKQ8OtjnCvv5eFS1EYs1DFkuGgWu5g3Z2ctI7/15QUwvguENQrXdimy0batvvrr9JyKQoTFvSd2ig/YQ6dzk9FSTBhPsU5lAQTTmga3eZWzDPCRWBddmIKEeQVDVquiJJqIacoaexDBO9aPzgY3w3LW1myJDGQsmGgVCzCtqxpAsXDUFcKeYMV7664kZaddlGY4mFoa0zdRkHXI27wwb/tPxUH499veBtffXkZg9XVmPxUlATj5zRVRcU0E/LCFcL0dX9z4/O0Ta4TrrhoXqhCGBrBbssHP3f4twiQX+hvGOaEdy51Gpu4VbqLqurNG62HVmHIlnYAIxAoLFzK2Rhe24U5X4c177Cw8y6aS2vsGAii7zxgm95k/Fa0OwSthR725C9oGQN2Oq/UbrOCtE30pKa/6Uivx50dbG8cRNwT6A5B27N+OLuPXekj+yA/vPMpUiwpAgiBMFQEjxdf4ED+hqPcL3zVf8cWSwr+bQJEUJmrYVG6jvwFDRfPXToB4p9MUfGt4J9KVSm04p/0ByeU9W6jbzKeAAAAAElFTkSuQmCC",
+    "wiki_name": "Venator bow (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Venator_bow#Charged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 90,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 25,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

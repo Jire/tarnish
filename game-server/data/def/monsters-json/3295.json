@@ -1,0 +1,121 @@
+{
+    "id": 3295,
+    "name": "Hero",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2002-04-30",
+    "combat_level": 69,
+    "size": 1,
+    "hitpoints": 82,
+    "max_hit": 9,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 5,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Heroic!",
+    "wiki_name": "Hero (1)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Hero#1",
+    "attack_level": 54,
+    "strength_level": 55,
+    "defence_level": 54,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 20,
+    "strength_bonus": 22,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 87,
+    "defence_slash": 84,
+    "defence_crush": 76,
+    "defence_magic": -10,
+    "defence_ranged": 79,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "200-300",
+            "noted": false,
+            "rarity": 0.8203125,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 1993,
+            "name": "Jug of wine",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.046875,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 1
+        },
+        {
+            "id": 1601,
+            "name": "Diamond",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 569,
+            "name": "Fire orb",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "rolls": 1
+        },
+        {
+            "id": 444,
+            "name": "Gold ore",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        }
+    ]
+}

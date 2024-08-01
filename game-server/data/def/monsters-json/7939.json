@@ -1,0 +1,485 @@
+{
+    "id": 7939,
+    "name": "Revenant knight",
+    "last_updated": "2021-09-02",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2017-11-23",
+    "combat_level": 126,
+    "size": 1,
+    "hitpoints": 143,
+    "max_hit": 27,
+    "attack_type": [
+        "slash",
+        "ranged",
+        "magic"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral",
+        "undead"
+    ],
+    "category": [
+        "revenants",
+        "ghosts"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 168.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "The ghost of a knight slain long ago.",
+    "wiki_name": "Revenant knight",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Revenant_knight",
+    "attack_level": 100,
+    "strength_level": 119,
+    "defence_level": 80,
+    "magic_level": 146,
+    "ranged_level": 146,
+    "attack_bonus": 69,
+    "strength_bonus": 71,
+    "attack_magic": 55,
+    "magic_bonus": 30,
+    "attack_ranged": 55,
+    "ranged_bonus": 45,
+    "defence_stab": 195,
+    "defence_slash": 200,
+    "defence_crush": 180,
+    "defence_magic": 95,
+    "defence_ranged": 190,
+    "drops": [
+        {
+            "id": 21820,
+            "name": "Revenant ether",
+            "members": true,
+            "quantity": "2-24",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 22299,
+            "name": "Ancient medallion",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.000125,
+            "rolls": 1
+        },
+        {
+            "id": 22302,
+            "name": "Ancient effigy",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.000125,
+            "rolls": 1
+        },
+        {
+            "id": 22305,
+            "name": "Ancient relic",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.000125,
+            "rolls": 1
+        },
+        {
+            "id": 21816,
+            "name": "Bracelet of ethereum",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.14084507042253522,
+            "rolls": 1
+        },
+        {
+            "id": 1391,
+            "name": "Battlestaff",
+            "members": true,
+            "quantity": "3",
+            "noted": true,
+            "rarity": 0.04697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 1163,
+            "name": "Rune full helm",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0187863986473793,
+            "rolls": 1
+        },
+        {
+            "id": 1127,
+            "name": "Rune platebody",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0187863986473793,
+            "rolls": 1
+        },
+        {
+            "id": 1079,
+            "name": "Rune platelegs",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0187863986473793,
+            "rolls": 1
+        },
+        {
+            "id": 1201,
+            "name": "Rune kiteshield",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0187863986473793,
+            "rolls": 1
+        },
+        {
+            "id": 1347,
+            "name": "Rune warhammer",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0187863986473793,
+            "rolls": 1
+        },
+        {
+            "id": 22557,
+            "name": "Amulet of avarice",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 5e-05,
+            "rolls": 1
+        },
+        {
+            "id": 4087,
+            "name": "Dragon platelegs",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.004697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 4585,
+            "name": "Dragon plateskirt",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.004697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 1215,
+            "name": "Dragon dagger",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.009394081728511038,
+            "rolls": 1
+        },
+        {
+            "id": 1305,
+            "name": "Dragon longsword",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.009394081728511038,
+            "rolls": 1
+        },
+        {
+            "id": 1149,
+            "name": "Dragon med helm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.001625012187591407,
+            "rolls": 1
+        },
+        {
+            "id": 453,
+            "name": "Coal",
+            "members": false,
+            "quantity": "25-40",
+            "noted": true,
+            "rarity": 0.05636978579481398,
+            "rolls": 1
+        },
+        {
+            "id": 2361,
+            "name": "Adamantite bar",
+            "members": false,
+            "quantity": "4-6",
+            "noted": true,
+            "rarity": 0.05636978579481398,
+            "rolls": 1
+        },
+        {
+            "id": 451,
+            "name": "Runite ore",
+            "members": false,
+            "quantity": "1-3",
+            "noted": true,
+            "rarity": 0.03757985719654265,
+            "rolls": 1
+        },
+        {
+            "id": 2363,
+            "name": "Runite bar",
+            "members": false,
+            "quantity": "1-2",
+            "noted": true,
+            "rarity": 0.02818489289740699,
+            "rolls": 1
+        },
+        {
+            "id": 1747,
+            "name": "Black dragonhide",
+            "members": true,
+            "quantity": "3-4",
+            "noted": true,
+            "rarity": 0.03757985719654265,
+            "rolls": 1
+        },
+        {
+            "id": 22550,
+            "name": "Craw's bow",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 2.5e-05,
+            "rolls": 1
+        },
+        {
+            "id": 8782,
+            "name": "Mahogany plank",
+            "members": true,
+            "quantity": "5-12",
+            "noted": true,
+            "rarity": 0.02818489289740699,
+            "rolls": 1
+        },
+        {
+            "id": 391,
+            "name": "Manta ray",
+            "members": true,
+            "quantity": "10-15",
+            "noted": true,
+            "rarity": 0.03757985719654265,
+            "rolls": 1
+        },
+        {
+            "id": 1515,
+            "name": "Yew logs",
+            "members": false,
+            "quantity": "20-40",
+            "noted": true,
+            "rarity": 0.03757985719654265,
+            "rolls": 1
+        },
+        {
+            "id": 1513,
+            "name": "Magic logs",
+            "members": true,
+            "quantity": "5-12",
+            "noted": true,
+            "rarity": 0.0187863986473793,
+            "rolls": 1
+        },
+        {
+            "id": 1631,
+            "name": "Uncut dragonstone",
+            "members": true,
+            "quantity": "2-5",
+            "noted": true,
+            "rarity": 0.009394081728511038,
+            "rolls": 1
+        },
+        {
+            "id": 5315,
+            "name": "Yew seed",
+            "members": true,
+            "quantity": "2-7",
+            "noted": false,
+            "rarity": 0.0005,
+            "rolls": 1
+        },
+        {
+            "id": 5316,
+            "name": "Magic seed",
+            "members": true,
+            "quantity": "2-7",
+            "noted": false,
+            "rarity": 0.0005,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "1-276",
+            "noted": false,
+            "rarity": 0.06501950585175553,
+            "rolls": 1
+        },
+        {
+            "id": 21802,
+            "name": "Revenant cave teleport",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 3024,
+            "name": "Super restore(4)",
+            "members": true,
+            "quantity": "1-3",
+            "noted": true,
+            "rarity": 0.02818489289740699,
+            "rolls": 1
+        },
+        {
+            "id": 22555,
+            "name": "Thammaron's sceptre",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 2.5e-05,
+            "rolls": 1
+        },
+        {
+            "id": 9193,
+            "name": "Dragonstone bolt tips",
+            "members": true,
+            "quantity": "15-30",
+            "noted": false,
+            "rarity": 0.02818489289740699,
+            "rolls": 1
+        },
+        {
+            "id": 9194,
+            "name": "Onyx bolt tips",
+            "members": true,
+            "quantity": "2-4",
+            "noted": false,
+            "rarity": 0.02818489289740699,
+            "rolls": 1
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": false,
+            "quantity": "20-45",
+            "noted": false,
+            "rarity": 0.04697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "15-30",
+            "noted": false,
+            "rarity": 0.04697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "10-20",
+            "noted": false,
+            "rarity": 0.04697040864255519,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.011111111111111112,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0048543689320388345,
+            "rolls": 1
+        },
+        {
+            "id": 22545,
+            "name": "Viggora's chainmace",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 2.5e-05,
+            "rolls": 1
+        },
+        {
+            "id": 21807,
+            "name": "Ancient emblem",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0007500018750046876,
+            "rolls": 1
+        },
+        {
+            "id": 21810,
+            "name": "Ancient totem",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0005,
+            "rolls": 1
+        },
+        {
+            "id": 21813,
+            "name": "Ancient statuette",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00025,
+            "rolls": 1
+        },
+        {
+            "id": 21804,
+            "name": "Ancient crystal",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00037499953125058594,
+            "rolls": 1
+        }
+    ]
+}

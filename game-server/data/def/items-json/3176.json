@@ -1,0 +1,86 @@
+{
+    "id": 3176,
+    "name": "Dragon spear(kp)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14803,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 62400,
+    "lowalch": 24960,
+    "highalch": 37440,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2004-09-14",
+    "duplicate": false,
+    "examine": "A Karambwan poisoned dragon tipped spear.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu2WMUvDQBiGc/+g0y0uAQfBybWI4CJdxMWhlNJCC7aBxmKsMU2rEiqig9CK6ODQQScH/Qvi4ObiJIr/5fPeu4ZqHNzuDvSFI+QSuIf3+SBxnL8VRtkdQwEIo+hhJK/Zp5rDaPAypuT5inpPFxMgI1Dq4OH7LR2/3Ugo/24g92I3pxuKUTLL5aGXH/cS6uj1mkpDn07EfjgBWnBdHVBMHgogNHE+xyVU9/GMlr01Gon75owBoJWcQyWeo32XU10ALIn76fwoGG1AaAcLatBGhau1zhWURhhEAUHNqVho6etMaYZBmJwbwATfZsUQTBLHsh3MURZCO8xhv097YShh5p3pvGTf1BRGB1FE3SCg7VbrRzuao1T1Oh3a2fRNwyBMqtrdatNqoWCPqrbnmW5HqUI71qhK22nWauZVpYNsgSpEDTJULebz5ttJVW1Uq6bbUc1Ald9omIZBVDtQVSkWzatCO5aoQhSQNaoAgw+nBaoQJlXVy2Ub2kmj/Qf991gF8x+RT5AKTLB/CGVlAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon spear (Karambwan poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_spear#Karambwan_poison",
+    "equipment": {
+        "attack_stab": 55,
+        "attack_slash": 55,
+        "attack_crush": 55,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 5,
+        "defence_slash": 5,
+        "defence_crush": 5,
+        "defence_magic": 5,
+        "defence_ranged": 5,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

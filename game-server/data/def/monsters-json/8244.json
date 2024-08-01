@@ -1,0 +1,60 @@
+{
+    "id": 8244,
+    "name": "Ranis Drakan",
+    "last_updated": "2023-04-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2018-05-24",
+    "combat_level": 233,
+    "size": 1,
+    "hitpoints": 400,
+    "max_hit": 20,
+    "attack_type": [
+        "slash",
+        "magic"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "vampyre"
+    ],
+    "category": [
+        "vampyres"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 400.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "He looks haughty and arrogant.",
+    "wiki_name": "Ranis Drakan",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ranis_Drakan",
+    "attack_level": 120,
+    "strength_level": 120,
+    "defence_level": 120,
+    "magic_level": 120,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 34,
+    "attack_magic": 0,
+    "magic_bonus": 34,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 60,
+    "defence_slash": 60,
+    "defence_crush": 60,
+    "defence_magic": 60,
+    "defence_ranged": 60,
+    "drops": []
+}

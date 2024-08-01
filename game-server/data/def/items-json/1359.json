@@ -1,0 +1,86 @@
+{
+    "id": 1359,
+    "name": "Rune axe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1360,
+    "linked_id_placeholder": 14710,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 12800,
+    "lowalch": 5120,
+    "highalch": 7680,
+    "weight": 1.36,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2001-08-13",
+    "duplicate": false,
+    "examine": "A powerful axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4Xu2WT0sCURTFfd9gVrOZzXyEPkK7iEIQhRAxUokJU2lIRRNjiIIWLYKgRbQIgr7mrXNvV5vpj6K85i08cBfKw/lxzj2+KRQ2siJD6clVhqZNn25PfXoaBfR2FWTgfhqrMpQc+3TXmwPVhwlV4wmV2+dUbHV5StEZD76zDGXo+sSn+9in50lAjYsbqvUveQCFOeiNqNIZMsw49BhoKwxtQBkaH3kc10NfgOAOAPBwDEAUBg5ZB4I7iOtxKEAa1X6jTXuHEUP8KxDcQVzYn+/LaxhMYSwDGRrUPHZH49IH6eDzTq01gxl8wGAUKvuLa0rq/tWdOUj6HFxC0xTo97NrSeLKupM9JTIzIGswcdVjd7DML9NFQJDslAUYSOoOd/6OK61lzqwo+XfWqi92x6oMRSVpF9x5TRwAQt2zy5wrEOoOd5ZbZqsyVN/1+Lpwxp1ORerugDuQ1B3tcmKZy9sFrrszcaHuuC4ccAeS6wJ11/fm3IG07k7E1SxK3Z1pl+6PM3Fhf3B/ORCXyur7zGpyCmajT70DNVycHEXNu7gAAAAASUVORK5CYII=",
+    "wiki_name": "Rune axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 26,
+        "attack_crush": 24,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 29,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

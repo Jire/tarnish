@@ -1,0 +1,79 @@
+{
+    "id": 1343,
+    "name": "Mithril warhammer",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1344,
+    "linked_id_placeholder": 14725,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1660,
+    "lowalch": 664,
+    "highalch": 996,
+    "weight": 1.587,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "I don't think it's intended for joinery.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdklEQVR4Xt2VTUvDQBCGM/9gTzn3J3gppYdCREIpDcWQXoIUiiItfmHxA7x58ODBgyD4d0dmltlsQohe9gNfGMq2gXl4ZrpJkv8VwKaCB7CqHrjK8j4GsDbQ6vSWKyCYBiIYG6gorrg8g7XtdIGWyx3XfH5hgTmF6x+X2LGBqPJ8y+UQanhcfUBi62g0cgEFDPBXoOOTDZ+dApEhaTwERDD0KYvuDEgAaBxZVpumNhD9JnbkrnIERAFu+LJVeLNWuFkonM3W/B1BiR05C4xToNfLFA+1wvOVwipLcDIpjC2C6e6OQxgKsJ1dqbDOFTcfjxfGEoHJX90LjG1H3y+6ptPS2PEEQwF8OmvstBs3cN5gPu5Ss8h9jeXsAYbS7A4tsgB1n/IYGLTjOYDv16lZ5MAwFL3M9iJ3n/AYwK/HyOzQ3ROJHYpe5mjsfB6isQP4/ZzyuCKwo2HkZg5sR8PQqN72kdgRGHpVBLYj8f7m/j0CEgVMiPwAvg67v+iKWEEAAAAASUVORK5CYII=",
+    "wiki_name": "Mithril warhammer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_warhammer",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 25,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 27,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

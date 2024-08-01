@@ -1,0 +1,79 @@
+{
+    "id": 807,
+    "name": "Iron dart",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14519,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2,
+    "lowalch": 0,
+    "highalch": 1,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A deadly throwing dart with an iron tip.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaUlEQVR4Xu2VMUvDQBTH732Dm7J0CXQQAoIIQRyEikiWUCgtllhSbKBk6eLg4CA4ODg4CIKDX/aZd5drc1cHh+buDf3Dn0LTlh+/9+4qxDHBAui+EzCA5XyOjKAIBPAsjlXdp54DWMxmWyD3qecAPtwXvOxMx2M+dswiM7ADWC0WmGcZHzt3kwkfO7TIt6MRBzuA6+XSWuTgQHTnXKQpDzvuIgcA0n8J1Hq1Uot8miSh7AD+JAP8Oonws2l1LTE/F6HsAH63IB9N6xuJ01RgGckQdkBZIRDqJpNYXGqgatC8RtqS+62eAlsr70Pd8koDUQmo8GcJLJC3oR4VgRDUYwNTN6Wx5bJ3S2CBUF9bO6ZdoJ4XW8N0Qah0qrp9iiVuHCD3lw6Y3X1jSuMyfYkj30BCmBHsRgHqhFHJmHegv6NtEdBzC2SOfSAgig3U80L/N7AH5H7Cc0AtNiMgCqi7iBEQhcX+2Dk0zC8E2y4nDue6VwAAAABJRU5ErkJggg==",
+    "wiki_name": "Iron dart (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_dart#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 2,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 20014,
+    "name": "3rd age pickaxe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20015,
+    "linked_id_placeholder": 20016,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 97950,
+    "lowalch": 39180,
+    "highalch": 58770,
+    "weight": 2.4,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "A beautifully crafted pickaxe, shaped by ancient smiths.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACS0lEQVR4Xu2WXUsbURCGPb/Dm4AXgiCEQigiXhSv+hPaC6lIUcRKRW1qtRKtH/htbRqtUZMaqyixRg1YmhQttBR/1cg7y9mcnN3W3XXdzUVfeAlJ5px9ds7szNbV/de9S1C1Q5Wgg51tam1pMR0QlJ6FijOpFB1ls1Q8OqTy2Rn9KpXuA6r6or/LZSoVCvT95IS+HR/TRT7Pxn8bqyuU+7TBUIUve3T984p/j0Yid4WqAODicxMJmk2M0/TbMXo3OkqJkREaj8dpbHiY/WZwkN3c1EQPolH2w1iMM/Y1l1NuyJMEA6SWlxhCh7EDeT0wwFZh8CnXfFxc0MBcAQpamJzkjbAhYKwbGZYgr172syWMBMIeAJcxH+bnKb+7y0cNu4JSjRqwsxqDm9hOJquAcLTI4NCLPurv6WEjbi+9aQI5ri/rxe0lwZBJAB1mMpZMSnd3drIBml5bU7LkOFNOJKi3q4uPB0XsJKPPnj7hYwQUntY/l5d+Qgl61NbGhft5fd0E0qOkVLClqSluEz+K57eucyGjuPe30pwl5xsLLnj0LnR45+v+KUHPOzrMhqgelx5pLyNL7tf9VcaGm+9XuVC93aWPMDiilZkZLk41Q3rkbfKyRpOgxoYGHhXoM8iObKA+bO5Fompu4buPqXcrQZH6enNMqCAhwEDCFkaPCkjGUQFGvhGGCAMJC0yIQBUYjIqayY4KUxNAj9vbayM7mOZ4efd5MnuR8TaI8QCg04P98IFkV66Zp0vOLbUZ6lEBy/rCr0cELgkSJMwNwf5M63kYDQYAAAAASUVORK5CYII=",
+    "wiki_name": "3rd age pickaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_pickaxe",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": -2,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 65
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

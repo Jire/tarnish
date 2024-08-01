@@ -1,0 +1,63 @@
+{
+    "id": 5240,
+    "name": "Bird",
+    "last_updated": "2022-09-13",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-12-06",
+    "combat_level": 11,
+    "size": 1,
+    "hitpoints": 10,
+    "max_hit": 2,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "birds"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 10.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "It's a brightly coloured bird of the jungle.",
+    "wiki_name": "Bird (Level 11)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bird#Level_11",
+    "attack_level": 10,
+    "strength_level": 10,
+    "defence_level": 10,
+    "magic_level": 10,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

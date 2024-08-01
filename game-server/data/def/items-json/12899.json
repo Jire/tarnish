@@ -1,0 +1,79 @@
+{
+    "id": 12899,
+    "name": "Trident of the swamp",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14014,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 78500,
+    "lowalch": 31400,
+    "highalch": 47100,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2015-01-08",
+    "duplicate": false,
+    "examine": "A toxic weapon from the deep.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB/ElEQVR4XuWXT2saQRiHfb9BT3vxknNPueWaHkOkIAE9SAQLwYBBFAmJYmRNbWPSmlrSroIticR4MASJUS9ByJ+uoTUGc8wWQvIJ+hF+ZWdda0zprTMLeeBlZ4dZ3od3ZmdnbbanCeHvba6YiQmv7bsw7glh6X2/zRVCNp1mifPZD9ja2BgIBSWjf3xsjKcUIZNKscSmzBt7mV0DktHPUYgQi0RY0lm3eyg5QVVL8EsyTyGC9us5Wh/Xsa0oLLGymWHXH9/3kUwGBjLchA5ScVTfJnC4JqOYyzEB7UbF8XGBv8xeYgmOyQmWWI/u5SGuujWcnu4gFpvjO1W9XhML3gimJh3QtAvc3naZzEW7jFBolmd1COdnRQR9i7jsVB+F3+/iKaNDqNU+odlQ0Kh/Zu1CQYacmIfX+5K/TKWSQamURk6JY8ZpG6wfMzjK6BCrhuOFE45pQ8YUGI7Rp/4ThKNaEq5pj6hqDEP4qdXhcb56VJXRkZwg3N+diK7KMISlea7fpH/xRya6/Ky/foRhyMiyhHDIkBE0ZcZbpMusxCUsBATLXPcKTKatZvtTJExGh/D1Sxhz7odnGWEy6rdNdDpboquiQ2i11tlubAmZaCCJfD5oBRmdhxufcBn9LOz3+QZCoyM4QliTE3i3umqd6pj/VBaQMbGUjIFImd+3dJb8mLL+WAAAAABJRU5ErkJggg==",
+    "wiki_name": "Trident of the swamp (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_swamp#Charged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 25,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

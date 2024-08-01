@@ -1,0 +1,87 @@
+{
+    "id": 23677,
+    "name": "Dragon pickaxe (or)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 23678,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 97960,
+    "lowalch": 39184,
+    "highalch": 58776,
+    "weight": 2.4,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A dragon pickaxe infused with a fragment of Zalcano.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACc0lEQVR4Xt2WwUvcQBTG8/6DPXnJJbCHhcBCCIQgy8KKyCKKVJTKKkq1VPegwiJCW3oo9FBKTz2UHkQQ2osglEIvPXgQCqUUivf+Ma/zzeQl2Wxtq81kpR88FjZr3s9vvnkzjvN/i7j4TabfPbMi4v1+n3/dmLi3vHzFMysijhxHNx24taTxcG2trenPwPNsQWXN5msOt1XNTk/zoVfjHQW1NOHomu92U3cAYwmIeGdzUzdenzDNZxKge6s9Xl9Z4Ttzc2lZhhGRbr6loHoKSlyCG3cXF3UtLSxUB4PmM52OBkBjcUMgpCzDjOYGAOII4Ha3t/nxwUE1ME+DxkhuAITM4Dk+AfRwMEiBim8pScSrnsvPQp9fRj6/ipv8ZjLg41aYmy9m1iDsFbgDEd+vezzw6/yk2eDnCg4ACPbHwNP5QaYebGzYdkdkgozaa3j8SEEB5kg5BccA+SWu66oICDJhRnYk0ADDMsIxgP1oNfhbAlX8awsiM31zUMgVHAMM3HrbDvmsE/P3FMo6WLb14yjSuyr/HZx6HRuwy8k6f7XvFmlH+qou32V5MZkhPbXlHEOdd1v8OTLPim8qQcSe6/L7Fy6fqC1/2olSoPxvpLC0gPowFfNFuVCmAQ5PTGQZhMPuZMo7hqzBNSzlKPyNRDzVbqfXCIGRpn9uYMAx3T+FpbhEeuDlj4i/A8kkbuFmUIJLZjeJS//2wuv/MwURh0GgYZCfEl6YuHUtZbuk6fulwtxApJcFEFgmHJgV3IevEqWXLClxagwwIrNMctEaOwxOblzEfDXM8kDFX1Yg4sPk4pUP9RjdgYYhxgxjdCsgbpt+AhUH8zrxSIQCAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon pickaxe (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(or)",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": -2,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60,
+            "mining": 61
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

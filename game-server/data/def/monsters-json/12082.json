@@ -1,0 +1,56 @@
+{
+    "id": 12082,
+    "name": "Phantom Muspah",
+    "last_updated": "2023-04-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2023-01-11",
+    "combat_level": 741,
+    "size": 5,
+    "hitpoints": 850,
+    "max_hit": 20,
+    "attack_type": [
+        "typeless"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "spectral"
+    ],
+    "category": [
+        "bosses"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 1763.7,
+    "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Imagination gone wild.",
+    "wiki_name": "Phantom Muspah (Teleporting)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Phantom_Muspah#Teleporting",
+    "attack_level": 280,
+    "strength_level": 280,
+    "defence_level": 200,
+    "magic_level": 150,
+    "ranged_level": 280,
+    "attack_bonus": 393,
+    "strength_bonus": 11,
+    "attack_magic": 280,
+    "magic_bonus": 180,
+    "attack_ranged": 64,
+    "ranged_bonus": 6,
+    "defence_stab": 185,
+    "defence_slash": 134,
+    "defence_crush": 120,
+    "defence_magic": 437,
+    "defence_ranged": 56,
+    "drops": []
+}

@@ -1,0 +1,79 @@
+{
+    "id": 22636,
+    "name": "Morrigan's javelin",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22637,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 4000,
+    "lowalch": 1600,
+    "highalch": 2400,
+    "weight": 0.0,
+    "buy_limit": 100,
+    "quest_item": false,
+    "release_date": "2018-09-06",
+    "duplicate": false,
+    "examine": "A vicious javelin.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiElEQVR4Xu2XT2vCQBTE3c/RS6AHryKUUkIhIkGCIgSDQYMSI6lF01DrH0Q89upnfu28sGItve7bQweWsJvLj5nZ7KZW+5dVUnS7IiSAKOr1Ovy8fWtIFQRGmo6o5T1Tnk953nAc01CKjscNZVlCvu9Rs9mg/b68wBgGqlwpy1caDkNynDueLxYz0+5UINttwTCIBzFh7XBY02gUmQSqHFku5wyCzgBgGvcZEOtYC4K2qVJXxUVE2En5ZEDZOOTe6EJrBw11SNFg0GcHNAyeH+sVTZL4B4gBGK3v4qZDhkFUcKcoXtg1g93RUrTKYoZJou4lHsMxaSl6y8cME4fBr3iMw7wvJgwT9X0JN66laLOcckRhtyUPsytmHFGv48nDHMo5RxS0XXmY4zrniDz3QRoGUhyR+9iwAwbOAEaf4OIwiOkaRghIcYGtgvG9J2mY6gzCd8YKmNNpxye1FTAYOJtwscLlXBTmfP7kvwULnIEUX6zwd1Cv38vDwBVLtraW2A3vb2kQSZgvk7ZiJrgLfQQAAAAASUVORK5CYII=",
+    "wiki_name": "Morrigan's javelin (Deadman Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Morrigan's_javelin_(Deadman_Mode)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 105,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 145,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 78
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

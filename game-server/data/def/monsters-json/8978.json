@@ -1,0 +1,53 @@
+{
+    "id": 8978,
+    "name": "Blessed spider",
+    "last_updated": "2022-09-13",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2019-07-25",
+    "combat_level": 39,
+    "size": 1,
+    "hitpoints": 32,
+    "max_hit": 4,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "spiders"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 32.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "A nasty spider, blessed by Zamorak.",
+    "wiki_name": "Blessed spider (Song of the Elves)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_spider#Song_of_the_Elves",
+    "attack_level": 35,
+    "strength_level": 35,
+    "defence_level": 35,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 15,
+    "defence_slash": 16,
+    "defence_crush": 7,
+    "defence_magic": 12,
+    "defence_ranged": 16,
+    "drops": []
+}

@@ -1,0 +1,77 @@
+{
+    "id": 20243,
+    "name": "Crier bell",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20244,
+    "linked_id_placeholder": 20245,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000,
+    "lowalch": 2000,
+    "highalch": 3000,
+    "weight": 0.453,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "For whom?",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMElEQVR4Xu2XW0sbURSF3f+gTz4HfOhTIQSChBBICGEIBjFEEmKJeEGRYktDtfVCwNoqtlQURalXREFrQSiCFJFCKUIppb9p6dqHEzW1fZs5LbhgMwwzw/nOWntPJk1Nd/JVgqtyLkE5/QAVL4zebMQ1lCjEQC6K4UIM1WJcgcKhkCsoUZCRchwvuhKYqCTdAz1uC2lV21vqMM6BCDOavwJqvCtACYY8AzReuP8vAFGCWk8Ks4PeHdAfJJjqSytQpOWe6/cQJfWm7mhtdu2SmTLCsPozIQwUoy5dMu7YIlTtUcqVS4JXTzM3gHi+NJlzASR4U41hfTqPg/kSjle7cbLWjaPlh3puIgs0NsHSWAKHC2UFOd3sxdl2nx4/zmdRrYQVOCCoyzEfimLrZRonKzmcrnXgy2YeX7fzON/txPFyTmGnh1uDiM7AvHsWx/6ch8+r7TjbMEDfdgoKREBemxw00+YjkOiux/ojWJlI4mgh+5s7LALy2miP+VjzCUiw+DyhzrA3bFyN7lggxjbzJKblUx+JQmxMpfC+ltRI6A4Xt+5837sJ9OGtp/H65JJoTFyEMIyk0Z0f+8U60KfFNr2PG/AJiBLsvE7r7m1c1935eVCqNzWB9mYz6iZj9i02LsD3zG3u/DosKSBh6STdsTA+fdaaxubO6QCLbnH07bQFCGMluhihWOwTFl1jXwUMQ5mfDDY447NFCDuFAcJYXf/bfHsFCGNkF/xbNT7z3+sCH7lAfFMdRiUAAAAASUVORK5CYII=",
+    "wiki_name": "Crier bell",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crier_bell",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

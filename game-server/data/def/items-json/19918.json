@@ -1,0 +1,77 @@
+{
+    "id": 19918,
+    "name": "Nunchaku",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 19919,
+    "linked_id_placeholder": 19920,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 6000,
+    "lowalch": 2400,
+    "highalch": 3600,
+    "weight": 1.36,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "A pair of Nunchaku, smells of pizza.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACiUlEQVR4XtWW32sTQRDHb/+De7qXvNyzT6EgQUJBkSLBUFpaKiEoMRBTaAhE05i2sYQapTSGlFZDsf6vY79zzu3eNsol7d3VL8zTzt5+bnbnh+P8f1IU2IOQovPzU/rxffwHKlMwRd1ui0ql59RsvqXj4490eXGWJZSitYJDj3yHisUnVKtVGCbv+2y2d8JS9LrkUrnoMBRsZSUfAtneKUhRc9NlqMqaG76fzKLzqe5Rp+JSazuAEZAMYCBFo12PofarGkjWUs62mzTvePSt7TFU9JoUDYcHNB6f0GQySgtM0c9+ji67Hp3uaSBZq9ernP5YAzTgE4yaotlsQldXU5r17OgE6+XyC9rZ2eS3hStFFBOCU7S1tc7W67W5Okejo/1Mw8M/qCUCp+jZ01Xy/RxH4XZ0tKIZFxyIiCEBTDj82OeTo2XbjuK3IRv/BjNPJhhqF+BQ1RuNNzQY7Idrh4cfFoey/zxq/5a5D1e/sfGSvowGnJXSA7VPTMkG/A0MUev3Oxz6ZcDmmb6JhRRsRtjR8eUq8IgXATMjjhomP7bIkzB002Crr6jd3o0AwaSCxwGDT6v1jseY9529MINtr5gKDgVMfd1lMAFCRsE0mGnRbyBz0agBhYhLlKJ+MWVnET4MOImYpDreGq5lOv1qQel9q3knUla0zxKyHyvGEhyCw/DWcLVIBGSWPjAonogofDHsydqdgUTmQw3hKtthAuh6ozh6w0YwNchcda8wtubBmdFBK4GZY0xiMLbkMIFBP0OTBpCUi9RgolIM8usox6OMOcZkBoSGen19cQvI9kxBiru8ZBvmq8yjg6aK5oqsA1yG0REpnqsKhcf3VwTvrmgJeABAdhmIr9+Fmli9BTy6cwAAAABJRU5ErkJggg==",
+    "wiki_name": "Nunchaku",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nunchaku",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 11,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

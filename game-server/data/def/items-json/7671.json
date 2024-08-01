@@ -1,0 +1,84 @@
+{
+    "id": 7671,
+    "name": "Boxing gloves",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-05-31",
+    "duplicate": false,
+    "examine": "I think they look a bit silly.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqElEQVR4Xu2WzWoTYRSG57uDrLLJZiCLQEEIBREpvQNvwIUbwZ0bFwotCC6KdCGtGBERwWiDIBaqQaiC0AYsUioiFBEURHojx++Zb97OTJpQmGTiwh54yTSZmfPMe36mUXQW/0c4y/TPw9ntuG73W3V7MteYBVT+6UdrtRlg+v2H1uutVgnlbC6KjrVYi+yS1+V6za42anbda339lm28uGsb5xr2fvuxPU1dasfxtKGcvWvH9sonIgklueeFGyup7nh1Oku2+XrNBoOubbUbyfnAVeCSS27+Mk1AcqBwhfI88sedVADt7j6zj/OxbXv1/YNstiuCQjc8hHQzDgJSsF0PCND+haZ9Ok+pwnWUbcqlCzBMEcIllYu/cZAy4QifR0eHJxo+08QRpgfRO4iSIZWK7wCh1yjVh/ngDmXFxfxDTAHKJcnpFXoG0dyIEiGVC4eAoYe4bsnDCEQPxL0mdMslMACQmPJINCzCHQkwAQEiCJzUQ+mBSkK5Aky+NCqPxG80uBzAHUHIST2IVkKJZncnYEi+46eISZJwhd84R0DLy9eShfm8u2Jv3zxIJvDLwVYBvAQQkU3JIAVgtA+8vnppzLV/rtTDaqCH1ND5Htrb6x3DlASKouziAPbtYtN+LbTsx0IzOQYKOCZLUzlOevmWhhkOgQH0Z7FlP/0nx7iCCzhymqYKlEVx6VEOeo1SnSZKGa6bcsgtxlov1PyYa1/pFaMp02avBIqbKgnH45LnN7kGoLLS6XWBRiVnTSBN6Wc/ALqmAiBCN3aFxErOFOZXBZ/a6BUBZf0EjCBIzlo4TPXdi1XB9xX+V5mP0UACYT389quCc2YGpDKpPHJG+4rdBZBgKgYiQmPTI7gEEO4AhDsAzRBGUVyaw5oxTAglHafh889ikvgLeyQMAIjyFGAAAAAASUVORK5CYII=",
+    "wiki_name": "Boxing gloves (Red)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Boxing_gloves#Red",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "claw",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

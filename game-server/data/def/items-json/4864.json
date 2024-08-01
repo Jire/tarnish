@@ -1,0 +1,94 @@
+{
+    "id": 4864,
+    "name": "Ahrim's staff 50",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 85000,
+    "lowalch": 34000,
+    "highalch": 51000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-05-17",
+    "duplicate": false,
+    "examine": "Ahrim the Blighted's quarterstaff.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABLUlEQVR4Xu2XzwqDMAzGzRvs5FnwIBQGIozhQdiQMQQvghcZg73/S2Smoa1WYWww04MfBPxT6I/kazRRtOsrAXL4z0QE2DSZDgcGmGWHFcjNNELdT1hVR6zrHIsi1TB5kujwV/9ZMIKMG+exBmrbsyQMCVCpyJao7ysL5a/cSAxksmKgqHSiUK5EDERBJRSDmvsFcBgu2HWlNbh7JybA1+umT59SnDl/hYAAn4+r9ZPQqfPF5RP101Js9LI03TwIQWgmJ4FummkahwW1m/yz2E8BmZz7E/kpIJMzVHCdnPwUkMkZKLCmyVDkp3Uo/34T8aeF/DSHcj9/8/WbaA3KTS9C/uL+ZCYY4emFxJ8VAnL9STA7zi+cKSqX4MC5nF6mGRLL0nRzcy0Ew/p18zeEZO7EFMYTgAAAAABJRU5ErkJggg==",
+    "wiki_name": "Ahrim's staff (50)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ahrim's_staff#50",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": -1,
+        "attack_crush": 65,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 3,
+        "defence_slash": 5,
+        "defence_crush": 2,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 68,
+        "ranged_strength": 0,
+        "magic_damage": 5,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 70,
+            "attack": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

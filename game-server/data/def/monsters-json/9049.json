@@ -1,0 +1,281 @@
+{
+    "id": 9049,
+    "name": "Zalcano",
+    "last_updated": "2023-08-03",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2019-07-25",
+    "combat_level": 336,
+    "size": 5,
+    "hitpoints": 300,
+    "max_hit": 53,
+    "attack_type": [],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "A former demon of Zamorak that has been turned to stone.",
+    "wiki_name": "Zalcano (Armoured)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zalcano#Armoured",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 23962,
+            "name": "Crystal shard",
+            "members": true,
+            "quantity": "1-3",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 453,
+            "name": "Coal",
+            "members": false,
+            "quantity": "169-926",
+            "noted": true,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 447,
+            "name": "Mithril ore",
+            "members": false,
+            "quantity": "56-387",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 449,
+            "name": "Adamantite ore",
+            "members": false,
+            "quantity": "51-289",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 451,
+            "name": "Runite ore",
+            "members": false,
+            "quantity": "3-26",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 444,
+            "name": "Gold ore",
+            "members": false,
+            "quantity": "86-721",
+            "noted": true,
+            "rarity": 0.08333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 2353,
+            "name": "Steel bar",
+            "members": false,
+            "quantity": "78-534",
+            "noted": true,
+            "rarity": 0.08333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 2359,
+            "name": "Mithril bar",
+            "members": false,
+            "quantity": "54-459",
+            "noted": true,
+            "rarity": 0.08333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 2361,
+            "name": "Adamantite bar",
+            "members": false,
+            "quantity": "15-107",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 2363,
+            "name": "Runite bar",
+            "members": false,
+            "quantity": "3-27",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 1617,
+            "name": "Uncut diamond",
+            "members": false,
+            "quantity": "2-21",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 25778,
+            "name": "Infernal ashes",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1631,
+            "name": "Uncut dragonstone",
+            "members": true,
+            "quantity": "1-11",
+            "noted": true,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 9194,
+            "name": "Onyx bolt tips",
+            "members": true,
+            "quantity": "4-44",
+            "noted": false,
+            "rarity": 0.05555555555555555,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": "784-5500",
+            "noted": true,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 23953,
+            "name": "Crystal tool seed",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.005,
+            "rolls": 1
+        },
+        {
+            "id": 23908,
+            "name": "Zalcano shard",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0013333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 23760,
+            "name": "Smolcano",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00044444444444444447,
+            "rolls": 1
+        },
+        {
+            "id": 6571,
+            "name": "Uncut onyx",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.000125,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "64-480",
+            "noted": false,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 564,
+            "name": "Cosmic rune",
+            "members": false,
+            "quantity": "295-926",
+            "noted": false,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "201-831",
+            "noted": false,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": false,
+            "quantity": "166-770",
+            "noted": false,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 566,
+            "name": "Soul rune",
+            "members": true,
+            "quantity": "57-388",
+            "noted": false,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": false,
+            "quantity": "1-842",
+            "noted": false,
+            "rarity": 0.027777777777777776,
+            "rolls": 1
+        },
+        {
+            "id": 442,
+            "name": "Silver ore",
+            "members": false,
+            "quantity": "102-800",
+            "noted": true,
+            "rarity": 0.08333333333333333,
+            "rolls": 1
+        }
+    ]
+}

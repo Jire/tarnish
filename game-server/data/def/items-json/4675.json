@@ -1,0 +1,94 @@
+{
+    "id": 4675,
+    "name": "Ancient staff",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 4676,
+    "linked_id_placeholder": 16476,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100000,
+    "lowalch": 40000,
+    "highalch": 60000,
+    "weight": 2.267,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-04-18",
+    "duplicate": false,
+    "examine": "A magical staff of ancient origin...",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABP0lEQVR4Xu2W0WrCMBSGc94gj+AjeFOGjIJDikhFLILFQWUqTpnbsGPCQO988DNOXDQeh+zCneSiH/zQpof0IyeBKFVRUfFXAPmIMCRwykjnP8+inAQGKsOuSo8pdOEIigBnAhSSshKxik0SlUiKnbeJhEhgqqemZfRuQ3ICUoe9YmPb5K6KXT36vtDP/y0FGKnIxK6KK0djfBXrtZoJn+mGHH70vlxe/NwVcMNnuDGA8/EY99utLwEXwCLP8asspdpxDcB+mh5b5V0maTZxMZmEIXMXRaZVQcgMej3TJncT8yohADutlmkTP1G8UgDA+0YDnx5HuNtsfMsQgMMsC+d4d9tt/FitwpB5iGN8mc1CkCHgYt/wCkEC2zd0xD/fXsOQce8y3mXoqkkypV6b0BivEub3CxavEsVKBCHjm29fshehvCwihgAAAABJRU5ErkJggg==",
+    "wiki_name": "Ancient staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ancient_staff",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -1,
+        "attack_crush": 40,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": -1,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 50,
+            "attack": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

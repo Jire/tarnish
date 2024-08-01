@@ -1,0 +1,86 @@
+{
+    "id": 10581,
+    "name": "Keris",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16723,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 10000,
+    "lowalch": 4000,
+    "highalch": 6000,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2007-01-10",
+    "duplicate": false,
+    "examine": "A mystical-feeling dagger.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVklEQVR4XuWW3UvbUBjGPf/B7r0ReuFtGciQIXQUKUMRi8WQFcVadDJLoXO6TUTchyuu1ma1jW1j1qx11GYW3cY+RNwHYxf7q57tPSXpjMy7nAh74IVwSODH8zzvIV1d/6cYnCceiuFTcwqXBIrh69EMWkYUlVz4MkAxHJsxNCoS8ulhLKcCXkMxnB7G8eblLTR3ZQQCgxzI39PjFRTD4uIKZmcTiERkDAzcQK/vipcuMSQS9zA5OYORkTH09V2zHfLAJYZkcgnx+B1I0gSCwZvw+696FRlDKvUAc3NJRKPTGBoa5e50dxOIcCCGhYVlzM/fRSx2G+HwOO+Oz9crMi4qaXuoxNSbf0UlBIa6QvGQI/RMW2VF1d9/XSwMxUOOWEDkCm0VRfX3vSMAhtQBIlfo8qMhZ0KhYdEwpE5nCIicIYcIiIosaKM6BaYp1T6joL9D7kXpDJB1I7sMxFBtfoPWOEW5foxi9QOMuomsomK/HIIsT9mbJSCuNgyBqMZH5HffoqLvcZh6cdAeyzmXYUgMeuMLh1G0I5S0OjJbRehKkI8TxHWYVwc/eFTUF91ocGdW1tZFg1hiMMzvvMBbOwcoqDoer2e8ACG1HdBen/CoqDfPN7dF9cQphr3Dn3ZUmcI+lO0KVh+lbSDnFy6qA1OtNXmJ80UNzzZyXrjDoJRbZ0Boo56ms3aRhcLwiP4Ul6K5/3AVydSSvU2C3WEw3/9CVjWx9mQDkjxxDkIgDInhpDWNnc1RhMfGz4E433ZZDDU1glImgJgk9HfzInnSk4vlYURcvwFa/Qvjek3/7wAAAABJRU5ErkJggg==",
+    "wiki_name": "Keris (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Keris#Unpoisoned",
+    "equipment": {
+        "attack_stab": 40,
+        "attack_slash": 20,
+        "attack_crush": -10,
+        "attack_magic": 2,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 2,
+        "defence_ranged": 0,
+        "melee_strength": 30,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": 5692,
+    "name": "Mithril dagger(p++)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 5693,
+    "linked_id_placeholder": 14663,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 325,
+    "lowalch": 130,
+    "highalch": 195,
+    "weight": 0.396,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-07-11",
+    "duplicate": false,
+    "examine": "A poisoned Mithril dagger.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABe0lEQVR4Xu3VMUvDQBQH8LxvkClLlkAGwUlcMrgIIg6KUBSkg4tLFocKdhCcXBXsooiLDqIoilIUBxXrIMVFlCKIX0BE/Ax/uXtcc2m6+i6DfzhK0uF+vPdy53l/HkLvG0dREMJaI9C/vf8KJoOYpZ6HosgFKg9xDCKk6apepQJVKjW9HIPyGHslSbU8IBsjCCoVRqU/qFQYR3OjUgT9typLESSMsS/IIkZ4bgjNC7URX5z9QOLV2d8LNer2hmEOMSqEjfUAhwchLpuMaj/GrjAqhKWaj8ZmgOMjRt3fRXhqx3h5jq1WioZQX/axvRXg9CTE9VWG6rzG+HgfkEYRZkY8LEz42N0Ju6iHFqO+Phkk1DrC+LCH+TEfi9O+3lgN+fkZo0zLBGeJq5NOMoY3zY4AAxHDTCVcnZU5G+R5whATQnXUR302wwgD7HB1zNw4xqiQ/op+vgdzrXIUxrx1+OBzXB3S14S6IsxJ7BBjQt0zxnF17JQKw5HG/AKK9bIQckH8FgAAAABJRU5ErkJggg==",
+    "wiki_name": "Mithril dagger (Poison++)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_dagger#Poison++",
+    "equipment": {
+        "attack_stab": 11,
+        "attack_slash": 5,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

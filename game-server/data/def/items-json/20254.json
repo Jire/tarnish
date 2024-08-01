@@ -1,0 +1,77 @@
+{
+    "id": 20254,
+    "name": "Hosidius banner",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20255,
+    "linked_id_placeholder": 20256,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 70,
+    "lowalch": 28,
+    "highalch": 42,
+    "weight": 2.267,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "A banner made of redwood bearing the Hosidius sigil.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACtElEQVR4Xt3WQWvTYBgH8PYb5JRLLoEcAoVCKZRSpFAPY4wVGfRQRApOmMrYDj3UbUyhTIpjTKmbVh0FFVERETxMhiCMgeBBEC8i+GUe+3/SJ3mbpGK7vBN84U9D8ubJr0/etEml/r+Rpmj+2UjTbMbiVNwgGlBScFzhoBuNnEEXswbVMimquimacbwk2K00lW2v4LWCEVM0TZeKLl2vZGmx5PJ2veAwRgUlCIuCcrbtFwZkqZzxu6JGcEgtH8Q15YtNBYuCkCt5g2+PGsFJ0DHpmkSASNCxiUY8aKVo0I9DZ2x+fvhzfh25VM16nfY6/tcjHoTtk8c2fXnt0Ne30dS7Jl3uWxxsY9+3dw59f+/Q5wObPu7ZyYM+PbAZhayvznMEYbRMWnlV4GBbIvMBwno6ExAuLDCAZFuO4byjriaQoO7vrHFOXgz2PbVHECrquOedoxWECGjvzjKjjp/b/NlwNzjSSawnzD+8Z/OTpg0ECHJ366p38SGmbrQ4crsAQrSAUBQARAVJVJAsbsBwnhZQZ3MxFoT9zbkdH6Q+berawg9l4iAVJRhAlksdPzcqDyO3zNzeTRaEvw4BhaPeKmBuLjziyNNm7vfI7GwnD2qvNSIY7BsHkn0IQPifSxSEH8Iwql3r+4ClzG2OCgHW7O7rAWEdCMpPCCTraASjDYTCg/UwghoDYgzWjgLCK4oWkNU7IOtJnyOAqtHkSGcQzPNRWkC73QA0RKkgWTdW/1kwByicpwUU7hAu/PLNaIad8yOoAQhvmImCVs9np05zJpccyCvgvca2ZvNcHMHxSSK1EgJ5xzbKBm3OFzjrc3kOkAwtGbHBF5kSIyPoSrSIdwuRrYUip32hwAlD1bnROhMOOTmuSFA8TbcqJnetdS7oSBhxasxkI+hCHCQ8+0xGuBOngfwG/vWxQtZ7OoEAAAAASUVORK5CYII=",
+    "wiki_name": "Hosidius banner",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Hosidius_banner",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": 12,
+        "attack_crush": 12,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "polestaff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

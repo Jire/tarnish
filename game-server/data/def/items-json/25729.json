@@ -1,0 +1,84 @@
+{
+    "id": 25729,
+    "name": "Clan vexillum",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2021-05-26",
+    "duplicate": false,
+    "examine": "While this is equipped, you'll see an option for recruiting people into your clan.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB2ElEQVR4Xu2V0UoCQRSGmzfoEexGpQhUCpFYSAxCuupK6kKIoMQ0FEylQNRAkjBNqouki7CLIugi6Qmi5zp1Zp11nE3XbHaU6Iefmd2dnf/jnFmdmfmbIiDeMQvXjLLu1yLw2Fy3CCNQL27B5em2xTopInB7/ARniRsujA8lkE0dUiCcexwO6t5zqSJwnW1TNzP3UNyr0VAEYC3Kp9P0OpNMGEDiLpLUg2Hz1skzFHbPIRzYpPewRQjEw9gOxIOh26UO5OIarUq1VDQqpQRmkPF5o7ABLscsvLT164nBMCB0PX33BTVvJ5A1jOhaqgU+V6ALKVU/h+GhWKXEXcfU+DBofD8ZyY/wAzqyxgfi32VnSdJ56oda9nhM4aKVwXi9XlO4aJtg9M+XD1ry+435gtttAhEtFaa834DKwZWx+ZzTScdgKNQXqnGQPIhEGCa9OjwUGlu2pml0zkYRhoFIhEERaFWC8FB+o1AiGN++72DE3SRJL33n4oPCiQDKYRAiH/PREaH4Q44VY8AKYFAEmgWNwrDQ19o7HRkMf1ZshkERqOb0P8ZeoA6F5yoZXeyCKhGBo3h4QCuUtglFIBZdHRqotE07kZWhMAplXZkJaKpgdE0VzL+mXZ9c2d5lGwIZRgAAAABJRU5ErkJggg==",
+    "wiki_name": "Clan vexillum (Purple)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Clan_vexillum#Purple",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "banner",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

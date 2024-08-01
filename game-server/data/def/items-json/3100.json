@@ -1,0 +1,86 @@
+{
+    "id": 3100,
+    "name": "Adamant claws",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 3120,
+    "linked_id_placeholder": 14327,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1200,
+    "lowalch": 480,
+    "highalch": 720,
+    "weight": 0.907,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-08-09",
+    "duplicate": false,
+    "examine": "A set of fighting claws.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB9UlEQVR4Xu2W0WvCMBDGzX/im0+CLyI+CA4pIoqsVCw6FJ2IsCEIMpD985l35ZrkkkitqYyxDz7QUu9+/ZJerNX+9bckZHkHVVb0ZTWQ0SaSk4+JHL+NDc8Pc3T6uci9/drmDgSWFelMOrI368n+oo9A0+OrTM6JTC9pYaAAYEI2e03ZGrQQqBt3EYqApuup5SJAJthdErLRbSBQe9TOUyIgvmRgguK295OQrXodzbveUAbEU4J9xJMB+4DW503uB2BAJhClBEA8GdpDPAWwDsTBeMcCUvuIgMCjdIT2LZeexC24kmD2UxMQh9KXKtknBhiH0wHvhqKCvsIu7y47fJt4Eq46JfcUyG6sF3Q1A7vASCVgVGEYjDSth7uhHB/GOLV5E5IPznd/AZlT2gWjgOyn16XDlUhFl0qGg8DGjd9jNM2jW1CkB2BAAlPRm+YQ14nNgfS3i1cKKPWq84EIjk8mEAFWCHX96xEP0AAFcyaaRfiZp0IzaHVa5fuFVwsggcujA0EKOhB8Jyg66QmKVwsk/U0SCEHLYi+TkPvvffVQfPCpZkIuj0tMRi3Tk6CUsuNBBzAhs3sISt1XqdwAZnMTSv22ErkBKDn9PvDToOy/EHZzWlZ+vSJlCZh7xHdm+a4HlSsl/5nlux5YT3ny+/SrYKrSD2ZX3TanOttuAAAAAElFTkSuQmCC",
+    "wiki_name": "Adamant claws",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_claws",
+    "equipment": {
+        "attack_stab": 18,
+        "attack_slash": 23,
+        "attack_crush": -4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 6,
+        "defence_slash": 12,
+        "defence_crush": 3,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 24,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "claw",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

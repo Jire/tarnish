@@ -1,0 +1,77 @@
+{
+    "id": 6416,
+    "name": "Maple blackjack",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6417,
+    "linked_id_placeholder": 16446,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1200,
+    "lowalch": 480,
+    "highalch": 720,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-08-15",
+    "duplicate": false,
+    "examine": "A solid bit of maple.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABX0lEQVR4Xu3Sb0dDURwH8J13sjcQM2ZmxjJXZq8lepAk6UGSJKn0R1ZZlmVRqYgkJpJIokiSpAfpQa/hm+89ftfZ1Z7+TnS/HMc5Lvfje36pVJIkSZK4MbDLawRh8LFXxXMz8Iky+D6u4XO/ivf2AF52AjxtV/DYqPhCGXwd1sJmXltB2I6AHra8oEzYzNuubScOut/o10aZCNELdFf3gOKPiRBYHHSzVtZH3a6Xu2DceeY9QderglKDmfDHcZg0RNDVcgmXSyVd1G8w7i6os6CIyqTT0dMQxoYI4kzxLKDzuaIeiukFY3NEEXQ2W9BFMQI7nSlEMC4+H1G8V0fZ2LZcGOfqYr6Ik2lBKcPcZxQYF2eK54PJvANTxMVhnCtBtSdy2BzJYnGwTxfFuDAOOBtqjmWxMpSJQPYb9RgcTeXRGs+hPmwxRHkEMQaNUfepLMYjiOmGeMbY/BlIkn+THyDQiZ2OjMGeAAAAAElFTkSuQmCC",
+    "wiki_name": "Maple blackjack",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Maple_blackjack",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

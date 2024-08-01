@@ -1,0 +1,77 @@
+{
+    "id": 2460,
+    "name": "Assorted flowers",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 2461,
+    "linked_id_placeholder": 16980,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.028,
+    "buy_limit": 150,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A posy of flowers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADk0lEQVR4Xu2W/UtTYRTHu//EftkvF/wHJBAZMlBkP0gSQmKYGKaYgi9oYmqK+JY6W77UmjhTh29zzjm3qWPOocvMLLOVQUT0t5w65/Y89+46o3Xnyw8dOOze5z57zud+z/d5tmvX/sc/hwBSXokQwC++ho20gz9AXRiwBBMPpC4ugGPnhFI9fnqu5pCBgmmHsCJug1MMgkPv5cVmd78QzOT2J7pPF0X6tHiiPFMIJbcLgdbEKEEtiyECY+ogzPhWDOzhGI2N+t/C8No+PF3do5RBNYekwrdjE/z4bIKvR7kQ28+BeXEdXupXuEoIYw1+gJODXPgeM4Et9BGeb77nYCkCEqioRW+Ho2g2HO/lwEEkG/bDRlIJodp0fWBejpAKWBznIBRCIwhrF8JoBBKoqF3vArPOBrubRoisZ0HIa6CcFf30/IV+DnrngtDtCMDhTjZPBj7k3k2Vh+KBfEuZsLqQCStzUnY4Kni7WL4KGSmV8KicUil1lSRDKjSmdxBUh26QWoRjNeYi6HZWKbwhQNgvQWx6DPwFlMApaRvuJGwP+qVHN0pg6Cl81jh2RwEkzW+xLkDT8Ay0T7iplf3OrVTAyG/1rCEAE81huka/jOsXqY1sh7VMlP2eK32va9pHMANL25LRfW9gbP2dYk7SIcBInZdA8Nr+MEJ+QKPOtP06U2o9/BlmZXcBtE7e4/cIgsrgNYLgzmsYKeYqqav9RQi86FRrlPyA3mAmnWzZAdsDqSDzDvqpc7aSQ7HMyk+HkuY8gtYAhCEviuZEkMCygUzqcmSozCzNV/pJ9osARfUmKGvP5yrF10kqJCC2zRenM2CgyknKmatd0O+pVaghzW+2lSYoKsDd1htQ1XdLi0oCWBs3qPhovY9AeiocHOhJjZvMPOSrh15XNQfD1sSbXFrLWHAdyjtvalFJIBA0NxZHEJYIhONYBP2B7Rv01vE2op8eTZWfgsK2VfcXalMJW4MQaHJMhGNqsMwrNZB/LIEGeOyuoTFUomv+vgJKgJzCDFJQg0oY8cXZ26mNi1lYm0s/J6yNTdYSPp+thQZHBePHkww1QKKFGBiqhQXR8OgZ2eSyUtg2jSolE7JaaG4sjoemEsxUnAl1lttn7MhzCGUb0TNYHFup3o0aT+/kQwnGTC8DSMZnflJ/95xDID8lMjm7vzCV5BDopFYfmpcEw+KsQ/NSQ/KO/M/gSsSleidxJAPzE4Gil2FZA655AAAAAElFTkSuQmCC",
+    "wiki_name": "Assorted flowers",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Assorted_flowers",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

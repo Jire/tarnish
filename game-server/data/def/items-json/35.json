@@ -1,0 +1,86 @@
+{
+    "id": 35,
+    "name": "Excalibur",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16525,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 200,
+    "lowalch": 80,
+    "highalch": 120,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2002-02-27",
+    "duplicate": false,
+    "examine": "This used to belong to King Arthur.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlElEQVR4XuWV/UoCQRTFvW/iI/QCgiEhYX8kSGKSRJJImmRmZppsREb0oYlfKRFR73ni3m3WacH+c2ahA5eFYZb9cc6Z2VDof4jgX7EowufrFAGBInxMJngbDgVoLRy2CUWYvfQFSMFYBCJM+z18zWfBcYdB3sdjGctAi6gCAORGxRAKyHJ/3KgYRo11d3QY60DzwSAoQITx89PSuKwAcVzskP9kWYBhLQfy7zQgwujxQSLj+0e/mQ0C8Z9b/b1dIHaIgdglw+4Q2vU6Oo3GD5RbaAVkxZ2z4zLurx35uIqLgdSaQRgW4c7peO4oIJ5FlHqkKxfhKJ/H+UnFA+JRkLdXbYmUXTQERdiKx7GTTOIgm0WlWPQcuWm1cFmrCbDqmKH4SPrCrrAjmVRKYE5LJezvZuSpYAwAuU44zaa40Ot2xbHtREKGXTMIwyKJ5aJa1Xrye4zCMARHUi4UxCUdQB//mysQCQQX9jCXk64YdsMvkn7spdNywvTi+ncaEmE9EsFGNIrNWMy2O0pWivu3DBc3ePoGJEi3eoT8/88AAAAASUVORK5CYII=",
+    "wiki_name": "Excalibur",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Excalibur",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": 29,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 25,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

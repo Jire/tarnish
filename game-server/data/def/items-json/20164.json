@@ -1,0 +1,77 @@
+{
+    "id": 20164,
+    "name": "Large spade",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 20165,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 3.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "Can you dig it?",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYUlEQVR4XuXWwUrDQBAG4Owb9NRLL4EeAoGC9OKhFJQcSimIAWmxIIQKUqg5pFUQqRIRacWLbzwyu67J7kZ7ykzAH5Y2aUM+Zmabet7/igD7DFMQIuBzv5evjDB1813+/LMQVcBIY0LshZ8f+T4V6m+MrhRRlQ5jCFG/Y96ets45XDW3rhp0CFMjCGOimDE67nZnxGAUZr1aOZgyyL6qpgh4f8nhLr2F0+EQHrKsEkMKQkQyv/ze0gIeNxs+zMcyhGkcwziKSq1RMHLM7iaEqN+C0PccADnmdRHC+LhdiSGOgDwJJKYftPgx26sAzgdtGPTYMRgB05NOczDzqCOHuBGY64kv56YRmDRmw+g/5MW6n3XlELNg8OZYjeyiK9/jjsIhZsBgVGvsCiWjAmRfUXPU4JrVKJAMIIyA5ZmukjrG1jGCMGbr0hlrhXSEHGx8ZpV/DO1vEcccboZd5kYjKDFf6UPEvI5m/AwAAAAASUVORK5CYII=",
+    "wiki_name": "Large spade",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Large_spade",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

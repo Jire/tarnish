@@ -1,0 +1,63 @@
+{
+    "id": 797,
+    "name": "Giant Scarab",
+    "last_updated": "2022-06-28",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-01-10",
+    "combat_level": 191,
+    "size": 3,
+    "hitpoints": 130,
+    "max_hit": 20,
+    "attack_type": [
+        "stab",
+        "ranged"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": true,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [],
+    "category": [
+        "scabarites"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 137.0,
+    "slayer_masters": [
+        "nieve"
+    ],
+    "duplicate": false,
+    "examine": "A huge scarab.",
+    "wiki_name": "Giant Scarab (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_Scarab#Normal",
+    "attack_level": 169,
+    "strength_level": 190,
+    "defence_level": 169,
+    "magic_level": 1,
+    "ranged_level": 190,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 70,
+    "defence_slash": 99,
+    "defence_crush": 99,
+    "defence_magic": 159,
+    "defence_ranged": 149,
+    "drops": [
+        {
+            "id": 10581,
+            "name": "Keris",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "id": 6618,
+    "name": "Crazy archaeologist",
+    "last_updated": "2021-09-02",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2014-03-13",
+    "combat_level": 204,
+    "size": 1,
+    "hitpoints": 225,
+    "max_hit": 14,
+    "attack_type": [
+        "crush",
+        "ranged"
+    ],
+    "attack_speed": 3,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "bosses"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 275.0,
+    "slayer_masters": [
+        "krystilia",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "When academics go bad...",
+    "wiki_name": "Crazy archaeologist",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crazy_archaeologist",
+    "attack_level": 160,
+    "strength_level": 90,
+    "defence_level": 240,
+    "magic_level": 1,
+    "ranged_level": 180,
+    "attack_bonus": 250,
+    "strength_bonus": 25,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 75,
+    "ranged_bonus": -15,
+    "defence_stab": 5,
+    "defence_slash": 5,
+    "defence_crush": 30,
+    "defence_magic": 250,
+    "defence_ranged": 250,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 11212,
+            "name": "Dragon arrow",
+            "members": true,
+            "quantity": "75",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 385,
+            "name": "Shark",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 6705,
+            "name": "Potato with cheese",
+            "members": true,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 2434,
+            "name": "Prayer potion(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 2297,
+            "name": "Anchovy pizza",
+            "members": false,
+            "quantity": "8",
+            "noted": true,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "499-3998",
+            "noted": false,
+            "rarity": 0.140625,
+            "rolls": 1
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": "4",
+            "noted": true,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 239,
+            "name": "White berries",
+            "members": true,
+            "quantity": "10",
+            "noted": true,
+            "rarity": 0.046875,
+            "rolls": 1
+        },
+        {
+            "id": 442,
+            "name": "Silver ore",
+            "members": false,
+            "quantity": "40",
+            "noted": true,
+            "rarity": 0.046875,
+            "rolls": 1
+        },
+        {
+            "id": 1621,
+            "name": "Uncut emerald",
+            "members": false,
+            "quantity": "6",
+            "noted": true,
+            "rarity": 0.0390625,
+            "rolls": 1
+        },
+        {
+            "id": 11929,
+            "name": "Odium shard 2",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 1623,
+            "name": "Uncut sapphire",
+            "members": false,
+            "quantity": "4",
+            "noted": true,
+            "rarity": 0.0390625,
+            "rolls": 1
+        },
+        {
+            "id": 1749,
+            "name": "Red dragonhide",
+            "members": true,
+            "quantity": "10",
+            "noted": true,
+            "rarity": 0.0390625,
+            "rolls": 1
+        },
+        {
+            "id": 686,
+            "name": "Rusty sword",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 991,
+            "name": "Muddy key",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 9194,
+            "name": "Onyx bolt tips",
+            "members": true,
+            "quantity": "12",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "rolls": 1
+        },
+        {
+            "id": 11990,
+            "name": "Fedora",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 11932,
+            "name": "Malediction shard 2",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00390625,
+            "rolls": 1
+        },
+        {
+            "id": 1731,
+            "name": "Amulet of power",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0546875,
+            "rolls": 1
+        },
+        {
+            "id": 9185,
+            "name": "Rune crossbow",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.012658227848101266,
+            "rolls": 1
+        },
+        {
+            "id": 2722,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.013157894736842105,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03333333333333333,
+            "rolls": 1
+        },
+        {
+            "id": 2501,
+            "name": "Red d'hide body",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 868,
+            "name": "Rune knife",
+            "members": true,
+            "quantity": "10",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 4698,
+            "name": "Mud rune",
+            "members": true,
+            "quantity": "30",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        },
+        {
+            "id": 2,
+            "name": "Cannonball",
+            "members": true,
+            "quantity": "150",
+            "noted": false,
+            "rarity": 0.03125,
+            "rolls": 1
+        }
+    ]
+}

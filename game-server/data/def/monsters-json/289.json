@@ -1,0 +1,81 @@
+{
+    "id": 289,
+    "name": "Ghoul",
+    "last_updated": "2021-09-02",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-10-14",
+    "combat_level": 42,
+    "size": 1,
+    "hitpoints": 50,
+    "max_hit": 5,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "ghouls"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 50.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "It's totally savage.",
+    "wiki_name": "Ghoul",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ghoul",
+    "attack_level": 30,
+    "strength_level": 40,
+    "defence_level": 30,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 7881,
+            "name": "Ghoul bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "rolls": 1
+        },
+        {
+            "id": 6799,
+            "name": "Ghoul champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        }
+    ]
+}

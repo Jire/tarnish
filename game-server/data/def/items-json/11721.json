@@ -1,0 +1,86 @@
+{
+    "id": 11721,
+    "name": "Iron pickaxe (nz)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2013-09-05",
+    "duplicate": false,
+    "examine": "For use in the Nightmare Zone. Doesn't work for mining.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVklEQVR4Xu2WwWrCQBRFxz/JriAIRSgupCspIopUFMWKUpRuii4EF3Xnnz+5GR6ZTCaJOhPyKF64JITEHM88kij1v9KgdGtNg95bij7aikYdRdOuqhrK/vfZLmcz2q5W9Lvb0emwj4+9RlFoKH2zUb9f2ul4HEN9fy3p73gMDaRBPofDzI3z+vailwyW1ouFYc87GiQPZtDrZdqMVDxDKAPBVkCw7IwUFXZcQPPJJO7PZuMPhvUvK25g2nEBYbZQ7POwe4EVJ20HNc0xEC8/tjh2OZ+rgHLD2Aa5PH/Ywh6fa/+qR9JAJox5lgsO1vB4CGgp3459phkbDvMWCEq/KmyYMiAzDHbvdY6k7WD/Fjt5efQ6I/52Auax2akwgu3UDIMkdnwHOUAE2xExyE87xUmARNjh5cL3sgg7DCTADqI/UQU8dzgaCBUChOiPKQHLlUQUTJ25An6irST6R34OAAAAAElFTkSuQmCC",
+    "wiki_name": "Iron pickaxe (nz)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_pickaxe_(nz)",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": -2,
+        "attack_crush": 3,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

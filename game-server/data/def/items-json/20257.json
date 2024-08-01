@@ -1,0 +1,77 @@
+{
+    "id": 20257,
+    "name": "Lovakengj banner",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 20258,
+    "linked_id_placeholder": 20259,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 70,
+    "lowalch": 28,
+    "highalch": 42,
+    "weight": 2.267,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "A lovakite banner bearing the Lovakengj sigil.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAChklEQVR4Xu2Wz2sUMRTHJ/9BT3OZS6GHhYGBZWEoUgpdREqhiLBiqaXQ1ssiCCoqKj0ICgqC6EGFqiAIhYL/Y/Sb53c2+2amm8xYvfTBl+zkx8snyXvJJsmlXdpfN2Pnyzbz2/Fb99ffnczYjSJzzlnqHmLGPtse/Gk39u1O7n1L+3S8fM74YKsDDZfheL4PAB5vrbj2j/tD+2GvsMfXBx6Ese92C3urPG9RQbYIyNhvRyMHAaiXk9zB4BsC5OubuRPaX9wYzO3kzE+wLQY6nZYO6vOB7My1IrE/j7NKn+6lrh7tgCpXEptnog5Qxm6OBISlANUDmFAAItTp08z+eJLZ9UFSCUC+IqHqQBCORkN9ORzOATWJ46mtIvUWGWTNQIgJ3zF2h0ekIbhbrw5TezVfqsYgxriw3kDMqoO1rIoPDeTHEfVgU8YABmMAhDrxG2TGbq9KzLCEEMiAQirTOaHagAiAMRAWghJ+InapGejsblk5JYgGWiQuhDCdgbRjXyFAzDYAcYGBMLA60Oy2/V03igPi8b25k9rbqxJ/uCzFX5AZO1mToGOJbUaW+fERAuT3P7mfORDEVGSm1YH4VqH0J9FwbTAUgpnPSi8gZpSfWbFAfOs6ZZkGwo3MW7kvEHYaigLa2RAQltq5loZpAqL41v1zoLPnmRMAKIBQvYAwAdL2/TR1fy2+PhSnbTBNYL5wdfQCggOk7fdHslK9QyEizKRM4oH2xnJxsaT0JF1EX1FPhwaaDZbjQ72eaJF2r8jfEPoKhIE1A/ntR+Mlu78uwkQ4ArxVgMWRoE4rcle0EaLNyewYCUcQgkJ+v2Y/EcbBbU78Y2yTfzxtfi7E9MT/BeIi7Rf+JyGi3GJKswAAAABJRU5ErkJggg==",
+    "wiki_name": "Lovakengj banner",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Lovakengj_banner",
+    "equipment": {
+        "attack_stab": 12,
+        "attack_slash": 12,
+        "attack_crush": 12,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "polestaff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

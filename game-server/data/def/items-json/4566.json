@@ -1,0 +1,77 @@
+{
+    "id": 4566,
+    "name": "Rubber chicken",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 18114,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 0,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-03-21",
+    "duplicate": false,
+    "examine": "Perhaps not the most powerful weapon in Gielinor.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACfklEQVR4Xu2Wf0uTURzFve+gl7CXEP4T0j9FREQhRSPJMDTRDZuiTh2OlKExQjS0kNQK1zTUypRC16plJSIiIhIiSoiseh1Hz73c58fIPwSf+0R04MI2f+zDOd97vk9R0X8dSQLu46sEvj6pxXTvTTyOX0FHzVm/oQQ2Xzdi8VkIsw8q8LTzmt9uCfz8kMD2TDNW0nXIDlahPXDCOj5ACezNtSE/H8Puu1asT9SjpeK0BXMyEJCn8K88lsDObBQ/3rYgn+3A3MAtP2G07LkhVOZRpR9xuWU7ouYqlQgWDPhhx4gUVDJyAd11510nETrnOkahlkZDGLl7VXbUYKwUD1svoz96CX1NFy1Yg1BqnthPLM5XPeWYun8DE8kyCUiYngYbzACUio3FyTZfGKlBbqhaAqa7gtIpu9mN3MoDoI/dyGfi+P6yERuTDTJClifdYqvTIfaWBir8D8csgV+5pIyNUGzztRcR6Ra7itFxrhhXpKzETGQEYmxscjY64+OKYXyMjtXA6OK3z6CqtNhrKDVDbHACEIqvGd9yKmxFx1tIl8LBU15Hp54E6AgBGBehuGa483R0dIlXX8fmIRAlrDWyOnZHOsTotqab5Hv+jMNNWKPDrVcKndFQBKJDjIwDzig5T2qOPJ0ltefUKyG/mLHx/P7SK+dLQ/AmEo51YARMyb1c+RzFJne+Z4GO37suW9z9+x7J+WSgH+y4TvQXs7sWv7VjajKM1Gg1hocqMdBf7i2ULSFvH6NzrpLVlU5k5psxPlZrfWZgvWgpp+hI+rmaqYXPMeQ+tcnPDMNoKVdm3tQ7Zsa4M04JZN9HpStOCJ9gtHx15M/6q2D+Ge0D6XZskviK1fgAAAAASUVORK5CYII=",
+    "wiki_name": "Rubber chicken",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rubber_chicken",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": 7526,
+    "name": "Vanguard",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2017-01-05",
+    "combat_level": 0,
+    "size": 3,
+    "hitpoints": null,
+    "max_hit": null,
+    "attack_type": [],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "xerician"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Formerly a member of Xeric's elite tactical unit.",
+    "wiki_name": "Vanguard (Moving)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Vanguard#Moving",
+    "attack_level": 0,
+    "strength_level": 0,
+    "defence_level": 0,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 20895,
+            "name": "Vanguard judgement",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20924,
+            "name": "Elder (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20936,
+            "name": "Twisted (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20948,
+            "name": "Kodai (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20984,
+            "name": "Xeric's aid (+)(4)",
+            "members": true,
+            "quantity": "1-2",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 20960,
+            "name": "Revitalisation (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.5,
+            "rolls": 1
+        },
+        {
+            "id": 20996,
+            "name": "Overload (+)(4)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.3333333333333333,
+            "rolls": 1
+        }
+    ]
+}

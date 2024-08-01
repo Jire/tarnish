@@ -1,0 +1,16 @@
+{
+  "max-players": 3,
+  "wog-active-time": -1,
+  "wog-contribution": 3000000,
+  "wog-last-contributor": "<img=1> <col=ffb83f>Settings</col> (3,000,000)",
+  "contributors": [
+    {
+      "name": "Settings",
+      "rank": 2,
+      "amount": 3000000
+    }
+  ],
+  "personal-store-worth": 0,
+  "personal-store-items-sold": 0,
+  "pk-bot-loot": {}
+}

@@ -1,0 +1,94 @@
+{
+    "id": 4170,
+    "name": "Slayer's staff",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 4171,
+    "linked_id_placeholder": 14044,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 21000,
+    "lowalch": 8400,
+    "highalch": 12600,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2005-01-26",
+    "duplicate": false,
+    "examine": "An old and magical staff.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABYklEQVR4Xs2X0WcDQRDGb/6T0IdQQoSKqJCKiMo5To9IKxGpCNFUCFVKX/qHT30zHXt3TvvUm/2Yl7tlf3a+/XY3Sf4Ucf1LS2qamHhbzLj537+K+PC4aJiYeJ3fyfd+p9MmFPH7ccmD3tUPVKhVNvEAgojfDoUUwKa3fQEpFmMvIEhXBVAfLyvxTz4feQIliU4cWnY/ufEFMhmYtc4dSOVq6rq0ZadtFgMQiZlRz8t5xVNaLiLZaVbjYU/i4LprpndRWBUEJ8o5l3S3laMAGZVOh56rFFQGszioj3GRgVVDNAoRn3d5qYXuYMRfl41A4ZqCnRgFFGLh8/VJMisaKFRUUGZwQJmn3LKqqqgOZIjiaZtKTR5eK+5xEM49O4ydD2SI+LJ/kEJGwVOjQdcfyuq4TqWF7uefRQFWCQ9RpLm9YupjW5ZCnfc5F6nzfUqlQKddxuksmtAMngqXPmcZyG8w3xz6FH/cKKp9AAAAAElFTkSuQmCC",
+    "wiki_name": "Slayer's staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Slayer's_staff",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 25,
+        "attack_magic": 12,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 10,
+        "defence_ranged": 0,
+        "melee_strength": 35,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "slayer": 55,
+            "magic": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

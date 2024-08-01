@@ -1,0 +1,86 @@
+{
+    "id": 20368,
+    "name": "Armadyl godsword (or)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 20369,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1250000,
+    "lowalch": 500000,
+    "highalch": 750000,
+    "weight": 10.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "An ornamented, beautiful, heavy sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOElEQVR4Xu2WzUsbURTFvf+J0J0rcVOKFCIiWZhFgwWJEjEESSktJA10EygRISgqEdH4EULUWENCKG3T2oUUuyh02a78d069b3gfMzEawryZjQcuCfPCnN+ce9+bjIwEJoKu0EXodH6g0fiE4+PzsKEIFxdfFEy93hJA46OjNqH6tYPQbH4VEJVKXQBtb1dsAxG63Z+qNBSh1fqGk5O2gDk4OFXQDGMRiOUYXV7+Uqbt9necnXUEzO5u1QViGUaKcHX1WxjzAEuYcvkwqFS8Ilxf/8HffzcKZnNrPywYKUKt1hQw6+s7YcI4c8PJ8I7iQT48aohPZy1Q6VS4isUNNdiWEzLPGvOpCXt7NZHMXbvJZxh9pkzH3rhKgjEMnzFcnJQEct/Dl7YRnkdXlLGEMGHOP34WyZRKZXXNnYo+NH2Dcm7uBpHXeHC5TBBvOhKmd21o6XZJIC5+Ycpk7jd7aH0oORCxREGAmX8jNGh/+QwjRcjmqngaSYjtbbZOfw9MhNy7GpaW1xCNpsWwmy0cJCUfRcjn60gmi5iaTgpjBorMvuo5BiylZD4pYXW1i8RCAZHbVnnbZB4LFgaXRVhMf1AmL1MlxOPZO02982MBhnULkXyPTG5HtGRsIuoy7DU1U7IiwtxCHkuZNUzOpDDx7AWejE0+YGglIX3gMRCnJGsQw/vWhhAhkSqIVNJvNzEbzyi4QWAsyTGPz2cVUP+5CUQODO+w2NxrBeT9VcAKvU29CrlNjxpI/wGo1BGlkUwg8wAAAABJRU5ErkJggg==",
+    "wiki_name": "Armadyl godsword (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Armadyl_godsword_(or)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 132,
+        "attack_crush": 80,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 132,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 8,
+        "slot": "2h",
+        "requirements": {
+            "attack": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": 7258,
+    "name": "Shade",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-06-09",
+    "combat_level": 140,
+    "size": 1,
+    "hitpoints": 115,
+    "max_hit": 15,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral",
+        "undead"
+    ],
+    "category": [
+        "shades"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 115.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "The shadowy remains of a long-departed soul.",
+    "wiki_name": "Shade (Catacombs of Kourend)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shade#Catacombs_of_Kourend",
+    "attack_level": 130,
+    "strength_level": 136,
+    "defence_level": 100,
+    "magic_level": 50,
+    "ranged_level": 50,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 546,
+            "name": "Shade robe top",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "rolls": 1
+        },
+        {
+            "id": 548,
+            "name": "Shade robe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "rolls": 1
+        }
+    ]
+}

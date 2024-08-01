@@ -1,0 +1,79 @@
+{
+    "id": 12773,
+    "name": "Volcanic abyssal whip",
+    "last_updated": "2023-08-14",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15078,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120001,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2014-09-18",
+    "duplicate": false,
+    "examine": "A weapon from the volcanic abyss.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEQElEQVR4Xu2X/U9TVxjHvf/BkiVksWxr1mnVyYCyxmJDoGys0FIEi5KJFlsEZrOJqwFbIyB9GV07XtYOndOtWIPR2YESksWAY1MYcybLMrMsYcvekmW/7x/4rs89O+29Bc2spf6yb/KkL+fcez7nOc/LvRs2/K+cScCDLS9KLzh0aAcCrRoMOXUI2Eux7FNh+pgCE04FovaCNQBzDikg5jcjFrAgdsqI2EC1+D0eMCEetuLboAorY2r8OKrC4qASn3mUuHJUgfNdCrx7oAB9Vg6ZEwn48pQSYw4NRvaXIDqwC++89hJCLsMqL3Cw38bV+GFYhTt+FRb6legyPCeOlyiVuYASxJvSrn12LbydGngPaVILSE0Kx8H+OqvGiK0MzRWbcuElIbVLOoIjjdtSC6Yh2DypZcLNX7DD3VkhGctaghiwMz1KfNihkIFIF3WYt+CA9hk4LFvRvrsk5Qk+Z9lTjQvBJjgtL6TGspCA70IqMX4oe6QwHOScrwHnvPX4oKMcE51anBlswPjhHQjuywxiATcn2jDcXYnh3ppsoViQUjqP2dgCHCbeXYHJUKNoMY8hmU163IhYcKu/DktDJvGa0+3y9J+PteFaxCp6mzLvIaEEMYUpdqRHRZ+fRlqQCFuQcFfB79TD79DCf6QKl7t1uBptxZ3LDvwSVYtJQJ5Ne0tIbY4DPUQ8Me9QIPMbcqBpbzWmQ3V4vfJZHK3dBndrKdwtRTJv/PQeS/uD9VtgLGYbSriY16hwZgU02mNAcG9x6kIONNNXDc/+UnQ0l8ogMoO9x7gZh63b8UrRRhGGiiQZr+Tpuf9JAi69VY6LydYg3wkrktL4+HzQAluV6t/fbA6Zu0aN/uSGyMsX32BGQFnAkATcnnRg4UQldmueli32x2l2HP4WBvX3N72wlLNKTNbn0MHTsBWBY0YEXDW49KZC9BABZQlDoupchcnhPXDZtKu8RFBUgXWbnoS+qAD67U9BX1yI2uKNMOsKYSophFmrQL1BDVNZoQj0CDBcSaj4QYScWoRdlRIvsTFqC3evtOOraCOWP+nE0qgZU86dmDpuwNSAAdeSn1e7Dbh+ti0XMKRkP5rtwt23Wbat7tgCvojtw8JIA+Z8NZgbNSIRrEViZBcSPmPqCHMEwyWIR0MVm2qI/OjY+P2MQ+QQhkvAn2dYIM8eZyktHc1ceJ0gMsWgqOBR1mRCPSax7KJg9jQ+kXFE8nmr/1s3MSjy1vm+VxGpex6OJlbNua2dAOsqlvL3Zpz4fmIvFiNmLCZ7W8hehvAJC+6FVWJjzaKjP4oEsavP2V7EkteErz9qxs/X2zHT+zJmx/eITwr0YMdbRebV6yR5mq98bMXK+034fekkfo23ij2PPMWrdF7A5CnOFqUj489SVCYoK+mZKs9HyMTB6MVg/mQaklse6tNaYi8GUoA8FcsH6bF54/7KBcw/i4tZyW3EePwAAAAASUVORK5CYII=",
+    "wiki_name": "Volcanic abyssal whip",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Volcanic_abyssal_whip",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 82,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 82,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "whip",
+        "stances": [
+            {
+                "combat_style": "flick",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lash",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "deflect",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

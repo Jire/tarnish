@@ -1,0 +1,57 @@
+{
+    "id": 12191,
+    "name": "Duke Sucellus",
+    "last_updated": "2023-08-14",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2023-07-26",
+    "combat_level": 758,
+    "size": 7,
+    "hitpoints": 440,
+    "max_hit": 56,
+    "attack_type": [
+        "melee",
+        "magic"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "bosses"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 440.0,
+    "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "That's a lot of eyes...",
+    "wiki_name": "Duke Sucellus (Awake)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Duke_Sucellus#Awake",
+    "attack_level": 300,
+    "strength_level": 345,
+    "defence_level": 275,
+    "magic_level": 310,
+    "ranged_level": 0,
+    "attack_bonus": 200,
+    "strength_bonus": 38,
+    "attack_magic": 150,
+    "magic_bonus": 32,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 255,
+    "defence_slash": 65,
+    "defence_crush": 190,
+    "defence_magic": 440,
+    "defence_ranged": 320,
+    "drops": []
+}

@@ -1,0 +1,84 @@
+{
+    "id": 24413,
+    "name": "Twisted banner",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 24459,
+    "linked_id_placeholder": 24414,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 2.267,
+    "buy_limit": 5,
+    "quest_item": false,
+    "release_date": "2020-01-16",
+    "duplicate": false,
+    "examine": "A banner showcasing the colours of Leagues I - Twisted.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACrElEQVR4Xu2VwWsTQRTGs/9EL73srdcgFCleeik9VIrFYqlgsRQRxGOPIihaxB5aLKgHxZiKoaFqG4hSoqSxJoWCHrwUPHjzr/Dw5Jvl25md3U12u6OC+MHHTmbfzPvlzexMqfRf/7Y80U7SoPdOpJP4w8PK15aWjMTx9/BvgvNU8quLi3JlYSFMhjZ8enQ09OWL8xGgS3NzMj87q+wIyjMmi1YAgGZy+MLMTGqFyr6vbGfIIU/94yQY+OzkZKptKAcwlAapNnzp/hhR7U7nXcT7+29j5hhdKXveE0tXZnu7Kq9fbcrhYVuOjjphP9ow+rvd98pJVeJ8uvKZZAdqoJ03L6TRqKnk56enVcVgtvEk3NbWs1QgbPZoX6o8Ofi4Z9FrIMAQCL8JcW5qSj0JtLv7UsU5Afp00JL19XsGVACE6sCsAPoIYRrLhjhAOQFqt5uyunrbGBAAYe/ABEozgBAHKCdArdaO3L1zIwaEDQ2bFTKfbAOIm78gkCdfPvek2awnVqherygz8a2HQ2FCu4/whYGOj7/K88ojWVtbkeXl62oQgbCBcT2g3f4+osx+JuZXR3jGnxhos/pYNh7cD0EIA58ql9WnzDPIrArMvl7vg/pSeb8VBpoYHzeCNRBgYILc3BhSNqHQBjDiarWnygWAIE/OjI31BTJhzE1NKJhAHFsICEvTD4hLxqXBvYWrgksGOwSCgsA0IIAAAJcqb3e00Q9Yc8kcAZVK5mBOigRIZMPQqBagYOdAWnEgLBEh8J7Gb1w7AP6jQCYMl5bLS6hBQCtP7L7Mip5DsA1jx+PmZ2wcyJNvPyeksucrB9XNJQ3Egy4dhgqWkIdiUoXo/vMkSgPlmyQ4PpKBgo8m2zwxBUAmSPZJon8m+7iBylqVJOWpag4Vmcw5zN/QL0W2Xh9NG+YPAAAAAElFTkSuQmCC",
+    "wiki_name": "Twisted banner",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Twisted_banner",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "banner",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

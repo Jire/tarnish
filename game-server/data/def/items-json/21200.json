@@ -1,0 +1,94 @@
+{
+    "id": 21200,
+    "name": "Mystic lava staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 21201,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 45005,
+    "lowalch": 18002,
+    "highalch": 27003,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2017-02-09",
+    "duplicate": false,
+    "examine": "It's a slightly magical but highly beautiful stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmUlEQVR4Xu2WwUoCURSGvc/hZnYDgTCbFuLGCBeSCKIoKUoppmSKEEGJiBIELaNFVIuWLQWfobcIeoUewMVf/5muDtN+ziz84TLqXPDjP/895yYSO+1kZRD+RUkEMVjeJ+UZfhuxDGr5PFZ1B58PLr7f9jShDPKZjAC1ikV0K2UMG3V8LV0NKIOM56FRONqAXLVPcXnSwnpZFiDPcaKCMnCSSXy8OBg3m5icdXE7GgoQP1uYSIHoTLtUwtNsivV7SoCuOx1Zkbuzn0qhkM2KOwR6ns/wupj/5UbBnVw6LQ4RaNrvSZmUSkUZVHI5CTHDbIOsBsNS9apVgbElUoKhjASZQEEINRg2P5ZI0REr3xnCMMwWKLwrIhkJMPtMEEYJyIeZn/f/5Sa8MwIZDI5r0l/YbxRh/GNse0xwFKjA2PDejUd4nNzowjAndCQWMHSGASbQ4mKgMbWtfGcYXELwRCkOSmo7DoK3PiV3KP940yEuwvC7EtDvn7ruBoJOcamWixd19hyOhdLhgSaM1fZOEwMYXxYiFjBx0A/8zWYTMoqh/gAAAABJRU5ErkJggg==",
+    "wiki_name": "Mystic lava staff (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_lava_staff_(or)",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -1,
+        "attack_crush": 40,
+        "attack_magic": 14,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 14,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 40,
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

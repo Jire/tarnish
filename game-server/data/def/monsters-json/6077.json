@@ -1,0 +1,112 @@
+{
+    "id": 6077,
+    "name": "Gnome child",
+    "last_updated": "2021-08-05",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2002-12-12",
+    "combat_level": 1,
+    "size": 1,
+    "hitpoints": 2,
+    "max_hit": 0,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Small, even by gnome standards.",
+    "wiki_name": "Gnome child (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Gnome_child#Normal",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": -42,
+    "strength_bonus": -42,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": -42,
+    "defence_slash": -42,
+    "defence_crush": -42,
+    "defence_magic": -42,
+    "defence_ranged": -42,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "300",
+            "noted": false,
+            "rarity": 0.234375,
+            "rolls": 1
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0390625,
+            "rolls": 1
+        },
+        {
+            "id": 444,
+            "name": "Gold ore",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 2150,
+            "name": "Swamp toad (item)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.21875,
+            "rolls": 1
+        },
+        {
+            "id": 2162,
+            "name": "King worm",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.4296875,
+            "rolls": 1
+        },
+        {
+            "id": 569,
+            "name": "Fire orb",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015625,
+            "rolls": 1
+        }
+    ]
+}

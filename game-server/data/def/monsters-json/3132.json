@@ -1,0 +1,219 @@
+{
+    "id": 3132,
+    "name": "Balfrug Kreeyath",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-10-17",
+    "combat_level": 151,
+    "size": 3,
+    "hitpoints": 161,
+    "max_hit": 16,
+    "attack_type": [
+        "magic"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "black demons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 161.0,
+    "slayer_masters": [
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Despoiler of Ullek.",
+    "wiki_name": "Balfrug Kreeyath",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Balfrug_Kreeyath",
+    "attack_level": 115,
+    "strength_level": 60,
+    "defence_level": 153,
+    "magic_level": 150,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 10,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 25772,
+            "name": "Malicious ashes",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "5-10",
+            "noted": false,
+            "rarity": 0.06299212598425197,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": "5-10",
+            "noted": false,
+            "rarity": 0.06299212598425197,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "1300-1400",
+            "noted": false,
+            "rarity": 0.5196850393700787,
+            "rolls": 1
+        },
+        {
+            "id": 385,
+            "name": "Shark",
+            "members": true,
+            "quantity": "3",
+            "noted": false,
+            "rarity": 0.06299212598425197,
+            "rolls": 1
+        },
+        {
+            "id": 7060,
+            "name": "Tuna potato",
+            "members": true,
+            "quantity": "2",
+            "noted": false,
+            "rarity": 0.06299212598425197,
+            "rolls": 1
+        },
+        {
+            "id": 245,
+            "name": "Wine of zamorak",
+            "members": false,
+            "quantity": "5-10",
+            "noted": true,
+            "rarity": 0.06299212598425197,
+            "rolls": 1
+        },
+        {
+            "id": 145,
+            "name": "Super attack(3)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015748031496062992,
+            "rolls": 1
+        },
+        {
+            "id": 157,
+            "name": "Super strength(3)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.015748031496062992,
+            "rolls": 1
+        },
+        {
+            "id": 2722,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        },
+        {
+            "id": 11824,
+            "name": "Zamorakian spear",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.000186000372000744,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "1300-1400",
+            "noted": false,
+            "rarity": 0.007688015376030752,
+            "rolls": 1
+        },
+        {
+            "id": 11818,
+            "name": "Godsword shard 1",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006561679790026247,
+            "rolls": 1
+        },
+        {
+            "id": 11820,
+            "name": "Godsword shard 2",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006561679790026247,
+            "rolls": 1
+        },
+        {
+            "id": 11822,
+            "name": "Godsword shard 3",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0006561679790026247,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "1300-1400",
+            "noted": false,
+            "rarity": 0.005905511811023622,
+            "rolls": 1
+        },
+        {
+            "id": 886,
+            "name": "Steel arrow",
+            "members": false,
+            "quantity": "95-100",
+            "noted": false,
+            "rarity": 0.05511811023622047,
+            "rolls": 1
+        },
+        {
+            "id": 808,
+            "name": "Steel dart",
+            "members": true,
+            "quantity": "95-100",
+            "noted": false,
+            "rarity": 0.06299212598425197,
+            "rolls": 1
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": 4959,
+    "name": "Torag's hammers 75",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 160000,
+    "lowalch": 64000,
+    "highalch": 96000,
+    "weight": 3.628,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-05-17",
+    "duplicate": false,
+    "examine": "Torag the Corrupted's twin hammers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACQElEQVR4Xu2Vb0siURTGO98k2BfBQtCbRSIWjJCQhkiMRESxwp3FTGotc01E+t+KKG1F1Ic9y3Pu3nFmcnRmag2WeeCiMnfO+c3znLnOzESK9P+L2N+aioivr9t8fnbK7fYJN5s1rter/ONwjyuVb1wu78r3RuNwWlDErdYxdzo/5RONj44qXK1+FxjT3HYALczO/msokmYayO4OYEqlggDCuakBoZkbCO4AZmcnJ78nA73brCkgzJCOTDsEoGIxK/Hh2mggBYF7UOPxsfdWKBWZe6B7Vwoon8uIW6NniGSPvo6Xo9e7eCsUCYR9oM3tNQFCXADCLGGPE4g4m90UBwGkayD6bveMH+67YaFI4rG7MwoIoG6gjY01gcI+QCFa1IDbt7cd/n33KwwUScHhOUMWkP6tF2DsQMvxr2wYq5xOr1tuaXi4hQgHg5twUMOndwJpCCeMuicW+8JLS4ucTK4IGBzb2krJXMHpy4sW9/tX/PTUDw41bPgayL13KPUgACuXDD49znIiEbeOCTfQ+FqeCgZkJGN8sJfi+fnPAiZwtrcOkT0/D3zU8pRfIOJiLsH1g82/cRDPzX0SMH2Y4o2DQy8vdxNqTRTx4MYcU4QkovZJztqj48bCgMMlfbo794QS8Xmr4AFEXNtPj2mkjgO4ZL/+uk4gkRWF/cmxGrWMj0ZesKGl5kgXThmL4kqnmffdyM+eAFIDiwWwfXPdiumdGwUR8Up8gfOZZd4trH40jJbX38YHavzwRooUaaT+ALoTX36lSII8AAAAAElFTkSuQmCC",
+    "wiki_name": "Torag's hammers (75)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Torag's_hammers#75",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 85,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 72,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 70,
+            "strength": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

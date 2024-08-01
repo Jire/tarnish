@@ -1,0 +1,103 @@
+{
+    "id": 137,
+    "name": "Baby red dragon",
+    "last_updated": "2020-12-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-05-31",
+    "combat_level": 65,
+    "size": 2,
+    "hitpoints": 65,
+    "max_hit": 6,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "Young, but still dangerous.",
+    "wiki_name": "Baby red dragon (Construction)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Baby_red_dragon_(Construction)",
+    "attack_level": 55,
+    "strength_level": 55,
+    "defence_level": 55,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 30,
+    "defence_slash": 50,
+    "defence_crush": 50,
+    "defence_magic": 40,
+    "defence_ranged": 30,
+    "drops": [
+        {
+            "id": 534,
+            "name": "Babydragon bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 23510,
+            "name": "Tattered moon page",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "rolls": 1
+        },
+        {
+            "id": 23512,
+            "name": "Tattered sun page",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "rolls": 1
+        },
+        {
+            "id": 23514,
+            "name": "Tattered temple page",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.04,
+            "rolls": 1
+        },
+        {
+            "id": 23499,
+            "name": "Grubby key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0125,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0015625,
+            "rolls": 1
+        }
+    ]
+}

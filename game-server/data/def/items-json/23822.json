@@ -1,0 +1,84 @@
+{
+    "id": 23822,
+    "name": "Corrupted pickaxe",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "If rocks could feel fear, they'd fear this.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACVElEQVR4Xt2W32vTUBTHd5/3kIdCCISyiTiUMiyTMuusdp2jSmuxtlq70rF2jEL3g42i2xhT5xCHDKdMikyZyB58tX/h15ybZklvUYq9vQt+4dA23CSffr8nN2do6P8Tg3hEsQjAraYRa39XKhfg2JjCgT6JI+MWh/luxvnx8OioKiiG7UAYu/oE9vQIL/r9Xr+JE/MOfgbvqQRiqGnXUNdCWAuMo2EVfTaN2zgNpXEyksA38y7OzERHjOJVJKuzZ55plzng4VgCx2Oz3KlDI4pPVpRfPBGKV5EqisMputl0LIbZeBwbbcfIuc3AdR4rASqBssU4yNNsFtVSiQNVtasoa1fOi469sfrshzmtAoohnUyimM+jXCgIfeNGSn33Sr/hgRoImB3Vo1QKC3NFfhNvlN5IHw9f4m7RE0kN3xq5PwgoNy4qB0hcZctycjiIJxYYQZFTrdBDmVAMk5EIj8uJynXkT7KjcqCo0VuRnCwoO65cJsMj+7s7rpwICeqDtTVI3EQZVhcyONis9uiOKHu3P7Vc+hXsu58Y8qkYh6nN9e5OtxjfPP/tD3WIoV5OY78xL+Fi/Z7fhlmvZtHcX+nDHVd9ns/QWMphq97rkzVwMeysFPFyrSTFHQliePu8grOjF34AYihm4vi4W/NPXIuFJL6+W/eDO6TuzVBcoVh2Q7/eKPsHiJ6uz3vLfgByZx96u9cqFQ4lrlIohqlo9Hw6pHH1gl2ygR7MzPCRg1xamrffZeJKRWKYCIf5UEZToji2iqsVqXuAv/DN0QHwlrhGtn4DuLSj8lYUcnYAAAAASUVORK5CYII=",
+    "wiki_name": "Corrupted pickaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_pickaxe",
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 4,
+        "attack_crush": 4,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

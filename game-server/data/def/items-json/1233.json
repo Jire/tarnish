@@ -1,0 +1,86 @@
+{
+    "id": 1233,
+    "name": "Black dagger(p)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1234,
+    "linked_id_placeholder": 14644,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 240,
+    "lowalch": 96,
+    "highalch": 144,
+    "weight": 0.453,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2002-02-27",
+    "duplicate": false,
+    "examine": "This dagger is poisoned.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABeElEQVR4Xu3VIUsEQRQH8HnfYNKWLQsbhE1iMVgUEYMiioIYLBaLQcELVquCVxSxaBBFUZRDMaioQQ6LKIcgfgER8TP8ZeYxt7N3V32zwT8Mx+6F+fHe2xml/jyE1jeBYiCE1Wpkf1v/FUwOccs8dydJCFQREhhEmBgfsKtUoCSO7QoMKmL8lWWqPCAfIwgqFcakM6hUmEBzY9IO+m9VnnaQMMa/INsxwnNDqJ2bjfji7AQSr87ebmxRN9cMC4gxIayvRTjYj3FRY1T9MQ2FMSEsLWpUNyIcHTLq7jbBUz3Fy3PqtVI0hMqyxtZmhJPjGFeXOarxmuLjvUsaRZjsU5gb1tjZjpuoh3tGfX0ySKh1hKEehdlBjYUxbTc2Q352yijXMsFZ4urMjzCGN82PAAcRw4z2cnVWpn2QUsIQF8JMv0ZlKscIA/xwddzcBMaYkP2Kfr6zQqsChTFvDT74AleH7DVhrgh3EgfEuFDzjAlcHT+lwnCkMb/vjIqCbvcuHgAAAABJRU5ErkJggg==",
+    "wiki_name": "Black dagger (Poison)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_dagger#Poison",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": 5,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

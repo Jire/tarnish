@@ -1,0 +1,77 @@
+{
+    "id": 27783,
+    "name": "Diamond speedrun trophy",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27784,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-03-22",
+    "duplicate": false,
+    "examine": "A diamond trophy to show your speedrunning prowess.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAER0lEQVR4Xs2X7U9TdxTHuf/B3vuGdyYkJMTEmGUxMSGLIRozs2UJEgxIBCKMgKhFRNKJosMpVXGiHT6V0YFDEVefgBVEaIpYLTAqTwYkSBVhi5kZLyDf5Xuut71l3WKlrZ7kJNDe/s7nd55vTEzIouC/NWIS7HDVaG/XfXS3taH91k10tbYiy2TFtsM1SDFWRQpOQWV5+ZKDFTFqOVsN6/ka/HL5Mq5b63C/pUWgXA4H3D09GHC50HOvAxvXrw8XlAKH3Y7OO3dQbapEqcEgB9MYYX44fgxOR4lP4+LLRPm3d7oNj51OjHo8MF53If2QORxQCpwd7XLLu9eu4dKZM/juWyOmJyfxdHgIycWVEpq0srM+GD2UodaO7BP18tzaDPUyCbGxy4FSxDPbUlLwoLNTPFN/4QK8z59jfGQEO21DyG/qR+6Vh8iucyDzUgdsVxokhPTguRMmJOYY8emWXMQnJeuA3ju3FMmRtC3qYVTmBT00MTaGwpvDyG/+Hd80PsIOqxNZlk40/VSLWvM5gWHufZZagLjPvwqAYL4R/OvNm0OFUuSHJbt3B73djNeLPS3jSDTWYF1xNdYVnYb55EkcPXAARQUFWJVeJN6y22xyEXrY1d0tKfDlpk2+M0MIo1rWNOAHionRwP6YfYX9vz3DrlujyLvqlrDRowxXTVWVeOeT2JUBl6AS6IsNGwLOfEdRK4p59O8fK/jr9Wu8evEChtZnKLjhEXgNiJdI2Jga4AXtIsxHrRWEDDT4+JHkRHFhoe6W6nfz8/MCZWyfxNjQE+k/GhBDtnJtUhCjKpAe1P/dO4nqJXbjlqYmbN+61Qe2uLiIhYUFzL58KVXH5wjEfsVCWJWQEBRI62fvAaOJCsDxkJWejqTERPmfMH+/eQN7l0OA+h/2Sls4bCxFbmYmzJa6IIYV5GVnB/k8ZFFdzbLW4k+gmdk5AaL29T5Aw8WLUu4MGYGSU9PeelQ9Y3x01NdGlglEUQTo2MGDUiV/zs0FADFkLHOOlEP7S1BhOiWqeZizjh7UYMICxKb2a0M96n40S4VNTUyg0Xbbp/zcdOSIFIEehhfR51QYYDRRDTDBadw7NYWh/n4peTZAVqQGNDI4KDOPiR4fFxcJGFW0fqLX1uZmNP9slWRes3q1ND92ef0zEYHRi9+AIiOBoeQg1ryhh4g4TKAoUvbcnVhBsStWRMcj/y8KPH19Hw8MdyT3gAfl3webe1EXBVPTXh+QBrX0qSiK2sXZFI17934cIfO43VL6OzIyPnTI1PKem5nB8MCAbi39ICFTpDtzfLDsGbI9+Xmynt642xZtMEV2JBqmckFjZ+Zyz7HBnedURYUM2ShBqUCcYdrL5O3GRhhKSmX9oHKm0WP+t5aIiRoqvRKGmwDXC755cEVhxe3MyYlW1fmH5lWLRUC0tw16p2zfPlnSOGw1oKUnhF38tw6c/Et1Od75B01RXJeHonXyAAAAAElFTkSuQmCC",
+    "wiki_name": "Diamond speedrun trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Diamond_speedrun_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

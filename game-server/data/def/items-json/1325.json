@@ -1,0 +1,86 @@
+{
+    "id": 1325,
+    "name": "Steel scimitar",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1326,
+    "linked_id_placeholder": 14754,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 400,
+    "lowalch": 160,
+    "highalch": 240,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A vicious, curved sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB7ElEQVR4XuWWTUsCURSGPf/AlRs3Ay7atmvbrkX9gbZu2lQkZmZ+YGpmfqTlByWEhRBEBRFSEYEEQUQQbdr2V06cO5xxvFMtwrlX6IXLcOfLh/c954wez/8UoHxGkwgEsJTJiKN8VaFMkO10SsDUCgWxnzQM1VAmSDoWG4Jp7VZ0AAEmIhEHTLNcwvZeTTXQAGYrmXDAdFotlUCAG+HwEEw1nx+C6R4eqAIyYVLRqIDZ2UxjJZez3KHaIaijRkMFEOB6KCSiysbjVt0QFIORU/Vi0QJzsfUB11aWHVHZgXhxhAzmAhTg6tKicIeiInf4h+1ABEnXeRTwothGGN0ARm5xXrSn8zKAfclv/aOcMFzI7AztGcYFALt+hqHiJVcoOtkV+S0j1KCjfoNx2RXW9zDUOXSUYeSnRywnDH8WCEZhRKRhGIqGpzBBKYyIBNg/N6wpzPVCw02GkZ90SYD1rA+vOwY+XhrWx1ITDAkwOO/FctKHp00/3nYNfLoiAC0wJMC5KQ/OT3sxOOPF46ofX3oBC0i+W4FAwCzMmkAU39udNiAQEX0+TwgYbm1NcQFetP34ehPAj/7AEYXtbReIWiF3qOU11wwJsLvvF63+cGYIl8YGiGbP+/2YAPVOzHmjqYhlOf/lyXcol26QL+9uYGAPCqL8AAAAAElFTkSuQmCC",
+    "wiki_name": "Steel scimitar",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_scimitar",
+    "equipment": {
+        "attack_stab": 3,
+        "attack_slash": 15,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

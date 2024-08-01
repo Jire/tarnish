@@ -1,0 +1,77 @@
+{
+    "id": 6410,
+    "name": "Oak blackjack(d)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6411,
+    "linked_id_placeholder": 16443,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 400,
+    "lowalch": 160,
+    "highalch": 240,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-08-15",
+    "duplicate": false,
+    "examine": "A defensive blackjack.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABiUlEQVR4Xu3WT0sCQRgGcOcbdNrLXvYjSDcJwZCQMCRJgpAEgzYJEUX8U6kY2D+wEgKJ6FAEQdfo3kd74n2Hccetjs542AdeFhbFH887A8ZiUaJEWYoIBGM9Ar1WC4NOB9O7W5sw+cNXwwGOymVsZ7M8O7kcdvN50yiBz6mHtxsXVd/HViaDjVSKn4SiJ30m7nkmUAJfjx7exy63s5lO4+HM4bWtxuOzlRHGAEjg+9XDx72Li34P3UYDa4kEpgOHUTrEAIYiV0XNtOs1HJZKDHo6d+dQ4W8tMIKbofWog0yg55FrAyUxp80mapUK9goFPj/rySReLl1GEcggSswwB8Ui3ySC6KNaMor6axRIX50xlH6LgtskGKNGP08BasGw3xEMUSi9pXmY0cgmCBZenTWUWiFBdJQ+xlEyQVthkDWUakutMDxWUDKyLf0mUkuTrrUbGLSlGqMDTqDrpoNR3dIKKQo2bkvIsOpgP7fC7wz9Q/gvAv1jByd+gLEMosgVLglGZqkwURaRH7jnfeZ9FoCaAAAAAElFTkSuQmCC",
+    "wiki_name": "Oak blackjack(d)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Oak_blackjack(d)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 4,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 4,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

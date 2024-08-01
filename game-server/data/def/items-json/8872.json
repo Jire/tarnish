@@ -1,0 +1,84 @@
+{
+    "id": 8872,
+    "name": "Bone dagger",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 8873,
+    "linked_id_placeholder": 17146,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2000,
+    "lowalch": 800,
+    "highalch": 1200,
+    "weight": 0.453,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2006-06-21",
+    "duplicate": false,
+    "examine": "A powerful dagger.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbElEQVR4Xu2W0U7CMBSG6ZvwCLyi0VsSLpRogAyiV1OiWYRBBgRUEjHRGx7o4N9jZRy3ycXahmR/crJk69Yvf/+erlarVOlkpEje8SSAKIqiS32VTx1L0XIZ0HR6Q0+PLQ3UqNd9QLErm/eQXl8GlCQdGj1f/ULJ0ZalaLXq0/rtlmt99wPBBYccuqRoMe/pwlIBLA3hBQbLg5rPOj4cMeLwAgIBnsTXfmGQE4QXIf76jA4y4yXEZheZ/MhyCMXuFMHE8YMuB27xBMiNhJAw6bIAxSCYEO5ga0uQLBjzXolB5w8iL5gQu0pCFMGU3IeU3s6mvxy7TBZcgfau4IrzSELkwZTsCsRZMSd2GDb/QEgYS65A3H0RWnTe4bBFve5ZLohFVyClOy+AxqO2dicIzgtBLLkCKf3bgEm324Q+Nvc06F9kwkgQKzBySTyBQP/DOAKBDmHS+XAQ2DyZwy+7HILslXYgq+T4SpW+tQONGrossplLRAAAAABJRU5ErkJggg==",
+    "wiki_name": "Bone dagger (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bone_dagger#Unpoisoned",
+    "equipment": {
+        "attack_stab": 5,
+        "attack_slash": 3,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 4,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

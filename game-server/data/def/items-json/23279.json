@@ -1,0 +1,87 @@
+{
+    "id": 23279,
+    "name": "Gilded axe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 23280,
+    "linked_id_placeholder": 23281,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 35000,
+    "lowalch": 14000,
+    "highalch": 21000,
+    "weight": 1.36,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2019-04-11",
+    "duplicate": false,
+    "examine": "A powerful axe.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtklEQVR4Xu2W0UcEURTG9/4H+zQv83KZh3ntv+gtoqfooSJRUakklbWGLXpYlZW1siqbrc1mpbVEIpJIJFGkt/6ML2dOd7eZXVnbXnMf9uMyd1zuz/edM2disZ60SCC4IpXA1oSF7KyN0qqNWkqG4FotrRJIT1rIzTeAPs9dvBw7uN93cJ2RuNmTuM1K3OX4nWYogcyMhfyCjfK6ja9LFx9lF+9nLt5OXbyeOHguOHg8YJhSyvaB+iQ52XU14jpcYiCCIYCHPAMQyNMR78kh7UA7UxxXYZmBVFRXuxLVNEel3KHnoqcZSLlD9dNcvAK1bVl3h2pJI5CANxp0R12kFu3Lm7bvjHKnkOTFwF0VdxcVc3ElCBM+Ry6RO79hWp/9lziusDvhUyzht79WmLXhhjuVBMfz9yVcUxpgSAIb41agmNu5qJ0zHYrbvX13tEpgcSheHxUXSQOAEiNWUzFHCkTjwhh3pgfi/jA1xh3V7gYUM4nbnbqr6kUOJDDWH/fHhTFxUbvTuDCgmEnc7vR1Vv/NkQOpdjcirrlBbndj4lL1Y0xc9P2h+WVAXEpa/2c6k1EwPf3oG2iluOYEltcPAAAAAElFTkSuQmCC",
+    "wiki_name": "Gilded axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Gilded_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 26,
+        "attack_crush": 24,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 29,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "woodcutting": 41,
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

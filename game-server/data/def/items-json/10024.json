@@ -1,0 +1,79 @@
+{
+    "id": 10024,
+    "name": "Falconer's glove",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "A very large, single leather glove.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABoklEQVR4Xu2VwWrCQBCGnZfoWeitp1KQUkQIiARRgmJAbBFUCBZJg620FARpoc/goT34qFP/TSduk7QUV5sc8sOPMTuZ/bI7symVChUqVKjQMUQcOhciHjgWN61KHqCIn2d9vhs5PHIbX0C/2UjxZGkJiRdeL/KgdcmuXVHu1C+4bZ0r29Uz5fQcfxKxf11Xvu1bkZOAxPNJV8F4bo3H3ary0LlScAIIuNPyiYo/L5f3gSIOho1UKEysGzBPU/dbXBwOFpi9gR5G9o9QskUAWfoDZcTq8fIM4LBKBqsDET9OmgkoAKCIYQFZBTf8cj+M4sUCCBuuDrTtHq+VSC7/MbkYcctpW/2KZQyxUnsGMBCpSfS31gEEYjVzEsZ9eRarijo6CBCSy9vqELqxarj/6nf4Legp4xpjeicabhdEKrG+DXHrE6ZZIA4AIwrrSK8HcdqEaY5nNFTYaYG765YDdYyJtid2b3cGZQwjIt5sFnmBgYg/3ucRUHw0AxGv136egCBir13T2jpzhUDj1vbrbYdf7nhEBkoeevGIf9cRD7386hOLb+Hi32QxcwAAAABJRU5ErkJggg==",
+    "wiki_name": "Falconer's glove (With Falcon)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Falconer's_glove#With_Falcon",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "hunter": 43
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

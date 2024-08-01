@@ -1,0 +1,53 @@
+{
+    "id": 2848,
+    "name": "Monkey",
+    "last_updated": "2021-09-02",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2004-03-29",
+    "combat_level": 3,
+    "size": 1,
+    "hitpoints": 6,
+    "max_hit": 1,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "monkeys"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 6.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "Perhaps our oldest relatives?",
+    "wiki_name": "Monkey (monster) (Common)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_(monster)#Common",
+    "attack_level": 2,
+    "strength_level": 3,
+    "defence_level": 2,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}

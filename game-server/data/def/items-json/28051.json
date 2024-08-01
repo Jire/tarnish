@@ -1,0 +1,84 @@
+{
+    "id": 28051,
+    "name": "Dragon 2h sword (cr)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28052,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 221000,
+    "lowalch": 88400,
+    "highalch": 132600,
+    "weight": 3.628,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A two-handed Dragon Sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZUlEQVR4Xu2W62rCQBCFnTfxEUpBREIgIYiUgFQqFSuVRlFDTaWp0halUCj0tafMLJsNq21/ZVbQA8tCLszHmTPZ1GqnLUD7iiMRCGA7CHi37woLMPR9hrnt9Rjool53BXUYxhGQgRn2+67d2YdxCGRg7gcDBtKhdtAuM01lGA0iDkMgetkw9tMVy8BcRdEZxpICOhqYtNVkGMejTVITlXkt3Eb6jHLmjnKGYDaB52q0lQNlmLfQd+UKsBO0CCb3vaJNgjDGkaRxySAERDCfnUgeZjYe48tyyYVnzUaRl++4UywFXLkAJ6MRvj6vcJWmXFTnhdqkQyzoEOB1HON2vWYonZdDIAIwWoCLJGFXPtphASLoii3Am26XXXrPc9w8ZewW7UK5KUu17OFuyMW/djsGoTxl83nhkv1WRQI+j2jCTGHTLuGWAf/lPU6ne4XLIRaDoZbo745g4b8k3pL/dVQwZ/2iH97KYBLR6BS9AAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon 2h sword (cr)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_2h_sword_(cr)",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 92,
+        "attack_crush": 80,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 93,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

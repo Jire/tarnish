@@ -1,0 +1,86 @@
+{
+    "id": 1420,
+    "name": "Iron mace",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1421,
+    "linked_id_placeholder": 14668,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 63,
+    "lowalch": 25,
+    "highalch": 37,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A spiky mace.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABR0lEQVR4XuXUUUvDMBAH8OWbFHwQCoMyKKNIoVJkjIlYKBsddFjGZnEyRJh7Eb/66SWeTeKrXA78w/8toz8ul41G/ycKhgaNQbSrFTzv9/B+OnGj7EkMECqBkijiQBmAXRsTHDQvS3h7OcoAIYZANioICCFXWaZ77Hun7CAb44OWVQUf57Mu00tTDsYGIYZKIIYpKRjHsSzQJElgmqYOyMZQ2UCEuc5zuCkKvVNNXcNus4HXw+GnbCDC3M5m+sU9dt33ArtFDAvofrGAh3UDT9utnor9cb/+r/84+OQvoV0mzlSYPu5HQZ5F0FRjDfKn4p9myNdVzWPo1pOQU6EoKIuLX5PxTzHFYOo7dzr+KcYIuyp8VbjIYjB4Vbs2lXFViBGzyLg3Yq6KMGJelY8JCBr2pu+moadj/gAF7Q7GoIRgKKIwJtyYTzZjmuaNulj6AAAAAElFTkSuQmCC",
+    "wiki_name": "Iron mace",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_mace",
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": -2,
+        "attack_crush": 9,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 7,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

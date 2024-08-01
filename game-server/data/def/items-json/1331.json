@@ -1,0 +1,86 @@
+{
+    "id": 1331,
+    "name": "Adamant scimitar",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1332,
+    "linked_id_placeholder": 14757,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2560,
+    "lowalch": 1024,
+    "highalch": 1536,
+    "weight": 2.041,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A vicious, curved sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4XuXWv0vDQBQH8Lz/IFOXLAcdXN1cXYqUSqFUWlJpsQHpIIIgjk6ugqC4uKgUBFFBpKiIUARBRBAXV/+VJ+/CtelrolSSdwW/cIT85MN7d0cc538GkF+xFIIAVler+sjvCiaEVIKKxtTXfH0+q5Q0KoSUW+UBptapYWO9YQMEWFouxWKaG01p0M+Y1uaKJAiwWC9qUBRD88Zg2lttKdAQw6tDIOEKARaWCmOY6OCwDJd+iOGtihsCqFFMUnXoGt0zW4EZ1LYUW/c7hkMMIDr4V/+YyTAZAKJJxtAcSaoK/0qKSV7eglUxmQzD3045yRg6CraIEo+hPcVghFpEAexfqBGM2eA4hr+ZUQAPdnJ4c6zw6UrZxlAAA9/F3e0cnh16eNdV+HxNACsYCuDinIP+vIvBgosnex6+9vIDEH9aIKAxnVIIova931sDgW7R18uMxpilbaldgJdHHr7d5vGzP6yI4PKOBvRcoerQkrc8ZyiA3X1PL/XHc6WrNDUg2ns+HqYE1DsN9xtLk5hn/C+PPyEe25Bvdq4WMN2ExWAAAAAASUVORK5CYII=",
+    "wiki_name": "Adamant scimitar",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_scimitar",
+    "equipment": {
+        "attack_stab": 6,
+        "attack_slash": 29,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 28,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "id": 27657,
+    "name": "Ursine chainmace (u)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 27658,
+    "linked_id_placeholder": 27659,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 175000,
+    "lowalch": 70000,
+    "highalch": 105000,
+    "weight": 2.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-25",
+    "duplicate": false,
+    "examine": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACqUlEQVR4XsWW22saQRTGM3+HL4IPQiCwCCIigiIiogRLiiWESmIwBitCL/ahTQq9pEkJpXkMlEKhD/0zT/c7x7OX0Xhp3ekHg8s4u/Pb71x2dnacypA940jYeH5Uy+XZtVMZKhWLPAr5PNUrdf+65F8XeC6dSrmEEpi93d2ZIxUGwJy68+zFmH+9dDpJKAlJvVIJnGjWauxQNpPheQBhPud5SbtkeON2o8GhyXk5HyLLYAp6sL8/g80H7sGhBFwy7MDpaMAAeHuFiG9q6N31ezqfjKjVaScZMuO/8R51Wq1YwipIuKmhl2+mVCwVk3InLGNAIBTzrtgyVKlXk3DH0IfbKzobD8nLeRyyxa7E77m5u6VGu7ltIEPDk2FQ2nAnlQ7DZK8OZejtx0s6GfapXN1aczQ0Oh3R8eExJy8qCvmzLtCP3z/5BR4fdtdYv1KGxmdjGvQG1H3U9Uu8zU0PJR5NZPuuUIYTf0slb2hyPuFQPX1y5PeUg78Cml5MqTfoBY7aKzaQhKp/1Gd3Oq0OA+Ebhd6zGsjQxdUlwyCHkNiZrBSCvXINidXowtH2jzJHHmliPwxk6P7Xd/r09ZrGrybcQNEYNbEX3/OgpK8ojH6HAIGBcsdIp/DQZQ839PnbF5q8fs5A+twN8khugDPIlyjMYqBlDqnmPyfL1wcSRzA0VxAmDdEiqHXfdkMQleFjA0CatSYnLqoJQDYURhTIftKWJEACUQhKXMH0JCghzK3tzj9IDllIVEAgbAoTB5IunbA7UAgkid2ZgZQCKD0jOwXCiU+BsLkO+V+AdI0TIH17ACFXNF8kx5ougSATACCh4xsLkHwyVjXErQmHdjmgA0g3xtAvvWMgKAzPInf0/4RL3pYNJHNREIcwkFSUHZb/ABKV87CslmuYP9kuc8okwyp/AAAAAElFTkSuQmCC",
+    "wiki_name": "Ursine chainmace (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ursine_chainmace#Uncharged",
+    "equipment": {
+        "attack_stab": 53,
+        "attack_slash": -2,
+        "attack_crush": 71,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 74,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 2,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

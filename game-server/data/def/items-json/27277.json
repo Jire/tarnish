@@ -1,0 +1,77 @@
+{
+    "id": 27277,
+    "name": "Tumeken's shadow (uncharged)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 27278,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 7000000,
+    "lowalch": 2800000,
+    "highalch": 4200000,
+    "weight": 4.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-08-24",
+    "duplicate": false,
+    "examine": "An ancient staff created using a higher power.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxklEQVR4Xu2Xv0sCYRjHff+Dm2655YUbDg4ECUQkHBrCRVwaQlqqpaGWCKOGoKYKJIRAQiQKqaAfFBKIEIkgSDlGRLS0NkWzwbe79/XHeYot3b3v0AcexBN9Pu/zPOfDBQL/CIWAhxQQ3O5RVAq0LeUMIfDk1QsulN/SUD2meLsyREgRlDJc5Kmk4zSj4eFQx9e9ya6FKGXh/pZHEKRnFCbUPNLxfKbj885EqznVlfGxQgSbKyrWZxXUTyiTcc5OR6bRve4pBGEzgGqOi7zfGHg554l7LSIo5/mrx20jWJhWkF1TUW8nHBbFXWuw53pC7l/5Q6yTZymLDapiPqkgNalgZ1HF5baGrKEib2ooBjU/qmNDYOg6S1oZ4xVY1hTkkxquU1ykFKKohX2qDtV6p+8lHGyZD9XhMvtWS5zJOgmd792feYDVlpSC79esHyf/DV7+RsF9WwuBD3AkHEYiHnfMjBAIgqaJ8WjUryEdBUHtgGIiFhs6wD5DkFtV2bIUXBUbwv5jGhEpZGxI3/AKlOFDK43MkrWLfFyGo+i/tYXLpKnCtrYUMlJVxt5LrceEDDI2/LHlo8yfmQTLdBC+mwaRSkYWfgDNdVsgcTh/UQAAAABJRU5ErkJggg==",
+    "wiki_name": "Tumeken's shadow (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tumeken's_shadow#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 35,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 20,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": 21205,
+    "name": "Elder maul",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 5.443,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2017-02-09",
+    "duplicate": false,
+    "examine": "A maul crafted from the component parts of Tekton.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsElEQVR4Xu2WQUsCQRTHfd+g017mMuBNCCSQkBAMCQlFAiUwSBLRJCy8eKguHSIiOgjdvBQEQdCpSwR9hugbvXhve7vjEljgOEP0h//BmZH32/+82dlU6u8KMLQXAjzq93GjWPQFClArheuFAq7mcl9QzhID7LZauJbPMxCZkqqWy+xpOOuQgHs7TU5lJZvllMT77TZ7s1SKTKAEbhEKuIAJYvqg08FBr8emFJuNBidIc5agwt4hP40Vvt3qKAUZJxgCoxQpJRmn/2a1njcUcCEpQgWlsV8mOhqn3wRqrrUERIqb1dwu0wSS3FqLQCTgdKRosrgTIGlWKWZaXglJGEtAYR/RsRcAKRYWBJ6ThKzD/OzJ47S+n5+LAOu1WvRCnFVsOrW5C/glJ8d4FoxlAb6eaHweacykU+5hbk4DHLcCLOQ8gHkcKjzuLWHdB5iPqzSeDwOcdJ33DAnw4VBx31zvBhFQctWCBPh+mebtOtuOYRwBhVt1P1A4qi65h9mqVPjSHJSdw5Diz4l/mGl5BuPJ/UQK76jlTMYPmLsLxXeUebyTqxashXxE/U4C4hLmEyhSk5vs296qAAAAAElFTkSuQmCC",
+    "wiki_name": "Elder maul (Last Man Standing)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Elder_maul_(Last_Man_Standing)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 135,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 147,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 75,
+            "strength": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

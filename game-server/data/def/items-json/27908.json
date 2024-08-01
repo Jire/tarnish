@@ -1,0 +1,77 @@
+{
+    "id": 27908,
+    "name": "Statius's warhammer (bh)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27909,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 300000,
+    "lowalch": 120000,
+    "highalch": 180000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A powerful warhammer.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACHUlEQVR4Xu2WS0tCQRTHPd+kj9CmVZsgWkQQRJGUGJaUUiaWmZkW9ra3vbSy6GFZ9MKCIKhttGvRpo9z4pzLjGkqUd2ZTX8YvHAH58f//s+ZY7H8S5kAc0u7ANM72zg/EcWpcFg3lOGKgBn1+3Go31MApQwQ8CiZxINEgmEigQDDLE9PM1BlRQX/zkXHVbkGuLW0yCC0hn1enBmL4MbCgszT6uyshDMATRWwI4N9feh1u3mRO4mVZcO1UD9GA+5PbpkuQEd7G9qtVoYhlxYnJ9m1/c1NPEntos9lVwlEypX7yMAA54WAUuvrDHSTTsv3inJkseTyARzueCwmga6Oj/H+8oKrkPKlDIod8jrR39vBOdqOrzKQ6E/RUIg/KbUFBVCAEb+LYTqsjVhfW83VtbsW53ATDIFQFY4Hg2ZnCriSAp5O7GpvyssLVZtwhSqRnin8JgIZmSEHaImDRJ7IEQLx9PRgr9MpQU3sSYAuRyvWVFeVOAiwy2aTbaH4nj8TSFfKH5T7hKX3/ErGn5d3Jl/ifbk9PxRgZi/FF2pLY923YEwWYPb0RM482mHuzs/4WqDKEUCFuxQJuP1T9xXDl0Z3AB+ur/luostTO8xjNsvtn7qsdpjnpye+HL92YeUCfH154RIX87BWmPe3N7w4PFQ9DxcT8Bx8e5bh8tYOQ/MMDVnd9mbdMEKA1qZ6tLU0SKDCHRpk6s38M+mE+QCfdeYNukQzXwAAAABJRU5ErkJggg==",
+    "wiki_name": "Statius's warhammer (bh) (Activated)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Statius's_warhammer_(bh)#Activated",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 123,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 114,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

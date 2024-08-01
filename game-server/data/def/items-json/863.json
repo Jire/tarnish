@@ -1,0 +1,79 @@
+{
+    "id": 863,
+    "name": "Iron knife",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14473,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 3,
+    "lowalch": 1,
+    "highalch": 1,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVklEQVR4XuWWUUsCQRSFvf/En9CLhIRgSEgYkiSJSZJCJhiBiZhpshER/eoTZ4ZZZifobecOdGBehl34+M6d2a1U/lcE4Y5iBBftNhKBElx1uwbmqFo1K3wiYgTXvV5uRx1m2O/jstPBWbOpDSS4uxnidjAo2FECEkxHIwOUgB0L45ayHcH9eJyKnSIMj/l5q4XTRkMDqAjjBtmHiQj0G8ZVdVKv69jxYfyq1IBoiEC8BF1VPkx0oIfJBNl2i5fl0lQVAoVvlBzBx26H19XKWHIwx7WaBpDg822P/XqN58Uir4z7CnUJvrIDDptNbif8xYgIw4iZG9p5nM2MHQUrLnZuaIdAPPa+nfDpkmOroh0C8YQp2hF8v2fGDoE4O+p2eKqSscOqnJ2n+dzYUYNhVbTjgEI74Rslx9pxQMp2XOz8EEjZjh97//BWVrbjR+U79XeSgomdH4ocfy6brsrjAAAAAElFTkSuQmCC",
+    "wiki_name": "Iron knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_knife#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 5,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 4,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

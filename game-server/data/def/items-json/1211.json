@@ -1,0 +1,86 @@
+{
+    "id": 1211,
+    "name": "Adamant dagger",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1212,
+    "linked_id_placeholder": 14638,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 800,
+    "lowalch": 320,
+    "highalch": 480,
+    "weight": 0.51,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "Short and deadly.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABU0lEQVR4Xu3Vv0rEQBAG8MwbpEqTJpBCsLK9Z7CSe4Zgq+A1voKCNorYaCGKongcioWKf1AOG1EOQXwBOQ6f4ZPdYW/3Lmmd2cIPQiAp8mNmMpskfx7C9BOlGAihXbXtffqtYBhSrVYW40BzRaGBYkiIUQQ1Y1oLLV1QiFEENWOiA4UYQVBUGJNmUFQYpbkxqYP+W+VTBwljwgOyjhGeG0Kvaz7EB2cTSLw6+3u5Rd1cM0wRY0JYX8tweJDjoseo/nOphTEhLC+l2NzIcHzEqLvbAi/9Em+vZdBK0RA6Kym2tzKcnuS4uvSowXuJr88ZaRRhcT611+5OPkY93DNq+M0godZ5jLnckJ+fMcq1THCWPMhXwa8ABxHHTIKSRBjiUq+OMCBMVBgTwtNjgZ/R7ESrlEL2l/4Y8OJTrg7ZY8IcEW4TK2JcaLxjlKsTJioMRxrzC51ir/8HSyVxAAAAAElFTkSuQmCC",
+    "wiki_name": "Adamant dagger (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_dagger#Unpoisoned",
+    "equipment": {
+        "attack_stab": 15,
+        "attack_slash": 8,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 14,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

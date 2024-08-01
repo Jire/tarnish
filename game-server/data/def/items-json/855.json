@@ -1,0 +1,79 @@
+{
+    "id": 855,
+    "name": "Yew longbow",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 856,
+    "linked_id_placeholder": 14567,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1280,
+    "lowalch": 512,
+    "highalch": 768,
+    "weight": 1.814,
+    "buy_limit": 18000,
+    "quest_item": false,
+    "release_date": "2002-03-25",
+    "duplicate": false,
+    "examine": "A nice sturdy bow made out of yew.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUklEQVR4XtWXv0oDQRCHb97gqmuuCfgCvpKdRdojnKgIgigEBEWFkCISCAQFLQL+QbCxsRHfaOR3wzK3k6t31g8WcnuBfPx2dndSFBHE8bMrxB/rEYtUFmLEh03D16cVv62yECM+adtOCp9XNzW/LN3FYqlmv+TllbtYLIUxPap4cVnz5r4vllRuWwrj/EDFvp6DXDJiqd2RpoPCD2nJfDKIjycT88PE7bjsknIQAirVn8PyfT4kX7aAlSIe75Xd0eCakpVCSr/vO34pocitFGrp5zUzqdlFzd8bZ6m4dohvzyqPsymgUv05HAeuO29ICkPbmOQMS82nbscBsFKydI5CYFtKOwMXpNtUKbmA3VOyncHTXGrJfjMh/TuP+HHmWtwBlcJdt75zTwmolGNHYJGdhz8JGBmkBETKsbscQk7uIGXfOiG7DgllklJRZCXzr/kDq6BDmrQLcOgAAAAASUVORK5CYII=",
+    "wiki_name": "Yew longbow",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Yew_longbow",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 47,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "bow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

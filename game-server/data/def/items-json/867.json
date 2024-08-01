@@ -1,0 +1,79 @@
+{
+    "id": 867,
+    "name": "Adamant knife",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14477,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 66,
+    "lowalch": 26,
+    "highalch": 39,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbUlEQVR4XuWVwWrCQBRFfX/iJ3QrbiwliCiBYFCSoBilRrAttSGoNRVLKaVffcubYUKcQnfJC/TCbMIMHM59M2m1/lcI9hfBEIbREA2BIozvxwrmpt1Wy95RYwiTZFLYEYeZbgN4Sw+O70gDEcLHUK2yHSEgwjxdYPY8a4IdDWOWsB1CnMUFjDt3Je1oGAPEVQ2mA/RGPQkgwuqwKmDMIJdhagT6DcNV3Xp36A66MnbKMPwi89ywHTEgNsRXnB9BU1UZpnagJE9wOR5x2O1UVTaQfaLiED5OJ7ymKRZhUMB0nI4EEOHzLUeeZXjZbhH4Pkb9vgIRqIvwdTnjvN8XdsauewVSIwyH1NywnYf1WtkRsGKi54btMNAyiq7s2Lsrjq6K7TBQEseSdgjf7xdlh4F4dsTt8K1qjB2uyth52myUHTEYrortGCDbjn2i4mg7BkjYjomeHwYStlOOfn/4VRa2U47If+rvNAqm7vwAoe2E6QJwbC4AAAAASUVORK5CYII=",
+    "wiki_name": "Adamant knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_knife#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 15,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 14,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

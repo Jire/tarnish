@@ -1,0 +1,79 @@
+{
+    "id": 12926,
+    "name": "Toxic blowpipe",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15315,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120000,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2015-01-08",
+    "duplicate": false,
+    "examine": "Fires darts while coating them with venom.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACu0lEQVR4Xu2Wz0sUYRjHZ/6BGBBmCIdhcJSBOXXxFF2KDpEHKTBKXLZ0W3YxxX6I/dgyXNOiH1KoYBiGVCJBtGJSJOQhxIwICoKC6NKhU0REhw7fnvedfWed1zqk084SfeGBZXhnns98nx87ivLvSoV8JQYxCD/SxvngdwxwftJOYxgZ4xJaq/IlkMbd0Dq6ygmmIkUgCXIkZQwgsbEfSn099KFr0LLt0JIHoGzeAmXbdj/+LpSKfcZV7CKQHVU92LohyyH0XC8P7fAxaM0t3CUORec32TYPcX/4eeuWiiSVaI9xBY1UJi2Vhn4i5wOdzftQTXt9ZzwnABL3tpmTUTpWalgBpXUfh/f5aeAQhxo5CWVng+SOioPmLbSaNyXINUvFGXM6HLUFeF+XSjAsyC1eNtbUQf/QBJpT3J395o2ogJj8h3fQW7bX3UGm7kHYnSKMnkv7UOSeKKdwJ2mOo8UYjapsJRg+2jRN7qcnYZjeLPSLR4LyXbbmMWjNoYuAOsmhhDFGQzEclUsqsvSGHIaamQEJGGfpNvT8IRr9blSPnYbeP4ihmgVcsB7hnDXDS8zuzRAQWxltNKkRuFRcesVdw8abwbDrPeRc3rrPHRmpeYbx2tcYtZcxYM2iz7qHU+RQmkpVApHXwZqk8mYV7vB9Q9eO0pszB9jksR3F+qSZ9pRILIcAWT8M7ZeGH6/gfVmE+252RR+sTionlkN++h/KhwlKxRbfioTshJwwosS/UhjGeVNYBVNGhWHctzOVAeN9Ww71TAwwTD6Q9/053Pdz0NJNAZB8sgwq7hsab/fDQ1RP9FWAO2zXiO+auGHE/5Tz8m7oI0s+WSapwXjbCxPxu8P7hprYWZysDHfcj/NwlqdgP74etztMKu8bViq74P8rxwjDREAvpjlIBbgjFNnnQXSqGJD/+o1+AiCIO5l7QZMOAAAAAElFTkSuQmCC",
+    "wiki_name": "Toxic blowpipe (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Toxic_blowpipe#Charged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 30,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 20,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

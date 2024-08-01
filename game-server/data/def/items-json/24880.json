@@ -1,0 +1,84 @@
+{
+    "id": 24880,
+    "name": "Amy's saw",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 24881,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 280,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 0.8,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2020-08-26",
+    "duplicate": false,
+    "examine": "She saw scope for improvement.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxUlEQVR4Xs3WQUsCQRQHcOcbdPKylwUPQiCIEBLSqVMYURCIRmAJIplBomW2LEtKHaywIDpEIARBIRVJVIRUxz7Vq/eGp7t7DHZ3HvwPLizz4z/DrKGQ2iNARokRUCpvQaG4oQJKYjDlShUy2dWgUU6QAigBne6FeihuikEBowTsNs1RlEFxlEHFdZ0W3jdbhCqWNoNHcUPKodxNMSxQFGL2DMuBwmRX8sGhMIjC8F2FCQg1bkkplL0lZVDKNlVvGBQ3qpCWd5j7LY9HNsUgRp1VYpCeX6Qw3P2mhyMXxD9zHATxd9DKR6Gy5GtbAgZvQ8r90wsFQZzW+iTUMxFbU77A7IsJeLZ0eDhIwvVOglDY0vZyBHKzGqRiE/7g8EPMYVSvpkHfSjqCQMTNJcPUnqco58gGbpqJUe7MKXg0NXht63BajtEzbNFX1FUtTuk1JIihfUOD4WkKBofT9Fs26/kIaK+F4bIqQbeGBPG2csZb7dmMF8NzgtuDLTlB7nPn2fx953JRQpQWdALhOcGtwW3ycXt4BDWBgI/jFJ2Tr+4MHWaftsc9At6PdPg+0eHnPAKfHZ2ugIAwPM6LMmCMHPuB/S/mFwvzFYGm2jVrAAAAAElFTkSuQmCC",
+    "wiki_name": "Amy's saw",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Amy's_saw",
+    "equipment": {
+        "attack_stab": 2,
+        "attack_slash": 5,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

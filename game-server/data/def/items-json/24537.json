@@ -1,0 +1,77 @@
+{
+    "id": 24537,
+    "name": "Carrot sword",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 24538,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2020-04-02",
+    "duplicate": false,
+    "examine": "Helps you see in the dark!",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABUElEQVR4XmNgGBDA+B9dZAAB4/8jM0L+DwJHgRyAcIyBggIYo6uiE4A4ZNQxqAARRSB8aFow3EHoKukAEA5Bd8wAOGjUMbgA4//tfX5wPKgcA8MDlIjxO4bODhp1DC4w6hh8ANNBA+qYxXWucDyoHAPDdCxrILU1BEP46A6hY+gw/o+a4P1/0oVGMIY5JiTXDyVU6OQYGGD8HzfVD+ywhq2F/8MLAjEcg66DhoDxv3OO5X8xdYH/RgFaYEcVbY0bKMeAAON/aQOx/44Z5v+9E1z/qxspg0MrYXoAUpqiK2D8bxqi9T8g3fu/T7I7PAH7VDnAQwldB40AImeBHAPCCAcw/o/s9aSngxj/tx+s+F+8JO1/cJYPGGOmGXQ+TQEjOFsnzwn+n7oAd5cFnU9DAEzIymL/bRON/jftLKZn1OADiDSELXQGBMAcMigcMxgAAFYtpCSjVVvKAAAAAElFTkSuQmCC",
+    "wiki_name": "Carrot sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Carrot_sword",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

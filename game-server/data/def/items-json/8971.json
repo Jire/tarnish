@@ -1,0 +1,84 @@
+{
+    "id": 8971,
+    "name": "Phasmatys flag",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16221,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 600,
+    "lowalch": 240,
+    "highalch": 360,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-07-04",
+    "duplicate": false,
+    "examine": "The flag of The Phasmatys Pride.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACs0lEQVR4Xs3X3WoTURQF4OZNCl54FSgFKUUKLUFKaSkEA0UlUhStFBWlVLwSH6lUay1JSNO0CUlj8eeBtqwT12R3z07MmY7ggcVM5uecL3sycyYzM6lWELtl1LBvmuTWCjJfvOUMMEzp7txUsedlhA5PIujV9mbImyflkL1n950B/Hx8W5UPrx/J+90tebdTCeejrwjUCMJlt9mUXutU+mctuWy3ZXBxHoJ1bMM+HNNpNOSiXg85r9VC2icn0vp6LKfHX6R5dBSCPudmZ0Ps6KYV5MHmcgJZnL8dlugUnWMgDIrBJ0FwPAPMOJAd3WlDECFcohN0iI4tjhgNIYIQjYkGVcsrKRBSOziQ+uGhND5/coG2Gh4E50ZcLrQhaGmhGE7kkiCiNAxZeVG8Fg/CRFQHbTyIEA1CLIaxEJ4XDdqu3EueH/o54nVuETb2+FxB3iWwABsN4SXPBFpbvpMCeT9UXQmNtSBiMoGebq0mIC4R71ZGbFU0MpdLBtBGaSEF8h52iIUw9k5jbgTiEuFU4MViNNhWNhq083BdyquLKRCfypNi5zE7jSC5gTBncZJlUA39mccQyIoRimQCVdaXwomEEcQZH+FgmPEZu49AjYwG7VY3XJDGEIBXEAx81emEWCSP11XMBMKMj3XCEA9DyFW3m2Cwzu36vYnJFfQ3TAJiHFg0CK+XmGAtyMNoyPdeL0Rv8yp2IxArRZCtjK4OQT/6/RBusxXLBMJ8ZkHXMDp/BrMghtt5XDQI/wo8UAoyAfRzcBniwTKBMH1gnZcuK8iD5QLi78e9bGNAv74NkmhYNAh/AvG0xjovnb3lCWP1JsXCRvumagXZf74mLx+XEhBuff2URgXxDxSvJjZ4sqOqqDBuDnw57iOKn6NQyLCs6W+cV9D/1JdOH8z1fxE77n/ffgPQmk+Vtfhl+QAAAABJRU5ErkJggg==",
+    "wiki_name": "Phasmatys flag",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Phasmatys_flag",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "banner",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

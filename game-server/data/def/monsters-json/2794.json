@@ -1,0 +1,90 @@
+{
+    "id": 2794,
+    "name": "Cow calf",
+    "last_updated": "2021-09-24",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2005-02-22",
+    "combat_level": 2,
+    "size": 2,
+    "hitpoints": 6,
+    "max_hit": 1,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [],
+    "category": [
+        "cows"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 6.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "Young and tender; nearly ready for the slaughter.",
+    "wiki_name": "Cow calf (2)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cow_calf#2",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": -20,
+    "strength_bonus": -20,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": -26,
+    "defence_slash": -26,
+    "defence_crush": -26,
+    "defence_magic": -26,
+    "defence_ranged": -26,
+    "drops": [
+        {
+            "id": 1739,
+            "name": "Cowhide",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 2132,
+            "name": "Raw beef",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0078125,
+            "rolls": 1
+        }
+    ]
+}

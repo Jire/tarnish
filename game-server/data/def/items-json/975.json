@@ -1,0 +1,84 @@
+{
+    "id": 975,
+    "name": "Machete",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 976,
+    "linked_id_placeholder": 16818,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 40,
+    "lowalch": 16,
+    "highalch": 24,
+    "weight": 1.36,
+    "buy_limit": 15,
+    "quest_item": false,
+    "release_date": "2003-08-20",
+    "duplicate": false,
+    "examine": "A jungle-specific slashing device.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACCElEQVR4Xu2XTUvDQBiE3X/gyYsXwYMgCEEQkSIoRUpRpKIIFQSrqEVbaa21flNbrVq/YtVWqiL+0ldnyxvXNAcVs3vQgSUJJNknM5MNaWn5l1YJ+trwVR8TbSQTdF4oOOP57o7qNzZVry7ptlym61KJLo+O/IJqQGym1uRk6oSAsE9P5T7Azg7znxyyOjrkcN/xh2rcNL+97Tw5T/5YqchjAJzkDzwhfh1mJ5NpigEu3F+cy60GCJagvWzWEwb7x/t7OiBYgg5yOU8YOMPx+AzBElTc3ZX9eLCvJQB3BnBcWG0wiMILBsfcGW0wiMILBtHxeqIVRgVSe4MtOsVA7qt9kJATux0CCNzRHBUkZCQAwvLPDnGRUXKN7kDNQOgPrzn4ZhkDQmRwBXGpnwSNcUHCAYBDDASYrXRatzuQcCJ6qVadNQdr0srCghkgfEQR22ut5rizHIuZiIslaH9umNLTAYqFe2lqqNssTHFxhHIzg5SYHKDZkEXh/i7qam+VUO6zfdb7G7Yapvx8kDaiAVoc65PuDFpwxYhDgkpLIdqZHZLuIK5IoJuszjYzZbaTo9IdxBWP9FM02CPjUh1yX+WjBFVSY1SONyIDlMG4BNWzE01AcMcADCToKTdJ9+vjstR4y9CjYG+niahYgmqZiOwRio11yFB3VKm/vL782H1fDKAO9zl/Rm9GcmKVsS6QvwAAAABJRU5ErkJggg==",
+    "wiki_name": "Machete",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Machete",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 6,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 5,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

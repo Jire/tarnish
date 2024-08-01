@@ -1,0 +1,77 @@
+{
+    "id": 23820,
+    "name": "Corrupted sceptre",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 0.003,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "A corrupted crystalline sceptre with some magical properties.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABNklEQVR4Xu2UP0sDMRiHe5sf4IYTbsg3qIggRy2ef670tBQOK24OQr9Kh07ioINFwUERRFAHdfKj/Zo3MaJvb3DoJRnywI8ELuF9eJNLqxUIBALLJsJinKCLr6/EuFzt4jzOMI03MYk3XEhFqPZ2MEu2Va6TLq6SLVzI0Lc1IVT4robQMvfpLgZ5jjs5Um6THDcyRojvaohISZSdjspTuo/H7zxIKcvd+SvzJvp4FT28yDynPTnv2+9OkWUqJPQhDvAuSjWelKX97oyKQolQl2btY3yJAT7FoRsZkqCQ1Hh09BMnMuaozJzHqgx1hBeuC9+5ZLSAkbFYuA796HEZvsoCuiveyNDfclZVC/eFr2wYXfy3jMP7EuF0OKyV4SstoYXocfNAhtBH5YmMwSsZjVcygcA/mQNc+/oqxF6mhAAAAABJRU5ErkJggg==",
+    "wiki_name": "Corrupted sceptre",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Corrupted_sceptre",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": 10,
+        "attack_crush": 16,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

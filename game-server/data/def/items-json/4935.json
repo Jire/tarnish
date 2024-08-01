@@ -1,0 +1,79 @@
+{
+    "id": 4935,
+    "name": "Karil's crossbow 75",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 160000,
+    "lowalch": 64000,
+    "highalch": 96000,
+    "weight": 3.628,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2005-05-17",
+    "duplicate": false,
+    "examine": "Karil the Tainted's repeating crossbow.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtklEQVR4Xu2WX2vCMBTF7TfYk88FHwRBKEIZRQRHkVHowwTBT+Lbvnu3k8vJn+tWa006GB44lLRN8uu9N2lms6eemlxZ56zbvDeJZMLmvezquuja9tW0z+cm8ERQDmS3W3dVtTTX0+kQGM/xbpHnqaAkKj7IZrPoVqvcXI8fb9Z4B88jAulaCEEAsVjMrQHRtntrwkYCyszEAICRHrQxgQ9BE6JptsaAgZfLl+/U7WLVkUQFkdDR0CYIDHCAwCz0ft8hCbV0/LxcfhgsMxCHurImEFceC15HnL4bSuSAAElQQuz3pbGODowIsuhhphPvEmhkjflRkjZBtltZURqGKdMpBlgEIChMHWHgopgbGKYCMNyH6ARAkIMiDMzoaBim2K9HAkXaOAUIBkhZri0QC1nD6P6oKaQ4EhAkUIAhEFdQP4z0TQAEZQGQn4JbTgrEGmIah5pbQDIg94sYZu5NhNKjj5QcQ1DIx2Nlv3aIfbjf661X11/JPQf1M2bgEPAuucn9jQ/X26squtw5SP8YaQLpnokUHsx8sLGpelByWNPHVf80OCEMdV3Qfwgj8lfEA6vjqf+vL+zUZJ5Czo1JAAAAAElFTkSuQmCC",
+    "wiki_name": "Karil's crossbow (75)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Karil's_crossbow#75",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 84,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "crossbow",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "id": 28226,
+    "name": "3rd age 2h axe",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28227,
+    "linked_id_placeholder": 28228,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 161,
+    "lowalch": 64,
+    "highalch": 96,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-06-28",
+    "duplicate": false,
+    "examine": "A beautifully crafted axe, shaped by ancient smiths.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB0klEQVR4Xu2WT0tCQRTFnW/SWgjaSEgIhrQIQZIgqIUEkotoIyJmhpiBkQaGmVpmmppWRFjgQhKkPypEuHTjpm9y497H6FPbOuOiA3fhA5kf55x352k0/xIiBoORLgbRUAgKFykopi+nAYrBUcBPUOlYDB5yOZVb0uAY7LlccOjzEVwkGITHfB6+3t/kQuH4PR7IJhIE81qpjLglFE458Cwchka1Cs/lEvXqJpnsz7xOJwqKUVwftRrcZ7NQvs5QnxAIfz8VCgS4oNcT0NzMzCShGOw6nVTmn16PDjw/iZBTCIRdQphFg4FGCBCWGB3hQFs2GwHhGqjcFglE7c7EgQJeL3RarX5x0SEsNsb1clcWC4NvVbNeV0XBqEO8M3wERIVikInHod1oDAHxiDiIMHd2HA5ahOMHDvYOfz5hGJTyqo/DKBIKwmfFbFZFJVQDiCWjEZZNprFIRv8xQTFYtVhg226H7+YndNpt0d1QS1lyvLgSXUEx2NxYHyuuNJg1q5U2MMYkqbhcymLbd7tp9UuMiEv5+itdpelzQro7WOLUaXTofpIKdHwQoBu61+3KdwejwgsRF99UAM1qtX0gideCWqwPNAX94ZK6jf/WVMHI1i/+2LQwwasb+AAAAABJRU5ErkJggg==",
+    "wiki_name": "3rd age 2h axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/3rd_age_2h_axe",
+    "equipment": {
+        "attack_stab": -2,
+        "attack_slash": 38,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

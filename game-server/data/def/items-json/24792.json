@@ -1,0 +1,77 @@
+{
+    "id": 24792,
+    "name": "Severed leg",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 24793,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.8,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2020-06-04",
+    "duplicate": false,
+    "examine": "A severed human leg.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4XuWX3UobURRGPW/iI/QRBPHKIkgFUTFoxCo2BDS11molaq1aCRGVRE3VWkNDRako0lbw2basPd3TcfTSnHPhB5tAOMwsvv13pqXFm5yk/wkkQJz09fbob0Cw6OUTYyOSHRqQocE+ednZJpmBLt9QEciHmYLCEGOjwxqj2YxkM91SyGd8QEUgxY+z8nYyJ1P5Nxr53LhGbuK1BoCce9HaqpF+yhMoAlmYm5Hl4pw6Q7yfntR4V8grIFDAkDoDSj/pCeRkZXFeAxjcIeZnp2Moc8tgXnVHNdQEICfljc+ysbokq8sLCgUMThmMuZN0ponpcnL8tSrb5S+xQ8Ck3bGaSYI0AQY5OapVpLJVUpfMHQMCxhOI6T4QIAbkGQQ5+Vk/ugdEigDyDGJyUv+2HwOV1j/FKfIMYnLy47imQBQ1Bc2cMaD0aQ9y0jg5kN2dsnYY6UpO4PRpD3JysLejc4iOYiUETdfJ4a6mio5KpioIDMVMqihkVkJQGCZzrbolm6W18F21X9lUIJs7AWGQU2eoGxYpSzNoR+EKHUWLBy9iggJmeXIN9QhjXwT/gy5ixuCK5yJ2sr5SfHCvsUsWU3iwv9dX3USzhQ6ikyhcuigNR7o62tv+uddUOfl9eSZ/rs7l8rwhZ43v8eJkADJzcA84vq+8uXT790purn/J9cWpXJzW9b5jc4eiBogUegPCIWBwCSCcAgq32F1W6J6KGj3ssmQYiCeYSMmXPhbp889CdxJUddotePhpAAAAAElFTkSuQmCC",
+    "wiki_name": "Severed leg",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Severed_leg",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

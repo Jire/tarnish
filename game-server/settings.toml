@@ -1,0 +1,75 @@
+[server]
+server_name = "Harmony"
+server_port = 43594
+server_debug = false
+server_cycle_debug = false
+parallel_game_engine = false
+website_integration = false
+
+[world]
+type = "LIVE"
+
+[services]
+highscores_enabled = false
+
+[client]
+client_version = 12
+
+[game]
+skull_time = 720
+log_player = true
+npc_bits = 16
+npc_walking_radius = 5
+max_players = 2048
+max_npcs = 32000
+max_bots = 10
+npc_definition_limit = 32767
+item_definition_limit = 28473
+combat_modifier = 1250.0
+agility_modifier = 3000.0
+cooking_modifier = 3000.0
+crafting_modifier = 3000.0
+firemaking_modifier = 3000.0
+fletching_modifier = 3000.0
+herblore_modifier = 3000.0
+hunter_modifier = 3000.0
+magic_modifier = 3000.0
+mining_modifier = 3000.0
+prayer_modifier = 3000.0
+runecrafting_modifier = 3000.0
+slayer_modifier = 3000.0
+woodcutting_modifier = 3000.0
+thieving_modifier = 3000.0
+smithing_modifier = 3000.0
+fishing_modifier = 3000.0
+farming_modifier = 3000.0
+
+[network]
+connection_limit = 3
+failed_login_attempts = 5
+failed_login_timeout = 1
+login_threshold = 200
+logout_threshold = 200
+client_packet_threshold = 30
+server_packet_threshold = 1000
+idle_timeout = 30
+display_packets = true
+resource_leak_detection = "DISABLED"
+rsa_modulus = "102353038900255891527619367941460634639078944277149869534765441701765061915480193910291695742706042386340616731973380032288127455494356031646220980795852675234525031620306539656965685802100384909448780766960597664159328648803794286947984198753216591499378109000984639229430631686267432671373106838769133939913"
+rsa_exponent = "53925997225795133719229887783247543425130183971584110428703113302718248056511827143879975621403130102964053208695986070996181590716154529757425030836016240047551059410105065493557574944899978363674428788471686009398071320688429363476724786245628722544641599881866860779098693203875115492310538964714249216129"
+support_haproxy = false
+ip_tos = "10111010" # binary string for ToS (left 6 bits are DSCP flag, 7th bit is to enable TCP ECN, last bit MUST be 0)
+
+[website]
+website_url = "https://osroyale.com"
+forum_db_url = "jdbc:mysql://173.82.152.23:3306/osroyjs_main"
+forum_db_user = "osroyjs_game"
+forum_db_pass = "dJ$&38mGEsTB"
+
+[discord]
+token = "MTA0ODgxMjIxOTIxMjc2NzI0Mw.GI_zO7.IG56uU2cqwDnh-6pnYGM33sdZHcE1lsoQTmNQk"
+
+[postgre]
+postgre_url = ""
+postgre_user = ""
+postgre_pass = ""

@@ -1,0 +1,87 @@
+{
+    "id": 1269,
+    "name": "Steel pickaxe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1270,
+    "linked_id_placeholder": 14762,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 500,
+    "lowalch": 200,
+    "highalch": 300,
+    "weight": 2.267,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2003-05-27",
+    "duplicate": false,
+    "examine": "Used for mining.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABcElEQVR4Xu2Wz0sCQRiGZ/+TvQVBEEF0iI7dunUXRDJJC8xEzR+IEYEdEy8V3apz/+AX7w7Dzo6zu+rMsh/RCy8sy6z7+MyHjhB/KwElW2oCOtkTdHog6OxI0PmxKBrK/Parve906Gk6oZf5nN4Xi+jefhj6hpIva9Xrub27btGo26XH8Yg+3159A8UgV7XaWj3ckVsGS9PBQLPnnIBum026aTQSQJfVamp3QxHNEKqAYGvS6/kCW52RrMKODajfbkez9TybuYNh//OKF+h2bECYLRTXH8ulO1h2knZQ3ZwCUtuPUcC9n++vIqDsMKZBVczhRaUSgcGeWmt+qkOSQDqMvsoGB1MPw6FPS+l2zJV6TDjMmyco+VdhwuQB6VFgmz5nSdIOrtexk5Ztn9PibsdjtpudAsPYTskwSGzHdZA9hLEdFoP8byc7MRALO2q7cF5mYUcBMbCDyCMqg98dFQmEMgFC5GGKwXbFYQVTZn4Bh9jJJjaFfasAAAAASUVORK5CYII=",
+    "wiki_name": "Steel pickaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Steel_pickaxe",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": -2,
+        "attack_crush": 6,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 9,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "mining": 6,
+            "attack": 5
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

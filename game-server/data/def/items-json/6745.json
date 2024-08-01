@@ -1,0 +1,84 @@
+{
+    "id": 6745,
+    "name": "Silverlight",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16900,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": 20,
+    "highalch": 30,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2005-11-14",
+    "duplicate": false,
+    "examine": "The magical sword 'Silverlight', stained black.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQklEQVR4Xu2UbQcCQRDHm8/Rm/sIJ5IkSnJSEkWSotKDSi/6/kxmzupudq/e3M4e9eMvsm5/5mFrtd8CME0lAIzqdU4FpPIycRRx5Ckl/jJFvGWyQvKUEm6ZQELparuE5EkF8iKBq2PLBKyOW0ZJyPX8BxNyPf/fZTwJ2Rebasn/pZD8UokUXy5F8vHG54oUxZMU4Hw6xc1yicftFu+nEz5vN+tyGY9zBDjs9TijwYBjBPfrNV4PB3xcLoVC8mslANhpt7Hf7XKylxpRe3a8VYcAbDWbLCVlqFqrxSInkI38UonYA23ad97tfLZH4t4uIzNJEh5wJSFbhCJnxfO8GABn4zGHNiorI+dEQYYAbokZXGoNySm1xgXwijfimDfMrLZSNVykq05tol+qUsDqEGmFKPT+UMsCCxHqm/Qd5U2qNi9vfobxIhZ22gAAAABJRU5ErkJggg==",
+    "wiki_name": "Silverlight (Dyed)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Silverlight#Dyed",
+    "equipment": {
+        "attack_stab": 9,
+        "attack_slash": 14,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

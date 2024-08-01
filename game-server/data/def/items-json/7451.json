@@ -1,0 +1,84 @@
+{
+    "id": 7451,
+    "name": "Cleaver",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 7452,
+    "linked_id_placeholder": 14359,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 25600,
+    "lowalch": 10240,
+    "highalch": 15360,
+    "weight": 1.814,
+    "buy_limit": 50,
+    "quest_item": false,
+    "release_date": "2006-03-15",
+    "duplicate": false,
+    "examine": "An effective tool for chopping tough meat.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACOklEQVR4Xu2WS0tbURSFPb/DScCBIAgiiIgUBAcOWgrSgLQiWEUafGHUija2xPioz5qmGq2pTTTWVAmiRdFZ6S9bZe3TE5OrFsWbkwu6YJObQXK/u9ZeJykre5QnpFA4JZXCi6YKvH5aiQF/NX6fnZUSSuFZow/tLZUIttUg0lOP2PATAarx+WxDKbTUl1+BSU02lwLoEubtq1os9DZgfbQpt0OEsQik8NLvR8/zKoS76gQmOnQZk3UYzmZ0FaHOOsy+acByf6NNVwrr3NZcIc6Md9Tm3LEKszo3JxOdn0egtVpgjDOW90VhZWZGhjCMiMtLGCeIFZiFqTCWIhF8WVwUmGQ8jr3Elm0QSuFj+IM4Q5itz9EcTOb7Ng5TqX8OWVEhDJ3ZXltD+usm9r8lBOYoncZJZr/YUHonZt9PSkzcmfinFSRiMexsbIg7B8kksru7AnN6eIDzbLYYUBpkOhQSGO4NG7W+vHRtVMc/9vDrZ0aAeO1ifBqEsRCEMRHmNlFxeO1smvMOd5CSp8sHYUzmrLkpKn6GIMYVl5qm8OfivOAJzTlDZ26KikB85XuXXDFSCE9MSAyDgQB6u7sx3NcnIHSGMPlR0R0OQZxnkPOb7yF96NEVwowO9AsknSKMiYpAHF4TsEgwRkqAxoNBjA0NSsu4Q3SINzdDOMZXZBgj/Rfi3cjIFSDTLBebdFvpnWLj6Fh+u1xs0l2lfy7YMgJZjOh/0ockI/MADKWBPAJj5CkYLU/BPGj9BaTJlOp42qXtAAAAAElFTkSuQmCC",
+    "wiki_name": "Cleaver",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cleaver",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": 45,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 44,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

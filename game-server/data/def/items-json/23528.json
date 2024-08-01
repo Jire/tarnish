@@ -1,0 +1,86 @@
+{
+    "id": 23528,
+    "name": "Sarachnis cudgel",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 23529,
+    "linked_id_placeholder": 23530,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120001,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.453,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2019-07-04",
+    "duplicate": false,
+    "examine": "Not to be confused with a Sarachnis cuddle.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACsElEQVR4Xs2X32tSYRzGff8Dr3bjjbALQRBEEBERlCERebGYECsYmMhko2Atsc2Ksdbm0SwrnLpIm1s/XI3JaP1ywYJidNM/sYv+jKfz/Z4dp27VjeccH/iieHHeD8/zvOf1NZk0l0DvLwZKoBQZxYBACcy4nahfjjCQ02o1Ekog6rDhlseFxsT4YAAlnA4s+NzYjU0cR9Y5ukrgbirFcd33e/F5Moordhs7RpDXXA49oQTGbMPILy0hKcf1IOhjmLjTzjCqQxSfEqGmjgmEh60MUC484v58nYoxjOpKN4RA3OPuAO27BC7J7hDA5rM1pL3KYicRKTNql93yejjS0471TUpU1BMCaL7cxJedHV70VbXKi0Ycdsz4fewcRdkJ0ncYNSpyhLrzaXsb1ZyE9XIZ521yod0u3AwoMFLAq50rKowaFTlCi27IHSpJGY6HepIK+jlCTWEmo1HcmJ5mGDUqgiGHyJXiyjJ3ZX4kwDD0CtAMhkDmZ2dxL51GIZNpR0UOeSwWdqYiO7QmSXi/1cCP/X3tYKZiMe5LbnERT7NZ1FZXGYQcorKqu6iaz3GXDj5+0AqGJLAwN9d+t6yXSnhXr2Pv7RaKmRVUshKeP8yj/riA3Tev0Wo28b3VagP1Pq0PEmjUagxDEVE36Du5QjtJ3dbUl2IowCAaukMSfCyMDZl41OOhF6Yw4u8C0QiGpHRIBQqbTbCbTNyZO6Egn+60tTuBep+ggUQbSIVS3dEZSOnD9USCy/rz20G7I2eN5lFRNG55QrIjv4+OTnXkrOl9Sp90AuOXYX4dHurhwL8kGIaG+mI4zO1kEhuVMvfGYBiS4Jh0Kur/pMBctZgHA4Z20/jQgMDQfxiDC9x9E3hyMYwX44ZdgQUfjjazmT+XL5zDXly5bRrkDkn3V/9f9QfIgUXuHC2PFwAAAABJRU5ErkJggg==",
+    "wiki_name": "Sarachnis cudgel",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Sarachnis_cudgel",
+    "equipment": {
+        "attack_stab": 30,
+        "attack_slash": 0,
+        "attack_crush": 70,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 70,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 65
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

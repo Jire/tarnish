@@ -1,0 +1,66 @@
+{
+    "id": 9282,
+    "name": "Basilisk Youngling",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2019-09-26",
+    "combat_level": 53,
+    "size": 1,
+    "hitpoints": 60,
+    "max_hit": 5,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "basilisks"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 40,
+    "slayer_xp": 60.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "The young eyes of evil.",
+    "wiki_name": "Basilisk Youngling",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Basilisk_Youngling",
+    "attack_level": 25,
+    "strength_level": 40,
+    "defence_level": 70,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 20,
+    "defence_slash": 20,
+    "defence_crush": 0,
+    "defence_magic": 20,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 24256,
+            "name": "Unsealed letter",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

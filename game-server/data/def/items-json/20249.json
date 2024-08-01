@@ -1,0 +1,77 @@
+{
+    "id": 20249,
+    "name": "Clueless scroll",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 20250,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 1.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "The instructions are complete nonsense!",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACSklEQVR4Xu3Wf0tTURwGcM878SWMQHobQVFUKLqhCzXRrIwxQiuzsaytuYtjs5YlYjH6RUhE9Ed/9aqeeL6X77mn4x3t5rpXwi88OEV2P3vOPeduZOR0TieTMfD/kuEYBPfGcUJQBr1gHm+bcwLKjY5miTL40pmSuCj/v1Icg8P2pA1BESozmMHT8uU/wFLDGdTvXpEQxTwuXZIl/NYtWNjr2kxaOIOt1asSRRGkqO+70/ixV8SH9oLcYweNa9jdnPZwQ0WG251RGKNtaVNE/Xwzi8PuDXzqLOJd67oFsr0IeawxaFcX8bJ+E3vNFRxsl9DrlLFfL2Knkrcw3lNEMV+f5wX5uTWBj8EE3jfH0WuE7fL9jnFkhJgXtWW8atzGfnBHQG4I61YL0h4vSERc1pbOSf4CFK33dmUBO0+WpB2C2JDm7NjYb79zOdhYa33yyH1WWbmIh7cuWEwCkLHrrgcgw+VgSxpiGEL9sC3C2htTgnPvu4TtGNklcSBFMVxCzZlcTn6yRYavg415bK3PobZWxObqDKrlgm08QTtGPhE/GT8hwyXgzmDiYLwwQYwint2ftYhHpbzEhQyI4RhZa649KyaOKGJ40zJ8ze3rohg2wbiIOIx/xQHG2N1CEBtSjItSGEOQPnR9jAvyr5Rg/FPV9EW57XFbE8fzh+fQENqJxl3v8M36w7RFFzlUTL/pB/NRPG+YISzVYOPCFKcoxsWkAtJRGHccb27CUm8nfqLv2Zm1c3TCx82D5fNZt+NO4kfDv58Thflv5xdUETgHmjAL8AAAAABJRU5ErkJggg==",
+    "wiki_name": "Clueless scroll",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Clueless_scroll",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "id": 7416,
+    "name": "Obor",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2016-10-06",
+    "combat_level": 106,
+    "size": 2,
+    "hitpoints": 120,
+    "max_hit": 22,
+    "attack_type": [
+        "crush",
+        "ranged"
+    ],
+    "attack_speed": 6,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "hill giants"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 129.0,
+    "slayer_masters": [
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "He looks very dangerous.",
+    "wiki_name": "Obor",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Obor",
+    "attack_level": 90,
+    "strength_level": 100,
+    "defence_level": 60,
+    "magic_level": 1,
+    "ranged_level": 120,
+    "attack_bonus": 100,
+    "strength_bonus": 68,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 100,
+    "ranged_bonus": 65,
+    "defence_stab": 35,
+    "defence_slash": 40,
+    "defence_crush": 45,
+    "defence_magic": 20,
+    "defence_ranged": 20,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1373,
+            "name": "Rune battleaxe",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.03389830508474576,
+            "rolls": 1
+        },
+        {
+            "id": 1303,
+            "name": "Rune longsword",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0423728813559322,
+            "rolls": 1
+        },
+        {
+            "id": 1319,
+            "name": "Rune 2h sword",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.025423728813559324,
+            "rolls": 1
+        },
+        {
+            "id": 20756,
+            "name": "Hill giant club",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00847457627118644,
+            "rolls": 1
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": false,
+            "quantity": "50-99",
+            "noted": false,
+            "rarity": 0.1016949152542373,
+            "rolls": 1
+        },
+        {
+            "id": 564,
+            "name": "Cosmic rune",
+            "members": false,
+            "quantity": "60-119",
+            "noted": false,
+            "rarity": 0.1016949152542373,
+            "rolls": 1
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": "100-199",
+            "noted": false,
+            "rarity": 0.0847457627118644,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": "40-79",
+            "noted": false,
+            "rarity": 0.0847457627118644,
+            "rolls": 1
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": false,
+            "quantity": "40-79",
+            "noted": false,
+            "rarity": 0.059322033898305086,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": "10000-20000",
+            "noted": false,
+            "rarity": 0.0847457627118644,
+            "rolls": 1
+        },
+        {
+            "id": 23182,
+            "name": "Clue scroll (beginner)",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 225,
+            "name": "Limpwurt root",
+            "members": false,
+            "quantity": "20",
+            "noted": true,
+            "rarity": 0.06779661016949153,
+            "rolls": 1
+        },
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": "50",
+            "noted": true,
+            "rarity": 0.06779661016949153,
+            "rolls": 1
+        },
+        {
+            "id": 1619,
+            "name": "Uncut ruby",
+            "members": false,
+            "quantity": "5",
+            "noted": true,
+            "rarity": 0.0423728813559322,
+            "rolls": 1
+        },
+        {
+            "id": 1617,
+            "name": "Uncut diamond",
+            "members": false,
+            "quantity": "5",
+            "noted": true,
+            "rarity": 0.0423728813559322,
+            "rolls": 1
+        },
+        {
+            "id": 20754,
+            "name": "Giant key",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0625,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0025,
+            "rolls": 1
+        },
+        {
+            "id": 6800,
+            "name": "Giant champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.00019950124688279303,
+            "rolls": 1
+        },
+        {
+            "id": 13474,
+            "name": "Ensouled giant head",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1201,
+            "name": "Rune kiteshield",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.025423728813559324,
+            "rolls": 1
+        },
+        {
+            "id": 1163,
+            "name": "Rune full helm",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0423728813559322,
+            "rolls": 1
+        },
+        {
+            "id": 1147,
+            "name": "Rune med helm",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.05084745762711865,
+            "rolls": 1
+        },
+        {
+            "id": 1113,
+            "name": "Rune chainbody",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.025423728813559324,
+            "rolls": 1
+        },
+        {
+            "id": 1079,
+            "name": "Rune platelegs",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.025423728813559324,
+            "rolls": 1
+        },
+        {
+            "id": 1093,
+            "name": "Rune plateskirt",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.025423728813559324,
+            "rolls": 1
+        }
+    ]
+}

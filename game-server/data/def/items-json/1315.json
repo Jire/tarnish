@@ -1,0 +1,86 @@
+{
+    "id": 1315,
+    "name": "Mithril 2h sword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1316,
+    "linked_id_placeholder": 14749,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2600,
+    "lowalch": 1040,
+    "highalch": 1560,
+    "weight": 3.175,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "A two handed sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABQUlEQVR4XmNgGHmA8T8EDziAOMTVNeF/SFjZQDsK4hCYY2AOMlBQGAhHMf63tAxEccwAOojxv7m5D9hB0dF1cAxzzIA4aFA5BhQ6yI6JjKoeqKgCAdTQQXbMADgIM3QG0DEggDt00FXSAaCGzgBHFQggQgfkmNHQQYBB5RgQQDhoUEUVumMGnYPQVdIB4HbMgDpogB0Da4aiOmaAoorxf22S2P/JJWL/V7ZI/7+8TPn/o03q/z/u0xq40GnJEPs/p1r6//pO6f95ia5gR73djXAQug46AEZw6KSG2/4vTfP8f32V8v/n29QH1kGxgZb/i5Ld4WlpgKILBBj/B7ga/c+Jc0ZxxIA5BoQTQ6zBaWcAowgEICGD7pgBddD+aQr/X+/UGgyhAwKM//dMUfh/b706SvpBV0VnMOA5ChPQO0cBAAQibPb7lqY5AAAAAElFTkSuQmCC",
+    "wiki_name": "Mithril 2h sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_2h_sword",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": 30,
+        "attack_crush": 24,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": -1,
+        "melee_strength": 31,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 20
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

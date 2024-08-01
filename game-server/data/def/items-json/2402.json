@@ -1,0 +1,84 @@
+{
+    "id": 2402,
+    "name": "Silverlight",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 17755,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": 20,
+    "highalch": 30,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2001-01-04",
+    "duplicate": false,
+    "examine": "The magical sword 'Silverlight'.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACE0lEQVR4Xu2VT2saURTFfd/A1WxmM+AikFW+UBZBMKH5g0mMiYnKpGqMnYrmn4qmTZuIi5JSCN2WtotQaKF0WdIPc8q9r6/OvKZk43sjtAcuPuUx/jj33DuJxL8lAVlTIYHmkxO0grNpgBJoHLS46DzneVz6LUuSMPVq8z+MpjFMGEi/ZUljmNrjIG535GgrmL2CH6c7giHCFaM7AhW/EakwkH7bsMbOxAB03/ofLz41VXrLovcnJtmWQfdlCEq+EqiCwzYXgVnIj8BSZgXLS2vYL9dx2u7/ghJoNztcBKVcym/umnaHJJBJP8Lq8gb8Yo0BCOy41eOXJrmjlmC0jEn+QXphEdmVHEp7FQZTASZ3uqfPMLq8xvP+kM/knCEogdHQxdsbDx8/ePj2NYUfdzPY3ioit77DgBtreT5Tu+j3wnbZZI4EngZOpF5cuHjz2sX7dx6+fE7h7vsM50xljVprMEcCpaID35cV3jnVisP1Z3aMuUMSWM8msZVL/h5tCjCBHNYdXL9yIwDh0p80QckRVxNFOaHWtVsOPt2mTLZHl7S/czzgMScg2kUK5uTI4fxYAhLsxnnviseYgOi7nhXDeVESOB+46PdcXF26HGC1ofWcWIAhyVGnqaLgUnsIzlJr7pMc9fn5JBYzSQaz1Jq/STDI7GyCP8mtGN0hSYcKO3L/dM5iByJZn6SHZXmSpls/AaWhIgbFTHHkAAAAAElFTkSuQmCC",
+    "wiki_name": "Silverlight (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Silverlight#Normal",
+    "equipment": {
+        "attack_stab": 9,
+        "attack_slash": 14,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 12,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

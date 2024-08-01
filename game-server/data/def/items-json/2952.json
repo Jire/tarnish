@@ -1,0 +1,84 @@
+{
+    "id": 2952,
+    "name": "Wolfbane",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 16502,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 300,
+    "lowalch": 120,
+    "highalch": 180,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2004-06-29",
+    "duplicate": false,
+    "examine": "A silver dagger that can prevent werewolves changing form.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZElEQVR4Xs2X0UtTYRjGff8Dr3azm0EXQRBI/4YgQYJ04cBElAhpF0lBhhdlYYJLbdpWzJzNXLOt5Zq2xlyzjZYNsjAqDPpLns77Hs7h7Kzw6rzzgZfDPgbvw+973u87p6vLMxEK6TT46VzbLbxxramI8DKRQGW7IM17AgF5vs1k7N/mmooIiUfLKG29djUn7BWLDoNq+hcJQjGb7Qyd3PN1VHd2WraKs1Qvl7XpEFIrKyjn8yeBDuHp0hLe5XIuEoTtzU18qlY16RAezt5H/kXKFVrCVmpDTCrSIdydutU24k46zXpdiw7heiiE5OOYjPjHym7n6TxZXBQKtVKpxcyr9aSsf2k09OgszMxIYx7xZq0mjbnSq6uSJ+uKUKBDuDN5ExvxuDRtvK+00eGD8VuzqUGHMHF1XEaczxb3iHO43dPmoSHCSDCI5fCcBJabWhPExcT4lGY63w8OvKZDON/bi7npackIj/j+h702OnxFOAPuqaFRfzemTvkQPeOXEf/6ed+mw1cG0+Ft/HV46DUdFuGKYWgy4MM9w9TCaZ9ths+h7LM1oeMMuOeGBn3dYupawCQ1a5jiJ9PhTDGd3z9/aNBhES75TUMho24ETFq3DUMWHessUqBjiWwzTIbNMKWwURGjCufMcCuZYZGYGRoatc1wlthMpscva+qGBgYG0d9/UUxw8cQlz/rtgKtuV1/fBQSDI3ZzZ1lGlMywCGNj423NO2CERRgevqy9Jf+TmZsTY8adEfc/FEWIRyL2t3nHzUQfhOWybH017ZgIa7GovJoqvfUdJ0Jsfl4M/Tk6Ujf0F57wbtoinSWoAAAAAElFTkSuQmCC",
+    "wiki_name": "Wolfbane",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Wolfbane",
+    "equipment": {
+        "attack_stab": 11,
+        "attack_slash": 5,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "id": 25517,
+    "name": "Volatile nightmare staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 1.6,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2021-02-24",
+    "duplicate": false,
+    "examine": "An ancient staff corrupted by darkness. A volatile orb has been added to it.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB1ElEQVR4Xs2Wz2rCQBDG3ZfoJZdADoFAIQghiAQiIhIMoigVLYoeLFJqKQiFthfpc/RW6LXQB+qhLzJ1Zhmz0VIszZ/9YEiyOcyP+WZ3tlI5WQIOV0qUgFYYgkZQEihqNnWBkkBxu110pTCRGsk6Vuei36f129WqCCgB9VoNpqMRxXwyTsH1Oh0YdLsHwLlCSSAMTq4+0S58Mghal3znJgG2ZVGyRhCQTfjODc1N7ZpmqkryOzcJOHcc8D2PqqUCcUMnAALmLdXG3CQICIMrhZYxjAo0DFq0XrWcVNUyBExgMKquSzCPyxtYBvFBMgGxHxLU14cNn+82OKYF6+4E7oeLbKHUaLo+tB0P1pMFjMOIgv9FXp2gXp4MeHs29s2/Gczof2b9xdaoDXwdj/bvvI6wCPW6NchePkDv+pfZAqUlyApMrvYSPjExrquh7sacgFCJhQzFYRrGPrDnjndjTlItRKjxgOfaceRcnZ8kYPsgZ5rab+neK1S7KkXy0JRV0UJy/hXSL6dJHqK43bWqEkJpZ522UBrdu1ESKn1wli4JtZldwbTBt4PSJauDYyTja8h/JG8CPccnIG3OKfdMzj5NgFC7njJsXWxjlTL9f5dWMH/RN8z9d+oH1fkPAAAAAElFTkSuQmCC",
+    "wiki_name": "Volatile nightmare staff (Last Man Standing)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Volatile_nightmare_staff_(Last_Man_Standing)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 16,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 14,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 15,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": 3198,
+    "name": "Mithril halberd",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 3199,
+    "linked_id_placeholder": 14624,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2600,
+    "lowalch": 1040,
+    "highalch": 1560,
+    "weight": 2.721,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-09-20",
+    "duplicate": false,
+    "examine": "A mithril halberd.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABaUlEQVR4XtWWTUvDQBRFO//AVTbdZFcQCkEoIUggIqGUhNIhxRJDilSk4heKCoVSceHChTt34qL/9OrkMYkN1mXmeSA0MIUe7rsznVZrKwL0sEDgSEqMooiDFCVzNp1iz3GKd8e2TUkJxPEFDg7zQuQu3TEpJDCZLEoh143x/mBhNiSp+rcbgISGo2uE4Qk8T6Lb9fF6aSENjUgJpMdLSHmLfv8UQZCi1xvAtnexmlkI3VbTUgJZ9oQkuS/HplLqdLxC5DFrvE8Cef5cjk2l5PvjIiW98+ay8dHR2FRKUTQvy62FVMkN9Il+XHepntLLuYE+UU9IQEtV/THSJ+KnmJaiFSN9qtBi6rNK5XsTDAxKKTZHJPC5bCPeb7hPfyPwdmOZ6dN2RHGSM0pJYbjkvyOQBKz6pKAjglWf1qs2v5Q+Fgyl1B8xOyl9RtVXDEK3A3ZSLA9OfWWprxhE4GrMUGrzCsMAVjL/ki9cTu9AS1pg7AAAAABJRU5ErkJggg==",
+    "wiki_name": "Mithril halberd",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_halberd",
+    "equipment": {
+        "attack_stab": 22,
+        "attack_slash": 28,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 2,
+        "defence_crush": 4,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 29,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "attack": 20,
+            "strength": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "polearm",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

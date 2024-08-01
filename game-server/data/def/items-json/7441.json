@@ -1,0 +1,77 @@
+{
+    "id": 7441,
+    "name": "Frying pan",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 7442,
+    "linked_id_placeholder": 14354,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1660,
+    "lowalch": 664,
+    "highalch": 996,
+    "weight": 1.587,
+    "buy_limit": 50,
+    "quest_item": false,
+    "release_date": "2006-03-15",
+    "duplicate": false,
+    "examine": "Looks like it's non-stick too!",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC5ElEQVR4Xt2W20tUURSH3f9BT730IvggBIIIIUMIQg++BVEgFL0EUmSGl7ylyWRqXjKnyUbTTFNz0sa0KJQSzIeI/qpV3zos2d6ymD0ccMFizo2zvvP7rb32FBWdnHCyN2MNJ2MDA5IaHNzNmMCiosCQz4eHNWMCc1pwtK9PRnp79fjFkxHNo8EKFpEqBsMvIJmno5oGRk6mxvRaAaGcApBDD5OaFKOw5dSzlMyMj8ubiQlZeDmpx1xHtcAWRjYZyONkjypEISBmMxkFWHo1Lcuzs/JhYUF/F6en9B7PoBrqBoJyCtD/oFsTIF5OEV8VA8rNz8v620VZmZvTa9ybTqd3lSovLs4HKuobIHra2+VRV5ceYx0FsMSAUCT7ekaBPmaXNDnmGvd5NoBKkTqA3G9pUSgfiMbl67HGB0KhzyvL8uldVs+5F0ilCAiQtsa70t3aqnC25H0g+gggrDKgzdVVVQorA6nktFeAaK6vl46mJkl2dh7aR9bYBoQ6G7mcggVXCYuwzFSiuW2l+X1kQKw0gL68X5Gva2vhVeIlQNxruKNgKGazCNv8xraVBoTZBhiQAPMuUygvlSiOOtjmN/e/2IZKAAFt0zsPGMKp/6iCSofZ9rfVRqIc4AHUsXBqD8rst832r/1DElVsHqEezwVQx8LJzuaG/NzeVnX81WYzyd9KbAQAhWrcs2YOAOTk2/q69oT1hm0l2GYjwKyzBkcp4KyRA9nl9CuRnUJWmC8+KoEy+3ybgsD030zoi7GFFUZTc25f7Kf/nwgL/SGYJwjhZOh2QpI3zknr1Qq5dalMzicSB6Tf++UHIYPBpBqrVJ2O6xXScKVMLleXSGnxqWOL7Ic86rn/CCfp5qpddZpqy6X2Qokkyk4fC1OA+LNNtFWrOr11lWrVtZpSqak8Ew/Mr53vqo5ZVXfxrFoVAwzh5MfWlu49zA/6BnVigiGiSczQY4agTowwFgVZsvlF4CV7MuI3cg1RxAcHap0AAAAASUVORK5CYII=",
+    "wiki_name": "Frying pan",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Frying_pan",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 25,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

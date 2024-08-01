@@ -1,0 +1,94 @@
+{
+    "id": 868,
+    "name": "Zogre",
+    "last_updated": "2022-06-28",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2005-05-17",
+    "combat_level": 44,
+    "size": 2,
+    "hitpoints": 71,
+    "max_hit": 5,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 6,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "ogres",
+        "zombies"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 71.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "vannaka"
+    ],
+    "duplicate": true,
+    "examine": "A partially decomposing zombie ogre.",
+    "wiki_name": "Zogre",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zogre",
+    "attack_level": 20,
+    "strength_level": 36,
+    "defence_level": 35,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 4850,
+            "name": "Ogre coffin key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 4812,
+            "name": "Zogre bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 7848,
+            "name": "Zogre bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "rolls": 1
+        },
+        {
+            "id": 6807,
+            "name": "Zombie champion scroll",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0002,
+            "rolls": 1
+        }
+    ]
+}

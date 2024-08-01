@@ -1,0 +1,94 @@
+{
+    "id": 12796,
+    "name": "Mystic steam staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14700,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 45000,
+    "lowalch": 18000,
+    "highalch": 27000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2014-10-09",
+    "duplicate": false,
+    "examine": "It's a beautiful and slightly magical stick.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xs2WW0sbURSFPf/Et4JQ6EvJQxFaQpBgCAaHhCYkJCMxZTQSjU1ttDISFFGUmHqDUGitpZdUqm1B7EORgkIpLVp6sYVQSn/IavYeMokxrzNnFizmYc7hfKy998zp6LBNAg1LUwPiQ/Uvjv78Q5+2IQtKYPX4M15+PcP+WRWRuzsIZrcZjN5d6ey0E0pg8kkFCweHKH86RU9sju1NLODgV1UOUGa9jJmdN/ANltgE8/r7b7YUILUwjyV9EItTAwxDUC9Of+LZyQ88rdnmPqollAyYJpjo5C62vnzDxscTFA+P7UxJoJCLQR+PYnoswlPlVZdQ2N3H8vsjzL19B72yZweQMd7NMJQMNfPwyjpyDx5j+vkrfo7c37QaqAbi9WCt32/CPLypwB3W0d1/B34tbboOTjCWAo12XzPT2Y4EUQr4zMObXQexFCanKWyCKfb1Yius4J7nxgUAi0FIAlrch6lsClktBuVyF5cu776OpOuq1X3STgKVeJhHm4Bc3ltty9O6y0IJ6D1uKH4PAr3tS9S6wyI1UvB5XDITIQmk4kHcHk60TaV1tcUyPnzUxNJTIZcKGsPUgaTBTIwMYHV2iCdJIoyRSnkxg+JMik1g0mAoEQKIhfzIjybZ0mDoFzCkhvBoZZyniSwJhiQwO5FAJhVF1yU6XOo0kQTDUKmaQaTBzOdVHm/JqZBq450O8Y/SETB0n0mr58vUuspGGfcah8DU5SgYQ46CcYr+AxI528kTb/VMAAAAAElFTkSuQmCC",
+    "wiki_name": "Mystic steam staff (or)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_steam_staff_(or)",
+    "equipment": {
+        "attack_stab": 7,
+        "attack_slash": -1,
+        "attack_crush": 40,
+        "attack_magic": 14,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 14,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40,
+            "magic": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

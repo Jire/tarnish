@@ -1,0 +1,79 @@
+{
+    "id": 12774,
+    "name": "Frozen abyssal whip",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15079,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 120001,
+    "lowalch": 48000,
+    "highalch": 72000,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2014-09-18",
+    "duplicate": false,
+    "examine": "A weapon from the frozen abyss.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAEm0lEQVR4Xu2XaVNaVxjHc79JPkGm02XSxk5fxIprJm6JmhB33BfcBUQQRMAlKIILoAiIiKIgCRoBg1slauzEttN0+Qp91S/w7wF69QI1k1pC3vQ/8x/gnnPu+fGc5zz33Bs3/lfCROHdToouJ2wSy9EukaNTKgd/SA7NjA58jQH51fV4SBwPmHBICjyNHjy1DkLyKdbqIZ2ag0ozjWmzGfPmRRiItRsvMbvhRRuB7SDulikhEA1ArFQmEorC0PAYpHIluMpxcBUq9EsG0SeWxEVBb7Jg1GTD6t4xFlxbUBsXMaU3oqyiKtz+yc2biYCiMDw1DRmBquWL0SSQol4gvpiAaSaczePD5vEp/CenGCBj7+XmJSJKFJ4arVBPz4JT14Ci2qaLCS8hIv2YjoWbdPvR3NbBaLu2yHIZLGgQDKCwqDgKhDlpNrscxY/YYd8vjSxPaDTdx7e7D/mMESUcOuGvJQozC4sYGZ9EYVXkRrEgiik9+OMz6BzXQ2u2QDyhRffYJL5Nz4iZmMLas03whkYgkg5dF4pMaLajoqMPqXkPL4BCnwM6K4SzJkxO68K7LbQD17a9sAeCmPMdg8sXII9EiwYP2eH2YHrZiR7SxukR/lsoCqMOD9rIrioseRQFo7U58HRxBQqTHYLBQTQLJeCQJTWsrGJKN49Z3yFc2zuoEyuJh1DXL7uAquzpx93cQmRm32Pc871EQWeyYtC8grSMrCigRacL8xYrKjm14PbyUN7OA7u1Kyoa65tezLu3SN6VkPGR5eN2diO7iI3sB8VgFVzmY+zMV4iCTKWCnJgeSAMpl9bQxeMjr7QyCiI22etbuMitqMHdtDRUt3WjsKwKxZXVyCooirnne4lEaNkedvQ/oSBSadFHTIOYPDvIZ5f9/TvSJ+TGXiFqeCLUtLajtKYBnJbWMNA1YEIihc2/H07EzIJIQtPXjYdvsLTqRGoaK3z9zR9/4uv07AvApp4+dPbwwrnTPiBDXWMLuB1d4DS3XBcmJAruvQMMzlnBbuTGRcl+cAb/6+/x2edf4NbtO/j0qxTcTklBKisdKaxMfJOZQ75ngJWTgzusrDDQf4ChRWFiI4CGATmaJSOMKEXavCevofMfweANYv3ZVthi8zrGSKkYtjqgXnbBYLGRh641ETAhUVg9/Y0cLfSYW1qCVmeIg3J6XkBPcsjmcMLu80NqWiO2h0sCvYQJgqFF4fTnt7CsO2FYsMQsXaT9KtMQCYShRSHwXRBGN4mGczMmSpHn1VVm9kuwKDw/OcfCVgA19Y1xUB9JJKcOz7CwE8StL1Nilii6X/y1DyZSCAPH8B8cQWMwYHRCjQdPyqPgWjq78LiZfpQkRRS2dw8Q/OFH7B4G4dw/gsuzjS7ZMLgSBSwbbnJCHEb6/fzkQr18dQxvYA+ug1d47gtg+/xXqOxujNlcsNhJHdrw4fGT0uRCMX1wfAbX2Vu4zn/H2U+/QEHOSkKFEr19Ika/D6zoLR6ZNBQdR6hITmjQJiIvBEJp+OUg5KRAMUWDifQ2qM22qAiGnIT69E+iwCfHWiZAkorlu/TRonG1EgHzFwKFsyLwO8oSAAAAAElFTkSuQmCC",
+    "wiki_name": "Frozen abyssal whip",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Frozen_abyssal_whip",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 82,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 82,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "whip",
+        "stances": [
+            {
+                "combat_style": "flick",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lash",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "deflect",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "id": 28029,
+    "name": "Dragon sword (cr)",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28030,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 73001,
+    "lowalch": 29200,
+    "highalch": 43800,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A razor sharp sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2WX2cDURDFc79JyEMIYYWoqJBYEWvXSjRKGommkZTqW95KKaUPpVS/8NSZMenubap92bmlPYzdu3/Mz5mZvVur/etXyZF/JZAA4mg0GPDRv2soAbkfDRlme9LldVSvW0MJyFM6piSOGWbY7x9gjIEcveTJAUaB1t1OCHcE5jlLKBuX3ZlHbWsgR6+T9CjMshOFKJe4ozBFoFm7FcYdH+a012OYpNm0BHL0Ns3YnWMwOnGG5RJ3voJRkKAwk1YZxn+rIkmpihMVEAb6cEdhis1rDgN3/jqMjGv5XAJ9ozBxo2EDc7vb0VmeczJsBwj0DECMYSBHN5sNzWczToid+zEZ8REw2JsMYSBH29WKLi/mDAaYh3HMgd+IAKMtDl2v11w6hALCHQCpQ/6bFUoaGDAAA8z5dFpqbkOHICkbAn2DyZqkKffV1WLBgIYOOU4KR/C9wUSpKwpm5JAkVRg487k8/royObrb7zkApDCauJjcX1ck6Rn0CMpi5MJ3cvx1LrrjPxFAZj3yc4WEeQfMNLTEToksQgAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon sword (cr)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_sword_(cr)",
+    "equipment": {
+        "attack_stab": 65,
+        "attack_slash": 55,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 63,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

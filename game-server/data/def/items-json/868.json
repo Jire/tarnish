@@ -1,0 +1,79 @@
+{
+    "id": 868,
+    "name": "Rune knife",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14478,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 167,
+    "lowalch": 66,
+    "highalch": 100,
+    "weight": 0.0,
+    "buy_limit": 11000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABbUlEQVR4XuWVzWrCQBSFvW/iI3TbRaFdFBeKIAZKGhSjEEVFtNbfaIhIaEvppi98yr1hhphCd+YGemA2YQY+vnNnUqn8rxDyXxRDaPhjlASK0B4vBeamWpWV31FgCE+zrbWjDuO9RmgN53h0e9pAhO72LEBZO0pABH+fCFAJ7BD6x3cB4qVshzCIPy2Qsp1LGL7m9e4Q9y1XA4gQnL4EiGE661iqenA6GnX9hjFVqdnJwjjTNWreQGDumo4eEF9xdxHaqrJ2CgcaJ9+IdztsFwtblZIdDuEchtgvl+g9u9bObb2lAURIjgccViu8TCZwHQeNWk1AFOoivMURos3G2mk3mxcgBcJwSOaG7UyDQOwoWDFJ54btMFDf8y7s5HdfOWlVbIeBhr6vaYfwcYrFDgPx7Kjb4VtVGjtclbEzG43EjhoMV8V2DFDeTv7ElZPaMUDKdkzS+WEgZTvZpO8Pv8rKdrJR+U/9nVLBFJ0fkhiPcL3YvsUAAAAASUVORK5CYII=",
+    "wiki_name": "Rune knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_knife#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 25,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 24,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

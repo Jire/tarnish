@@ -1,0 +1,69 @@
+{
+    "id": 8994,
+    "name": "Othainian",
+    "last_updated": "2021-08-05",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2003-03-03",
+    "combat_level": 91,
+    "size": 3,
+    "hitpoints": 87,
+    "max_hit": 9,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "One of the guardians of Iban.",
+    "wiki_name": "Othainian",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Othainian",
+    "attack_level": 76,
+    "strength_level": 78,
+    "defence_level": 77,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": -10,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 25769,
+            "name": "Vile ashes",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 1497,
+            "name": "Amulet of othanian",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

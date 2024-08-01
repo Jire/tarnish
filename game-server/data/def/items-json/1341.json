@@ -1,0 +1,79 @@
+{
+    "id": 1341,
+    "name": "Black warhammer",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1342,
+    "linked_id_placeholder": 14724,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 980,
+    "lowalch": 392,
+    "highalch": 588,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "I don't think it's intended for joinery.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABD0lEQVR4Xu3VvwrCMBAG8OYNMmXp0kfwEVwcXATRRUQQQRQUoaCCm4ODg4Mg+Lon15Cmf2IrQi6H+EGGQqA/vhxJFP1WBNgVPAKSOM4XA1gZxADmBgWCNWPcMK+4z0F1nJd8D+okiQ/UH9QWdiCMRp3mErZjCbO+rAFcGK+g81JBOpGwGEgYdaMaghCDEVk7q6GESe99O2SYYjv6ftErAAYj4DC17ZR/bHFkmNtO5YPs+rH5JsBg7OzgIBtQdRdhRGM7xBFw3ah8kANjMHqYi4Nc3UEYAY89s3bw7mHSDkYPM5t27imbdgQ8jyo7LgbtaIy5mQO3ozF4VJc1k3YMBp+KwO2YkL/c7TEQFpgQeQGJVHKKCgeGngAAAABJRU5ErkJggg==",
+    "wiki_name": "Black warhammer",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_warhammer",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 22,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 22,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

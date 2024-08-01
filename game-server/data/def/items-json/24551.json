@@ -1,0 +1,86 @@
+{
+    "id": 24551,
+    "name": "Blade of saeldor (c)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 24552,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000000,
+    "lowalch": 2000000,
+    "highalch": 3000000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2020-04-08",
+    "duplicate": false,
+    "examine": "A magical elven sword, corrupted through the addition of too many shards.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABV0lEQVR4Xu3XTUsCURQGYO9vENpFDjJ9DYOhhCsXLVxE0KZQXAgaxKxaxBAaZjmWULTpV7T0Lx7n3uv9mOO2uecueuHdOOI8nHMHtVL5j5dhgF8hDIOsvgceoQzorFajRjF4jg8FaHJQ9WFKcjoKwydEOCUGMzQdUsyicaxBqQ+gV39AclUKMwuqokSgImYeSBDRgTYYXnLMqnlSwPCSYVQncUiBMQDepygU50XVIUYC0qiuu8wBdu3vrBIxEsLPxl24L27Kb/6xLZ5Y6Zh5DvlqRfpRtkE2wC7+lD8Mg99OS2PUWhytBkeuwD6wDleDw+C9eSr6FuxOxDGGh8Hn4lGAXuIjiomoyHWspmP4yRL4ztL8F58B4XeXHAbJ8ArS5AamD33a86Iwo153B+Ecs75ow32/ozEECDsSNLhuw+3lOdVZweF/VUifJJwiCF8lijfTMaHCbAAGW0sUPiSpZAAAAABJRU5ErkJggg==",
+    "wiki_name": "Blade of saeldor (c)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Blade_of_saeldor_(c)",
+    "equipment": {
+        "attack_stab": 55,
+        "attack_slash": 94,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 89,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 75
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

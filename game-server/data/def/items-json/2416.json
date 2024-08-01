@@ -1,0 +1,93 @@
+{
+    "id": 2416,
+    "name": "Guthix staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 15619,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 80000,
+    "lowalch": 32000,
+    "highalch": 48000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2003-09-22",
+    "duplicate": false,
+    "examine": "A magical staff imbued with the power of Guthix.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABXUlEQVR4Xu3UsUrDUBTG8Z6X6JIl0EFwcvEhRHAS3AVB7OoiNRKxFhWLRbDUtmBIQ8HYIQZqKbSoIIg6ipu4i08gFT69CU3aqGNz7pA/HOhwCz8ONzeVSkoi/D0sEfq9Gq7aZVw6x7DtIixrD9m1JS4UYfA5iws7i0JhEfrWarChGVX1JvqPCUf4eJ/G1+DwFyRmTHhX3l6n8PSYwctzJgBFT084gnmuoGUrcB0V130VD/chhgVUNRQYZ+Hc3ggEy3ZEhFI5HYzRVNBpM4N2cjkPIzZluyGGAeRjhiPukhSYXW0TxXyeEyPyQQKzv60nmEgkF0Z8TWLqjfASR0/FFOFgfc4b8Zt5OwRt+efx25gfg7Bh9JU0TrQF7q0MI7hd1hd4NELvToXTCUHREzFGaJkmmvWaDNsh2IYBq1aVASMiNE4rCeaf2B+90QiV0pEMX5RoHCMBSCQVxo8T8w204DjDMDIZ8gAAAABJRU5ErkJggg==",
+    "wiki_name": "Guthix staff",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Guthix_staff",
+    "equipment": {
+        "attack_stab": -1,
+        "attack_slash": -1,
+        "attack_crush": 6,
+        "attack_magic": 6,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 6,
+        "defence_ranged": 0,
+        "melee_strength": 2,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

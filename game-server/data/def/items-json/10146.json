@@ -1,0 +1,81 @@
+{
+    "id": 10146,
+    "name": "Orange salamander",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10160,
+    "linked_id_placeholder": 15366,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 4.0,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "Slightly slimy but kind of cute.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABX0lEQVR4Xu2WQUdFQRTH7/kGbzWb2Qx9gfZtokXrFCneoiKRqFQqRfIoiqK0SIuIiJaRVm3a9aFO/jPOnbmjaNHMvJgfh3HN837O+Z93X9NUKv8C4vhJQYhPlxQPiZSXGTXGVnwjI0MoszHVa4XiGxlxMtszXqagUJUJwRr7Epm58SK5IX4/M7w42ePDecXny06mP1GsO8B15n5L882asnIFZYCTedjR/LSv+XZd8/RY0xlj/ImEEN9t6rYgJBLPB5ofd0O55JDtBsZ0tarsuTsq36EE44tbT1YEdbniwoySL5dbIvLnMmi9f1MTDxacAGRwPuoru2WxUCKI304MvxwbK4BMYEQ4Q2Rv1m1VotH8hM8DuiW5gVQokklGICuBghBWXbYqswjwawwh5AdCkifXvWwQf1wYfh2YVqgb4KzZAcSf1yM22PJLHP/hyigjhK+B7Bv1PeEmFZepVH7BF5tnMDd++wz1AAAAAElFTkSuQmCC",
+    "wiki_name": "Orange salamander",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Orange_salamander",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 19,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 29,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 31,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": {
+            "ranged": 50,
+            "attack": 50,
+            "magic": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "salamander",
+        "stances": [
+            {
+                "combat_style": "scorch",
+                "attack_type": "slash",
+                "attack_style": null,
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "flare",
+                "attack_type": "ranged",
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": null
+            },
+            {
+                "combat_style": "blaze",
+                "attack_type": "magic",
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": null
+            }
+        ]
+    }
+}

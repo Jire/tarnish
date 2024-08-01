@@ -1,0 +1,57 @@
+{
+    "id": 6440,
+    "name": "Giant skeleton",
+    "last_updated": "2021-09-02",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-01-22",
+    "combat_level": 100,
+    "size": 2,
+    "hitpoints": 110,
+    "max_hit": 11,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "undead"
+    ],
+    "category": [
+        "skeletons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 110.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna",
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "A giant skeleton or a giant's skeleton?",
+    "wiki_name": "Giant skeleton (Tarn's Lair)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_skeleton_(Tarn's_Lair)",
+    "attack_level": 84,
+    "strength_level": 80,
+    "defence_level": 80,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 15,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 50,
+    "defence_slash": 40,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 40,
+    "drops": []
+}

@@ -1,0 +1,77 @@
+{
+    "id": 2470,
+    "name": "Orange flowers",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 2471,
+    "linked_id_placeholder": 16985,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.028,
+    "buy_limit": 150,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A posy of flowers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADUUlEQVR4Xu2W70tTURjHPf+Eb/bmwl7srQQyhgwmYy8kCaFhmBhmmII/MMoaWaJlljH6KVJmMtRm80fLKcYwMSsRSYYkISZF9I889T3Hc8+91xnd7nS+6IGHbec+9zyf832+92pBwf/452Ak8kgEo60JN32d9PwB6tCABYwZyNqc0c+Uh6d1fW+t41BAO9Meyoy4aW3YTctPNL0ZQH689tD3pAAq0sS1TzG3njmEUuNCwy/jbtoYE00AhusSBjWAxtpmXNThAEgF6jiECtuZEH37HKKt9SBtrJTS6pCb3vYrlQAD2M3VIO1shPhvHESC5QiI8aaJHhetLwco8+E3yGKAVhb8vAmgHl8q5EpBBTRHDaAALZWUMA6BGN8QQPEbLno376fFuRJKJ308AYPrc/c0WhrQeN3aUkBPCQ5YOVprB5thBpp56aVXL7w0NSryWuycPi6Z79N+nkZ46aGcQSFTUQE1cLmQjwhrTX2V1D3eYPAGo4WUgJif9ukHMALnZGw42cdBjY8odt3FweApXLvw8LQBSNRP3RY1cpS4Nwcw6lRogM3xHZ9vHmiUfiQ8g7UrT2t3a8V9uAZFAQJDY+x4+lSN7WAmFQAAP8CoaGa8hqzvrqDIs7P6b4BAGXzHU4dsu1+lq2Tt9hfBaLRLNAUA/ABvSJNCJaimGgg/dY7U61AyS8qLqLq9jEM7AEKoTWFOgMxO+LhJE7Fii5lFvdFPyi+MKltDVNtRrqtk7mMrdj20+5jHh4u5qaEOPnunmw1qiPr2gZosTRmdiRynhp6TTlRilOwTzTG6oQ4XDUYECNYwUpj57kwr3Uw06mAYjdnkYi9/xTGq6zzhRCXGQWBgNAcQYCQQ1tEE/sD47iRb9DHCT1ef1+2Bwtgae8POVAIAYAAg4aQaMstqfNw/0dk2ujXZxNegRNfYeQMUo9JwMVfQgUoIc3N5OqtxkeHmIP9zIsd4sb9ar5d7weBQ0LxuM6wA2TaSYFALDWF4eEaZXCmFsTlUyU4otWBuNMdL0wgWqvJSS/TUPk/kAYRxjPAMmmOU1qfR4dvbfhjBpOkVgDC+9JP13gMOxv2UzeTy96GppILxN7X1pZknGBn7vTTzGsI76j+DIxF59U72sAPzC0bldjpWYJ45AAAAAElFTkSuQmCC",
+    "wiki_name": "Orange flowers",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Orange_flowers",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

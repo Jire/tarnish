@@ -1,0 +1,77 @@
+{
+    "id": 19912,
+    "name": "Zombie head",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 19913,
+    "linked_id_placeholder": 19914,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 5000,
+    "lowalch": 2000,
+    "highalch": 3000,
+    "weight": 1.814,
+    "buy_limit": 4,
+    "quest_item": false,
+    "release_date": "2016-07-06",
+    "duplicate": false,
+    "examine": "Get a head in life.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC10lEQVR4Xt2X30uTYRTHff4T/4T+hKDLIOhK1Jts1IbTIeRctrcx2Robczm11x8Nmbbl1GmY5GqshmUipmSpYSoSJUZYQlD3357v8zYT77roeaUDh7172NiH8/2ec55VVf1/IXDyxMYQiHUEYUGdCjCBRDiMWzcNGF7vaYASSEajqkoel0sBnamuthNKwOyMI+T341Jdrd1Alm8o13ifBWMjkEC0qw1dph9mKohEbzsiiVYEIx47fCTQMxjA3ZEwRsbiyE0n1SvfJ/sN1NSf1wkl0DfUcQTyoNCH2WcpFJ8PY2rWVOcD6ZBO6QRGp5KYeNiD6ScDeDyXViDd7T50+dqQ8LYi0uJBsNHquJPf/gchFAyrMrc4hqFsVMFsbM7j6+E+9j5vK1Dv5QZdVRKYKQ4iO3kbhfIQ8jN3VDUODvfw4+d3fNzfxOLrGWQmEvqA+GMEoolpbkr0duslUrLbTHadTIJqABJKIhqXPqKpWa2Qp1nl8loRq+/KKC+OYkw3ECtALzFfvMqjND+Cguy04kIGJQnUk7IWrhagin/Y8rl4DP0BA7032lFemkBRnnu9DTCllNqAKBU7ie1uGn6kwyEsrz7CU1mhSVmx+9Jj7toaHUAMgeFcTEERJhON4ODbJ+x8WMXKegk5CVSSs0kjEMOCokzZWBT7X3axubOEpTcF5KWM49Lw2oG4TGlsdtRgMKDg2GmGy6mGYnN9nV4geimViajkM/cbF2u826c2vs9w6gUKx68dzSF2HYclxwGl5LCswGgDomQcjgRit1E+jgGCaa4Ow7qC8JrBGTTV0qR8xGfutUCoWT8QfcPrBiGyjVdxz3VF7bSOJreSUzMQQ6jWvu5wYGN7AetyufJKwnPN/jkeAlu7K3i/u4w1eR+qANkEwxDIuZ3Ie9wqO+tq4Dp39neVbAk5sZ2Oo6srgQIXL9jhn+NR+U//J22UzIoKwPE8+Zm/iV9JMK62pHQAxgAAAABJRU5ErkJggg==",
+    "wiki_name": "Zombie head (Treasure Trails)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zombie_head_(Treasure_Trails)",
+    "equipment": {
+        "attack_stab": -4,
+        "attack_slash": -4,
+        "attack_crush": 10,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 8,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 6,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

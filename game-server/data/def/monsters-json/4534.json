@@ -1,0 +1,63 @@
+{
+    "id": 4534,
+    "name": "Blessed giant rat",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2003-03-03",
+    "combat_level": 9,
+    "size": 2,
+    "hitpoints": 30,
+    "max_hit": 1,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "rats"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 30.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "Some oversized vermin, blessed by Zamorak.",
+    "wiki_name": "Blessed giant rat (1)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Blessed_giant_rat#1",
+    "attack_level": 5,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": -24,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": -24,
+    "defence_slash": -24,
+    "defence_crush": -24,
+    "defence_magic": -24,
+    "defence_ranged": -24,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

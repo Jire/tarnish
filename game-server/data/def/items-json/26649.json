@@ -1,0 +1,77 @@
+{
+    "id": 26649,
+    "name": "Skis",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 26650,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 2.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2022-02-16",
+    "duplicate": false,
+    "examine": "Skis to help people move around the desert.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABsUlEQVR4Xu3V30vCUBQH8M5/0FMvvQg+CD6NQESGsJAY4pCJYgxJkBhIiJAhFEpImU+Jf/Kpe29394fOTPdDyC8cBgfu3Yezu+3s7JRTUg8gq6MIoJG9wNzluYRKDQdYNjIBxshk6LVazKU1MTYdGeOaeQ2YWNi56Tetn2kAtiwVw5EJTAtw9eSh3ygHN/SrmzGTe4dWjCjAz8db7NVN6bFAgJMxz72aUgIVGQ5wMWjhXa2kYGQc7w3aFVoqhlVEEwOcPzTRs4s7Y3gNvRva16d1wKEHfPXr2KoUFIw8qTAMKbkfAYiN2LWuDsboE9sDBDjuVtExDQUjP7a/YnhfrN05gKOOjXYpnyZGvJZk8XWB/QL4jeUzlAjm/W1CF5Gvr2lk08SQfL9Jow4ul3P0XItuwEs+0GEY/gvR+3tiSABnsxccDvsBpN1u/IohkBgwJICOYwcbkOvHfIrT6ZhOjiN1SBiG9/fE8KiT8P0uuq747OuQTRi5fyCGhWNWq0UA4b1tGL0fCUaN2JSDyNdZx2xCxoBhWd9UvHlhE4sNE5ZtE0scsx4xrSPAsKjn7JR/mi+sbI8OLCD8wgAAAABJRU5ErkJggg==",
+    "wiki_name": "Skis",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skis",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "unarmed",
+        "stances": [
+            {
+                "combat_style": "punch",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "kick",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

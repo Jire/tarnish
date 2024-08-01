@@ -1,0 +1,84 @@
+{
+    "id": 21649,
+    "name": "Merfolk trident",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 21650,
+    "linked_id_placeholder": 21651,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 400,
+    "lowalch": 160,
+    "highalch": 240,
+    "weight": 0.907,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2017-09-07",
+    "duplicate": false,
+    "examine": "An iron tipped trident.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABZ0lEQVR4Xu2WzUrDQBCAu2/SR/DiQURoDzkUixgMFSsWY2kTtCmpaUp/RCJCrb20tBfBhx3Z3W4aN5tbNxnQD4YQNsl+mdlsplT6529DgAcKCLyEIYu0lHyuHQK9bhdW8zmTOSqXWYix9WKhkNQGgRvLgsd2WylDRb/Wq3js971aINAwTaXM0OvBR/SqGNMKgWkQ7Eqyj5Hfh8+3KENGa/n4Yo4mE+i7Lji2nSqTLLNdLnfi2thn5vb6nMmJ7MhBpb83m1hWftIBIWBdGjAddthktGTvsxlbX/Q4HgziUGfuoBAw61UIfTvx5nxt0XLK2dIuU69VwH+6U0yWltAuUzNOwXObChlODhICAkb1BJyHRqZMjnCZzv0VDpnK2TG0mhcYZCh8r0Elk/yi5CtyJC1ToBCXCbwWHpnkLly4zPhZ1XzlDkIZ8ecuXIb9pUcODhnar4iODoVMAU15FlwIiYwAlQynaJkflA5RBVLIXxAAAAAASUVORK5CYII=",
+    "wiki_name": "Merfolk trident",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Merfolk_trident",
+    "equipment": {
+        "attack_stab": 8,
+        "attack_slash": 8,
+        "attack_crush": 8,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 1,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 4,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

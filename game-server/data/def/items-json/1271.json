@@ -1,0 +1,87 @@
+{
+    "id": 1271,
+    "name": "Adamant pickaxe",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1272,
+    "linked_id_placeholder": 14763,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 3200,
+    "lowalch": 1280,
+    "highalch": 1920,
+    "weight": 2.721,
+    "buy_limit": 40,
+    "quest_item": false,
+    "release_date": "2003-05-27",
+    "duplicate": false,
+    "examine": "Used for mining.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4Xu2WQWuDQBCFN//EW6FQKIGSgxQSigdJCIiBUAKhKXgKOZVecs0Pn/BcBtd11Sa74hD64OGyrO7nm0FXqcfShOoeVRN6f1GUTBWtZoryWA0NZb990+k2pew7o+3xk/Y/X+XcaxSFhtKbzVfzXiebhJa7ZQlVnIvQQBpkkX00Nm7z25MuWV7ktN6vjfS8pUHaYOI0bvg5UmUPwQyEtAKCNXuky0jHBYS+gjHnDYb69xkbmOm4gNBbMMaH34M/WLfq6cBmcgzE5ccVc6fLaQgoN4ydIJv7D1ekx2vtp3qoDmTCmKtccEiqavggak/HXmnKhsM3KxCU/lXYMH1Aphjs1vscqqeD8V/SadO99xnyTyeg7uudASU4nZFhoCod30YOIMHpiGjk/3S6VQGJSIfLhfOyiHQYSEA6kD6iCvjusDQQLAQI0ocpAeWqJApmTF0BrqWodHJGClcAAAAASUVORK5CYII=",
+    "wiki_name": "Adamant pickaxe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_pickaxe",
+    "equipment": {
+        "attack_stab": 17,
+        "attack_slash": -2,
+        "attack_crush": 15,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 19,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "mining": 31,
+            "attack": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

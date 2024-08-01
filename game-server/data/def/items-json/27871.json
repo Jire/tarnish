@@ -1,0 +1,84 @@
+{
+    "id": 27871,
+    "name": "Giant bronze dagger",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27872,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 30.0,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-04-05",
+    "duplicate": false,
+    "examine": "Not so subtle.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACf0lEQVR4XuXXQWsTURAH8Lxv0FMue1nYQ0AoFKGEUAIppYSyYTEYCAkspJFQKbGgKIqiVCzoTYtHBUVFUSxKUTRUqRal1EpQxCr1pCBFxM/wN//3fMlubDxlXwsODMsmkPfrzOwsjcX+vxAIp/EIA+rlMcz44zhWncCpqZxplECtkJZ5sJhRWUjicHkE9WIKvjskQUO2bQIlMJkfQclNopQdxKS3N4Th1SBIVcb3Uj0xR33DIFmdFoaH1vLDEqFRxByvpE2BhJwVgnggq8OqEKOrQ8zJasYcSLbrD4YQVijYKoJO10ZNgFR1CCJGQ3R1NKa7OpGDNIaQ7VrF741guPQI0Rh9DWL4WZ8xvVa+AgWrEnyqiOF93zEPFiw8W+KPBWFCvg40hq+FbgyBfcYwBG7fsvBo0cbLFzaab502jCAeeqLmyjSAYQhcvWLh/j0Ljac2Vl87+PDewZFKVh7KlyXzzLRnAsMQuDwfx80bFhYf2lh+bmP9jYNPGw6+fU1IyNn6PlMYhsCF83FcuhjH9WtWe57WVh1sfk5I1NzMflMYhkC1OoC5c2EU54mt+7KpUFvfEyYwDIGcG4PvD2B2Ni7niUPOedKt60apjDRUlYjKZ1O4e0fN06sVG++af6N+/dxjBjWRGZag3FhSrgHOEqukUc2V1nW9NewbnfZ1/0qfQiCdHETJy6DgptsoPnGELD9urYMlBfq4pvZUxLMk4OdHZRLFe7aNc8RF2WD7Gp1NbgRzoJhFpTAeaIVoD/aTBXWvIZFjpv0cpsruNn9951+dyCE6iTlU8XoeaqQqXHxsBRffjy1jC+9foaqjH+fO3Oxg6MHdBdUJx67C7FT8BukKrjKnLoQhAAAAAElFTkSuQmCC",
+    "wiki_name": "Giant bronze dagger",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_bronze_dagger",
+    "equipment": {
+        "attack_stab": 4,
+        "attack_slash": 2,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 3,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "2h_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,3579 @@
+[
+  {
+    "name": "Wind Surge",
+    "max-hit": 21,
+    "animation": {
+      "id": 7855,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1455,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1457,
+      "delay": 15,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1456,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Water Surge",
+    "max-hit": 22,
+    "animation": {
+      "id": 7855,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1458,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1460,
+      "delay": 15,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1459,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Earth Surge",
+    "max-hit": 23,
+    "animation": {
+      "id": 7855,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1461,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1463,
+      "delay": 15,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1462,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Fire Surge",
+    "max-hit": 23,
+    "animation": {
+      "id": 7855,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1464,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1466,
+      "delay": 15,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1465,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Wind Strike",
+    "max-hit": 2,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 90,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 92,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 91,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Water Strike",
+    "max-hit": 4,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 93,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 95,
+      "delay": 5,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 94,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Earth Strike",
+    "max-hit": 6,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 96,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 98,
+      "delay": 5,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 97,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Fire Strike",
+    "max-hit": 7,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 99,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 101,
+      "delay": 5,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 100,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Confuse",
+    "magic-effect": "CONFUSE",
+    "max-hit": -1,
+    "animation": {
+      "id": 716,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 102,
+      "delay": 0,
+      "height": 92,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 104,
+      "delay": 5,
+      "height": 200,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 103,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Weaken",
+    "magic-effect": "WEAKEN",
+    "max-hit": -1,
+    "animation": {
+      "id": 716,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 105,
+      "delay": 0,
+      "height": 92,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 107,
+      "delay": 0,
+      "height": 200,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 106,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31,
+      "curve": 16
+    }
+  },
+  {
+    "name": "Wind Bolt",
+    "max-hit": 9,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 117,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 119,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 118,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Curse",
+    "magic-effect": "CURSE",
+    "max-hit": -1,
+    "animation": {
+      "id": 718,
+      "delay": 20,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 108,
+      "delay": 0,
+      "height": 92,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 110,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 109,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Bind",
+    "magic-effect": "BIND",
+    "max-hit": -1,
+    "animation": {
+      "id": 710,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 177,
+      "delay": 0,
+      "height": 120,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 181,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 178,
+      "delay": 75,
+      "duration": 56,
+      "startHeight": 45,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Water Bolt",
+    "max-hit": 10,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 120,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 122,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 121,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Earth Bolt",
+    "max-hit": 11,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 123,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 125,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 124,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Fire Bolt",
+    "max-hit": 12,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 126,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 128,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 127,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Crumble Undead",
+    "max-hit": 15,
+    "animation": {
+      "id": 724,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 145,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 147,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 146,
+      "delay": 50,
+      "duration": 75,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Wind Blast",
+    "max-hit": 13,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 132,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 134,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 133,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Water Blast",
+    "max-hit": 14,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 135,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 137,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 136,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Iban Blast",
+    "max-hit": 25,
+    "animation": {
+      "id": 708,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 87,
+      "delay": 20,
+      "height": 85,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 89,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 88,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Snare",
+    "magic-effect": "SNARE",
+    "max-hit": -1,
+    "animation": {
+      "id": 710,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 177,
+      "delay": 0,
+      "height": 120,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 180,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 178,
+      "delay": 75,
+      "duration": 56,
+      "startHeight": 45,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Magic Dart",
+    "magic-effect": "MAGIC_DART",
+    "max-hit": 19,
+    "animation": {
+      "id": 711,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 327,
+      "delay": 20,
+      "height": 85,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 329,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 328,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Earth Blast",
+    "max-hit": 15,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 138,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 140,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 139,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Fire Blast",
+    "max-hit": 16,
+    "animation": {
+      "id": 1162,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 129,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 131,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 130,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "SHADOW",
+    "animation": {
+      "id": 9493,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 2125,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 2127,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 2126,
+      "delay": 56,
+      "duration": 86,
+      "startHeight": 62,
+      "endHeight": 31,
+      "curve": 32
+    }
+  },
+  {
+    "name": "Saradomin Strike",
+    "max-hit": 20,
+    "animation": {
+      "id": 811,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 76,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Claws Of Guthix",
+    "max-hit": 20,
+    "animation": {
+      "id": 811,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 77,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Flames Of Zamorak",
+    "max-hit": 20,
+    "animation": {
+      "id": 811,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 78,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Wind Wave",
+    "max-hit": 17,
+    "animation": {
+      "id": 727,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 158,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 160,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 159,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Water Wave",
+    "max-hit": 18,
+    "animation": {
+      "id": 727,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 161,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 163,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 162,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Vulnerability",
+    "magic-effect": "VULNERABILITY",
+    "max-hit": -1,
+    "animation": {
+      "id": 718,
+      "delay": 20,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 167,
+      "delay": 0,
+      "height": 92,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 169,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 168,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Earth Wave",
+    "max-hit": 19,
+    "animation": {
+      "id": 727,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 164,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 166,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 165,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Enfeeble",
+    "magic-effect": "ENFEEBLE",
+    "max-hit": -1,
+    "animation": {
+      "id": 728,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 170,
+      "delay": 0,
+      "height": 92,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 172,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 171,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Fire Wave",
+    "max-hit": 20,
+    "animation": {
+      "id": 727,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 155,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 157,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 156,
+      "delay": 46,
+      "duration": 90,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Entangle",
+    "magic-effect": "ENTANGLE",
+    "max-hit": -1,
+    "animation": {
+      "id": 710,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 177,
+      "delay": 0,
+      "height": 120,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 179,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 178,
+      "delay": 75,
+      "duration": 56,
+      "startHeight": 45,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Stun",
+    "magic-effect": "STUN",
+    "max-hit": -1,
+    "animation": {
+      "id": 729,
+      "delay": 15,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 173,
+      "delay": 0,
+      "height": 92,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 107,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 174,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Teleblock",
+    "magic-effect": "TELEBLOCK",
+    "max-hit": -1,
+    "animation": {
+      "id": 1819,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 345,
+      "delay": 0,
+      "height": 0,
+      "priority": "LOW"
+    },
+    "projectile": {
+      "id": 1299,
+      "delay": 52,
+      "duration": 75,
+      "startHeight": 40,
+      "endHeight": 36,
+      "distance": 11
+    }
+  },
+  {
+    "name": "Smoke Rush",
+    "magic-effect": "SMOKE_RUSH",
+    "max-hit": 13,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 385,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 384,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Shadow Rush",
+    "magic-effect": "SHADOW_RUSH",
+    "max-hit": 14,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 379,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 378,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Blood Rush",
+    "magic-effect": "BLOOD_RUSH",
+    "max-hit": 15,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 373,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 372,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Ice Rush",
+    "magic-effect": "ICE_RUSH",
+    "max-hit": 16,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 361,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 360,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Smoke Burst",
+    "magic-effect": "SMOKE_BURST",
+    "max-hit": 17,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 389,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 388,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Shadow Burst",
+    "magic-effect": "SHADOW_BURST",
+    "max-hit": 18,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 382,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Blood Burst",
+    "magic-effect": "BLOOD_BURST",
+    "max-hit": 21,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 376,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Ice Burst",
+    "magic-effect": "ICE_BURST",
+    "max-hit": 22,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 363,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 362,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Smoke Blitz",
+    "magic-effect": "SMOKE_BLITZ",
+    "max-hit": 23,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 387,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 386,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Shadow Blitz",
+    "magic-effect": "SHADOW_BLITZ",
+    "max-hit": 24,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 381,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 380,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Blood Blitz",
+    "magic-effect": "BLOOD_BLITZ",
+    "max-hit": 25,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 375,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 374,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Ice Blitz",
+    "magic-effect": "ICE_BLITZ",
+    "max-hit": 26,
+    "hitsplat-delay": 2,
+    "animation": {
+      "id": 1978,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 366,
+      "delay": 0,
+      "height": 124,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 367,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Smoke Barrage",
+    "magic-effect": "SMOKE_BARRAGE",
+    "max-hit": 27,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 391,
+      "delay": 0,
+      "height": 100,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 390,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Shadow Barrage",
+    "magic-effect": "SHADOW_BARRAGE",
+    "max-hit": 28,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 383,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Blood Barrage",
+    "magic-effect": "BLOOD_BARRAGE",
+    "max-hit": 29,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 377,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Ice Barrage",
+    "magic-effect": "ICE_BARRAGE",
+    "max-hit": 30,
+    "animation": {
+      "id": 1979,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 369,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 368,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 43,
+      "endHeight": 0
+    }
+  },
+  {
+    "name": "Bronze arrow",
+    "start": {
+      "id": 19,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 10,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Iron arrow",
+    "start": {
+      "id": 18,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 9,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Steel arrow",
+    "start": {
+      "id": 20,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 11,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Mithril arrow",
+    "start": {
+      "id": 21,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 12,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Adamant arrow",
+    "start": {
+      "id": 22,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 13,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Rune arrow",
+    "start": {
+      "id": 24,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 15,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Craw's bow",
+    "start": {
+      "id": 1611,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1574,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Hefin",
+    "start": {
+      "id": 1923,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1922,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Ithell",
+    "start": {
+      "id": 1925,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1924,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Iorwerth",
+    "start": {
+      "id": 1927,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1926,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Traheaern",
+    "start": {
+      "id": 1929,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1928,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Cadarn",
+    "start": {
+      "id": 1931,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1930,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Crwys",
+    "start": {
+      "id": 1933,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1932,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Amlodd",
+    "start": {
+      "id": 1935,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1934,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Meilyr",
+    "start": {
+      "id": 1888,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1887,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Guam tar",
+    "ranged-effect": "GUAM_TAR",
+    "start": {
+      "id": 952,
+      "height": 70,
+      "delay": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Marrentill tar",
+    "ranged-effect": "MARRENTIL_TAR",
+    "start": {
+      "id": 952,
+      "height": 70,
+      "delay": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Tarromin tar",
+    "ranged-effect": "TARROMIN_TAR",
+    "start": {
+      "id": 952,
+      "height": 70,
+      "delay": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Harralander tar",
+    "ranged-effect": "HARRALANDER_TAR",
+    "start": {
+      "id": 952,
+      "height": 70,
+      "delay": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Dragon arrow",
+    "start": {
+      "id": 1129,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1121,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 43,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Bronze brutal",
+    "start": {
+      "id": 19,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 10,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Iron brutal",
+    "start": {
+      "id": 18,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 9,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Steel brutal",
+    "start": {
+      "id": 20,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 11,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Black brutal",
+    "start": {
+      "id": 20,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 11,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Mithril brutal",
+    "start": {
+      "id": 21,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 12,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Adamant brutal",
+    "start": {
+      "id": 22,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 13,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Rune brutal",
+    "start": {
+      "id": 24,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 15,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Kebbit bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Long kebbit bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Bone bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Armadyl special",
+    "projectile": {
+      "id": 301,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "zaryte special",
+    "projectile": {
+      "id": 1995,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Ice arrows",
+    "start": {
+      "id": 18,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 9,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Ogre arrow",
+    "start": {
+      "id": 18,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 9,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Broad arrow",
+    "start": {
+      "id": 18,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 9,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Saradomin arrows",
+    "start": {
+      "id": 96,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 99,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Guthix arrows",
+    "start": {
+      "id": 95,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 98,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Zamorak arrows",
+    "start": {
+      "id": 97,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 100,
+      "delay": 36,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Bronze bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Iron bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Opal bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Dragon Bolts",
+    "projectile": {
+      "id": 1468,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Opal bolts (e)",
+    "ranged-effect": "OPAL_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Steel bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Pearl bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Pearl bolts (e)",
+    "ranged-effect": "PEARL_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Black bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Jade bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Jade bolts (e)",
+    "ranged-effect": "JADE_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Mithril bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Adamant bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Sapphire bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Sapphire bolts (e)",
+    "ranged-effect": "SAPPHIRE_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Runite bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Emerald bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Emerald bolts (e)",
+    "ranged-effect": "EMERALD_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Ruby bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Ruby bolts (e)",
+    "ranged-effect": "RUBY_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Broad-tipped bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Diamond bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Diamond bolts (e)",
+    "ranged-effect": "DIAMOND_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Dragon bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Dragon bolts (e)",
+    "ranged-effect": "DRAGON_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Bolt rack",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Onyx bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Onyx bolts (e)",
+    "ranged-effect": "ONYX_BOLTS",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Barbed bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Blurite bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Silver bolts",
+    "projectile": {
+      "id": 27,
+      "delay": 42,
+      "duration": 86,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Chinchompa",
+    "ranged-effect": "CHINCHOMPA",
+    "end": {
+      "id": 157,
+      "delay": 58,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 908,
+      "delay": 26,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Red chinchompa",
+    "ranged-effect": "RED_CHINCHOMPA",
+    "end": {
+      "id": 157,
+      "delay": 58,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 909,
+      "delay": 26,
+      "duration": 64,
+      "startHeight": 40,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Bronze knife",
+    "start": {
+      "id": 219,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 212,
+      "delay": 30,
+      "duration": 46,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Iron knife",
+    "start": {
+      "id": 220,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 213,
+      "delay": 30,
+      "duration": 46,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Steel knife",
+    "start": {
+      "id": 221,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 214,
+      "delay": 30,
+      "duration": 46,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Black knife",
+    "start": {
+      "id": 222,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 215,
+      "delay": 30,
+      "duration": 46,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Mithril knife",
+    "start": {
+      "id": 223,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 216,
+      "delay": 30,
+      "duration": 46,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Adamant knife",
+    "start": {
+      "id": 224,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 217,
+      "delay": 30,
+      "duration": 46,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Rune knife",
+    "start": {
+      "id": 225,
+      "height": 6553600,
+      "delay": 51,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 218,
+      "delay": 36,
+      "duration": 60,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Dragon knife",
+    "projectile": {
+      "id": 28,
+      "delay": 36,
+      "duration": 60,
+      "startHeight": 40,
+      "endHeight": 37
+    },
+    "animation": {
+      "id": 8194,
+      "delay": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Dragon knife special",
+    "projectile": {
+      "id": 699,
+      "delay": 36,
+      "duration": 60,
+      "startHeight": 40,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Bronze dart",
+    "start": {
+      "id": 232,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 226,
+      "delay": 16,
+      "duration": 40,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Iron dart",
+    "start": {
+      "id": 233,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 227,
+      "delay": 16,
+      "duration": 40,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Steel dart",
+    "start": {
+      "id": 234,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 228,
+      "delay": 16,
+      "duration": 40,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Black dart",
+    "start": {
+      "id": 273,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 273,
+      "delay": 16,
+      "duration": 40,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Mithril dart",
+    "start": {
+      "id": 235,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 229,
+      "delay": 16,
+      "duration": 40,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Adamant dart",
+    "start": {
+      "id": 236,
+      "height": 100,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 230,
+      "delay": 16,
+      "duration": 40,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Rune dart",
+    "start": {
+      "id": 237,
+      "height": 6553600,
+      "delay": 51,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 231,
+      "delay": 36,
+      "duration": 60,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Dragon dart",
+    "start": {
+      "id": 1123,
+      "height": 6553600,
+      "delay": 51,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1122,
+      "delay": 36,
+      "duration": 60,
+      "startHeight": 45,
+      "endHeight": 37
+    }
+  },
+  {
+    "name": "Bronze javelin",
+    "projectile": {
+      "id": 200,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Iron javelin",
+    "projectile": {
+      "id": 201,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Steel javelin",
+    "projectile": {
+      "id": 202,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Mithril javelin",
+    "projectile": {
+      "id": 203,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Adamant javelin",
+    "projectile": {
+      "id": 204,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Rune javelin",
+    "projectile": {
+      "id": 205,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Bronze thrownaxe",
+    "start": {
+      "id": 43,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 43,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Iron thrownaxe",
+    "start": {
+      "id": 42,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 35,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Steel thrownaxe",
+    "start": {
+      "id": 44,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 37,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Mithril thrownaxe",
+    "start": {
+      "id": 45,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 38,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Adamant thrownaxe",
+    "start": {
+      "id": 46,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 39,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Rune thrownaxe",
+    "start": {
+      "id": 48,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 41,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Dragon thrownaxe",
+    "start": {
+      "id": 1320,
+      "delay": 1,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1317,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 40,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Toktz-xil-ul",
+    "projectile": {
+      "id": 442,
+      "delay": 32,
+      "duration": 68,
+      "startHeight": 32,
+      "endHeight": 32
+    }
+  },
+  {
+    "name": "Dragon javelin",
+    "projectile": {
+      "id": 1301,
+      "delay": 85,
+      "duration": 115,
+      "startHeight": 43,
+      "endHeight": 30,
+      "curve": 10
+    }
+  },
+  {
+    "name": "KBD fire",
+    "animation": {
+      "id": 83,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 393,
+      "delay": 50,
+      "duration": 75,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "KBD poison",
+    "magic-effect": "KBD_POISON",
+    "animation": {
+      "id": 84,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 394,
+      "delay": 50,
+      "duration": 75,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "KBD freeze",
+    "magic-effect": "KBD_FREEZE",
+    "animation": {
+      "id": 84,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 395,
+      "delay": 50,
+      "duration": 75,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "KBD shock",
+    "magic-effect": "KBD_SHOCK",
+    "animation": {
+      "id": 84,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 396,
+      "delay": 50,
+      "duration": 75,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Skeletal wyvern breathe",
+    "animation": {
+      "id": 2988,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Chromatic dragonfire",
+    "animation": {
+      "id": 81,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Metalic dragonfire",
+    "animation": {
+      "id": 81,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 393,
+      "delay": 50,
+      "duration": 75,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Tentacle Blast",
+    "max-hit": 2,
+    "end": {
+      "id": 137,
+      "delay": 10,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 136,
+      "delay": 46,
+      "duration": 80,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Archaeologist Range",
+    "max-hit": 15,
+    "projectile": {
+      "id": 1259,
+      "delay": 50,
+      "duration": 75,
+      "curve": 16,
+      "startHeight": 43,
+      "endHeight": 31,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Chaos Fanatic Range",
+    "max-hit": 15,
+    "start": {
+      "id": 553,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 555,
+      "delay": 5,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 554,
+      "delay": 50,
+      "duration": 75,
+      "curve": 16,
+      "startHeight": 43,
+      "endHeight": 31,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Kraken Blast",
+    "max-hit": 28,
+    "end": {
+      "id": 131,
+      "delay": 10,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 130,
+      "delay": 46,
+      "duration": 80,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Corporeal Beast Magic",
+    "max-hit": 65,
+    "projectile": {
+      "id": 314,
+      "delay": 15,
+      "duration": 75,
+      "startHeight": 65,
+      "endHeight": 25
+    }
+  },
+  {
+    "name": "Callisto Shockwave",
+    "max-hit": 60,
+    "projectile": {
+      "id": 395,
+      "delay": 1,
+      "duration": 50,
+      "startHeight": 40,
+      "endHeight": 25
+    }
+  },
+  {
+    "name": "Zulrah Ranged",
+    "max-hit": 41,
+    "projectile": {
+      "id": 1044,
+      "delay": 1,
+      "duration": 35,
+      "startHeight": 85,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Bree Ranged",
+    "max-hit": 16,
+    "projectile": {
+      "id": 1190,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 60,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Zulrah Magic",
+    "max-hit": 41,
+    "projectile": {
+      "id": 1046,
+      "delay": 1,
+      "duration": 35,
+      "startHeight": 85,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Graardor Ranged",
+    "projectile": {
+      "id": 1217,
+      "delay": 10,
+      "duration": 35,
+      "startHeight": 85,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Sergeant Steelwill",
+    "start": {
+      "id": 1216,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1218,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1217,
+      "delay": 10,
+      "duration": 50,
+      "startHeight": 50,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Demonic Gorilla Magic",
+    "projectile": {
+      "id": 1305,
+      "delay": 10,
+      "duration": 50,
+      "startHeight": 50,
+      "endHeight": 40
+    },
+    "end": {
+      "id": 1304,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Wyrm Magic",
+    "projectile": {
+      "id": 1634,
+      "delay": 33,
+      "duration": 17,
+      "startHeight": 43,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Demonic Gorilla Ranged",
+    "end": {
+      "id": 1303,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    }
+  },
+  {
+    "name": "Sergeant Grimspike",
+    "projectile": {
+      "id": 1220,
+      "delay": 10,
+      "duration": 50,
+      "startHeight": 50,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Sergeant Grimspike",
+    "projectile": {
+      "id": 1220,
+      "delay": 10,
+      "duration": 50,
+      "startHeight": 50,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Jad Magic",
+    "hit-delay": 2,
+    "hitsplat-delay": 2,
+    "animation": {
+      "id": 2656,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 449,
+      "delay": 70,
+      "duration": 125,
+      "startHeight": 75,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Kril Tsutsaroth",
+    "start": {
+      "id": 129,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 131,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 130,
+      "delay": 10,
+      "duration": 50,
+      "startHeight": 85,
+      "endHeight": 40
+    }
+  },
+  {
+    "name": "Magic Shortbow",
+    "projectile": {
+      "id": 249,
+      "delay": 20,
+      "duration": 53,
+      "startHeight": 40,
+      "endHeight": 36,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Dark Bow Darkness",
+    "end": {
+      "id": 1103,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1101,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 43,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Volatile Staff",
+    "projectile": {
+      "id": 1759,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 43,
+      "endHeight": 23,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Dark Bow Dragons",
+    "end": {
+      "id": 1100,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1099,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 43,
+      "endHeight": 33,
+      "curve": 10
+    }
+  },
+
+  {
+    "name": "Trident of the Seas",
+    "animation": {
+      "id": 791,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1251,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1253,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1252,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 33,
+      "endHeight": 23,
+      "curve": 10
+    }
+  },
+
+  {
+    "name": "Trident of the Swamp",
+    "animation": {
+      "id": 1167,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 665,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1042,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1040,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 33,
+      "endHeight": 23,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Skotizo",
+    "projectile": {
+      "id": 1242,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 50,
+      "endHeight": 23,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Dagannoth SUPREME",
+    "projectile": {
+      "id": 475,
+      "delay": 45,
+      "duration": 65,
+      "startHeight": 33,
+      "endHeight": 23,
+      "curve": 10
+    }
+  },
+  {
+    "name": "Scorpia guardian",
+    "projectile": {
+      "id": 109,
+      "delay": 51,
+      "duration": 56,
+      "startHeight": 5,
+      "endHeight": 15
+    }
+  },
+  {
+    "name": "Vorkath Venom Dragonfire",
+    "end": {
+      "id": 1472,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1470,
+      "delay": 5,
+      "duration": 85,
+      "startHeight": 30,
+      "endHeight": 30
+    }
+  },
+  {
+    "name": "Vorkath Pink Dragonfire",
+    "end": {
+      "id": 1473,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1471,
+      "delay": 5,
+      "duration": 85,
+      "startHeight": 30,
+      "endHeight": 30
+    }
+  },
+  {
+    "name": "Vorkath Ranged",
+    "end": {
+      "id": 1478,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1477,
+      "delay": 5,
+      "duration": 85,
+      "startHeight": 30,
+      "endHeight": 30
+    }
+  },
+  {
+    "name": "Vorkath Magic",
+    "end": {
+      "id": 1480,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1479,
+      "delay": 5,
+      "duration": 85,
+      "startHeight": 30,
+      "endHeight": 30
+    }
+  },
+  {
+    "name": "Vorkath Frozen Special",
+    "end": {
+      "id": 1480,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1490,
+      "delay": 5,
+      "duration": 85,
+      "startHeight": 30,
+      "endHeight": 30
+    }
+  },
+  {
+    "name": "Vet'ion",
+    "end": {
+      "id": 775,
+      "delay": 100,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 592,
+      "delay": 10,
+      "duration": 100,
+      "startHeight": 65,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Armadyl ranged",
+    "animation": {
+      "id": 6981,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1197,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 65,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Stone guardian magic",
+    "start": {
+      "id": 1458,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1460,
+      "delay": 0,
+      "height": 65536000,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1459,
+      "delay": 10,
+      "duration": 65,
+      "startHeight": 45,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Stone guardian ranged",
+    "start": {
+      "id": 1461,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1463,
+      "delay": 0,
+      "height": 65536000,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1462,
+      "delay": 10,
+      "duration": 65,
+      "startHeight": 45,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Cerberus magic",
+    "end": {
+      "id": 1243,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1242,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 50,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Cerberus ranged",
+    "end": {
+      "id": 1244,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1245,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 50,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Shaman magic",
+    "animation": {
+      "id": 7193,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1293,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 11,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Shaman acid",
+    "animation": {
+      "id": 7193,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1294,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1293,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 11,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Armadyl magic",
+    "animation": {
+      "id": 6981,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1196,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1198,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 11,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Wingman Skree",
+    "projectile": {
+      "id": 1199,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 11,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Spirtual Ranger",
+    "projectile": {
+      "id": 0,
+      "delay": 1,
+      "duration": 50,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Spirtual Mage",
+    "projectile": {
+      "id": 1046,
+      "delay": 1,
+      "duration": 50,
+      "startHeight": 43,
+      "endHeight": 31
+    }
+  },
+  {
+    "name": "Flockleader Geerin",
+    "projectile": {
+      "id": 1190,
+      "delay": 40,
+      "duration": 65,
+      "startHeight": 65,
+      "endHeight": 10
+    }
+  },
+  {
+    "name": "Dragonfire Shield",
+    "animation": {
+      "id": 6696,
+      "delay": 0,
+      "priority": "HIGH"
+    },
+    "start": {
+      "id": 1165,
+      "delay": 0,
+      "height": 0,
+      "priority": "HIGH"
+    },
+    "end": {
+      "id": 1167,
+      "delay": 0,
+      "height": 6553600,
+      "priority": "HIGH"
+    },
+    "projectile": {
+      "id": 1166,
+      "delay": 80,
+      "duration": 90,
+      "startHeight": 23,
+      "endHeight": 22
+    }
+  },
+  {
+    "name": "Hydra Magic",
+    "projectile": {
+      "id": 1662,
+      "delay": 37,
+      "duration": 30,
+      "startHeight": 22,
+      "endHeight": 12
+    }
+  },
+  {
+    "name": "Hydra Ranged",
+    "projectile": {
+      "id": 1663,
+      "delay": 37,
+      "duration": 15,
+      "startHeight": 42,
+      "endHeight": 32
+    }
+  },
+  {
+    "name": "EMPTY"
+  }
+]

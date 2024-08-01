@@ -1,0 +1,86 @@
+{
+    "id": 22978,
+    "name": "Dragon hunter lance",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 22979,
+    "linked_id_placeholder": 22980,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 300000,
+    "lowalch": 120000,
+    "highalch": 180000,
+    "weight": 3.0,
+    "buy_limit": 8,
+    "quest_item": false,
+    "release_date": "2019-01-10",
+    "duplicate": false,
+    "examine": "A lance that is exceptionally good at killing dragons and their ilk.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB60lEQVR4Xu2WT0tCQRTFm2/Q3o27thJERASJhIQhSVFYKGmkkSaR2aY/VIQbNxEkRUFFIWW0sEUEBSYhUR+hPszJM49RG9q+Ny46cHmoI/PjnnNnXlfXvzpOAvo3hkQQgdVcTD71Xx2WwNVNAflCVsJ43G5Z+ioH1ehMKoXI9HQTSF/hgCyLWJu5HOKzswiGvKaABLZ2U1jJRvFav8bRyTaSqVZ3DABRAmvLaaQTCfT39ZmHoU3rKxnMzYRNwbQyQxDWyPCwORiONINLEFo1FQqh1+MxEWKBl9qFDG/98w5L8/MSLDw5aao7lEC1foXaewlvH2Xc3h9gL58x0R1KyElKxmLSJubG7XLZ2Z1WWP8qWrQQjcppGg8E4B0ashem8liUNvR819DzVZUb8wpgRpgZ5oWfR30+BMZsnSohNyxXDlFqZIKW0BqeLwwxgSaCQTw8HePscr95i9sEQwlE4qGmNewEx3nM75fWEIhPNdo2wyi1byKkLQRiMcCDAwO/QGyGsdTaRDRhVHW32fT7X47I6lB7uW4LpoCEDDC7omxyMDe6BIqnOzLA+muEARhK4Pn1HBs7i6Y60i7rXVifJn2VA7LywXtJt0lf6YCEvI94zjA3xmGUPR3RGQXTAZ1RUodcR8BYUhCmYH4AimudD+iT8x8AAAAASUVORK5CYII=",
+    "wiki_name": "Dragon hunter lance",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_hunter_lance",
+    "equipment": {
+        "attack_stab": 85,
+        "attack_slash": 65,
+        "attack_crush": 65,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 70,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 70
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

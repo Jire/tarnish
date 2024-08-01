@@ -1,0 +1,93 @@
+{
+    "id": 6912,
+    "name": "Teacher wand",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6913,
+    "linked_id_placeholder": 18597,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2000,
+    "lowalch": 800,
+    "highalch": 1200,
+    "weight": 0.226,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2006-01-04",
+    "duplicate": false,
+    "examine": "A teacher level wand.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABk0lEQVR4Xu2XMUvDQBTHc9+gU5YsBxkODgJHoBwlBFpCkUCHDKFSRGkdpCAdOggiHdxEEP0A0llc3MUP9+x7Z9KY6thLhvzhz2W4kB//915ycZxOrRGDvRsXA+k7pRuGOoRRnJPrOy2og/lPLYPx3BbBxMqBvmwbDDcugOo7LYjBWBsYNF43mI6BKdLBtYMxYjCJDAT2CwI1ALP/QCLM42ZQwlTTqd91JDH4fBvAIg0hjQTcXIewvvIPYCwBMfh6j2AxDuF8pCAfStCBB2e5gOzEtQ2DYgQyGwbkPJKQhD4I3msGBhNBCHSmJaR9QdbSs983syQgoFQbiET55DjgZEtAZpJwihAo+ylRrDho4ZGrMEcGYvB8H9AErS453K7CEghLpHyXErIGs30J4eFOwvKCw3zqkZfzwKSzA8KyWYP52Gp4fVIlyHSyAxi5NNqnmU8NjaNvrW8QaLMWBFE46vfobINr0VsW0in0++hZGJOqgliCQe0eKlx64WEimBD2kuVU6qr+YVov0d+qlqZxmE41fQOyL2F060a3/wAAAABJRU5ErkJggg==",
+    "wiki_name": "Teacher wand",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Teacher_wand",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "magic": 50
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

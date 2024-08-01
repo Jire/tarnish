@@ -1,0 +1,86 @@
+{
+    "id": 10010,
+    "name": "Butterfly net",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 10011,
+    "linked_id_placeholder": 15420,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 20,
+    "lowalch": 8,
+    "highalch": 12,
+    "weight": 0.226,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2006-11-21",
+    "duplicate": false,
+    "examine": "For catching butterflies...",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABlUlEQVR4Xu2Wi0rDQBBFu3/ST/A7mgeIgohYtKKFWktLqVaKUglFRQQREUH81rF3NpPHsopgslnQC5cUmuyceWQ3rda//p4UfW9n0gEfLo8yPy5OSn666ruC0iBvq1HJ77fjkj/uJ/S8HNQNpTh7BAJUMu1SGIYUBgEF4k6Hjf9fkyG93JzW1UINA99d9Gg1O6QoiigCkAmVguEewAMKz1UIpWgx3OVFkTmAGCa1AJkWOKkW1tlot6uAUnQ92ssGuAhj9RqQK5eCSXUAUykQKhPHcRYYv20uga2v8sZVBAMpWk72M6CfuAhdrJC58i+kOFO0zAz+lTHUSALP1AAEaShkbAYvWmYNMPLKVzg/pjQUWoirzahMkiTsmmGg/MiQoDY7qAykuA3SChPCBlIrjAypBG0IBFJ8bglMHjD/1HAEAuV7kG0mHIJAeodGq2wwjqUPVG9g5oMdhkGFBMi8y5EUnfe3eYiLMA0BKZoeb/EQewEz7m0yCIAahzk7iHmIPYCB9BB7AgPpzc8TGJFXMFpewfigTzv9P6T8AGOAAAAAAElFTkSuQmCC",
+    "wiki_name": "Butterfly net",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Butterfly_net",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "hunter": 15
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spear",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

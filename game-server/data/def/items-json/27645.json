@@ -1,0 +1,77 @@
+{
+    "id": 27645,
+    "name": "Mystic cards",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 27646,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50,
+    "lowalch": 20,
+    "highalch": 30,
+    "weight": 0.1,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-18",
+    "duplicate": false,
+    "examine": "You gotta really put your heart into throwing these things.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB50lEQVR4Xu2WTUoDQRSEMzfwCIHssspGXIjgJrsggiJELyGCC1FECQquRPAQ4lUEr6RWd2q65uW1MWbSZmFB0T8zTH95P006nX+thaoPu1NYAEjudzvTeTHNAjxNjmtv9iPQoNstARUBcCisIPTOoAhQishwyweh8XyFQBEC0eBBBHq+OwlzNfY0bfZrSyiBIAX3F4fBBLNAmOu65bTNgqjx/PFmXAMQxkK1BFRlQWiNCsfe+2swIgdYuIW0xfqwAArB9Wg7ps0Dwh6Alkhb6h4LZPd0jTFXSwDC+hdA8V65PtsLxi/PAVjjXR7sQS3YbamLCONBKRBSwrU+t0Wt/mHaIogH8x0UgLwoaUSssT8nSrGLYAtxe75fH355OgqHWQDPGjVGjPOHq6Mw4lsZqFi8ORiMCsYo5Yzn7CzP4+HGFCSmzUld6iYLhLH39tKoFUTKg9JDbafBB7uMSAJxYKCqrg9Yo1EDfZmRgi0U38ecXUan1MwFUeWh7J4tcmvsK8SCIKomVM6aVqwZJQuiEAuCqHwopsrCoC4IovfLkhBWTSgWuAcECI4KY7/Ygqrw6y2UAinUimGoCMVoEcimsxAMlaCYHo1OYRgq/RVZA5ioeGi60Xn9/wlMU7OXnX2juAiyFjAl9AlOtKJMwaRFGAAAAABJRU5ErkJggg==",
+    "wiki_name": "Mystic cards",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mystic_cards",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -20,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

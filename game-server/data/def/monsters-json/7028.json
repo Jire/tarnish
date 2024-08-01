@@ -1,0 +1,52 @@
+{
+    "id": 7028,
+    "name": "Reanimated ogre",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2016-01-07",
+    "combat_level": 0,
+    "size": 2,
+    "hitpoints": 35,
+    "max_hit": 8,
+    "attack_type": [
+        "melee"
+    ],
+    "attack_speed": 6,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "ogres"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 35.0,
+    "slayer_masters": [
+        "vannaka"
+    ],
+    "duplicate": false,
+    "examine": "This creature has been dragged back from the grave.",
+    "wiki_name": "Reanimated ogre",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Reanimated_ogre",
+    "attack_level": 43,
+    "strength_level": 43,
+    "defence_level": 43,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 22,
+    "strength_bonus": 20,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}

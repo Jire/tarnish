@@ -1,0 +1,77 @@
+{
+    "id": 28049,
+    "name": "Dragon halberd (cr)",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28050,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 251000,
+    "lowalch": 100400,
+    "highalch": 150600,
+    "weight": 3.175,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-05-24",
+    "duplicate": false,
+    "examine": "A dragon halberd.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABSUlEQVR4Xs2XXYrCQBCE7Zt4hLAgIiJEQgjiIsL6ooL4gxrWH9Z1FZEVBC/gjVu6hzETRXyb7oIikDzko9KpdAoFvQLMLC7Ar1YL280mfiaJAyYKZ6Bc12s1SSjASyPmlFznE/MuyMFUKxU+djsdqbQyIErG2sKRPUMBnpMIT3Edj1F4B7JJkculkn8o125KNOiNKOLzQbHoD4puZm4InBSlZn1tm8fnOSVX+cTI08EAP4JADsom5iY37HX9P7rXAvzf7bgOxFJ6FuBhs+FBVwX1t1o6ba5CgOs0xTgMdUF9Tya6hvy43XIdqEpp/7O+18HjVSGZIVdXB7+Lhb46WM5muoac5sm+eY9XhWTmaT4a6YKi0hz3+7qgaJ6yOlABZpqc6kBgBX4l4O+d3TaF3z6zm9M+rgSIBAxk/+8UAJHMUGersAK9g7kBGJkMsvy5VBoAAAAASUVORK5CYII=",
+    "wiki_name": "Dragon halberd (cr)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_halberd_(cr)",
+    "equipment": {
+        "attack_stab": 70,
+        "attack_slash": 95,
+        "attack_crush": 0,
+        "attack_magic": -4,
+        "attack_ranged": 0,
+        "defence_stab": -1,
+        "defence_slash": 4,
+        "defence_crush": 5,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 89,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 7,
+        "weapon_type": "polearm",
+        "stances": [
+            {
+                "combat_style": "jab",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "fend",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

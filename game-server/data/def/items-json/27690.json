@@ -1,0 +1,84 @@
+{
+    "id": 27690,
+    "name": "Voidwaker",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 27691,
+    "linked_id_placeholder": 27692,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2000000,
+    "lowalch": 800000,
+    "highalch": 1200000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-01-25",
+    "duplicate": false,
+    "examine": "A truly fearsome weapon.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABjElEQVR4Xs3WUUvCUBQH8J0v4Ysvgz0Eg0ACkR4EY0TIRBqNxCTIBJO00SJnYkTYY70JPfRlT5wz7na7PnfP/nAeJhN/nHvOpuNYDaD5iWAAk9kMK4ICfJrP8X4yYVDDdSVRgM8Pi6I7hBEEAWaPCXfnbjyW7g5grx0zhrpzczWUBAFe9PsMIozeHQFQjlEgGmTB7gBeRhFX9zhi0O1oxNcCoBJz0uwyRh2VwHEBDuOYj6nVbBazo0OsYq4HgwLzvl7jYjqV6Aolx5yHIWPoWn8aW8fQ9uiYHCCIyWq7PxiFsITJt4WKVnld+8bQj/cwlgL4kqb4tlphEme4qf9gWvuSwlAAX5dLRjmOz9X2Am1urAd4nelFedbqcQl2hwL8bKFBJtTHZlPMk3mnpeRb1Q0CLlp1ekXQM0gABXjo++jW61pXyrJ8bIAHnldg1I+bZX7rnwJ41GjsYcy7LAXwtNORxpRz8bnd8tyIYugtTatN/2PU9ghhVMoO6SDzLqvJARUClRE/rv1UCiOZX/OsUEQ9qnjxAAAAAElFTkSuQmCC",
+    "wiki_name": "Voidwaker",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Voidwaker",
+    "equipment": {
+        "attack_stab": 70,
+        "attack_slash": 80,
+        "attack_crush": -2,
+        "attack_magic": 5,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 2,
+        "defence_ranged": 0,
+        "melee_strength": 80,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

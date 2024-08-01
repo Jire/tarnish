@@ -1,0 +1,94 @@
+{
+    "id": 22370,
+    "name": "Bryophyta's staff",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": false,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22371,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 65000,
+    "lowalch": 26000,
+    "highalch": 39000,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2018-05-03",
+    "duplicate": false,
+    "examine": "It's a slightly more magical stick. All natural, of course.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABmklEQVR4XtWWwUsCQRTGd64JHYWQQDAwImFZkGWxBUvEJIlEMVQ2TImkFELKixCRh67RwX+jP/HLmWGcURC6NPv6wYPdmcN++73vza7j/C8YNlcswwXour7LG/fWYSj1Uhh0Kui1yogap2hfFTF+9+HlMnEJY0JQsxYKdx6/9/E66a4qk07aFMbQXSSFK/0XD52hv9a+t+cIoZ8T641bz4aoZWY+TQcY3HRaFL+eT28we2oLUet7f4p+kBKiqtBKoV4NsLvnrARZcMlx9FszBF5WOMJzNX1oolb213IUjQI7oiQMi4+REMJbxes+uhATx0WVCi7mXzXDLSswHJ8ncHiWwMHJjsjRuH8pppCH32KWTHSOzBp2imhW1cFpGTPoKsyTQQVRXWbIskPbkC65WRVyEjD4uRQtl0qB/M4REcQxw06C5QGaT4oiJSrvOjjKys/K5m5MSFG8CLVRi+JuEXFMu6Pcin0C1Wke+kQEaRiVtinITZ9sGxekpy92tChCeWIoh6Rc4kin1ORt7saEPJ9i+O3dDikxv+EHV9IT3q8h1WkAAAAASUVORK5CYII=",
+    "wiki_name": "Bryophyta's staff (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bryophyta's_staff#Charged",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": -1,
+        "attack_crush": 40,
+        "attack_magic": 15,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 50,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 30,
+            "magic": 30
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

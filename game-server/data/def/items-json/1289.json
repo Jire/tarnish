@@ -1,0 +1,86 @@
+{
+    "id": 1289,
+    "name": "Rune sword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": false,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1290,
+    "linked_id_placeholder": 14736,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 20800,
+    "lowalch": 8320,
+    "highalch": 12480,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2001-07-26",
+    "duplicate": false,
+    "examine": "A razor sharp sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABd0lEQVR4Xs2WzUrDQBSFO2+QVTfZDLhw6066ECxSXDQUg0EJpcXaRaCoKGpJ/aMgvoOoTyCKUlwoKupKVBAfQAR9kSN3gk07qLvOnQOX0uYGPr6TCc1kBh4B/RemEIjA7FKsPvWrhiNQqi8iXNlUQ99HpOSCEihWI2WmtrHXhWECEsgHFfjRMirNthpr7FTjXXvslNd2uGEoqZ1eIH3LUFI7vaeKFYjsBAtNO2B+s6NvGUxiZ7qxao8deitbAZMr+soO1WVFVWTHqzXssTNZrvedLH3LYBI7VJc1dgrhnA0wFIFxP1R1WVEV2aG6mO0kf0dpxkoBP0znXOLpcQijBU/VxVyVwMG+i6vLBIrZDkVgeyuLk+N+KH3LcATm846CurmWeHlmhRIIcw7WPQftmSzOTl3c3Uq8vbJAJTDRhIPWlNM9aT9j+FkSODp08XAv8fE+3AfQO/pdA0wCdNGR+PpMgfQtgxFoxY468gz1/BWWZ+X/mIb5BtC9OGdApeMeAAAAAElFTkSuQmCC",
+    "wiki_name": "Rune sword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_sword",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": 26,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 2,
+        "defence_crush": 1,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 39,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

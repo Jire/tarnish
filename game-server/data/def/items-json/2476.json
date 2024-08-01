@@ -1,0 +1,77 @@
+{
+    "id": 2476,
+    "name": "Black flowers",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 2477,
+    "linked_id_placeholder": 16988,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100,
+    "lowalch": 40,
+    "highalch": 60,
+    "weight": 0.028,
+    "buy_limit": 150,
+    "quest_item": false,
+    "release_date": "2004-03-29",
+    "duplicate": false,
+    "examine": "A posy of flowers.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACjUlEQVR4Xu2WW0tUURTH3Z/Dl/kIEgzDIAMzDOdBEhEcDBPDFFPwghGSVEhSSYUQgQQhhZSXzBumCCLSDZFAROohIvosK9berX1Zc07NcZ9xfOgP62E2e/b67f/6nzNTV/dfp5YAVedCAlL19bKioc4M2MAYIN48Cjhsr7dcoDA4vtaQSoWu85NPqWggalTpmgL1lnLhx3EAv74G8P2oCCcHBaeRDfDtsAg/T4JqAZlGRx/zcPy5AIf7eTjYy5U1pMI9CMWhEcYTyLX9w04O9rcbYXcjK4uDYH15n9fFwRPIkAu0+SYD6wsZWH2t6s5crx4X1afdnCwb3j4jESgORgcPPmqHyaV+KxsC9t4piJ21rL6ADZz42DjU9aeXLaDo/QnAmFvZh4Y1uvm8+89e9T2+x97r9qhY5RCYBwxqeQMBfZOtMD579a8XGH3SoV3i3SqQe0vMA2aDh9Q0UHmaeNWnoagamxugc6xJQnsAocyhGE4E2XqblSFdnkuzMKv9dp5MXgS0jwTQfbtZu+T2iSUFRI/54su049zU2pDlhto/9qwrpKmAK+MXof9+m49L0eGkwjA/3hyBe8sDGgxH44ZcnZVrvQA9Ey0+Lv0bCJtgPnB8DzeG9RgxT7de9JRB4dgGpkrJu0RuUDV1ZWV+prdG4cHKoFxDJ+7OX7OgBBRKaemgh0sotzndjgcXqzRUlD8nNMYbM516P52FAUcH3fWY4gBhBxEYuoUNMfCYGRNy4xSOzdOlODJuYbixOb40bbCgIwPD05cinsgqyB4jZgab4yj50+j59o4vG4xCbwBU8ClP/LtVlpB5Cgs5fT4zl4yEfFPzl2aNYEhRL82aSmXH/DM4F6ppdsIVB+Y3ggHgOfwlwjAAAAAASUVORK5CYII=",
+    "wiki_name": "Black flowers",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_flowers",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

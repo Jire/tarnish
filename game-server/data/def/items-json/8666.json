@@ -1,0 +1,84 @@
+{
+    "id": 8666,
+    "name": "Banner",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14828,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2006-05-31",
+    "duplicate": false,
+    "examine": "A banner with a picture of a Jogre.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABdklEQVR4Xu3XQUrDQBQG4OQGXblx0123vYILcaEIBaFQSCm6ECqBWCl0JS66cOERvJP0FOIpRt+UZ6f/m2kmzZtSwQc/gUw782UmIZks+9uVm7gkq+2Bysm1mRZXNvejS5u74YUI/k8JmZuqKtSigMrN02wsOt4n1Fe/27XBURrUGqSBYhCO0LA2S9YWpQpiTCyqLEfinCrITSzKh1EFuZCmKKXZ4ZKz1BSVDOQivla93yAAkwzE+fxYQwhYB1K8f7i2QbhUz++nAuEDYa8tSs4QZ/F2YkF0xLaDgmiWCEF5mHfscf7qRyUAUcllY5Abfs24SQCSMzRbSkxo2ZKD6KqPBsRPWAjku48OAvIl1JYMFBqwro1R2GuLCn+kuU8TtiFIcZb8IBeDbRhFkMQgBNt9SQKqCyKOGsQo7H2PigPh4L4ozdI/KKZwfy7z8vjzbTQdmup2YPf8tLcvBmdmcnNu9/50jtqU7qMsoyvbFQSGsvn97voGVkyfCqHKuCsAAAAASUVORK5CYII=",
+    "wiki_name": "Banner (Jogre)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Banner_(Jogre)",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "banner",
+        "stances": [
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "swipe",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": 23682,
+    "name": "Crystal pickaxe (inactive)",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 23683,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 520000,
+    "lowalch": 208000,
+    "highalch": 312000,
+    "weight": 1.36,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2019-07-25",
+    "duplicate": false,
+    "examine": "If rocks could feel fear, they'd fear this.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACZUlEQVR4Xt1WDW/SUBTd+yf7CcRkMYshwcwFFzYcgpCCkBasKDDZRkDUsY0vgbGNj4HMaaaJiaJzv/HIe10tPKKSUbrGk9y0eb3v9fSc+17v3Nz/BwJ+xGBQAlocHDWv7g2FRqBcrWNnr4RCuYbaYQMn3VM2bpmfN4oUQXI7g+3MK6SzORYbW2nsFso4bLRw9vHcSEIEQTECMSwj8jSGZ/Eku9aO22i1ezgaXJsnXXRPz0Zs5FfRGaM18+ChB9KTKPLFt6jWG8jlS9grVFCq1FE/bqHd6c2eFLVDDfqyu1Yrlm02yM8TkKNxplw8mWK20vpS64pfZwYgjIjX5UI4EGCE/EERj3x+eLwCCzqWeZ1DxxhSBKt2OwSPB0Gfj6sbJdbW3QhJMlLZHXR774ee6Q7FqnWHA6JfYC8ZtnLY0hXHGrzCY7YjacH3+99nQUqzi4ZKiM9SQHBv+T5Ti5Ki9v24uNCTFMHthQVml2qVpsifoFlI7aOF/vPyUi9Sil1up5NZ9nd1NKgWUlL7pQrOP32eeO4/QLAhOlF9GZ5QHR6Ene70EP36rT+tSgQeh5WRifonV2ccZHB4Hlzzg0ZAEAuuopgK6bDYtPOvyGyGXXhXTEyhjoYp5xOkZDeysUl31sxB8CYhYPdFQBd1dMCgIUtL+NLImIEQgeC0oZmLmseuiM+OD5VNM6hDMX4Y8hkGQyno/a2geQjR3dXJx81ASOt96N89KkmMFJ9lIAjuLC7+7g5pu3rDKimEVpaWWMtBVZJDyr+MzzQIBLcsFtaU0S6Rb1v5bIMw3sDf+OGoEhgOPkdv/AJtgdHdNxKJjwAAAABJRU5ErkJggg==",
+    "wiki_name": "Crystal pickaxe (Inactive)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_pickaxe#Inactive",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": -2,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 70,
+            "agility": 50,
+            "mining": 71
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

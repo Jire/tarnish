@@ -1,0 +1,93 @@
+{
+    "id": 22398,
+    "name": "Ivandis flail",
+    "last_updated": "2023-02-11",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 22399,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 20000,
+    "lowalch": null,
+    "highalch": null,
+    "weight": 0.001,
+    "buy_limit": null,
+    "quest_item": true,
+    "release_date": "2018-05-24",
+    "duplicate": false,
+    "examine": "A legendary flail.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB10lEQVR4Xu2Wy0rDQBSGnTdw303WBaEIUkIppJQQSkNISUgJxaCWUukNtaVYEZEiKoivoQtxYV/w2DPjNJkorUIzycIfDnPJkPnynzPT7uxkWwTEfnQsXQRO+6MvCAKu70O1VksTikDdtGHXnEG711uBfQ+pIpDLKVDWKlC3bfCDIxiMJ7RvmGYajhF4efuAqs43XqZxFKZR03XaFhRFLtTr+wIs26Gbo1tRoIbnyXYJRaA/vACtwhw5KBYpCNbWcbdLx6lAze+fhPRhHfF+ak7dzB9WUOiQ5Ti02DF9qTkVheKBUKJrUsWgjFqYMrwOgk4H1FKJjsWTx8ETFVkVOducbaprGuzl86J7rgumYQhz8bdtQazIORTOcDDHsmC/UKAtwhw2mzQQqqSqEbitK37ywnkOJrpCoBMEFBb7CV2oBM4nl6CqrHb4LHcLWx44np6NKFSY1kREYHZ9++NXx8e4BtMXLBSazkShXM/fsAFLm9dowEmrJTgYX7klLU9Ui91H8Sc4NxkOoNdu05AAgyK0wNdB8ZAAw7UeSixyKSJw9/i8FioFhVA8PfEVKYhdBeVyJSsuof6hfisC4+lVluoJFf68xJ+kKPbHLnNQki/GzcoUzF/1CdgpbSEBYInoAAAAAElFTkSuQmCC",
+    "wiki_name": "Ivandis flail",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ivandis_flail",
+    "equipment": {
+        "attack_stab": 24,
+        "attack_slash": 38,
+        "attack_crush": 62,
+        "attack_magic": 8,
+        "attack_ranged": 0,
+        "defence_stab": 4,
+        "defence_slash": 4,
+        "defence_crush": 2,
+        "defence_magic": 8,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 5,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 40
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

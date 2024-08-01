@@ -1,0 +1,79 @@
+{
+    "id": 864,
+    "name": "Bronze knife",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": true,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 14472,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 0.0,
+    "buy_limit": 7000,
+    "quest_item": false,
+    "release_date": "2003-04-14",
+    "duplicate": false,
+    "examine": "A finely balanced throwing knife.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABVUlEQVR4XuWVUUvCUBiG/f6J0EUgBCKEhASBFyOKUTSIJUILsoESmImZJouI6Fe/8Z5x5naC7tx3oBe+m3EGD8/77azR+F8RuE8UI4j6LXgCJRietQ1Mu9k0456oMYIk7BR2vICJgwOc9va1gQT3l4dmynaUgARp1DXjgR3B5PqoGGU7WxgP7FRh+JlfnLTQ7+5pAFVh7CKXYWoE+g1jq1K1Y2HKVR13CKIERBh7IxNGqS5G8DzsIVsu8TKdFlUp2WEEH6sVXmcz3N7E2kCCz7c11vM5nsZjxFGE8yAwIAp1Cb6yDTaLRWHnKgwrIDXCMGL2hnYmo5Gxo2DFJt8b2iHQ3WBQseOe3nHyqmiHQA9JomlH8P2eGTsE4u6o2+FX5Y0dVmXtPKapsaMGw6poxwK5dtw3dpzcjgVStmOT7w+BlO2Uk98/vJWV7ZSj8p/6O17B1J0fzqR4XdhfaHUAAAAASUVORK5CYII=",
+    "wiki_name": "Bronze knife (Unpoisoned)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bronze_knife#Unpoisoned",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 4,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 3,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "ranged": 1
+        }
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

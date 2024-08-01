@@ -1,0 +1,86 @@
+{
+    "id": 1305,
+    "name": "Dragon longsword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 1306,
+    "linked_id_placeholder": 14744,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 100000,
+    "lowalch": 40000,
+    "highalch": 60000,
+    "weight": 1.814,
+    "buy_limit": 70,
+    "quest_item": false,
+    "release_date": "2002-02-27",
+    "duplicate": false,
+    "examine": "A very powerful sword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABWklEQVR4Xu2WsUoDQRRF9/3BVtPYLFjY+gNWQYIkhcFgWEOCJIhBkhBBBQvBwsLCwj++7pvx7YwrpnxvCi8shBDI2XPvTlIUaiF03zEMYX1QIhMowmNV4vYb6LiqrKEI9w3MIg8gwnNjh+uaOXMgwuuha+uqcwB6qVxb14UrLIEIb42dtK5haQZE+Dhyv+oyAuJzJtoRmNMG5kQfiPDZMcO7ERCBUQKKNcmIu1ZUYd4bEHmieMAMY2CFE2DkaUorUrbCCeOVvZha4UvGyxWZWuHxyl7k9DWwwonjTSsysMKJh538ahtZ4YS9pBUpWwl3L68ZRv7tGVghbFcr3Mzn/svTipStSAgPm7UHur6qcTka/TDT/bRCCE+7Le6WSw9Uj8c4Hwxw1uslNaqGPAgDLKbTFmbY71tYIl8VQ8Rhx0t5P+Rrks2kAzYb82wysTCxL1nBhGQF858/8gVciUJSRjYl+QAAAABJRU5ErkJggg==",
+    "wiki_name": "Dragon longsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_longsword",
+    "equipment": {
+        "attack_stab": 58,
+        "attack_slash": 69,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 71,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 60
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

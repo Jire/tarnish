@@ -1,0 +1,89 @@
+{
+    "id": 1027,
+    "name": "Guard Bandit",
+    "last_updated": "2021-07-12",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2002-02-27",
+    "combat_level": 22,
+    "size": 1,
+    "hitpoints": 27,
+    "max_hit": 3,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "bandits"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 29.0,
+    "slayer_masters": [
+        "krystilia"
+    ],
+    "duplicate": false,
+    "examine": "Bandit Camp guard.",
+    "wiki_name": "Guard Bandit",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Guard_Bandit",
+    "attack_level": 17,
+    "strength_level": 17,
+    "defence_level": 17,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 11,
+    "strength_bonus": 12,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 4,
+    "defence_slash": 8,
+    "defence_crush": 5,
+    "defence_magic": 1,
+    "defence_ranged": 4,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.16666666666666666,
+            "rolls": 1
+        },
+        {
+            "id": 23490,
+            "name": "Larran's key",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0009017132551848512,
+            "rolls": 1
+        },
+        {
+            "id": 21257,
+            "name": "Slayer's enchantment",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.0033444816053511705,
+            "rolls": 1
+        }
+    ]
+}

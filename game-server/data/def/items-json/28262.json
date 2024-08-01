@@ -1,0 +1,91 @@
+{
+    "id": 28262,
+    "name": "Ice ancient sceptre",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 28263,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 200000,
+    "lowalch": 80000,
+    "highalch": 120000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-07-26",
+    "duplicate": true,
+    "examine": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABxElEQVR4XuVWwWrCQBB1/8CTl1wCOQQEIQgeRAoRKUEUqSgWWyoNopVWoS0o9lCQUhA82YKnfuzU2WWySerRzS70wSCJm8zzvbez5nL/EwxkKUe8UbyxrOfyGoZuCJVCVTUpBl3nGupWwBvdFSdRhaUZTEoLmHkvnAyt8WybV/pNZwLjjdpOL1FIEmvg3iaUUUyGwKBm+bzIIiQS2O3omtRRbBdCWObk3UgB/ESr4teoGq1VTCreRNS+/gOryoYHme6hbbROsW2CEBLY+QfYXnxDYbWHwuIT8uES5uUlDzWSI5UUkkEwnhVUAHcWWlXafEFne4DWx55/RzsuM0JytjBwn96guN5C832XsJFKsV0IoZD85UdSr5tE83Sl33BmJANL9zJqfgoi1DiDKCN4VxuZq1aLW4ZzCLMkh2HmECGtVWWgqTTYxeAhDGHQ7YLrOCcDnH5CIQQZVMa2LF2KEI5n1GgEw36fZ8cIMmiTMcr0Oh3dZOTOMSAzDObTKTyOx3B/M4Rmo6GTDIHxAGtWhnD8lxcE0eAzgkzZ83STEQG+9P0/Ezi9MgOIgxKVMSYzSAh3U5xQelXG0HpinwYRMYKMKfgFzuqDTRH9U+8AAAAASUVORK5CYII=",
+    "wiki_name": "Ice ancient sceptre (Normal)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_ancient_sceptre#Normal",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": -1,
+        "attack_crush": 50,
+        "attack_magic": 20,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 60,
+        "ranged_strength": 0,
+        "magic_damage": 5,
+        "prayer": -1,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "staff",
+        "stances": [
+            {
+                "combat_style": "bash",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "focus",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell",
+                "attack_type": "spellcasting",
+                "attack_style": "magic",
+                "experience": "magic",
+                "boosts": null
+            },
+            {
+                "combat_style": "spell (defensive)",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

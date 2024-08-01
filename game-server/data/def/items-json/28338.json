@@ -1,0 +1,84 @@
+{
+    "id": 28338,
+    "name": "Soulreaper axe",
+    "last_updated": "2023-08-03",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 28339,
+    "linked_id_placeholder": 28340,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 240000,
+    "lowalch": 96000,
+    "highalch": 144000,
+    "weight": 2.825,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2023-07-26",
+    "duplicate": true,
+    "examine": "An axe that manipulates the very lifeforce of those who touch it.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4ElEQVR4Xs2XzUsCURTFvf9J0KJtuAkJFxERkoSDoahMlIMZYqKZ2TdSFuYHmVGL2rjunzx17/DU0bAWzcw78BicGbw/z3nvvmcg8KsIzuGrCLe3HbRaffR6b+j333UAIzSbPbTbL+h0X/Hw8IRG49FPKEK9foPLyzu5smMKaHlhwSuoyVhIYBiEr2pcXd975RLBjFeR3D6SgrXaFc7PGxJbKrUnLvFQQB64RMhlblArDATCsgpSuFq9EDgVH8fGoC65NL20SRxYD++MPlcqZyMo5ZhLLhGGw08pwqtoMPiQX18snqBsdaQwu1IqnQqUAppcbf8MxJp1SI1MJoulxaDjnoqNYV0CCgT4S38aXHAtZIwKq3vsjosOzRMhES0gtmnNuOfSHPqLCNGNPYFKG2VpCaotjF3zXE532DWf3Blrcg4xELtlA2ohu4Gqxjn91CcRjGzK/+jGIqzuxxGMbUzML99FCJmxqdbguwgrqaiAaRUfQyXyu3rFlz6yYJYPZHPWAIqwWz2UzTeZNHWJz46LtxpNgFiErTUT8a28DrEpkWMT1gRs/IeBT5zaQPHp0jASOHhO6wOV7SYRqZkI5+zmOf2GxyJsHqe/O3nku3na+54Gq09NbF9PmU4pkHkwX9HrlrqjWnZ8AAAAAElFTkSuQmCC",
+    "wiki_name": "Soulreaper axe",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Soulreaper_axe",
+    "equipment": {
+        "attack_stab": 28,
+        "attack_slash": 134,
+        "attack_crush": 66,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 121,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "axe",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "hack",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

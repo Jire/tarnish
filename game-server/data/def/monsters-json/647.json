@@ -1,0 +1,73 @@
+{
+    "id": 647,
+    "name": "Ice wolf",
+    "last_updated": "2022-12-31",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2005-04-18",
+    "combat_level": 132,
+    "size": 2,
+    "hitpoints": 70,
+    "max_hit": 16,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "wolves"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 70.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "mazchna"
+    ],
+    "duplicate": false,
+    "examine": "Not man's best friend.",
+    "wiki_name": "Ice wolf (Level 132)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ice_wolf#Level_132",
+    "attack_level": 150,
+    "strength_level": 150,
+    "defence_level": 70,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 2859,
+            "name": "Wolf bones",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        },
+        {
+            "id": 7830,
+            "name": "Wolf bone",
+            "members": true,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 0.25,
+            "rolls": 1
+        }
+    ]
+}

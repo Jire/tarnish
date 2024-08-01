@@ -1,0 +1,60 @@
+{
+    "id": 7559,
+    "name": "Deathly ranger",
+    "last_updated": "2020-12-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": null,
+    "combat_level": 0,
+    "size": 1,
+    "hitpoints": null,
+    "max_hit": null,
+    "attack_type": [
+        "ranged"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": true,
+    "immune_venom": true,
+    "attributes": [
+        "xerician"
+    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "They wouldn't enjoy the circus.",
+    "wiki_name": "Deathly ranger",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Deathly_ranger",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 0,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 120,
+    "ranged_bonus": 70,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": "1",
+            "noted": false,
+            "rarity": 1.0,
+            "rolls": 1
+        }
+    ]
+}

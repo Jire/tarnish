@@ -1,0 +1,86 @@
+{
+    "id": 6607,
+    "name": "White longsword",
+    "last_updated": "2023-06-10",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 6608,
+    "linked_id_placeholder": 14318,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 960,
+    "lowalch": 384,
+    "highalch": 576,
+    "weight": 1.814,
+    "buy_limit": 125,
+    "quest_item": false,
+    "release_date": "2005-10-17",
+    "duplicate": false,
+    "examine": "A razor sharp longsword.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4klEQVR4XuWWO08CQRSFnX9ARUOzyRYmVLb+AHstbW0sUOMLCaIE0cRn4ooYEFARERQxKIqIWYKISvAVE2NrbKws/AlHZ1aIUFjuNfEkN9liii/nzJm7TU3/UwzakEsDCXo8yCaT1FAMy3NzONiO4jqfFzAtkiSm8aQO0mBO9/fxdH+H8+xJDajxpA5imHe7cRiP4aFcFkPoDoPLbkciHEaleC5gbi6KVO4wjPT3YWvVj1Iuh8dKpQ6GBCiwpCB/fPQ3YJSZGVHt21KJHmZ2wlWrNwcihXHabNjd2EDxNEsPM9zbg02fD2o6LWCuVJWqUVwMfmURmb0EyoUC9WusXWJ+b3jFyWGmXU5xb3jFyWHGrFbx+PGK86hIYQYtFvErwfcUj4oQhkvb4HxPFTIZUXPSRvENHg0GcJZKUbhT/eXUZtLhwJrXi/ROnAZGGTAiq0i4DEgYHRrCysI8kpGIiEpnGC6GzjZDHdRTTBZRVR3TEYaLobvDgPEuYw2qHJIF1EuqGe858zeYrvpyqdUAe7sBu1Mm5DyaSxyIJLLktAmPURkfqhmqVxLfHOghItNEFnObUFmX8XqgOfJzdHcn5DAJV96Om4UzPyF0hqmK4TYs4zleD9N4SmeRxPO7/hQMpT4BXYTV6Y/DaZ4AAAAASUVORK5CYII=",
+    "wiki_name": "White longsword",
+    "wiki_url": "https://oldschool.runescape.wiki/w/White_longsword",
+    "equipment": {
+        "attack_stab": 13,
+        "attack_slash": 18,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 16,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 1,
+        "slot": "weapon",
+        "requirements": {
+            "attack": 10
+        }
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}
