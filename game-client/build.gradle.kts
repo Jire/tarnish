@@ -83,7 +83,7 @@ dependencies {
     implementation("it.unimi.dsi:fastutil:8.5.12")
     implementation("com.displee:rs-cache-library:6.9")
 
-    val netty = "4.1.96.Final"
+    val netty = "4.1.112.Final"
     implementation("io.netty:netty-handler:$netty")
     implementation("io.netty:netty-transport-native-epoll:$netty")
     implementation("io.netty:netty-transport-native-kqueue:$netty")
