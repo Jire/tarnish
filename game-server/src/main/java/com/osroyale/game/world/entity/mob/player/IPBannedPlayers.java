@@ -6,13 +6,13 @@ import com.osroyale.game.world.World;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
 public class IPBannedPlayers {
 
-    private static final String IP_BAN_LIST_PATH = "./data/ip-bans.txt";
+    private static final Path IP_BAN_LIST_PATH = Path.of("./data/ip-bans.txt");
 
     public static final List<String> ipBans = new ArrayList<>();
 
@@ -21,7 +21,11 @@ public class IPBannedPlayers {
             ipBans.clear();
         }
         try {
-            ipBans.addAll(Files.readAllLines(Paths.get(IP_BAN_LIST_PATH)));
+            if (Files.notExists(IP_BAN_LIST_PATH)) {
+                return;
+            }
+
+            ipBans.addAll(Files.readAllLines(IP_BAN_LIST_PATH));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -41,7 +45,7 @@ public class IPBannedPlayers {
             @Override
             public void execute() {
                 try {
-                    Files.write(Paths.get(IP_BAN_LIST_PATH), ipBans, Charset.defaultCharset());
+                    Files.write(IP_BAN_LIST_PATH, ipBans, Charset.defaultCharset());
                     cancel();
                 } catch (IOException e) {
                     e.printStackTrace();

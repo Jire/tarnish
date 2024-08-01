@@ -6,13 +6,13 @@ import com.osroyale.game.world.World;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
 public class BannedPlayers {
 
-    private static final String BAN_LIST_PATH = "./data/bans.txt";
+    private static final Path BAN_LIST_PATH = Path.of("./data/bans.txt");
 
     public static final List<String> bans = new ArrayList<>();
 
@@ -21,7 +21,11 @@ public class BannedPlayers {
             bans.clear();
         }
         try {
-            bans.addAll(Files.readAllLines(Paths.get(BAN_LIST_PATH)));
+            if (Files.notExists(BAN_LIST_PATH)) {
+                return;
+            }
+
+            bans.addAll(Files.readAllLines(BAN_LIST_PATH));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -50,7 +54,7 @@ public class BannedPlayers {
             @Override
             public void execute() {
                 try {
-                    Files.write(Paths.get(BAN_LIST_PATH), bans, Charset.defaultCharset());
+                    Files.write(BAN_LIST_PATH, bans, Charset.defaultCharset());
                     cancel();
                 } catch (IOException e) {
                     e.printStackTrace();

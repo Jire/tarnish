@@ -6,13 +6,13 @@ import com.osroyale.game.world.World;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
 public class IPMutedPlayers {
 
-    private static final String IP_MUTE_LIST_PATH = "./data/ip-mutes.txt";
+    private static final Path IP_MUTE_LIST_PATH = Path.of("./data/ip-mutes.txt");
 
     public static final List<String> ipMutes = new ArrayList<>();
 
@@ -21,7 +21,11 @@ public class IPMutedPlayers {
             ipMutes.clear();
         }
         try {
-            ipMutes.addAll(Files.readAllLines(Paths.get(IP_MUTE_LIST_PATH)));
+            if (Files.notExists(IP_MUTE_LIST_PATH)) {
+                return;
+            }
+
+            ipMutes.addAll(Files.readAllLines(IP_MUTE_LIST_PATH));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -54,7 +58,7 @@ public class IPMutedPlayers {
             @Override
             public void execute() {
                 try {
-                    Files.write(Paths.get(IP_MUTE_LIST_PATH), ipMutes, Charset.defaultCharset());
+                    Files.write(IP_MUTE_LIST_PATH, ipMutes, Charset.defaultCharset());
                     cancel();
                 } catch (IOException e) {
                     e.printStackTrace();
