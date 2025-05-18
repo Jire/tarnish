@@ -48,6 +48,30 @@ class TaskManager {
     fun schedule(task: Task?): Boolean {
         task ?: return false
 
+        try {
+            if (!task.canSchedule()) {
+                return false
+            }
+
+            if (task.isInstant) {
+                task.isRunning = true
+                task.beforeSchedule()
+
+                /* task was cancelled inside [Task.beforeSchedule] */
+                if (task.isRunning) {
+                    if (!scheduled.offer(task)) return false
+
+                    task.onSchedule()
+
+                    task.baseExecute()
+                }
+                return true
+            }
+        } catch (e: Exception) {
+            logger.error("Failed to schedule task", e)
+            return false
+        }
+
         val added = scheduled.offer(task)
         if (!added) {
             logger.warn("Unable to add task to `scheduled` ({} size)", scheduled.size())
