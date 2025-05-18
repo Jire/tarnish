@@ -53,7 +53,7 @@ class TaskManager {
                 return false
             }
 
-            if (task.isInstant) {
+            if (task.isInstant && task.delay == 0) {
                 task.isRunning = true
                 task.beforeSchedule()
 
