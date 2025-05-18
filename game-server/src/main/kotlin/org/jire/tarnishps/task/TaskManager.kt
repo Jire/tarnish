@@ -53,17 +53,20 @@ class TaskManager {
                 return false
             }
 
-            if (task.isInstant && task.delay == 0) {
+            if (task.isInstantDelay) {
                 task.isRunning = true
                 task.beforeSchedule()
 
                 /* task was cancelled inside [Task.beforeSchedule] */
                 if (task.isRunning) {
-                    if (!scheduled.offer(task)) return false
-
                     task.onSchedule()
 
-                    task.baseExecute()
+                    if (task.isRunning) {
+                        task.process()
+                    }
+                    if (task.isRunning && !pending.offer(task)) {
+                        return false
+                    }
                 }
                 return true
             }

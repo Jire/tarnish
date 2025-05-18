@@ -18,6 +18,8 @@ public abstract class Task {
      */
     private final boolean instant;
 
+    private final boolean instantDelay;
+
     /**
      * The cyclic delay.
      */
@@ -45,6 +47,9 @@ public abstract class Task {
         if (delay <= 0) {
             instant = true;
             delay = 1;
+            instantDelay = instant;
+        } else {
+            instantDelay = false;
         }
         this.instant = instant;
         this.delay = delay;
@@ -145,6 +150,10 @@ public abstract class Task {
      */
     public final boolean isInstant() {
         return instant;
+    }
+
+    public boolean isInstantDelay() {
+        return instantDelay;
     }
 
     /**
