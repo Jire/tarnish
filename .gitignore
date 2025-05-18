@@ -1,2 +1,5 @@
 # Project exclude paths
 /.gradle/
+
+# Exclude .idea config for intellij
+.idea/

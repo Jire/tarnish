@@ -55,6 +55,7 @@ public class NpcUtility {
             5862,  /* Cerberus */
             2205,  /* Commander Zilyana */
             8060, /* Vorkath */
+            8061, /* DinMaster */
             KalphiteQueen.PHASE2_ID // only phase 2, since "killing" phase 1 doesn't count
     };
 
@@ -120,5 +121,6 @@ public class NpcUtility {
         put(8609, Hydra::new);
         put(KalphiteQueen.PHASE1_ID, KalphiteQueen::new);
         put(KalphiteQueen.PHASE2_ID, KalphiteQueen::new);
+        put(8061, DinoMaster::new);
     }};
 }
