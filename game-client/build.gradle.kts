@@ -78,13 +78,14 @@ dependencies {
         runtimeOnly("org.lwjgl:lwjgl-opengl::natives-$it")
     }
 
-    implementation(files("libs/SwiftFUP-client-3.6.1.jar"))
+    implementation(files("libs/SwiftFUP-client-3.7.0.jar"))
     implementation(files("libs/allatori-annotations.jar"))
-    implementation("it.unimi.dsi:fastutil:8.5.14")
-    implementation("com.displee:rs-cache-library:6.9")
+    implementation("it.unimi.dsi:fastutil:8.5.15")
+    implementation("com.displee:rs-cache-library:7.3.0")
 
-    val netty = "4.1.112.Final"
+    val netty = "4.2.2.Final"
     implementation("io.netty:netty-handler:$netty")
+    implementation("io.netty:netty-transport-native-io_uring:$netty")
     implementation("io.netty:netty-transport-native-epoll:$netty")
     implementation("io.netty:netty-transport-native-kqueue:$netty")
 }
