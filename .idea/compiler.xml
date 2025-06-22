@@ -22,4 +22,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tarnish.game-server" options="--enable-preview" />
+      <module name="tarnish.game-server.main" options="--enable-preview" />
+      <module name="tarnish.game-server.test" options="--enable-preview" />
+    </option>
+  </component>
 </project>
