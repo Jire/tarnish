@@ -78,7 +78,7 @@ dependencies {
         runtimeOnly("org.lwjgl:lwjgl-opengl::natives-$it")
     }
 
-    implementation(files("libs/SwiftFUP-client-3.7.0.jar"))
+    implementation(files("libs/SwiftFUP-client-3.7.1.jar"))
     implementation(files("libs/allatori-annotations.jar"))
     implementation("it.unimi.dsi:fastutil:8.5.15")
     implementation("com.displee:rs-cache-library:7.3.0")
