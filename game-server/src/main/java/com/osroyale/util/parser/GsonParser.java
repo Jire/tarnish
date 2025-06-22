@@ -1,6 +1,12 @@
 package com.osroyale.util.parser;
 
-import com.google.gson.*;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonNull;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 import com.google.gson.stream.JsonReader;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -59,8 +65,7 @@ public abstract class GsonParser extends GenericParser {
     @Override
     public final void deserialize() {
         try (final JsonReader reader = new JsonReader(new FileReader(path.toFile()))) {
-            final JsonParser parser = new JsonParser();
-            final JsonElement element = parser.parse(reader);
+            final JsonElement element = JsonParser.parseReader(reader);
 
             if (element.isJsonNull()) {
                 logger.warn(String.format("json document=%s is null", path));
@@ -83,8 +88,8 @@ public abstract class GsonParser extends GenericParser {
             }
 
             onEnd();
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (final Exception e) {
+            logger.error("Error parsing json file: " + path, e);
         }
     }
 
