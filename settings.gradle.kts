@@ -6,15 +6,15 @@ dependencyResolutionManagement {
     repositories {
         mavenCentral()
         gradlePluginPortal()
-		maven("https://repo.runelite.net")
+        maven("https://repo.runelite.net")
         maven("https://jitpack.io")
     }
 
     pluginManagement.plugins.apply {
-        kotlin("jvm").version("2.0.0")
+        kotlin("jvm").version("2.1.21")
 
-        id("org.zeroturnaround.gradle.jrebel") version "1.2.0"
-        id("com.github.johnrengelman.shadow") version "8.1.1"
+        id("org.zeroturnaround.gradle.jrebel") version "1.2.1"
+        id("com.gradleup.shadow") version "8.3.6"
     }
 }
 

@@ -4,7 +4,7 @@ import com.github.jengelman.gradle.plugins.shadow.ShadowApplicationPlugin.SHADOW
 plugins {
     java
     application
-    id("com.github.johnrengelman.shadow")
+    id("com.gradleup.shadow")
 }
 
 group = "com.osroyale"

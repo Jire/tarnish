@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm")
     application
     id("org.zeroturnaround.gradle.jrebel")
-    id("com.github.johnrengelman.shadow")
+    id("com.gradleup.shadow")
 }
 
 application {
@@ -22,32 +22,32 @@ kotlin {
 }
 
 dependencies {
-    val slf4jVersion = "2.0.13"
+    val slf4jVersion = "2.0.17"
     implementation("org.slf4j:slf4j-api:$slf4jVersion")
     runtimeOnly("org.slf4j:slf4j-simple:$slf4jVersion")
 
-    implementation("io.netty:netty-all:4.1.112.Final")
-    implementation("joda-time:joda-time:2.12.7")
-    implementation("org.quartz-scheduler:quartz:2.3.2")
+    implementation("io.netty:netty-all:4.2.2.Final")
+    implementation("joda-time:joda-time:2.14.0")
+    implementation("org.quartz-scheduler:quartz:2.5.0")
     implementation("com.jcabi:jcabi-jdbc:0.19.0")
-    implementation("com.google.code.gson:gson:2.11.0")
-    implementation("com.google.guava:guava:33.2.1-jre")
-    implementation("org.jsoup:jsoup:1.18.1")
-    implementation("org.apache.commons:commons-compress:1.26.2")
+    implementation("com.google.code.gson:gson:2.13.1")
+    implementation("com.google.guava:guava:33.4.8-jre")
+    implementation("org.jsoup:jsoup:1.20.1")
+    implementation("org.apache.commons:commons-compress:1.27.1")
     implementation("io.hotmoka:toml4j:0.7.3")
-    implementation("com.mysql:mysql-connector-j:9.0.0")
-    implementation("com.zaxxer:HikariCP:5.1.0")
-    implementation("org.postgresql:postgresql:42.7.3")
-    implementation("org.apache.logging.log4j:log4j-core:2.23.1")
-    implementation("org.apache.ant:ant:1.10.14")
+    implementation("com.mysql:mysql-connector-j:9.3.0")
+    implementation("org.postgresql:postgresql:42.7.7")
+    implementation("com.zaxxer:HikariCP:6.3.0")
+    implementation("org.apache.logging.log4j:log4j-core:2.25.0")
+    implementation("org.apache.ant:ant:1.10.15")
     implementation("org.jctools:jctools-core:4.0.5")
-    implementation("io.github.classgraph:classgraph:4.8.174")
-    implementation("com.discord4j:discord4j-core:3.2.6")
-    implementation("it.unimi.dsi:fastutil:8.5.14")
-    implementation("net.dv8tion:JDA:5.0.1")
+    implementation("io.github.classgraph:classgraph:4.8.179")
+    implementation("com.discord4j:discord4j-core:3.2.8")
+    implementation("it.unimi.dsi:fastutil:8.5.15")
+    implementation("net.dv8tion:JDA:5.6.1")
     implementation("com.hankcs:aho-corasick-double-array-trie:1.2.3")
     implementation("org.mindrot:jbcrypt:0.4")
-    implementation("de.mkammerer:argon2-jvm:2.11")
+    implementation("de.mkammerer:argon2-jvm:2.12")
     implementation("net.openhft:affinity:3.23.3")
 }
 
