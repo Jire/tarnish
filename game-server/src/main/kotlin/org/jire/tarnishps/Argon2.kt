@@ -43,7 +43,6 @@ object Argon2 {
         Argon2Types.ARGON2d -> get2d()
         Argon2Types.ARGON2i -> get2i()
         Argon2Types.ARGON2id -> get2id()
-        else -> throw UnsupportedOperationException()
     }
 
     @JvmStatic
