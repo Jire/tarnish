@@ -2,6 +2,7 @@ package org.jire.tarnishps
 
 import io.netty.bootstrap.ServerBootstrap
 import io.netty.buffer.ByteBufAllocator
+import io.netty.buffer.PooledByteBufAllocator
 import io.netty.channel.ChannelOption
 import io.netty.channel.EventLoopGroup
 import io.netty.channel.IoHandlerFactory
@@ -26,7 +27,7 @@ import io.netty.channel.uring.IoUringServerSocketChannel
 class BootstrapFactory
 @JvmOverloads
 constructor(
-    private val alloc: ByteBufAllocator = ByteBufAllocator.DEFAULT,
+    private val alloc: ByteBufAllocator = PooledByteBufAllocator.DEFAULT,
 ) {
 
     /**
