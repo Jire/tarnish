@@ -1,26 +1,33 @@
 package org.jire.tarnishps
 
+import java.util.concurrent.locks.LockSupport
+
 /**
  * @author Jire
  */
 object Threads {
 
+    @JvmStatic
+    @JvmOverloads
     fun preciseSleep(
         totalNanos: Long,
-        targetBusyWaitingNanos: Long = 100_000_000
+        busyWaitNanos: Long = 1_000_000 // 1ms of busy-waiting
     ) {
-        val startTime = System.nanoTime()
+        val start = System.nanoTime()
+        val sleepUntil = start + totalNanos - busyWaitNanos
 
-        // sleeping
-        val sleepNanos = totalNanos - targetBusyWaitingNanos - 1_000_000 // extra millisecond because sleep expected
-        if (sleepNanos > 0) {
-            while (System.nanoTime() - startTime < sleepNanos) {
-                Thread.sleep(0)
+        // Phase 1: Passive sleep (park)
+        while (System.nanoTime() < sleepUntil) {
+            val remaining = sleepUntil - System.nanoTime()
+            if (remaining > 1_000_000) {
+                LockSupport.parkNanos(remaining - 500_000) // sleep with 0.5ms headroom
+            } else {
+                Thread.yield() // let scheduler breathe
             }
         }
 
-        // busy-waiting
-        while (System.nanoTime() - startTime < totalNanos) {
+        // Phase 2: Spin-wait for precision
+        while (System.nanoTime() - start < totalNanos) {
             Thread.onSpinWait()
         }
     }

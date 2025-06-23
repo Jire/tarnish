@@ -48,7 +48,8 @@ dependencies {
     implementation("com.hankcs:aho-corasick-double-array-trie:1.2.3")
     implementation("org.mindrot:jbcrypt:0.4")
     implementation("de.mkammerer:argon2-jvm:2.12")
-    implementation("net.openhft:affinity:3.23.3")
+    implementation("net.openhft:affinity:3.27ea0")
+    implementation("net.openhft:chronicle-threads:2.27ea0")
 }
 
 sourceSets.named("main") {

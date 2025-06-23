@@ -1,6 +1,7 @@
 package org.jire.tarnishps
 
 import net.openhft.affinity.AffinityLock
+import net.openhft.affinity.CpuLayout
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 
@@ -11,16 +12,24 @@ import org.slf4j.LoggerFactory
  *
  * @property cycleNanos Interval of a cycle in nanoseconds.
  * @property minSleepNanos The minimum amount of nanoseconds to consider actually sleeping the thread.
+ * @property priority Thread priority.
+ * @property layout CPU layout.
  * @property targetCpuId Target CPU ID, starting at 0. Hyper-threads are considered CPUs.
  */
 abstract class MainThread
 @JvmOverloads
 constructor(
     name: String,
+
     private val cycleNanos: Long = 600 * 1000 * 1000, // 600ms
     private val minSleepNanos: Long = 1 * 1000 * 1000, // 1ms
-    private val targetCpuId: Int = 0,
+
     priority: Int = MAX_PRIORITY,
+
+    layout: CpuLayout = AffinityLock.cpuLayout(),
+    private val targetCpuId: Int = (layout.cpus() - 1 downTo 0)
+        .firstOrNull { layout.threadId(it) == 0 } // pick only physical cores
+        ?: 0 // fallback to CPU 0
 ) : Thread(name) {
 
     @Volatile
@@ -38,15 +47,12 @@ constructor(
     abstract fun cycle()
 
     override fun run() {
-        var affinityLock: AffinityLock? = null
-        // only acquire lock if we have at least 2 processors (threads)
-        if (System.getProperty("os.arch") != "aarch64" && Runtime.getRuntime().availableProcessors() > 1) {
-            try {
-                affinityLock = AffinityLock.acquireLock(targetCpuId)
-            } catch (e: Exception) {
-                logger.error("Failed to acquire affinity lock", e)
-            }
-        }
+        val affinityLock: AffinityLock? =
+            // only acquire lock if we have at least 2 processors (threads)
+            if (System.getProperty("os.arch") != "aarch64" && Runtime.getRuntime().availableProcessors() > 1) {
+                logger.debug("Locking main thread to CPU ID {}", targetCpuId)
+                AffinityLock.acquireLock(targetCpuId)
+            } else null
         try {
             running = true
             while (running && !interrupted()) {
